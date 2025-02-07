@@ -13,104 +13,118 @@ def load_json(file_path):
     return data
 
 def process_json_data(data):
-    """Processa os dados extraindo colunas diretas e adiciona métricas calculadas."""
+    """
+    Processa os dados extraindo colunas diretas e adiciona métricas calculadas,
+    consolidando todas as actions em apenas UMA linha por anúncio/conjunto (data).
+    Agora a coluna 'gasto' foi renomeada para 'investimento'.
+    Inclui novos tipos de ação: onsite_conversion.lead_grouped e
+    onsite_conversion.messaging_conversation_started_7d.
+    """
     processed_data = []
     
+    # Percorre o array principal
     for block in data:
-        if "data" in block:
-            for ad in block["data"]:
-                adset_id = str(ad.get("adset_id"))
-                adset_name = ad.get("adset_name", "Desconhecido")
-                date_start = ad.get("date_start")
-                date_stop = ad.get("date_stop")
-                impressions = int(ad.get("impressions", 0))
-                reach = int(ad.get("reach", 0))
-                spend = float(ad.get("spend", 0.0))
+        # Verifica se há dados ("data") no bloco
+        if "data" not in block:
+            continue
+        
+        # Percorre cada anúncio (ad) dentro de block["data"]
+        for ad in block["data"]:
+            adset_id = str(ad.get("adset_id"))
+            adset_name = ad.get("adset_name", "Desconhecido")
+            date_start = ad.get("date_start")
+            date_stop = ad.get("date_stop")
+            impressions = int(ad.get("impressions", 0))
+            reach = int(ad.get("reach", 0))
+            
+            # 'investimento' em vez de 'gasto'
+            investimento = float(ad.get("spend", 0.0))
+            
+            # Inicializa variáveis de ação
+            clicks = 0
+            engagements = 0
+            leads = 0
+            messaging_conversation_started = 0
+            custom_conversion = 0
+            
+            # Novas métricas (agrupadas)
+            onsite_conversion_lead_grouped = 0
+            onsite_conversion_messaging_conversation_started_7d = 0
+            
+            # Se existirem ações, somamos os valores
+            if "actions" in ad:
+                for action in ad["actions"]:
+                    action_type = action.get("action_type")
+                    value = int(action.get("value", 0))
+                    
+                    if action_type == "link_click":
+                        clicks += value
+                    elif action_type == "post_engagement":
+                        engagements += value
+                    elif action_type == "lead":
+                        leads += value
+                    elif action_type == "messaging_conversation_started":
+                        messaging_conversation_started += value
+                    elif action_type == "custom_conversion":
+                        custom_conversion += value
+                    
+                    # Novos tipos de ação
+                    elif action_type == "onsite_conversion.lead_grouped":
+                        onsite_conversion_lead_grouped += value
+                    elif action_type == "onsite_conversion.messaging_conversation_started_7d":
+                        onsite_conversion_messaging_conversation_started_7d += value
+            
+            # Cálculo de métricas derivadas
+            CTR = round((clicks / impressions) * 100, 2) if impressions else 0
+            CPL = round(investimento / leads, 2) if leads else 0
+            ROI = round((leads * 100) / investimento, 2) if investimento else 0
+            CPC = round(investimento / clicks, 2) if clicks else 0
+            CR = round((leads / clicks) * 100, 2) if clicks else 0
+            
+            # Se você ainda quiser manter o custo por mensagens do "messaging_conversation_started" original:
+            custo_por_mensagens = round(investimento / messaging_conversation_started, 2) if messaging_conversation_started else 0
+            
+            # Para os novos tipos de ação:
+            custo_por_cadastro = round(investimento / onsite_conversion_lead_grouped, 2) if onsite_conversion_lead_grouped else 0
+            custo_por_conversa_iniciada = round(
+                investimento / onsite_conversion_messaging_conversation_started_7d, 2
+            ) if onsite_conversion_messaging_conversation_started_7d else 0
+            
+            # Para a conversão personalizada
+            custo_por_conversao_personalizada = round(investimento / custom_conversion, 2) if custom_conversion else 0
+            
+            # Cria UM registro consolidado para este anúncio
+            processed_data.append({
+                "id_conjunto": adset_id,
+                "nome_conjunto": adset_name,
+                "data_inicio": date_start,
+                "data_fim": date_stop,
+                "impressoes": impressions,
+                "alcance": reach,
+                "investimento": investimento,
                 
-                # Inicializa métricas calculadas
-                clicks = 0
-                engagements = 0
-                leads = 0
-                messaging_conversation_started = 0
-                custom_conversion = 0
+                # Métricas de ação antigas
+                "cliques": clicks,
+                "engajamentos": engagements,
+                "leads": leads,
+                "conversas_mensagens": messaging_conversation_started,
+                "conversao_personalizada": custom_conversion,
                 
-                # Verifica se existem ações e cria uma linha para cada action_type
-                if "actions" in ad:
-                    for action in ad["actions"]:
-                        action_type = action.get("action_type")
-                        value = int(action.get("value", 0))
-                        
-                        if action_type == "link_click":
-                            clicks += value
-                        elif action_type == "post_engagement":
-                            engagements += value
-                        elif action_type == "lead":
-                            leads += value
-                        elif action_type == "messaging_conversation_started":
-                            messaging_conversation_started += value
-                        elif action_type == "custom_conversion":
-                            custom_conversion += value
-                        
-                        # Calcula métricas derivadas
-                        CTR = round((clicks / impressions) * 100 if impressions > 0 else 0, 2)
-                        CPL = round(spend / leads if leads > 0 else 0, 2)
-                        ROI = round((leads * 100) / spend if spend > 0 else 0, 2)
-                        CPC = round(spend / clicks if clicks > 0 else 0, 2)
-                        CPA = round(spend / leads if leads > 0 else 0, 2)
-                        CR = round((leads / clicks) * 100 if clicks > 0 else 0, 2)
-                        cost_per_messaging_conversation = round(spend / messaging_conversation_started if messaging_conversation_started > 0 else 0, 2)
-                        cost_per_custom_conversion = round(spend / custom_conversion if custom_conversion > 0 else 0, 2)
-                        
-                        processed_data.append({
-                            "adset_id": adset_id,
-                            "adset_name": adset_name,
-                            "date_start": date_start,
-                            "date_stop": date_stop,
-                            "impressions": impressions,
-                            "reach": reach,
-                            "spend": spend,
-                            "action_type": action_type,
-                            "value": value,
-                            "clicks": clicks,
-                            "engagements": engagements,
-                            "leads": leads,
-                            "messaging_conversation_started": messaging_conversation_started,
-                            "custom_conversion": custom_conversion,
-                            "CTR": CTR,
-                            "CPL": CPL,
-                            "ROI": ROI,
-                            "CPC": CPC,
-                            "CPA": CPA,
-                            "CR": CR,
-                            "cost_per_messaging_conversation": cost_per_messaging_conversation,
-                            "cost_per_custom_conversion": cost_per_custom_conversion
-                        })
-                else:
-                    # Caso não existam ações, cria uma linha sem action_type e sem métricas calculadas
-                    processed_data.append({
-                        "adset_id": adset_id,
-                        "adset_name": adset_name,
-                        "date_start": date_start,
-                        "date_stop": date_stop,
-                        "impressions": impressions,
-                        "reach": reach,
-                        "spend": spend,
-                        "action_type": None,
-                        "value": 0,
-                        "clicks": clicks,
-                        "engagements": engagements,
-                        "leads": leads,
-                        "messaging_conversation_started": messaging_conversation_started,
-                        "custom_conversion": custom_conversion,
-                        "CTR": 0,
-                        "CPL": 0,
-                        "ROI": 0,
-                        "CPC": 0,
-                        "CPA": 0,
-                        "CR": 0,
-                        "cost_per_messaging_conversation": 0,
-                        "cost_per_custom_conversion": 0
-                    })
+                # Novas colunas (dos novos tipos de ação)
+                "cadastro_meta": onsite_conversion_lead_grouped,
+                "conversas_iniciadas": onsite_conversion_messaging_conversation_started_7d,
+                
+                # Métricas derivadas
+                "CTR": CTR,
+                "CPL": CPL,
+                "ROI": ROI,
+                "CPC": CPC,
+                "CR": CR,
+                "custo_por_mensagens": custo_por_mensagens,
+                "custo_por_cadastro": custo_por_cadastro,
+                "custo_por_conversa_iniciada": custo_por_conversa_iniciada,
+                "custo_por_conversao_personalizada": custo_por_conversao_personalizada
+            })
     
     return processed_data
 
@@ -121,7 +135,15 @@ def create_dataframe(processed_data):
 
 if __name__ == "__main__":
     input_file = "insights2224.json"
+    
+    # 1. Carrega o JSON
     raw_data = load_json(input_file)
+    
+    # 2. Processa e consolida as métricas
     processed_data = process_json_data(raw_data)
+    
+    # 3. Cria o DataFrame final
     df = create_dataframe(processed_data)
+    
+    # Exemplo de saída no console
     print(df.head())
