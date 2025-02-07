@@ -1,0 +1,22 @@
+CREATE TABLE IF NOT EXISTS ads_data (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id_conjunto TEXT,
+    nome_conjunto TEXT,
+    data_inicio TEXT,
+    data_fim TEXT,
+    impressoes INTEGER,
+    alcance INTEGER,
+    investimento REAL,
+    cliques INTEGER,
+    engajamentos INTEGER,
+    leads INTEGER,
+    conversas_mensagens INTEGER,
+    conversao_personalizada INTEGER,
+    CTR REAL,
+    CPL REAL,
+    ROI REAL,
+    CPC REAL,
+    CR REAL,
+    custo_por_mensagens REAL,
+    custo_por_conversao_personalizada REAL
+);
