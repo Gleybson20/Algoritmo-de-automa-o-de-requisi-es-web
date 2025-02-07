@@ -16,3 +16,4 @@ df = pd.DataFrame(processed_data)
 df.to_excel(output_file, index=False)
 
 print(f"Processamento concluído e planilha gerada: {output_file}")
+ 

@@ -134,7 +134,7 @@ def create_dataframe(processed_data):
     return df
 
 if __name__ == "__main__":
-    input_file = "insights2224.json"
+    input_file = "341867950349467_insights2224.json"
     
     # 1. Carrega o JSON
     raw_data = load_json(input_file)

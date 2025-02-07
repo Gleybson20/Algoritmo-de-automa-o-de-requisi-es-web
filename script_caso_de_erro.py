@@ -6,8 +6,8 @@ def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
     account_id = "341867950349467"
     url_inicial = (
-        "https://graph.facebook.com/v22.0/act_341867950349467/insights?time_increment=1&time_range=%7B%22since%22%3A%222022-06-01%22%2C%22until%22%3A%222024-31-12%22%7D&level=ad&fields=impressions%2C%20account_id%2Creach%2Cspend%2Cadset_id%2Cadset_name%2Cad_id%2Cad_name%2Cactions&action_breakdowns=action_type&access_token=EAARvDNZAUYcEBOZC3TTtos00gJdiU0QaM7ZAieXPLPjkRnMlLCeBUsXUx170yOzgc0q6WwWl1RncKlVB4bWYNxRouZCQpgom9nnL906QB92M0xch2YnwDxMKX9y4kx5mc3oqUZBOhpyrNJ2kagptDbdSu6sjdm0QRhKadRJFnoL94aQrMjQZA5c1nkNjFxJNFz6bIfcqHgVvPh66XZCYnrHYlFZAiAZDZD&limit=25&after=MzAxNzQxNDQ3NzY0MjQ2NTI4MQZDZD" # Alterar AQUI com o último After ID que aparecer na URL em que a requisição deu erro
-    ).format(account_id=account_id)
+        "https://graph.facebook.com/v22.0/act_341867950349467/insights?time_increment=1&time_range={since:2022-06-01,until:2024-12-31}&%20level=ad&%20fields=impressions,account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&%20action_breakdowns=action_type&access_token=EAARvDNZAUYcEBO1iqEkZB21hD1TemOA6tpwjvcjXnZBk4UJjhHpzeger6J0H1QIha3RvZBjFWmVSFcqCEWRlbyR3Iav3NxVLVPlcRQ8ZChQmqpnpo00dCE9Qd9HNd8tZB8GCHqg2jhvqtassrYxO9dHSXLOIVTIdYWLSb05h8W0J8zwBfScLS7o1FXEoSreU23uu22Y8gV" # Alterar AQUI com o último After ID que aparecer na URL em que a requisição deu erro
+    )
 
     # Lista para armazenar todos os registros de todas as páginas
     todos_os_dados = []

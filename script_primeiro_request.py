@@ -1,13 +1,28 @@
 import time
 import requests
 import json
+import urllib.parse  # Import necessário para formatar corretamente a URL
 
 def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
     account_id = "341867950349467"
+    
+    # Definição do time_range no formato correto
+    time_range = json.dumps({"since": "2022-06-01", "until": "2024-12-31"})
+    
+    # Codificação correta do time_range para a URL
+    encoded_time_range = urllib.parse.quote(time_range)
+    
+    # Construção da URL corrigida
     url_inicial = (
-    "https://graph.facebook.com/v22.0/act_341867950349467/insights?time_increment=1&time_range=%7B%22since%22%3A%222022-06-01%22%2C%22until%22%3A%222024-31-12%22%7D&level=ad&fields=impressions%2C%20account_id%2Creach%2Cspend%2Cadset_id%2Cadset_name%2Cad_id%2Cad_name%2Cactions&action_breakdowns=action_type&access_token=EAARvDNZAUYcEBOzzIJH74wVjBgNOdtt27W4ZCka0XH015FWzvwyRlnOt960GgOzjIUPA2FaitzJCOPBadC05VXy3jcPKTxiggw330tObSHZBTKfvQJ3slZA4GMtrlWEyoQELWd5e0Ynum6y5sOjJ6qsCCAezMxWot7d3YJRHWrpf9Cik0yM6LyPJOJ3zc6tpDrDAF5VOiyzkKi0YhYSOzbAcHwZDZD"
-    ).format(account_id=account_id)
+        f"https://graph.facebook.com/v22.0/act_{account_id}/insights"
+        f"?time_increment=1"
+        f"&time_range={encoded_time_range}"
+        f"&level=ad"
+        f"&fields=impressions,account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions"
+        f"&action_breakdowns=action_type"
+        f"&access_token=EAARvDNZAUYcEBO1iqEkZB21hD1TemOA6tpwjvcjXnZBk4UJjhHpzeger6J0H1QIha3RvZBjFWmVSFcqCEWRlbyR3Iav3NxVLVPlcRQ8ZChQmqpnpo00dCE9Qd9HNd8tZB8GCHqg2jhvqtassrYxO9dHSXLOIVTIdYWLSb05h8W0J8zwBfScLS7o1FXEoSreU23uu22Y8gV"
+    )
 
     # Lista para armazenar todos os registros de todas as páginas
     todos_os_dados = []
@@ -28,8 +43,7 @@ def fetch_all_insights():
         dados = resposta.json()
 
         # Armazena a lista de dados da página atual
-        # O campo "data" é onde o Facebook Ads Insights retorna as informações
-        if "data" in dados:
+        if "data" in dados and isinstance(dados["data"], list):
             # Se "data" for uma lista, adicionamos todos
             todos_os_dados.extend(dados["data"])
         else:
@@ -37,25 +51,21 @@ def fetch_all_insights():
             break
 
         # Verifica se existe a próxima página
-        # Normalmente, a estrutura é "paging": { "next": "...url..." }
         if "paging" in dados and "next" in dados["paging"]:
             url_atual = dados["paging"]["next"]
             
             # Espera 5 ms (0.005 segundos) para evitar problemas de rate limit
             time.sleep(0.005)
         else:
-            # Não há próxima página, então finaliza o loop
-            url_atual = None
+            url_atual = None  # Finaliza o loop
 
     # Salva todos os dados em um único arquivo JSON
     nome_arquivo = f"{account_id}_insights2224_parte1.json"
     with open(nome_arquivo, "w", encoding="utf-8") as f:
         json.dump(todos_os_dados, f, indent=4, ensure_ascii=False)
 
-    print(f"Todos os dados foram salvos em '{nome_arquivo}'")
+    print(f"✅ Todos os dados foram salvos em '{nome_arquivo}'")
 
 # Se preferir, chame a função diretamente ao rodar o script
 if __name__ == "__main__":
     fetch_all_insights()
-
-
