@@ -4,9 +4,9 @@ import json
 
 def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
-    account_id = "341867950349467"
+    account_id = "433757391083398"
     url_inicial = (
-        "https://graph.facebook.com/v22.0/act_341867950349467/insights?time_increment=1&time_range={since:2022-06-01,until:2024-12-31}&%20level=ad&%20fields=impressions,account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&%20action_breakdowns=action_type&access_token=EAARvDNZAUYcEBO1iqEkZB21hD1TemOA6tpwjvcjXnZBk4UJjhHpzeger6J0H1QIha3RvZBjFWmVSFcqCEWRlbyR3Iav3NxVLVPlcRQ8ZChQmqpnpo00dCE9Qd9HNd8tZB8GCHqg2jhvqtassrYxO9dHSXLOIVTIdYWLSb05h8W0J8zwBfScLS7o1FXEoSreU23uu22Y8gV" # Alterar AQUI com o último After ID que aparecer na URL em que a requisição deu erro
+        "https://graph.facebook.com/v22.0/act_433757391083398/insights?time_increment=1&time_range=%7B%22since%22%3A%20%222022-09-01%22%2C%20%22until%22%3A%20%222022-11-31%22%7D&level=ad&fields=impressions,%20account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type&access_token=EAAWU1dRzrNUBOyJlqdtCfFWs3shoFHt7KqK89aRaQXQNxcnwYrTZCkHeEr9g8QsOz6RXL47XX7A7BOngTbgNQCTkd7IKyZBZAdiEC6AjpfX6ZAT2KgBMuByu7LZBZAnFBhFkihzJZCNpA8HKMhIwZBrhF4izEuhyKhVMZBaRLxiNZCIN54PRgheAl2k3JJZCNA2YJhZCIiAitbV9ZAKU8D8MFA4HukS8ZAPQZDZD&limit=25&after=MjQZD"
     )
 
     # Lista para armazenar todos os registros de todas as páginas
@@ -48,7 +48,7 @@ def fetch_all_insights():
             url_atual = None
 
     # Salva todos os dados em um único arquivo JSON
-    nome_arquivo = f"{account_id}_insights2224_parte2.json"
+    nome_arquivo = f"{account_id}_insights2224_parte4.json"
     with open(nome_arquivo, "w", encoding="utf-8") as f:
         json.dump(todos_os_dados, f, indent=4, ensure_ascii=False)
 

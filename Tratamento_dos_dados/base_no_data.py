@@ -123,7 +123,7 @@ def create_dataframe(processed_data):
 
 # Se rodar diretamente este arquivo, gera o excel também (opcional).
 if __name__ == "__main__":
-    input_file = "341867950349467_insights2224_parte1.json"
+    input_file = "413233799949309_insights2224.json"
     
     # Carrega dados em JSON
     raw_data = load_json(input_file)
@@ -135,10 +135,7 @@ if __name__ == "__main__":
     df = create_dataframe(processed_data)
 
     # Salva em Excel sem índices
-    output_file = "processed_data_caxangá.xlsx"
+    output_file = "processed_data_serra_talhada.xlsx"
     df.to_excel(output_file, index=False)
 
     print(f"Planilha gerada e salva em: {output_file}")
-
-
-#341867950349467_insights2224_parte1.json

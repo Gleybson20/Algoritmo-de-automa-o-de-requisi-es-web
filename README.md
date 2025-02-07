@@ -1,88 +1,167 @@
-# Tratamento-de-Dados-Ser-Educacional-2Tratamento de Dados - Ser Educacional
+# 📊 Tratamento de Dados - Ser Educacional  
 
-📌 Visão Geral
+## 📌 Visão Geral
+Este projeto tem como objetivo **extrair, tratar e analisar dados de campanhas publicitárias** do **Meta Ads API**, processá-los e gerar **relatórios consolidados no formato Excel**.  
 
-Este projeto tem como objetivo tratar e analisar dados de campanhas publicitárias, extraídos de arquivos JSON, e gerar relatórios consolidados no formato Excel. A solução processa os dados, calcula métricas relevantes e organiza as informações de forma estruturada.
+A solução permite automatizar o tratamento dos dados, calcular métricas de desempenho e consolidar informações de forma estruturada, facilitando a análise e a tomada de decisões.  
 
-🎯 Objetivo do Projeto
+---
 
-O sistema permite:
+## 🎯 Objetivos do Projeto  
 
-Carregar arquivos JSON com informações de campanhas.
+✔ **Carregar arquivos JSON** contendo informações de campanhas publicitárias.  
+✔ **Processar os dados**, extraindo métricas como **impressões, alcance, gastos e interações**.  
+✔ **Gerar relatórios** detalhados no formato **Excel**.  
+✔ **Realizar requisições automáticas** à API do Meta Ads.  
+✔ **Mesclar múltiplos arquivos JSON** em um único dataset consolidado.  
 
-Processar os dados extraindo métricas como impressões, alcance, gastos e interações.
+---
 
-Gerar relatórios detalhados no formato Excel para facilitar a análise e tomada de decisão.
+## 🛠️ Tecnologias Utilizadas  
 
-Mesclar múltiplos arquivos JSON em um único dataset consolidado.
+| Tecnologia | Descrição |
+|------------|--------------------------------|
+| **Python** | Linguagem principal do projeto |
+| **pandas** | Processamento e análise de dados |
+| **requests** | Conexão com a API do Meta Ads |
+| **json** | Manipulação de arquivos JSON |
+| **SQLite** | Armazenamento de dados estruturados (se necessário) |
+| **Excel (.xlsx)** | Exportação dos dados tratados |
 
-🛠️ Tecnologias Utilizadas
+---
 
-Python (pandas, json)
+# 📁 Estrutura do Projeto - Tratamento de Dados
 
-SQLite (para armazenamento de dados estruturados, se necessário)
+````md
+📂 TRATAMENTO-DE-DADOS-SER-EDUCACIONAL-2  
+├── 📂 Tratamento_dos_dados
+│   ├── 📄 341867950349467_insights2224_parte1.json  
+│   ├── 📄 652220095673691_insights2224.json  
+│   ├── 📄 729097561227405_insights_completo.json  
+│   ├── 🗄️ ads_database.db  
+│   ├── 🗄️ ads_database.sql  
+│   ├── 📜 main.py  
+│   ├── 📜 main_no_data.py  
+│   ├── 📜 base_no_data.py  
+│   ├── 📜 database.py  
+│  
+├── 📂 scripts  
+│   ├── 📜 script_caso_de_erro.py  
+│   ├── 📜 script_dados_mesclados.py  
+│   ├── 📜 script_primeiro_request.py  
+│   ├── 📜 script_todo_dia.py  
+│   ├── 📜 scriptunico.py  
+│  
+├── 📂 naoperder  
+│   ├── 📊 processed_data_caruaru.xlsx  
+│   ├── 📊 processed_data_caxangá.xlsx  
+│   ├── 📊 processed_data_paulista.xlsx  
+│  
+├── 📂 venv  
+│  
+└── 📄 README.md  
+````
 
-Excel (para exportação dos dados tratados)
+---
 
-📂 Estrutura do Projeto
+## 📊 **Fluxo do Projeto**  
+Abaixo está um diagrama ilustrando o funcionamento do projeto:  
 
-Tratamento-de-Dados-Ser-Educacional-2/
-│── 264383791293755_insights2224.json    # Exemplo de arquivo JSON de entrada
-│── ads_databa.sql                        # Script de banco de dados
-│── base_no_data.py                       # Código de processamento sem dados
-│── database.py                           # Funções de manipulação de JSON
-│── main.py                               # Script principal para processamento
-│── mergejson.py                          # Mescla múltiplos arquivos JSON
-│── processed_data.xlsx                    # Dados processados (exportação)
-│── processed_data_olinda.xlsx             # Variante de exportação
+```mermaid
+graph TD;
+    A[Requisição de Dados da API Meta Ads] -->|JSON| B[Processamento dos Dados]
+    B -->|Tratamento e Limpeza| C[Análise de Métricas]
+    C -->|Cálculo de KPIs| D[Geração de Relatórios Excel]
+    D -->|Exportação| E[Usuário Final]
+    C -->|Armazenamento| F[Base de Dados SQLite]
+```
 
-🚀 Como Usar
+# 🚀 Uso do Projeto
 
-1️⃣ Pré-requisitos
+## 📌 Pré-requisitos
+Antes de começar, instale as bibliotecas necessárias:
+```bash
+pip install pandas requests openpyxl
+```
 
-Certifique-se de ter Python instalado e as bibliotecas necessárias:
+## 📊 Processamento de Dados
+Para executar o processamento de um arquivo JSON e exportar para Excel, utilize o seguinte comando:
+```bash
+python scripts/main.py
+```
+📌 Isso irá carregar os dados do JSON, processá-los e gerar um arquivo `processed_data.xlsx` com os resultados.
 
-pip install pandas
+## 🔄 Mesclar Arquivos JSON
+Caso tenha múltiplos arquivos JSON para consolidar, utilize:
+```bash
+python scripts/mergejson.py
+```
+📌 Isso criará um único arquivo JSON consolidado com todas as informações dos arquivos existentes.
 
-2️⃣ Processar Dados
+---
 
-Para executar o processamento de um arquivo JSON e exportar para Excel, use:
+# 📈 Métricas Calculadas
+| **Métrica**                | **Descrição**                                        |
+|----------------------------|----------------------------------------------------|
+| 📊 **Impressões**          | Quantidade de exibições do anúncio                 |
+| 👥 **Alcance**             | Número de usuários únicos alcançados              |
+| 💰 **Gastos**              | Valor investido na campanha                        |
+| 🖱️ **Cliques**            | Número de cliques nos anúncios                     |
+| 🔄 **Engajamentos**        | Interações como curtidas e compartilhamentos       |
+| 🎯 **Leads**               | Quantidade de contatos gerados                     |
+| 📈 **CTR (Click-Through Rate)** | Taxa de cliques sobre impressões           |
+| 💵 **CPL (Custo por Lead)** | Custo médio por lead gerado                        |
 
-python main.py
+---
 
-Isso irá carregar os dados do JSON, processá-los e gerar um arquivo processed_data.xlsx com os resultados.
+# 📡 Configuração do Meta Ads API
 
-3️⃣ Mesclar Arquivos JSON
+## 🔑 Passos para configurar a API:
+1️⃣ **Configure sua chave de acesso do Meta Ads**:
+```bash
+export META_ACCESS_TOKEN="SEU_TOKEN_AQUI"  # Linux/macOS
+$env:META_ACCESS_TOKEN="SEU_TOKEN_AQUI"   # Windows PowerShell
+```
 
-Caso tenha múltiplos arquivos JSON para consolidar, use:
+2️⃣ **Execute o script para baixar os insights das campanhas**:
+```bash
+python scripts/fetch_all_insights.py
+```
 
-python mergejson.py
+3️⃣ **O arquivo JSON com os dados será salvo automaticamente na pasta `/data`.**
 
-Isso criará um único arquivo JSON consolidado com todas as informações dos arquivos existentes.
+---
 
-📊 Métricas Calculadas
+# 🛠️ Possíveis Erros e Soluções
 
-O sistema processa os seguintes dados:
+### ❌ Erro: `FileNotFoundError`
+**Causa:** O arquivo JSON gerado ainda não existe ou está salvo em um local diferente.  
+✅ **Solução:** Certifique-se de rodar primeiro o script `fetch_all_insights.py` antes de rodar `main.py`.
 
-Impressões (quantidade de exibições do anúncio)
+### ❌ Erro: `UnicodeDecodeError` ao abrir o JSON
+**Causa:** O arquivo pode estar corrompido ou salvo com uma codificação errada.  
+✅ **Solução:** Abra o JSON com `utf-8` explicitamente no código:
+```python
+with open("arquivo.json", "r", encoding="utf-8") as f:
+```
 
-Alcance (número de usuários únicos alcançados)
+### ❌ Erro: API retornando lista vazia
+**Causa:** O `time_range` pode estar mal formatado ou a API não está retornando dados.  
+✅ **Solução:** Utilize `json.dumps()` corretamente ao definir `time_range`:
+```python
+"time_range": json.dumps({"since": "2022-06-01", "until": "2024-12-31"})
+```
 
-Gastos (valor investido na campanha)
+---
 
-Cliques (número de cliques nos anúncios)
+# 🤝 Contribuições
+1️⃣ **Faça um fork** do repositório.  
+2️⃣ **Crie uma branch** para sua funcionalidade ou correção.  
+3️⃣ **Envie um Pull Request**, explicando as mudanças realizadas.  
 
-Engajamentos (interações como curtidas e compartilhamentos)
+---
 
-Leads (quantidade de contatos gerados)
+# 📜 Licença
+Este projeto é de código aberto e distribuído sob a **Licença MIT**.
 
-CTR (Click-Through Rate): Taxa de cliques sobre impressões
-
-CPL (Custo por Lead): Custo médio por lead gerado
-
-📌 Contribuições
-
-Caso queira contribuir para melhorias no projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-🚀 Este projeto foi desenvolvido para otimizar a análise de dados publicitários e facilitar a tomada de decisão com relatórios estruturados.
-
+---
