@@ -153,15 +153,3 @@ with open("arquivo.json", "r", encoding="utf-8") as f:
 ```
 
 ---
-
-# 🤝 Contribuições
-1️⃣ **Faça um fork** do repositório.  
-2️⃣ **Crie uma branch** para sua funcionalidade ou correção.  
-3️⃣ **Envie um Pull Request**, explicando as mudanças realizadas.  
-
----
-
-# 📜 Licença
-Este projeto é de código aberto e distribuído sob a **Licença MIT**.
-
----
