@@ -35,7 +35,6 @@ def process_json_data(raw_data):
 
         cliques = 0
         leads = 0
-        conversas_mensagens = 0
         cadastro_meta = 0
         conversas_iniciadas = 0
 
@@ -48,15 +47,10 @@ def process_json_data(raw_data):
                     cliques += value
                 elif action_type == "lead":
                     leads += value
-                elif action_type == "messaging_conversation_started":
-                    conversas_mensagens += value
                 elif action_type == "onsite_conversion.lead_grouped":
                     cadastro_meta += value
                 elif action_type == "onsite_conversion.messaging_conversation_started_7d":
                     conversas_iniciadas += value
-
-        custo_por_mensagens = round(investimento / conversas_mensagens, 2) if conversas_mensagens else 0
-        custo_por_conversa_iniciada = round(investimento / conversas_iniciadas, 2) if conversas_iniciadas else 0
 
         processed_data.append({
             "id_conta": id_conta,
@@ -68,11 +62,8 @@ def process_json_data(raw_data):
             "investimento": investimento,
             "cliques": cliques,
             "leads": leads,
-            "conversas_mensagens": conversas_mensagens,
             "cadastro_meta": cadastro_meta,
-            "conversas_iniciadas": conversas_iniciadas,
-            "custo_por_mensagens": custo_por_mensagens,
-            "custo_por_conversa_iniciada": custo_por_conversa_iniciada,
+            "conversas_iniciadas": conversas_iniciadas
         })
     return processed_data
 
@@ -82,7 +73,7 @@ def create_dataframe(processed_data):
     return df
 
 if __name__ == "__main__":
-    input_file = "413233799949309_insights2224.json"
+    input_file = "433757391083398_insights2224.json"
     raw_data = load_json(input_file)
     processed_data = process_json_data(raw_data)
     df = create_dataframe(processed_data)

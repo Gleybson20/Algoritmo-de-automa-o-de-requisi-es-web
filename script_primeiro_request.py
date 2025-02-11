@@ -5,10 +5,10 @@ import urllib.parse  # Import necessário para formatar corretamente a URL
 
 def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
-    account_id = "433757391083398"
+    account_id = "1213925972283556"
     
     # Definição do time_range no formato correto
-    time_range = json.dumps({"since": "2024-11-01", "until": "2024-12-31"})
+    time_range = json.dumps({"since": "2022-07-02", "until": "2022-08-31"})
     
     # Codificação correta do time_range para a URL
     encoded_time_range = urllib.parse.quote(time_range)
@@ -16,7 +16,7 @@ def fetch_all_insights():
     # Construção da URL corrigida
     url_inicial = (
         f"https://graph.facebook.com/v22.0/act_{account_id}/insights"
-        f"?time_increment=1&time_range={encoded_time_range}&level=ad&fields=impressions, account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type&access_token=EAAWU1dRzrNUBO0ZCc8hZB1UEFQeUtSO8epcxtd5UZCVtetl1uYpMYjgZAZAVtxyZAXasvoCfRTPWZBXjG5h9ooG6hIlEmZB2nMvJSCebQ85utm8oQoqCndn6S2DbmZBpK1QOfeDByjczwsTEgwcV9FFGwkd9wuZCgtKf4S1oU3EYd8cTafqWKNkmqbZCZBv3ok5o7dBxVDGrAP2RZCj5KjSceKRQvNepFpnxujY8rO9rZC"
+        f"?time_increment=1&time_range={encoded_time_range}&level=ad&fields=impressions,%20account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type&access_token=EAAWU1dRzrNUBO4vqX1cdzlreQLBACWIP6PLgrZCQB2XOYrX9EZA5q80DRZBLHkLKLmTW9Xf4WHc78cUkY3zQiYiYlbGPlUYx9yYEFP9XjkFa5DGO0EHHEiXkQ5DutNBhKHbZC55OmvkJH1bANnVvCG1DntGzBKUsxSRvYfcgmez2uA9ExH1iYQBboIvEwqlpgo8DkH663Gw9qmHSAIZC1tykYOAZDZD"
     )
 
     # Lista para armazenar todos os registros de todas as páginas
@@ -55,7 +55,7 @@ def fetch_all_insights():
             url_atual = None  # Finaliza o loop
 
     # Salva todos os dados em um único arquivo JSON
-    nome_arquivo = f"{account_id}_insights2224_parte1.json"
+    nome_arquivo = f"{account_id}_insights2224_parte2.json"
     with open(nome_arquivo, "w", encoding="utf-8") as f:
         json.dump(todos_os_dados, f, indent=4, ensure_ascii=False)
 
