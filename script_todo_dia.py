@@ -75,7 +75,7 @@ if __name__ == "__main__":
     # Caso tenha várias, repita para cada ID.
 
     # Defina seu token de acesso (Access Token do Meta)
-    ACCESS_TOKEN = "EAARvDNZAUYcEBO3NZAaSZCitSkateVWdaAO3YZARDhKNx4M2BAby4QGconCu6Ly30V12GG0kZB5fyFeDg5ZCYQsPZAhVx9CU3nwZCUKeIa4TZBAJFbwxZBUEZAZB3Xpjdae2dKQAZBZB8a9sudQyVZCMiBR7rARPZCi8iF28uR7TuZA7ZChjLd0SDVnwmnNntm3kq7sxezM4GiMW8sParhiutBSmfZCRYtZCYwmifQZDZD"
+    ACCESS_TOKEN = "EAAWU1dRzrNUBOw6G0Or2CxCBthZAhMHTnZAK8S0F6GGcUWkrTZB5mKVfKK9YCx2CATF1EybNhhuKZBsL19zDp7gUID7VmHfO5WWlQTjnOgWSosotAX8yZAoZCTI7L0DllqcYOrZC1WuinoMmIoMLXam4LjFKyrqRZB4Bzl9S2xry1fKArOiyXGlCFKmZCZAQjBiEYA23BEGSFYl0ljfV5cxLRqEzJD8OYE0eMqOUwZD"
 
     # Caso você tenha apenas UMA conta:
     # fetch_insights_yesterday("1234567890", ACCESS_TOKEN)

@@ -6,7 +6,7 @@ def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
     account_id = "433757391083398"
     url_inicial = (
-        "https://graph.facebook.com/v22.0/act_433757391083398/insights?time_increment=1&time_range=%7B%22since%22%3A%20%222022-09-01%22%2C%20%22until%22%3A%20%222022-11-31%22%7D&level=ad&fields=impressions,%20account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type&access_token=EAAWU1dRzrNUBOyJlqdtCfFWs3shoFHt7KqK89aRaQXQNxcnwYrTZCkHeEr9g8QsOz6RXL47XX7A7BOngTbgNQCTkd7IKyZBZAdiEC6AjpfX6ZAT2KgBMuByu7LZBZAnFBhFkihzJZCNpA8HKMhIwZBrhF4izEuhyKhVMZBaRLxiNZCIN54PRgheAl2k3JJZCNA2YJhZCIiAitbV9ZAKU8D8MFA4HukS8ZAPQZDZD&limit=25&after=MjQZD"
+        "https://graph.facebook.com/v22.0/act_433757391083398/insights?time_increment=1&time_range=%7B%22since%22%3A%20%222024-06-01%22%2C%20%22until%22%3A%20%222024-08-31%22%7D&level=ad&fields=impressions,%20account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type&access_token=EAAWU1dRzrNUBO0ZCc8hZB1UEFQeUtSO8epcxtd5UZCVtetl1uYpMYjgZAZAVtxyZAXasvoCfRTPWZBXjG5h9ooG6hIlEmZB2nMvJSCebQ85utm8oQoqCndn6S2DbmZBpK1QOfeDByjczwsTEgwcV9FFGwkd9wuZCgtKf4S1oU3EYd8cTafqWKNkmqbZCZBv3ok5o7dBxVDGrAP2RZCj5KjSceKRQvNepFpnxujY8rO9rZC&limit=25&after=MjQ5"
     )
 
     # Lista para armazenar todos os registros de todas as páginas
@@ -48,7 +48,7 @@ def fetch_all_insights():
             url_atual = None
 
     # Salva todos os dados em um único arquivo JSON
-    nome_arquivo = f"{account_id}_insights2224_parte4.json"
+    nome_arquivo = f"{account_id}_insights2224_parte6.json"
     with open(nome_arquivo, "w", encoding="utf-8") as f:
         json.dump(todos_os_dados, f, indent=4, ensure_ascii=False)
 
