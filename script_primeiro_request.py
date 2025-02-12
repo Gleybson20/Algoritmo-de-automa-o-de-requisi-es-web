@@ -5,10 +5,10 @@ import urllib.parse  # Import necessário para formatar corretamente a URL
 
 def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
-    account_id = "1213925972283556"
+    account_id = "369199774040680"
     
     # Definição do time_range no formato correto
-    time_range = json.dumps({"since": "2024-11-16", "until": "2024-12-31"})
+    time_range = json.dumps({"since": "2022-06-01", "until": "2022-07-31"})
     
     # Codificação correta do time_range para a URL
     encoded_time_range = urllib.parse.quote(time_range)
@@ -55,7 +55,7 @@ def fetch_all_insights():
             url_atual = None  # Finaliza o loop
 
     # Salva todos os dados em um único arquivo JSON
-    nome_arquivo = f"{account_id}_insights2224_parte8.json"
+    nome_arquivo = f"{account_id}_insights2224_parte1.json"
     with open(nome_arquivo, "w", encoding="utf-8") as f:
         json.dump(todos_os_dados, f, indent=4, ensure_ascii=False)
 

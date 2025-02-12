@@ -32,7 +32,7 @@ def criar_tabela():
         """)
 
         conn.commit()
-        print("✅ Tabela 'planilhas' criada com sucesso!")
+        print("✅ Tabela 'anuncios_excel' criada/atualizada com sucesso!")
 
         cursor.close()
         conn.close()
