@@ -5,10 +5,10 @@ import urllib.parse  # Import necessário para formatar corretamente a URL
 
 def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
-    account_id = "369199774040680"
+    account_id = "399378954300562"
     
     # Definição do time_range no formato correto
-    time_range = json.dumps({"since": "2022-06-01", "until": "2022-07-31"})
+    time_range = json.dumps({"since": "2023-01-01", "until": "2023-05-31"})
     
     # Codificação correta do time_range para a URL
     encoded_time_range = urllib.parse.quote(time_range)
@@ -16,7 +16,7 @@ def fetch_all_insights():
     # Construção da URL corrigida
     url_inicial = (
         f"https://graph.facebook.com/v22.0/act_{account_id}/insights"
-        f"?time_increment=1&time_range={encoded_time_range}&level=ad&fields=impressions,%20account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type&access_token=EAAWU1dRzrNUBOxJleckdPvIDBRZAVyV6hkKhxBlLFK1SXsLlv9VZBlQ1f2W6l77z8XEDoaPW57CgVpvoVDZAUGAJSlZCRPMEU6E4YZAfTVVxYXwd6oR6kUKLfkugWylZAUH1PaGRgvA1rfCsrrPHX72ljO3slwYjkYlCgIwcFeU1v9PSQ2FZCqak73ZBDPZALrJ5y5B7JIYdZCFE87gRCBM1UJe4A6GQZDZD"
+        f"?time_increment=1&time_range={encoded_time_range}&level=ad&fields=impressions,%20account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type&access_token=EAAWU1dRzrNUBO24juN7pURUFIt4C1zTYuFuhQCtnnV7DDlRLvMt7zJa2tFuTQoMLBQgWZBN2NWxjZBoXPSkYJcIHiZB9oZAnb0VloaMJvTWMHbv5nqkreZBmTq61pT7ec4hYdK8ODDKO9K6AVBhdES6hBztCuuczRLSYzFv1VZCCQQRcTfZAFZAdIiy84fuKAqB2dAWY1HvpOboWoHYBb40eDppZCxy8ZD"
     )
 
     # Lista para armazenar todos os registros de todas as páginas
@@ -55,7 +55,7 @@ def fetch_all_insights():
             url_atual = None  # Finaliza o loop
 
     # Salva todos os dados em um único arquivo JSON
-    nome_arquivo = f"{account_id}_insights2224_parte1.json"
+    nome_arquivo = f"{account_id}_insights2224_parte4.json"
     with open(nome_arquivo, "w", encoding="utf-8") as f:
         json.dump(todos_os_dados, f, indent=4, ensure_ascii=False)
 
