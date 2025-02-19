@@ -12,7 +12,7 @@ DB_CONFIG = {
 }
 
 # Definir a pasta onde os arquivos JSON estão localizados
-pasta_json = r"C:\Users\Pc1ac\Downloads\Tratamento-de-Dados-Ser-Educacional-2-main (1)\Tratamento-de-Dados-Ser-Educacional-2\JSON"
+pasta_json = r"C:\Users\Pc1ac\Downloads\Tratamento-de-Dados-Ser-Educacional-2-main (1)\Tratamento-de-Dados-Ser-Educacional-2\kjl"
 
 def importar_json():
     """Importa todos os arquivos JSON da pasta para o PostgreSQL"""
@@ -40,8 +40,7 @@ def importar_json():
                     nome_conjunto = entry.get("adset_name")
                     id_anuncio = entry.get("ad_id")
                     nome_anuncio = entry.get("ad_name")
-                    data_inicio = entry.get("date_start")
-                    data_fim = entry.get("date_stop")
+                    data = entry.get("date_start")
                     investimento = float(entry.get("spend", 0))  # Investimento
                     
                     # Inicializar métricas extraídas da lista de "actions"
@@ -64,7 +63,7 @@ def importar_json():
                     # Adicionar os dados para inserção em lote
                     dados_para_inserir.append((
                         id_conta, id_conjunto, nome_conjunto, id_anuncio, nome_anuncio,
-                        data_inicio, data_fim, investimento, cliques, leads,
+                        data, investimento, cliques, leads,
                         cadastro_meta, conversas_iniciadas
                     ))
 
@@ -74,8 +73,8 @@ def importar_json():
         cursor.executemany("""
             INSERT INTO anuncios_json (
                 id_conta, id_conjunto, nome_conjunto, id_anuncio, nome_anuncio,
-                data_inicio, data_fim, investimento, cliques, leads, cadastro_meta, conversas_iniciadas
-            ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                data, investimento, cliques, leads, cadastro_meta, conversas_iniciadas
+            ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         """, dados_para_inserir)
 
         conn.commit()

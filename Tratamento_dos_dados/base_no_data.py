@@ -73,10 +73,10 @@ def create_dataframe(processed_data):
     return df
 
 if __name__ == "__main__":
-    input_file = "1213925972283556_insights2224.json"
+    input_file = "1758023371040322_insights2224.json"
     raw_data = load_json(input_file)
     processed_data = process_json_data(raw_data)
     df = create_dataframe(processed_data)
-    output_file = "novo_processed_data_garanhus.xlsx"
+    output_file = "novo_processed_data_Marabá.xlsx"
     df.to_excel(output_file, index=False)
     print(f"Planilha gerada e salva em: {output_file}")
