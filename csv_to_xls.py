@@ -13,10 +13,10 @@ def converter_csv_para_xls(caminho_csv, caminho_xls):
         print(f"Erro ao converter o arquivo: {e}")
 
 # Caminho do arquivo CSV de entrada
-caminho_csv = r'C:\Users\Pc1ac\Downloads\Tratamento-de-Dados-Ser-Educacional-2-main (1)\Tratamento-de-Dados-Ser-Educacional-2\Tratamentos_banco_de_dados\metricas_mensais_10_unidades.csv'
+caminho_csv = r'C:\Users\Pc1ac\Downloads\Tratamento-de-Dados-Ser-Educacional-2-main (1)\Tratamento-de-Dados-Ser-Educacional-2\update_anuncios_json.csv'
 
 # Caminho do arquivo XLS de saída
-caminho_xls = 'metricas_mensais.xlsx'
+caminho_xls = 'anuncios_json_ser.xlsx'
 
 # Chamar a função para converter
 converter_csv_para_xls(caminho_csv, caminho_xls)
