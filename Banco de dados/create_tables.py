@@ -2,7 +2,7 @@ import psycopg2
 
 # Configuração do banco de dados
 DB_CONFIG = {
-    "dbname": "ads_database_ser",
+    "dbname": "Database_Ser_Educacional",
     "user": "postgres",
     "password": "1993",
     "host": "localhost",
