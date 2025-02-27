@@ -13,14 +13,10 @@ def fetch_insights_yesterday(account_id, access_token):
     ontem = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
 
     # 2. Montar a URL de requisição para o dia de ontem
-    # Substitua "v21.0" se precisar de outra versão da Graph API
     url_base = (
-        f"https://graph.facebook.com/v21.0/act_{account_id}/insights"
-        f"?time_increment=1"
+        f"https://graph.facebook.com/v22.0/act_{account_id}/insights?time_increment=1"
         f"&time_range={{\"since\":\"{ontem}\",\"until\":\"{ontem}\"}}"
-        f"&level=ad"
-        f"&fields=impressions,reach,spend,adset_id,adset_name,ad_id,ad_name,actions"
-        f"&action_breakdowns=action_type"
+        f"&level=ad&fields=impressions,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type"
         f"&access_token={access_token}"
     )
 
@@ -141,7 +137,6 @@ if __name__ == "__main__":
         "279434330040473",
         "721165152389246",
         "442051349838768"
-        # Adicione quantas IDs quiser
     ]
 
     for account_id in lista_de_contas:

@@ -2,7 +2,7 @@ import psycopg2
 
 # Configuração para conectar ao PostgreSQL sem um banco específico
 conn = psycopg2.connect(
-    dbname="ads_database",  # Conectar ao banco padrão do PostgreSQL
+    dbname="Database_Ser",  # Conectar ao banco padrão do PostgreSQL
     user="postgres",
     password="1993",
     host="localhost",
@@ -13,7 +13,7 @@ conn.autocommit = True  # Permite criar o banco sem transação ativa
 cursor = conn.cursor()
 
 # Nome do banco de dados a ser criado
-DATABASE_NAME = "ads_database_ser"
+DATABASE_NAME = "Database_Ser_Educacional"
 
 # Criando o banco de dados
 try:

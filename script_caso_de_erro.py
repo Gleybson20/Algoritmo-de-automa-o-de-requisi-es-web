@@ -4,9 +4,9 @@ import json
 
 def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
-    account_id = "399378954300562"
+    account_id = "712703422560858"
     url_inicial = (
-        "https://graph.facebook.com/v22.0/act_399378954300562/insights?time_increment=1&time_range=%7B%22since%22%3A%20%222022-06-01%22%2C%20%22until%22%3A%20%222022-12-31%22%7D&level=ad&fields=impressions,%20account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type&access_token=EAAWU1dRzrNUBO24juN7pURUFIt4C1zTYuFuhQCtnnV7DDlRLvMt7zJa2tFuTQoMLBQgWZBN2NWxjZBoXPSkYJcIHiZB9oZAnb0VloaMJvTWMHbv5nqkreZBmTq61pT7ec4hYdK8ODDKO9K6AVBhdES6hBztCuuczRLSYzFv1VZCCQQRcTfZAFZAdIiy84fuKAqB2dAWY1HvpOboWoHYBb40eDppZCxy8ZD&limit=25&after=NzQZD"
+        "https://graph.facebook.com/v22.0/act_712703422560858/insights?time_increment=1&time_range=%7B%22since%22%3A%20%222024-12-03%22%2C%20%22until%22%3A%20%222025-02-26%22%7D&level=ad&fields=impressions,%20account_id,reach,spend,adset_id,adset_name,ad_id,ad_name,actions&action_breakdowns=action_type&access_token=EAAWU1dRzrNUBOxW5LEGYUyFuumLMATMICnuGineEk9cwTXQPlvepYZA3fxKuBIWKDxCErZAaYKqyyVTZAjRZA4ZAWerXpygvGZC4GgxhQB1WKLXGOvjZBhtg1hWE1KPAs1VWLzKnrT2rh103lZBWXt6mxQrCBsZCdlq9nqBKazfbjE03SeCjcZB18TUQhZBk7LAqvkrv7BEnR52BKojbUUeSDfvcLHuqeUZD&limit=25&after=MzE1Mjg2Mzc2NjAzOTc1NjkZD"
     )
 
     # Lista para armazenar todos os registros de todas as páginas
