@@ -1,0 +1,874 @@
+[
+    {
+        "impressions": "1069",
+        "account_id": "272632814190475",
+        "reach": "928",
+        "spend": "18.92",
+        "adset_id": "120213386567140584",
+        "adset_name": "[MIX MORNO] [H/M] [18/65] — Cópia",
+        "ad_id": "120214352770430584",
+        "ad_name": "[AD] [CAMPANHA 70% DE DESCONTO] [15/10]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "165"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "165"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "152"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "750",
+        "account_id": "272632814190475",
+        "reach": "709",
+        "spend": "1.53",
+        "adset_id": "120213541349800584",
+        "adset_name": "[ALC] [MIX MORNO] [MAXIMIZAR ALCANCE 4/1] [ORIGINAL] [POS. AUTOMÁTICO] [09/09]",
+        "ad_id": "120215393645030584",
+        "ad_name": "[AD] [70% DE DESCONTO] [26/11]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "68"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "68"
+            },
+            {
+                "action_type": "video_view",
+                "value": "67"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "6273",
+        "account_id": "272632814190475",
+        "reach": "5804",
+        "spend": "13.35",
+        "adset_id": "120213541349800584",
+        "adset_name": "[ALC] [MIX MORNO] [MAXIMIZAR ALCANCE 4/1] [ORIGINAL] [POS. AUTOMÁTICO] [09/09]",
+        "ad_id": "120216725430450584",
+        "ad_name": "[AD] [VIDEO - GRADUAÇÃO GERAL] [14/01]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "417"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "417"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "415"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "297",
+        "account_id": "272632814190475",
+        "reach": "247",
+        "spend": "7.68",
+        "adset_id": "120218280963890584",
+        "adset_name": "[INTERESSES] [15/02]",
+        "ad_id": "120218281633350584",
+        "ad_name": "[AD] [PÓS EDUCAÇÃO] [10/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "15"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "1807",
+        "account_id": "272632814190475",
+        "reach": "1543",
+        "spend": "15.7",
+        "adset_id": "120218280963890584",
+        "adset_name": "[INTERESSES] [15/02]",
+        "ad_id": "120218281701540584",
+        "ad_name": "[AD] [PÓS SAÚDE] [10/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "2932",
+        "account_id": "272632814190475",
+        "reach": "2525",
+        "spend": "9.29",
+        "adset_id": "120213385818320584",
+        "adset_name": "[VISITAS NO PERFIL] [EXCLUSÃO DE PÚBLICOS] [H/M] [18/45] [BOA VISTA +20KM]",
+        "ad_id": "120219648810840584",
+        "ad_name": "[AD ALUNA DIREITO] [04/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "240"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "240"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "226"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "5512",
+        "account_id": "272632814190475",
+        "reach": "5349",
+        "spend": "52.43",
+        "adset_id": "120213384190690584",
+        "adset_name": "[MSGS- 3 INTERESSES - H/M - 18/45- BOA VISTA] [ADVANTAGE+]",
+        "ad_id": "120219649222930584",
+        "ad_name": "[AD] [PROPAGANDA NA TV] [04/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "815"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "815"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "790"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "993",
+        "account_id": "272632814190475",
+        "reach": "843",
+        "spend": "12.76",
+        "adset_id": "120219652379820584",
+        "adset_name": "[04/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120219652379840584",
+        "ad_name": "[AD] [ODONTO-CLINICA ESCOLA] [04/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "129"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "129"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "120"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "1030",
+        "account_id": "272632814190475",
+        "reach": "923",
+        "spend": "16.88",
+        "adset_id": "120219652379820584",
+        "adset_name": "[04/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120219652577810584",
+        "ad_name": "[AD] [COOR-ODONTO] [04/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "194"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "194"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "188"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "2868",
+        "account_id": "272632814190475",
+        "reach": "2427",
+        "spend": "27.13",
+        "adset_id": "120219652672410584",
+        "adset_name": "[04/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120219652672430584",
+        "ad_name": "[AD] [MED VET] [04/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "629"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "629"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "611"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "1",
+        "account_id": "272632814190475",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120218280963890584",
+        "adset_name": "[INTERESSES] [15/02]",
+        "ad_id": "120219985616680584",
+        "ad_name": "[AD] [PÓS GESTÃO E NEGÓCIOS] [10/03]",
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "2",
+        "account_id": "272632814190475",
+        "reach": "2",
+        "spend": "0.02",
+        "adset_id": "120213386567140584",
+        "adset_name": "[MIX MORNO] [H/M] [18/65] — Cópia",
+        "ad_id": "120219986158640584",
+        "ad_name": "[AD] [3 MENSALIDADES 129] [10/03]",
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "2275",
+        "account_id": "272632814190475",
+        "reach": "2003",
+        "spend": "32.79",
+        "adset_id": "120220227783780584",
+        "adset_name": "[13/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120220228100900584",
+        "ad_name": "[AD] [PSICOLOGIA] — [13/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "374"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "374"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "363"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "74",
+        "account_id": "272632814190475",
+        "reach": "67",
+        "spend": "1.24",
+        "adset_id": "120213384190690584",
+        "adset_name": "[MSGS- 3 INTERESSES - H/M - 18/45- BOA VISTA] [ADVANTAGE+]",
+        "ad_id": "120220405294200584",
+        "ad_name": "[AD] [CONSULTORA-OFERTA129] [17/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "634",
+        "account_id": "272632814190475",
+        "reach": "559",
+        "spend": "9.6",
+        "adset_id": "120213386567140584",
+        "adset_name": "[MIX MORNO] [H/M] [18/65] — Cópia",
+        "ad_id": "120220405481450584",
+        "ad_name": "[AD] [CONSULTORA] [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "60"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "3644",
+        "account_id": "272632814190475",
+        "reach": "3345",
+        "spend": "29.15",
+        "adset_id": "120220405932790584",
+        "adset_name": "[17/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120220405932810584",
+        "ad_name": "[AD] [ALUNA ENFERMAGEM] — [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "435"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "435"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "416"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "1315",
+        "account_id": "272632814190475",
+        "reach": "1177",
+        "spend": "25.4",
+        "adset_id": "120216674868750584",
+        "adset_name": "[04/02] [INTERESSES] [BOA VISTA]",
+        "ad_id": "120220407474280584",
+        "ad_name": "[AD1] [CONSULTORA] [17/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "244"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "244"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "228"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "251",
+        "account_id": "272632814190475",
+        "reach": "227",
+        "spend": "5.83",
+        "adset_id": "120216674868750584",
+        "adset_name": "[04/02] [INTERESSES] [BOA VISTA]",
+        "ad_id": "120220407546190584",
+        "ad_name": "[AD 2] [CONSULTORA 2] [17/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "27"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "892",
+        "account_id": "272632814190475",
+        "reach": "783",
+        "spend": "12.03",
+        "adset_id": "120213384190690584",
+        "adset_name": "[MSGS- 3 INTERESSES - H/M - 18/45- BOA VISTA] [ADVANTAGE+]",
+        "ad_id": "120220720334670584",
+        "ad_name": "[AD] [CONSULTORA-OFERTA129] [24/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "69"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "69"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "68"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "2183",
+        "account_id": "272632814190475",
+        "reach": "1876",
+        "spend": "29.53",
+        "adset_id": "120219649280060584",
+        "adset_name": "[04/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120221552445400584",
+        "ad_name": "[AD] [COORD DIREITO 2] [02/04]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "294"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "294"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "287"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    }
+]

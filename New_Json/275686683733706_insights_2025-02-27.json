@@ -1,0 +1,50 @@
+[
+    {
+        "account_id": "275686683733706",
+        "spend": "0",
+        "adset_id": "120217063366270746",
+        "adset_name": "[18/65] [SÃO LUIS + CIDADES] [INTERESSES]",
+        "ad_id": "120217064161500746",
+        "ad_name": "[AD] [CARROSSEL1-MATRICULA] [21/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "account_id": "275686683733706",
+        "spend": "0",
+        "adset_id": "120217064351380746",
+        "adset_name": "[18/65] [SÃO LUIS + CIDADES] [MIX MORNO]",
+        "ad_id": "120217119224110746",
+        "ad_name": "[AD] [TERAPIA OCUPACIONAL] [21/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    }
+]

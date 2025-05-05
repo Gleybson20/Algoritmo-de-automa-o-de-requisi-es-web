@@ -1,0 +1,162 @@
+[
+    {
+        "impressions": "4580",
+        "account_id": "185534306223063",
+        "reach": "2239",
+        "spend": "50.85",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "2345",
+        "account_id": "185534306223063",
+        "reach": "923",
+        "spend": "26.02",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "1208",
+        "account_id": "185534306223063",
+        "reach": "638",
+        "spend": "17.93",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "24693",
+        "account_id": "185534306223063",
+        "reach": "15193",
+        "spend": "207.09",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "109"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "109"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "31"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "67"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    }
+]

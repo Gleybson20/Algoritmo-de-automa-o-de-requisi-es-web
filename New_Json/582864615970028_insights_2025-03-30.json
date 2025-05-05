@@ -1,0 +1,212 @@
+[
+    {
+        "impressions": "5242",
+        "account_id": "582864615970028",
+        "reach": "3636",
+        "spend": "37.51",
+        "adset_id": "120217426243460172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120217882867720172",
+        "ad_name": "Mês do Consumidor — Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "6928",
+        "account_id": "582864615970028",
+        "reach": "4299",
+        "spend": "74.29",
+        "adset_id": "120218011705050172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120218011705100172",
+        "ad_name": "Transferência",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "18358",
+        "account_id": "582864615970028",
+        "reach": "12810",
+        "spend": "240.72",
+        "adset_id": "120218080339830172",
+        "adset_name": "Maracanau +20KM",
+        "ad_id": "120218080339850172",
+        "ad_name": "Medicina",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "47"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "147"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "147"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "42"
+            },
+            {
+                "action_type": "post",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "45"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "23"
+            },
+            {
+                "action_type": "link_click",
+                "value": "108"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "1338",
+        "account_id": "582864615970028",
+        "reach": "1034",
+        "spend": "20.45",
+        "adset_id": "120217426243460172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120218413132380172",
+        "ad_name": "Nutrição 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "200"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "200"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "188"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "668",
+        "account_id": "582864615970028",
+        "reach": "546",
+        "spend": "8.06",
+        "adset_id": "120217426243460172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120218413284420172",
+        "ad_name": "Nutrição 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "139"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "139"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "132"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    }
+]

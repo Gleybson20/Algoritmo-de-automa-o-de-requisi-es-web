@@ -1,0 +1,82 @@
+[
+    {
+        "impressions": "911",
+        "account_id": "1154015138307321",
+        "reach": "740",
+        "spend": "13.37",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218088619640172",
+        "ad_name": "Transferencia 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "5307",
+        "account_id": "1154015138307321",
+        "reach": "4150",
+        "spend": "38.96",
+        "adset_id": "120216378370430172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218559901320172",
+        "ad_name": "Promo 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    }
+]

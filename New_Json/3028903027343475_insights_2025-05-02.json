@@ -1,0 +1,52 @@
+[
+    {
+        "impressions": "1915",
+        "account_id": "3028903027343475",
+        "reach": "1746",
+        "spend": "11.4",
+        "adset_id": "120221176305120072",
+        "adset_name": "[FORMS][CACOAL + REGIÃO][MAIO] - DIA DAS MÃES",
+        "ad_id": "120221176305840072",
+        "ad_name": "[AD] - SORTEIO - 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "lead",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "1",
+        "account_id": "3028903027343475",
+        "reach": "1",
+        "spend": "0",
+        "adset_id": "120221176305120072",
+        "adset_name": "[FORMS][CACOAL + REGIÃO][MAIO] - DIA DAS MÃES",
+        "ad_id": "120221178232370072",
+        "ad_name": "[AD] - SORTEIO - 2",
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    }
+]

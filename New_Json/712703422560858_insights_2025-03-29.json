@@ -1,0 +1,568 @@
+[
+    {
+        "impressions": "63",
+        "account_id": "712703422560858",
+        "reach": "62",
+        "spend": "0.21",
+        "adset_id": "120215898357400568",
+        "adset_name": "[07/01] [EXCLUSÃO] [18/65] [INTERESSES]",
+        "ad_id": "120215898357470568",
+        "ad_name": "[AD] [JANGUIE DINIZ] [07/01]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "1650",
+        "account_id": "712703422560858",
+        "reach": "1650",
+        "spend": "8.91",
+        "adset_id": "120216842947210568",
+        "adset_name": "[MIX MORNO] [PUB PERSONALIZADO]",
+        "ad_id": "120216842947250568",
+        "ad_name": "[AD] [COLAÇÃO DE GRAU] [03/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "916"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "916"
+            },
+            {
+                "action_type": "video_view",
+                "value": "910"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "425",
+        "account_id": "712703422560858",
+        "reach": "302",
+        "spend": "7.2",
+        "adset_id": "120218056059110568",
+        "adset_name": "[13/02] [ABERTO] [BRASILIA+CIDADES]",
+        "ad_id": "120218833336580568",
+        "ad_name": "[AD] [PROMOÇÃO-MARÇO] [01/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "1210",
+        "account_id": "712703422560858",
+        "reach": "1108",
+        "spend": "16.75",
+        "adset_id": "120218052955230568",
+        "adset_name": "[13/02] [ABERTO] [BRASILIA+CIDADES]",
+        "ad_id": "120218923692170568",
+        "ad_name": "[AD] [VID-MED VET- BOLSA] [03/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "223"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "223"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "207"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "621",
+        "account_id": "712703422560858",
+        "reach": "546",
+        "spend": "12.68",
+        "adset_id": "120218923853030568",
+        "adset_name": "[03/03] [ABERTO] [18/65] [BRASÍLIA+CIDADES]",
+        "ad_id": "120218923853550568",
+        "ad_name": "[AD1][VID-ODONTO-BOLSA] [03/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "141"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "141"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "131"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "456",
+        "account_id": "712703422560858",
+        "reach": "385",
+        "spend": "15.69",
+        "adset_id": "120218925322530568",
+        "adset_name": "[03/03] [ABERTO] [18/65] [BRASÍLIA+CIDADES]",
+        "ad_id": "120218925322550568",
+        "ad_name": "[AD1][VID-PSICOLOGIA-BOLSA] [03/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "79"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "443",
+        "account_id": "712703422560858",
+        "reach": "337",
+        "spend": "7.76",
+        "adset_id": "120217374640610568",
+        "adset_name": "[03/02] [PUB PERSONALIZADOS] [BRASILIA+CIDADES]",
+        "ad_id": "120218925953730568",
+        "ad_name": "[AD1][VID-ENFERMAGEM-BOLSA] [03/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "57"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "56",
+        "account_id": "712703422560858",
+        "reach": "56",
+        "spend": "0.3",
+        "adset_id": "120216842947210568",
+        "adset_name": "[MIX MORNO] [PUB PERSONALIZADO]",
+        "ad_id": "120218926400540568",
+        "ad_name": "[AD] [CHAMADA PROF ENF] [03/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "video_view",
+                "value": "30"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "2661",
+        "account_id": "712703422560858",
+        "reach": "2487",
+        "spend": "9.61",
+        "adset_id": "120215898357400568",
+        "adset_name": "[07/01] [EXCLUSÃO] [18/65] [INTERESSES]",
+        "ad_id": "120218926560530568",
+        "ad_name": "[AD] [COLAÇÃO DE GRAU] [03/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "267"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "267"
+            },
+            {
+                "action_type": "video_view",
+                "value": "240"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "344",
+        "account_id": "712703422560858",
+        "reach": "281",
+        "spend": "8.05",
+        "adset_id": "120218925016690568",
+        "adset_name": "[03/03] [ABERTO] [18/65] [BRASÍLIA+CIDADES]",
+        "ad_id": "120219765021320568",
+        "ad_name": "[AD1][IMG-ENFERMAGEM] [17/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "511",
+        "account_id": "712703422560858",
+        "reach": "357",
+        "spend": "7.66",
+        "adset_id": "120218052955230568",
+        "adset_name": "[13/02] [ABERTO] [BRASILIA+CIDADES]",
+        "ad_id": "120219765245250568",
+        "ad_name": "[AD] [IMG-MED VET] [17/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "304",
+        "account_id": "712703422560858",
+        "reach": "285",
+        "spend": "8.72",
+        "adset_id": "120218054060100568",
+        "adset_name": "[13/02] [ABERTO] [BRASILIA+CIDADES]",
+        "ad_id": "120220028782150568",
+        "ad_name": "[AD] [DIREITO- VIDEO] [21/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "video_view",
+                "value": "40"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "399",
+        "account_id": "712703422560858",
+        "reach": "310",
+        "spend": "9.55",
+        "adset_id": "120220186903280568",
+        "adset_name": "[24/03] [INTERESSES] [18/65] [BRASÍLIA]",
+        "ad_id": "120220186903300568",
+        "ad_name": "[AD1][IMG-ENFERMAGEM] [24/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "337",
+        "account_id": "712703422560858",
+        "reach": "303",
+        "spend": "8.22",
+        "adset_id": "120220186979350568",
+        "adset_name": "[24/03] [INTERESSE] [BRASILIA+CIDADES]",
+        "ad_id": "120220186979370568",
+        "ad_name": "[AD] [DIREITO- VIDEO] [24/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "56"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "56"
+            },
+            {
+                "action_type": "video_view",
+                "value": "52"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "717",
+        "account_id": "712703422560858",
+        "reach": "660",
+        "spend": "8.99",
+        "adset_id": "120220187161890568",
+        "adset_name": "[24/03] [INTERESSE] [BRASILIA+CIDADES]",
+        "ad_id": "120220187161930568",
+        "ad_name": "[AD] [VID-MED VET- BOLSA] [24/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "134"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "134"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "125"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "300",
+        "account_id": "712703422560858",
+        "reach": "241",
+        "spend": "7.96",
+        "adset_id": "120220187236470568",
+        "adset_name": "[24/03] [INTERESSE] [BRASILIA+CIDADES]",
+        "ad_id": "120220187236490568",
+        "ad_name": "[AD] [PÓS GRADUAÇÃO- VIDEO] [24/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "video_view",
+                "value": "49"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "514",
+        "account_id": "712703422560858",
+        "reach": "343",
+        "spend": "9.88",
+        "adset_id": "120220359325420568",
+        "adset_name": "[26/03] [ABERTO] [FACULDADES CONCORRENTES]",
+        "ad_id": "120220359325440568",
+        "ad_name": "[AD] [TRANSFERENCIA] [26/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    }
+]

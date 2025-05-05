@@ -1,0 +1,192 @@
+[
+    {
+        "impressions": "855",
+        "account_id": "652220095673691",
+        "reach": "700",
+        "spend": "10.29",
+        "adset_id": "120215591239710417",
+        "adset_name": "08 | ADV+ | ODONTO | 0102",
+        "ad_id": "120215591239700417",
+        "ad_name": "AD01 | ODONTO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "109"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "109"
+            },
+            {
+                "action_type": "video_view",
+                "value": "106"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "1007",
+        "account_id": "652220095673691",
+        "reach": "829",
+        "spend": "10.72",
+        "adset_id": "120217618075790417",
+        "adset_name": "09 | ADV+ & Direct | TÉCNICOS | 0402",
+        "ad_id": "120217618075810417",
+        "ad_name": "AD02 | PRÓTESE | 0402",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "84",
+        "account_id": "652220095673691",
+        "reach": "73",
+        "spend": "1.27",
+        "adset_id": "120217618075790417",
+        "adset_name": "09 | ADV+ & Direct | TÉCNICOS | 0402",
+        "ad_id": "120217762226330417",
+        "ad_name": "AD04 | \"Vídeo\" | 1303",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "2536",
+        "account_id": "652220095673691",
+        "reach": "2167",
+        "spend": "28.85",
+        "adset_id": "120217618011180417",
+        "adset_name": "06 | ADV+ & Direct | Promo_01 | 0104",
+        "ad_id": "120218014204320417",
+        "ad_name": "AD17 | \"Localização\" | 1903",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "425"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "425"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "397"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "775",
+        "account_id": "652220095673691",
+        "reach": "669",
+        "spend": "11.36",
+        "adset_id": "120218213861420417",
+        "adset_name": "09 | ADV+ & Direct | TECNOLOGIA | 2303",
+        "ad_id": "120218213861430417",
+        "ad_name": "AD01 | \"Tecnologia\" | 2303",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "130"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "130"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "120"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    }
+]

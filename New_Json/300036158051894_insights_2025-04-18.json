@@ -1,0 +1,90 @@
+[
+    {
+        "impressions": "4448",
+        "account_id": "300036158051894",
+        "reach": "3402",
+        "spend": "29.1",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "6134",
+        "account_id": "300036158051894",
+        "reach": "4478",
+        "spend": "53.35",
+        "adset_id": "120217250256650443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120222624850740443",
+        "ad_name": "Promo 3 — nova",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    }
+]

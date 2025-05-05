@@ -1,0 +1,52 @@
+[
+    {
+        "impressions": "3504",
+        "account_id": "207224937995313",
+        "reach": "2252",
+        "spend": "25.66",
+        "adset_id": "120222646305120547",
+        "adset_name": "[WPP][BARREIRAS+REGIÃO][EAD] - ABRIL",
+        "ad_id": "120222646305230547",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "22",
+        "account_id": "207224937995313",
+        "reach": "19",
+        "spend": "0.13",
+        "adset_id": "120222646305120547",
+        "adset_name": "[WPP][BARREIRAS+REGIÃO][EAD] - ABRIL",
+        "ad_id": "120222646588790547",
+        "ad_name": "[AD] - HOMEM",
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    }
+]

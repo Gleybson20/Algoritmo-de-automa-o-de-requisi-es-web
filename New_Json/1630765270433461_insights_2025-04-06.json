@@ -1,0 +1,162 @@
+[
+    {
+        "impressions": "3797",
+        "account_id": "1630765270433461",
+        "reach": "3434",
+        "spend": "9",
+        "adset_id": "120214892151380058",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120214892151390058",
+        "ad_name": "AD01 | \"explorando_unidade\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "175"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "175"
+            },
+            {
+                "action_type": "video_view",
+                "value": "125"
+            },
+            {
+                "action_type": "link_click",
+                "value": "50"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "1089",
+        "account_id": "1630765270433461",
+        "reach": "776",
+        "spend": "7.45",
+        "adset_id": "120215129769020058",
+        "adset_name": "01 | ADV+ | EAD | 1001",
+        "ad_id": "120215129768910058",
+        "ad_name": "AD01 | \"EAD\" | 1801",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "588",
+        "account_id": "1630765270433461",
+        "reach": "484",
+        "spend": "7.88",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120216965382920058",
+        "ad_name": "06 | (imagem) Turmas Formadas | 2402",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "30"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "136",
+        "account_id": "1630765270433461",
+        "reach": "109",
+        "spend": "2.35",
+        "adset_id": "120218867842470058",
+        "adset_name": "10 | ADV+ | PROMO ABRIL | 0104",
+        "ad_id": "120218867842480058",
+        "ad_name": "AD01 | \"Estatico Abril\" | 0104",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    }
+]

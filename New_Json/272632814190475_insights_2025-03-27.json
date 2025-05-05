@@ -1,0 +1,142 @@
+[
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120213386567140584",
+        "adset_name": "[MIX MORNO] [H/M] [18/65] — Cópia",
+        "ad_id": "120214352770430584",
+        "ad_name": "[AD] [CAMPANHA 70% DE DESCONTO] [15/10]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120218280963890584",
+        "adset_name": "[INTERESSES] [15/02]",
+        "ad_id": "120218281701540584",
+        "ad_name": "[AD] [PÓS SAÚDE] [10/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120213384190690584",
+        "adset_name": "[MSGS- 3 INTERESSES - H/M - 18/45- BOA VISTA] [ADVANTAGE+]",
+        "ad_id": "120219649222930584",
+        "ad_name": "[AD] [PROPAGANDA NA TV] [04/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120220406171200584",
+        "adset_name": "[17/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120220406171210584",
+        "ad_name": "[AD] [BIOMEDICINA] — [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120219652672410584",
+        "adset_name": "[04/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120220406526550584",
+        "ad_name": "[AD] [IMG-MED VET] [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120220406762520584",
+        "adset_name": "[17/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120220406762540584",
+        "ad_name": "[AD] [FISIOTERAPIA] — [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120213384190690584",
+        "adset_name": "[MSGS- 3 INTERESSES - H/M - 18/45- BOA VISTA] [ADVANTAGE+]",
+        "ad_id": "120220720334670584",
+        "ad_name": "[AD] [CONSULTORA-OFERTA129] [24/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    }
+]

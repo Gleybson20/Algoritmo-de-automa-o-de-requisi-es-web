@@ -1,0 +1,274 @@
+[
+    {
+        "impressions": "2662",
+        "account_id": "399378954300562",
+        "reach": "2258",
+        "spend": "6.9",
+        "adset_id": "120216930516420715",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120216930516430715",
+        "ad_name": "AD01 | \"PRÁTICA\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "video_view",
+                "value": "19"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "0",
+        "account_id": "399378954300562",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217583688860715",
+        "adset_name": "01 | Mai25 | PROMO_01 | ADV+ | 0204",
+        "ad_id": "120217583688870715",
+        "ad_name": "05 | (Vídeo interno) Prof Lamartine | 1801",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "4139",
+        "account_id": "399378954300562",
+        "reach": "2685",
+        "spend": "24.92",
+        "adset_id": "120217583688860715",
+        "adset_name": "01 | Mai25 | PROMO_01 | ADV+ | 0204",
+        "ad_id": "120217583688880715",
+        "ad_name": "04 | (Vídeo interno) Prof Lamartine SUPER PROMO | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "287"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "287"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "265"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "943",
+        "account_id": "399378954300562",
+        "reach": "760",
+        "spend": "6.43",
+        "adset_id": "120217583873140715",
+        "adset_name": "03 | ADV+ | PALMEIRA DOS INDIOS | 2301 | NOVO",
+        "ad_id": "120217583873130715",
+        "ad_name": "AD01 | (Imagem) \"Palmeira dos Indios\" | 2301",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "202"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "202"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "192"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "18",
+        "account_id": "399378954300562",
+        "reach": "17",
+        "spend": "0.12",
+        "adset_id": "120219912874820715",
+        "adset_name": "06 | LAL-VV75% 180D | MÊS DO CONSUMIDOR | 0102 2503",
+        "ad_id": "120219912874870715",
+        "ad_name": "01 | \"MÊS DO CONSUMIDOR\" | 0102",
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "2263",
+        "account_id": "399378954300562",
+        "reach": "1440",
+        "spend": "20.5",
+        "adset_id": "120219912956840715",
+        "adset_name": "01 | ADV+ | MÊS DO CONSUMIDOR | 0102",
+        "ad_id": "120219912956860715",
+        "ad_name": "01 | \"MÊS DO CONSUMIDOR\" | 0102",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "2278",
+        "account_id": "399378954300562",
+        "reach": "1734",
+        "spend": "21.49",
+        "adset_id": "120219912960010715",
+        "adset_name": "01 | ADV+ | CARNAVAL | 0102",
+        "ad_id": "120219912960000715",
+        "ad_name": "01 | \"CARNAVAL | 0102",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "288"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "288"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "262"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "impressions": "406",
+        "account_id": "2744202202494865",
+        "reach": "365",
+        "spend": "4.57",
+        "adset_id": "120217940388760780",
+        "adset_name": "MêsDoConsumidor_12_31_03",
+        "ad_id": "120217940388830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "18",
+        "account_id": "2744202202494865",
+        "reach": "18",
+        "spend": "0.22",
+        "adset_id": "120217940388760780",
+        "adset_name": "MêsDoConsumidor_12_31_03",
+        "ad_id": "120218011291630780",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "2487",
+        "account_id": "2744202202494865",
+        "reach": "2363",
+        "spend": "22.01",
+        "adset_id": "120217940388760780",
+        "adset_name": "MêsDoConsumidor_12_31_03",
+        "ad_id": "120218021360160780",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "281"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "281"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "273"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "1451",
+        "account_id": "2744202202494865",
+        "reach": "1269",
+        "spend": "16.28",
+        "adset_id": "120218181442340780",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218181442380780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    }
+]

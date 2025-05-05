@@ -1,0 +1,186 @@
+[
+    {
+        "impressions": "2304",
+        "account_id": "977036012752725",
+        "reach": "1630",
+        "spend": "14.42",
+        "adset_id": "120218354983370697",
+        "adset_name": "Publicação: \"No Mês do Consumidor, sua chance de começar a...\"",
+        "ad_id": "120218354983440697",
+        "ad_name": "Publicação: \"No Mês do Consumidor, sua chance de começar a...\"",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "1184",
+        "account_id": "977036012752725",
+        "reach": "733",
+        "spend": "22.79",
+        "adset_id": "120218354993320697",
+        "adset_name": "Publicação: \"Venha fazer PEDAGOGIA PRESENCIAL na UNINASSAU...\"",
+        "ad_id": "120218354993420697",
+        "ad_name": "Publicação: \"Venha fazer PEDAGOGIA PRESENCIAL na UNINASSAU...\"",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "159"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "159"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "145"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "4250",
+        "account_id": "977036012752725",
+        "reach": "2921",
+        "spend": "34.63",
+        "adset_id": "120218708859010697",
+        "adset_name": "Publicação: \"Quer mudar o seu futuro? Graduação Presencial em...\"",
+        "ad_id": "120218708859020697",
+        "ad_name": "Publicação: \"Quer mudar o seu futuro? Graduação Presencial em...\"",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "409"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "409"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "356"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "48"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "1989",
+        "account_id": "977036012752725",
+        "reach": "1109",
+        "spend": "17.68",
+        "adset_id": "120218899533710697",
+        "adset_name": "Publicação: \"Você merece mais. Você merece UNINASSAU! 📚 \"",
+        "ad_id": "120218899534350697",
+        "ad_name": "Publicação: \"Você merece mais. Você merece UNINASSAU! 📚 \"",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "impressions": "511",
+        "account_id": "1213925972283556",
+        "reach": "401",
+        "spend": "5.16",
+        "adset_id": "120215226593800221",
+        "adset_name": "01 | ADV+ | 1211",
+        "ad_id": "120216086965480221",
+        "ad_name": "AD06 | \"interno\" | 0801",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "2145",
+        "account_id": "1213925972283556",
+        "reach": "1808",
+        "spend": "17.5",
+        "adset_id": "120215226593800221",
+        "adset_name": "01 | ADV+ | 1211",
+        "ad_id": "120217098190250221",
+        "ad_name": "AD05 | \"interno\" | 1801",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "714",
+        "account_id": "1213925972283556",
+        "reach": "563",
+        "spend": "7.24",
+        "adset_id": "120215226593800221",
+        "adset_name": "01 | ADV+ | 1211",
+        "ad_id": "120217098190260221",
+        "ad_name": "AD04 | \"interno\" | 1801",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "4732",
+        "account_id": "1213925972283556",
+        "reach": "3847",
+        "spend": "27.18",
+        "adset_id": "120218051976650221",
+        "adset_name": "05 | Aberto | 18-44 | 1102",
+        "ad_id": "120218051976660221",
+        "ad_name": "AD05 | \"interno\" | 1801",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "15",
+        "account_id": "1213925972283556",
+        "reach": "12",
+        "spend": "0.32",
+        "adset_id": "120215226593800221",
+        "adset_name": "01 | ADV+ | 1211",
+        "ad_id": "120218328238680221",
+        "ad_name": "AD07 | \"PROMO FEV | 1602",
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "2247",
+        "account_id": "1213925972283556",
+        "reach": "1673",
+        "spend": "14.82",
+        "adset_id": "120218051976650221",
+        "adset_name": "05 | Aberto | 18-44 | 1102",
+        "ad_id": "120218328271520221",
+        "ad_name": "AD07 | \"PROMO FEV | 1602",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "8470",
+        "account_id": "1213925972283556",
+        "reach": "6206",
+        "spend": "45.98",
+        "adset_id": "120218051976650221",
+        "adset_name": "05 | Aberto | 18-44 | 1102",
+        "ad_id": "120218328600710221",
+        "ad_name": "AD08 | \"interno\" | 1602",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "3",
+        "account_id": "1213925972283556",
+        "reach": "1",
+        "spend": "0.02",
+        "adset_id": "120218051976650221",
+        "adset_name": "05 | Aberto | 18-44 | 1102",
+        "ad_id": "120218482391960221",
+        "ad_name": "AD06 | \"interno\" | 1902 — Cópia",
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "5033",
+        "account_id": "1213925972283556",
+        "reach": "3461",
+        "spend": "37.2",
+        "adset_id": "120215226593800221",
+        "adset_name": "01 | ADV+ | 1211",
+        "ad_id": "120218482402800221",
+        "ad_name": "AD06 | \"interno\" | 1902 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    }
+]

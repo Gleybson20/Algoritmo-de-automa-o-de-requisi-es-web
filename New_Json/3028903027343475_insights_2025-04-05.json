@@ -1,0 +1,158 @@
+[
+    {
+        "impressions": "5309",
+        "account_id": "3028903027343475",
+        "reach": "3821",
+        "spend": "46.63",
+        "adset_id": "120218178421520072",
+        "adset_name": "[MSG - WPP+IG][CACOAL+REGIÃO][ABRIL] - ABERTO - CORRIGIDO",
+        "ad_id": "120218178421510072",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "3384",
+        "account_id": "3028903027343475",
+        "reach": "2566",
+        "spend": "24.85",
+        "adset_id": "120218178421520072",
+        "adset_name": "[MSG - WPP+IG][CACOAL+REGIÃO][ABRIL] - ABERTO - CORRIGIDO",
+        "ad_id": "120218178421530072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "1946",
+        "account_id": "3028903027343475",
+        "reach": "1369",
+        "spend": "24.21",
+        "adset_id": "120218179163140072",
+        "adset_name": "[MSG - WPP+IG][LOOKALIKE+PÚBLICO][ABRIL] - ABERTO - CORRIGIDO",
+        "ad_id": "120218179163150072",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "1733",
+        "account_id": "3028903027343475",
+        "reach": "1205",
+        "spend": "17.92",
+        "adset_id": "120218179163140072",
+        "adset_name": "[MSG - WPP+IG][LOOKALIKE+PÚBLICO][ABRIL] - ABERTO - CORRIGIDO",
+        "ad_id": "120218179163160072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    }
+]

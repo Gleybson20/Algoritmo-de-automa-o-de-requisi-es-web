@@ -1,0 +1,128 @@
+[
+    {
+        "impressions": "4540",
+        "account_id": "2598162083676218",
+        "reach": "3660",
+        "spend": "91.43",
+        "adset_id": "120216682558530182",
+        "adset_name": "[FORMS][FLN R40KM][EAD] Captação 2025.1",
+        "ad_id": "120216682558620182",
+        "ad_name": "002 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "lead",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "49",
+        "account_id": "2598162083676218",
+        "reach": "46",
+        "spend": "2.22",
+        "adset_id": "120216682558530182",
+        "adset_name": "[FORMS][FLN R40KM][EAD] Captação 2025.1",
+        "ad_id": "120216682897340182",
+        "ad_name": "001 - ESTÁTICO",
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "312",
+        "account_id": "2598162083676218",
+        "reach": "235",
+        "spend": "11.86",
+        "adset_id": "120216443607390182",
+        "adset_name": "[TRÁFEGO] [MSG] EAD - 02",
+        "ad_id": "120218169656200182",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "2521",
+        "account_id": "2598162083676218",
+        "reach": "1938",
+        "spend": "80.16",
+        "adset_id": "120216443607390182",
+        "adset_name": "[TRÁFEGO] [MSG] EAD - 02",
+        "ad_id": "120218169656210182",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    }
+]

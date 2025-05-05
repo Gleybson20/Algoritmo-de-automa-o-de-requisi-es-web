@@ -1,0 +1,64 @@
+[
+    {
+        "impressions": "946",
+        "account_id": "198313924760810",
+        "reach": "781",
+        "spend": "23.34",
+        "adset_id": "120224394599910565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224394599890565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    },
+    {
+        "impressions": "5",
+        "account_id": "198313924760810",
+        "reach": "5",
+        "spend": "0.18",
+        "adset_id": "120224394599910565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224394957730565",
+        "ad_name": "[AD01] Carrossel",
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    }
+]

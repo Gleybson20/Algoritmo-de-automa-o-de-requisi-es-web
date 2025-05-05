@@ -1,0 +1,48 @@
+[
+    {
+        "impressions": "1334",
+        "account_id": "3214406055517297",
+        "reach": "1249",
+        "spend": "8.18",
+        "adset_id": "120220660948830334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120221619387320334",
+        "ad_name": "Transferencia - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "166",
+        "account_id": "3214406055517297",
+        "reach": "142",
+        "spend": "5.53",
+        "adset_id": "120218465802350334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120225942221360334",
+        "ad_name": "Promo 1",
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    }
+]

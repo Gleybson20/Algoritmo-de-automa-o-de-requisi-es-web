@@ -1,0 +1,100 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "1630765270433461",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120215129769020058",
+        "adset_name": "01 | ADV+ | EAD | 1001",
+        "ad_id": "120220090387340058",
+        "ad_name": "AD04 | \"GRADUAÇÃO EAD\" | 1604",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1630765270433461",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "7179",
+        "account_id": "1630765270433461",
+        "reach": "4818",
+        "spend": "77.05",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    }
+]

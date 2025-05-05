@@ -1,0 +1,22 @@
+[
+    {
+        "account_id": "977036012752725",
+        "spend": "0",
+        "adset_id": "120222047880330697",
+        "adset_name": "Publicação: \"Venha estudar com a formação mais completa do...\"",
+        "ad_id": "120222047880420697",
+        "ad_name": "Publicação: \"Venha estudar com a formação mais completa do...\"",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    }
+]

@@ -1,0 +1,414 @@
+[
+    {
+        "impressions": "15",
+        "account_id": "413233799949309",
+        "reach": "10",
+        "spend": "0.18",
+        "adset_id": "120214554393890046",
+        "adset_name": "07 | ADV+ | ESCOLA TEC. | 1002",
+        "ad_id": "120214554789080046",
+        "ad_name": "AD03 | \"TPD\" | 1002",
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "0",
+        "account_id": "413233799949309",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120212732006920046",
+        "adset_name": "01 | MAI_PROMO | 0104",
+        "ad_id": "120214720241460046",
+        "ad_name": "AD10 | \"TRANSFERÊNCIA\"| 1202",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "2013",
+        "account_id": "413233799949309",
+        "reach": "1277",
+        "spend": "14.46",
+        "adset_id": "120214952216460046",
+        "adset_name": "08 | ADV+ | T.O | 1601",
+        "ad_id": "120214952216450046",
+        "ad_name": "AD01 | \"T.O\" | 1602",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "191"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "36",
+        "account_id": "413233799949309",
+        "reach": "28",
+        "spend": "0.36",
+        "adset_id": "120214952216460046",
+        "adset_name": "08 | ADV+ | T.O | 1601",
+        "ad_id": "120216168147630046",
+        "ad_name": "AD02 | \"T.O\" | 0302",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "2",
+        "account_id": "413233799949309",
+        "reach": "2",
+        "spend": "0.02",
+        "adset_id": "120212732006920046",
+        "adset_name": "01 | MAI_PROMO | 0104",
+        "ad_id": "120217041582050046",
+        "ad_name": "AD11 | \"EAD\"| 1904",
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "2",
+        "account_id": "413233799949309",
+        "reach": "2",
+        "spend": "0.06",
+        "adset_id": "120212732006920046",
+        "adset_name": "01 | MAI_PROMO | 0104",
+        "ad_id": "120218259354880046",
+        "ad_name": "AD12 | \"EAD\"| 0203",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "2",
+        "account_id": "413233799949309",
+        "reach": "2",
+        "spend": "0.01",
+        "adset_id": "120212732006920046",
+        "adset_name": "01 | MAI_PROMO | 0104",
+        "ad_id": "120218259752210046",
+        "ad_name": "AD13 | \"EAD\"| 0203",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "814",
+        "account_id": "413233799949309",
+        "reach": "604",
+        "spend": "6.45",
+        "adset_id": "120212732006920046",
+        "adset_name": "01 | MAI_PROMO | 0104",
+        "ad_id": "120218260473760046",
+        "ad_name": "AD14 | \"EAD\"| 0203",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "258",
+        "account_id": "413233799949309",
+        "reach": "144",
+        "spend": "2.66",
+        "adset_id": "120212732006920046",
+        "adset_name": "01 | MAI_PROMO | 0104",
+        "ad_id": "120218260733320046",
+        "ad_name": "AD15 | \"TRANSFERENCIA\"| 0203",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "11142",
+        "account_id": "413233799949309",
+        "reach": "6873",
+        "spend": "74.23",
+        "adset_id": "120212732006920046",
+        "adset_name": "01 | MAI_PROMO | 0104",
+        "ad_id": "120218479692260046",
+        "ad_name": "AD15 | \"EAD\"| 0304",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "24"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "16"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "17"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "45"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "4031",
+        "account_id": "413233799949309",
+        "reach": "2863",
+        "spend": "28.93",
+        "adset_id": "120214554393890046",
+        "adset_name": "07 | ADV+ | ESCOLA TEC. | 1002",
+        "ad_id": "120219528345610046",
+        "ad_name": "AD05 | \"escola_tec\"| 1004",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "738"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "738"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "717"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "856",
+        "account_id": "413233799949309",
+        "reach": "642",
+        "spend": "9.84",
+        "adset_id": "120212732006920046",
+        "adset_name": "01 | MAI_PROMO | 0104",
+        "ad_id": "120219976149880046",
+        "ad_name": "AD15 | \"EAD\"| 14004",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "120"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "120"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "115"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    }
+]

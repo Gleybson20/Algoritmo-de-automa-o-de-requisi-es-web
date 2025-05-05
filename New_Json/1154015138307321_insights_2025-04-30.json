@@ -1,0 +1,124 @@
+[
+    {
+        "impressions": "720",
+        "account_id": "1154015138307321",
+        "reach": "608",
+        "spend": "8.55",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218088619640172",
+        "ad_name": "Transferencia 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1154015138307321",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120219072775270172",
+        "ad_name": "Promo 3 Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "1",
+        "account_id": "1154015138307321",
+        "reach": "1",
+        "spend": "0.02",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120220224365340172",
+        "ad_name": "Promo 3 Ciencias Contabeis",
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "518",
+        "account_id": "1154015138307321",
+        "reach": "453",
+        "spend": "6.02",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120220224477030172",
+        "ad_name": "Promo 3 Direito",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "73"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    }
+]

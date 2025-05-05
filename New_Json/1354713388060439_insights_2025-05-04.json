@@ -1,0 +1,292 @@
+[
+    {
+        "impressions": "12861",
+        "account_id": "1354713388060439",
+        "reach": "12398",
+        "spend": "22.32",
+        "adset_id": "120215039793160422",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120215039793180422",
+        "ad_name": "AD01 | \"FUTURO DA TECNOLOGIA\"| 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1102"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1102"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1029"
+            },
+            {
+                "action_type": "link_click",
+                "value": "73"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "7282",
+        "account_id": "1354713388060439",
+        "reach": "7136",
+        "spend": "16",
+        "adset_id": "120215039793160422",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120215242831750422",
+        "ad_name": "AD02 | \"TOUR GRAÇAS\"| 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "836"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "836"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "783"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "51"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1354713388060439",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220850186140422",
+        "adset_name": "09.02 | ADV+ & Direct | CONTABEIS | 1004",
+        "ad_id": "120220850186130422",
+        "ad_name": "AD01 | \"CONTABEIS\" | 2403",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "54",
+        "account_id": "1354713388060439",
+        "reach": "46",
+        "spend": "1.46",
+        "adset_id": "120218390197250422",
+        "adset_name": "07 | Mai25 | ADV+ | 1302",
+        "ad_id": "120223325265130422",
+        "ad_name": "AD01 | Mai25 | \"promo1\" | 0104",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "2003",
+        "account_id": "1354713388060439",
+        "reach": "1791",
+        "spend": "31.11",
+        "adset_id": "120218390197250422",
+        "adset_name": "07 | Mai25 | ADV+ | 1302",
+        "ad_id": "120223328996130422",
+        "ad_name": "AD05 | Mai25 | \"promo1\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "451"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "451"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "431"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "1347",
+        "account_id": "1354713388060439",
+        "reach": "1187",
+        "spend": "23",
+        "adset_id": "120214948657800422",
+        "adset_name": "07 | ADV+ | GERAIS | 0601",
+        "ad_id": "120223358286840422",
+        "ad_name": "AD10 | Mai25 | \"promo1\" | 0204",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "288"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "288"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "279"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "2292",
+        "account_id": "1354713388060439",
+        "reach": "2001",
+        "spend": "34.05",
+        "adset_id": "120218660269250422",
+        "adset_name": "08.02 | ADV+ & Direct | DIREITO | 2003",
+        "ad_id": "120223358877630422",
+        "ad_name": "ADD04 | Mai25 | \"DIREITO\" | 0204",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "431"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "431"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "406"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    }
+]

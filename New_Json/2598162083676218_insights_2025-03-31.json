@@ -1,0 +1,70 @@
+[
+    {
+        "impressions": "2005",
+        "account_id": "2598162083676218",
+        "reach": "1723",
+        "spend": "78.99",
+        "adset_id": "120216682558530182",
+        "adset_name": "[FORMS][FLN R40KM][EAD] Captação 2025.1",
+        "ad_id": "120216682897340182",
+        "ad_name": "001 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "304",
+        "account_id": "2598162083676218",
+        "reach": "243",
+        "spend": "11.29",
+        "adset_id": "120216443607390182",
+        "adset_name": "[TRÁFEGO] [MSG] EAD - 02",
+        "ad_id": "120218169656210182",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    }
+]

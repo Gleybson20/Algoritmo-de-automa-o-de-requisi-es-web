@@ -1,0 +1,208 @@
+[
+    {
+        "impressions": "1681",
+        "account_id": "1758023371040322",
+        "reach": "1364",
+        "spend": "20.36",
+        "adset_id": "120221476166130134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120221476166170134",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "6075",
+        "account_id": "1758023371040322",
+        "reach": "5778",
+        "spend": "62.75",
+        "adset_id": "120221476166130134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120222503114700134",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "725"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "725"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "687"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "127",
+        "account_id": "1758023371040322",
+        "reach": "121",
+        "spend": "1.2",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503164150134",
+        "ad_name": "[AD01] Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "4638",
+        "account_id": "1758023371040322",
+        "reach": "4142",
+        "spend": "36.98",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503164170134",
+        "ad_name": "[AD02] Biomed",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "307"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "307"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "290"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "6891",
+        "account_id": "1758023371040322",
+        "reach": "5170",
+        "spend": "103.12",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503502720134",
+        "ad_name": "[AD03] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "40"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    }
+]

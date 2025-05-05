@@ -1,0 +1,62 @@
+[
+    {
+        "impressions": "869",
+        "account_id": "185534306223063",
+        "reach": "699",
+        "spend": "13.71",
+        "adset_id": "120220571064040116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120220571064080116",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "1039",
+        "account_id": "185534306223063",
+        "reach": "672",
+        "spend": "14.52",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120226070588820116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    }
+]

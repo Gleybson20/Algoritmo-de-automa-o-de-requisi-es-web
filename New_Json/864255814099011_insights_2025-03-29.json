@@ -1,0 +1,160 @@
+[
+    {
+        "impressions": "338",
+        "account_id": "864255814099011",
+        "reach": "182",
+        "spend": "7.73",
+        "adset_id": "120216872832100384",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216872832070384",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "1870",
+        "account_id": "864255814099011",
+        "reach": "1591",
+        "spend": "24.08",
+        "adset_id": "120216872832100384",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216885788510384",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "177"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "177"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "170"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "1064",
+        "account_id": "864255814099011",
+        "reach": "896",
+        "spend": "13.42",
+        "adset_id": "120217271014440384",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120217271014470384",
+        "ad_name": "[AD01] reel insta",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "123"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "123"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "111"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "3129",
+        "account_id": "864255814099011",
+        "reach": "2141",
+        "spend": "26.48",
+        "adset_id": "120217645980980384",
+        "adset_name": "[CJ02][Advantage]",
+        "ad_id": "120217645981010384",
+        "ad_name": "[AD01] Transf",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    }
+]

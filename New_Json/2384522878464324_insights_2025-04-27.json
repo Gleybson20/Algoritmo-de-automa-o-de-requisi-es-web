@@ -1,0 +1,56 @@
+[
+    {
+        "impressions": "1504",
+        "account_id": "2384522878464324",
+        "reach": "1218",
+        "spend": "68.47",
+        "adset_id": "120220652834410653",
+        "adset_name": "[FORMS][SALVADOR R40KM][ABRIL] - ABERTO",
+        "ad_id": "120220654076630653",
+        "ad_name": "[AD][HOMEM] - FUNDO ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    }
+]

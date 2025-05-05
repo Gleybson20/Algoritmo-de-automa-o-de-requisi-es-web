@@ -1,0 +1,494 @@
+[
+    {
+        "impressions": "1655",
+        "account_id": "685333375655758",
+        "reach": "1297",
+        "spend": "20.65",
+        "adset_id": "120217019896880332",
+        "adset_name": "[04/02] [RMKT] [MIX MORNO]",
+        "ad_id": "120217050562920332",
+        "ad_name": "[AD] [CARROSSEL] [04/02]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "683",
+        "account_id": "685333375655758",
+        "reach": "634",
+        "spend": "1.37",
+        "adset_id": "120214656000090332",
+        "adset_name": "[ALC] [MIX MORNO]",
+        "ad_id": "120217051403050332",
+        "ad_name": "[AD 1] [MEDVET] [04/02]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "59"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "59"
+            },
+            {
+                "action_type": "video_view",
+                "value": "57"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "982",
+        "account_id": "685333375655758",
+        "reach": "892",
+        "spend": "5.78",
+        "adset_id": "120213251438680332",
+        "adset_name": "[VISITAS NO PERFIL] [EXCLUSÃO] [H/M] [18/45] [PORTO VELHO]",
+        "ad_id": "120217619888500332",
+        "ad_name": "[AD] [INFLUENCIADORA] [16/02]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "225"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "225"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "204"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "1",
+        "account_id": "685333375655758",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120217019896880332",
+        "adset_name": "[04/02] [RMKT] [MIX MORNO]",
+        "ad_id": "120217620532780332",
+        "ad_name": "[AD] [ENFERMAGEM] [16/02]",
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "1319",
+        "account_id": "685333375655758",
+        "reach": "1171",
+        "spend": "15.5",
+        "adset_id": "120218426767610332",
+        "adset_name": "[24/02] [DIREITO] [PUB FRIO] [INTERESSES]",
+        "ad_id": "120218426882820332",
+        "ad_name": "[AD] [VID-DIREITO] [24/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "269"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "269"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "263"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "1724",
+        "account_id": "685333375655758",
+        "reach": "1612",
+        "spend": "11.61",
+        "adset_id": "120216333321450332",
+        "adset_name": "[FORMULÁRIOS] [18/65] [PORTO VELHO]",
+        "ad_id": "120218945165780332",
+        "ad_name": "[AD] [COORDENADOR ENFERMAGEM] [04/03] — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "256"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "256"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "242"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "10",
+        "account_id": "685333375655758",
+        "reach": "10",
+        "spend": "0.11",
+        "adset_id": "120216333321450332",
+        "adset_name": "[FORMULÁRIOS] [18/65] [PORTO VELHO]",
+        "ad_id": "120218945176020332",
+        "ad_name": "[AD] [ALUNO PSICOLOGIA] [04/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "15",
+        "account_id": "685333375655758",
+        "reach": "15",
+        "spend": "0.11",
+        "adset_id": "120216333321450332",
+        "adset_name": "[FORMULÁRIOS] [18/65] [PORTO VELHO]",
+        "ad_id": "120218945210530332",
+        "ad_name": "[AD] [ALUNO FARMÁCIA] [04/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "2178",
+        "account_id": "685333375655758",
+        "reach": "2041",
+        "spend": "4.43",
+        "adset_id": "120214656000090332",
+        "adset_name": "[ALC] [MIX MORNO]",
+        "ad_id": "120218945391060332",
+        "ad_name": "[AD 1] [ALUNA ENFERMAGEM] [04/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "138"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "138"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "135"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "540",
+        "account_id": "685333375655758",
+        "reach": "465",
+        "spend": "10.23",
+        "adset_id": "120218945536980332",
+        "adset_name": "[04/03] [EAD] [PUB FRIO] [INTERESSES]",
+        "ad_id": "120218945537000332",
+        "ad_name": "[AD] [VID-EAD] [04/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "52"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "3341",
+        "account_id": "685333375655758",
+        "reach": "2900",
+        "spend": "38.27",
+        "adset_id": "120218945851390332",
+        "adset_name": "[04/03] [ODONTO] [PUB FRIO] [INTERESSES]",
+        "ad_id": "120218945851410332",
+        "ad_name": "[AD] [ODONTO] [04/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "410"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "410"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "399"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "612",
+        "account_id": "685333375655758",
+        "reach": "592",
+        "spend": "7.23",
+        "adset_id": "120218841128240332",
+        "adset_name": "[PUB. FRIO] [INTERESSE] [18/65]",
+        "ad_id": "120219382724810332",
+        "ad_name": "[AD] [ALUNA PSICOLOGIA] [12/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "147"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "147"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "143"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "928",
+        "account_id": "685333375655758",
+        "reach": "585",
+        "spend": "13.58",
+        "adset_id": "120218945851390332",
+        "adset_name": "[04/03] [ODONTO] [PUB FRIO] [INTERESSES]",
+        "ad_id": "120219641568170332",
+        "ad_name": "[AD] [IMG-ODONTO-OFERTA] [17/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "impressions": "524",
+        "account_id": "1758023371040322",
+        "reach": "381",
+        "spend": "5.28",
+        "adset_id": "120221476166130134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120221476166170134",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "5005",
+        "account_id": "1758023371040322",
+        "reach": "4635",
+        "spend": "32.38",
+        "adset_id": "120221476166130134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120222503114700134",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "411"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "411"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "389"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "181",
+        "account_id": "1758023371040322",
+        "reach": "170",
+        "spend": "1.21",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503164170134",
+        "ad_name": "[AD02] Biomed",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "video_view",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "631",
+        "account_id": "1758023371040322",
+        "reach": "548",
+        "spend": "5.71",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503502720134",
+        "ad_name": "[AD03] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    }
+]

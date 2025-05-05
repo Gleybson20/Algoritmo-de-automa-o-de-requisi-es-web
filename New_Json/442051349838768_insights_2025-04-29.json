@@ -1,0 +1,34 @@
+[
+    {
+        "account_id": "442051349838768",
+        "spend": "0",
+        "adset_id": "120215836516860307",
+        "adset_name": "[24/02] [ODONTOLOGIA] [VCA+CIDADES]",
+        "ad_id": "120215836516880307",
+        "ad_name": "[AD] [VIDEO-ODONTO-EXALUNO] [24/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "account_id": "442051349838768",
+        "spend": "0",
+        "adset_id": "120215834432000307",
+        "adset_name": "[24/02] [FARMACIA] [VCA+CIDADES]",
+        "ad_id": "120216962656890307",
+        "ad_name": "[AD] [INFLUENCER3] [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "impressions": "4168",
+        "account_id": "273717500551075",
+        "reach": "3192",
+        "spend": "49.41",
+        "adset_id": "120221785368830462",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120221785368910462",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    }
+]

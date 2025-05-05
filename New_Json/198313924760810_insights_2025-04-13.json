@@ -1,0 +1,152 @@
+[
+    {
+        "impressions": "84",
+        "account_id": "198313924760810",
+        "reach": "76",
+        "spend": "2.64",
+        "adset_id": "120220114121790565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220114121780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "262",
+        "account_id": "198313924760810",
+        "reach": "227",
+        "spend": "5.25",
+        "adset_id": "120221513602030565",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120221513602020565",
+        "ad_name": "[AD01] Pedagogia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "39"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "870",
+        "account_id": "198313924760810",
+        "reach": "762",
+        "spend": "9.58",
+        "adset_id": "120221513602030565",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120221514116980565",
+        "ad_name": "[AD02] Ed. Física",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "180"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "180"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "174"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "5",
+        "account_id": "198313924760810",
+        "reach": "5",
+        "spend": "0.03",
+        "adset_id": "120220114121790565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120221514837850565",
+        "ad_name": "[AD02] Carrossel",
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    }
+]

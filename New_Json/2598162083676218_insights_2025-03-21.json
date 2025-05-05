@@ -1,0 +1,140 @@
+[
+    {
+        "impressions": "5226",
+        "account_id": "2598162083676218",
+        "reach": "4097",
+        "spend": "109.7",
+        "adset_id": "120216682558530182",
+        "adset_name": "[FORMS][FLN R40KM][EAD] Captação 2025.1",
+        "ad_id": "120216682558620182",
+        "ad_name": "002 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "98",
+        "account_id": "2598162083676218",
+        "reach": "85",
+        "spend": "2.83",
+        "adset_id": "120216682558530182",
+        "adset_name": "[FORMS][FLN R40KM][EAD] Captação 2025.1",
+        "ad_id": "120216682897340182",
+        "ad_name": "001 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "299",
+        "account_id": "2598162083676218",
+        "reach": "229",
+        "spend": "11.05",
+        "adset_id": "120216443607390182",
+        "adset_name": "[TRÁFEGO] [MSG] EAD - 02",
+        "ad_id": "120218169656200182",
+        "ad_name": "[AD] - HOMEM",
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "2546",
+        "account_id": "2598162083676218",
+        "reach": "1990",
+        "spend": "70.93",
+        "adset_id": "120216443607390182",
+        "adset_name": "[TRÁFEGO] [MSG] EAD - 02",
+        "ad_id": "120218169656210182",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    }
+]

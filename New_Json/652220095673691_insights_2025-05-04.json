@@ -1,0 +1,78 @@
+[
+    {
+        "impressions": "1381",
+        "account_id": "652220095673691",
+        "reach": "1307",
+        "spend": "4.83",
+        "adset_id": "120217618011180417",
+        "adset_name": "06 | ADV+ & Direct | Promo_01 | 0104",
+        "ad_id": "120218014204320417",
+        "ad_name": "AD17 | \"Localização\" | 1903",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "163"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "163"
+            },
+            {
+                "action_type": "video_view",
+                "value": "159"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "74",
+        "account_id": "652220095673691",
+        "reach": "69",
+        "spend": "0.27",
+        "adset_id": "120217618011180417",
+        "adset_name": "06 | ADV+ & Direct | Promo_01 | 0104",
+        "ad_id": "120218029434730417",
+        "ad_name": "AD18 | \"cursos técnicos\" | 1903",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "47",
+        "account_id": "652220095673691",
+        "reach": "46",
+        "spend": "0.39",
+        "adset_id": "120217618011180417",
+        "adset_name": "06 | ADV+ & Direct | Promo_01 | 0104",
+        "ad_id": "120223714977250417",
+        "ad_name": "AD20 | \"promo_01\" | 0104",
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    }
+]

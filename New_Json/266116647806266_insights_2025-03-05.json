@@ -1,0 +1,208 @@
+[
+    {
+        "impressions": "341",
+        "account_id": "266116647806266",
+        "reach": "296",
+        "spend": "2.95",
+        "adset_id": "120218475067600251",
+        "adset_name": "[FORMS][CG R60KM][MARÇO] - ABERTO",
+        "ad_id": "120218475067630251",
+        "ad_name": "[AD] - LARANJA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "4161",
+        "account_id": "266116647806266",
+        "reach": "3005",
+        "spend": "28.23",
+        "adset_id": "120218475067600251",
+        "adset_name": "[FORMS][CG R60KM][MARÇO] - ABERTO",
+        "ad_id": "120218475235060251",
+        "ad_name": "[AD] - AZUL",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "13"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "15776",
+        "account_id": "266116647806266",
+        "reach": "11027",
+        "spend": "56.6",
+        "adset_id": "120218475067600251",
+        "adset_name": "[FORMS][CG R60KM][MARÇO] - ABERTO",
+        "ad_id": "120218475243130251",
+        "ad_name": "[AD] - PRETO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "49"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "49"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "27"
+            },
+            {
+                "action_type": "link_click",
+                "value": "49"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "2149",
+        "account_id": "266116647806266",
+        "reach": "1271",
+        "spend": "34.35",
+        "adset_id": "120217620261950251",
+        "adset_name": "[WPP-IG][CG R60KM][ABERTO] - MÊS DO CONSUMIDOR",
+        "ad_id": "120218475435280251",
+        "ad_name": "[AD][VÍDEO] - MÊS DO CONSUMIDOR",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "223"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "223"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "212"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "3814",
+        "account_id": "266116647806266",
+        "reach": "2550",
+        "spend": "76.16",
+        "adset_id": "120217620261950251",
+        "adset_name": "[WPP-IG][CG R60KM][ABERTO] - MÊS DO CONSUMIDOR",
+        "ad_id": "120218475450540251",
+        "ad_name": "[AD][VÍDEO] - ESTUDE NA UNINASSAU",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "697"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "697"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "665"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    }
+]

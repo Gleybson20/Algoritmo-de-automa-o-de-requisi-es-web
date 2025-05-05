@@ -1,0 +1,78 @@
+[
+    {
+        "impressions": "6170",
+        "account_id": "427999658307455",
+        "reach": "3781",
+        "spend": "41.49",
+        "adset_id": "120218040241960565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040241940565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    },
+    {
+        "impressions": "767",
+        "account_id": "427999658307455",
+        "reach": "465",
+        "spend": "5.22",
+        "adset_id": "120218040241960565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057381080565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    }
+]

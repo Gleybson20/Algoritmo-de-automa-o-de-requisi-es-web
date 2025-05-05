@@ -1,0 +1,258 @@
+[
+    {
+        "impressions": "1500",
+        "account_id": "298926841283208",
+        "reach": "1228",
+        "spend": "26.64",
+        "adset_id": "120215025180890695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120215025180810695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "5169",
+        "account_id": "298926841283208",
+        "reach": "4170",
+        "spend": "44.15",
+        "adset_id": "120215116106090695",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120215116106080695",
+        "ad_name": "[AD02] Med Vet",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "1357",
+        "account_id": "298926841283208",
+        "reach": "1167",
+        "spend": "17.96",
+        "adset_id": "120215116106090695",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120215116158620695",
+        "ad_name": "[AD01] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "4428",
+        "account_id": "298926841283208",
+        "reach": "3595",
+        "spend": "40.64",
+        "adset_id": "120215116106090695",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120215816385510695",
+        "ad_name": "[AD03] Med Vet — Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "702"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "701"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "680"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "3210",
+        "account_id": "298926841283208",
+        "reach": "2867",
+        "spend": "31.32",
+        "adset_id": "120215116106090695",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120215816429710695",
+        "ad_name": "[AD04] Enfermagem - Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "353"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "353"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "342"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "1437",
+        "account_id": "298926841283208",
+        "reach": "1222",
+        "spend": "22.33",
+        "adset_id": "120215116106090695",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120215816534790695",
+        "ad_name": "[AD01] Farmácia - Vídeo",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "252"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "252"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "239"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    }
+]

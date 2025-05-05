@@ -1,0 +1,104 @@
+[
+    {
+        "impressions": "1666",
+        "account_id": "266116647806266",
+        "reach": "1091",
+        "spend": "12.28",
+        "adset_id": "120221589261630251",
+        "adset_name": "[WPP+IG][CG E REGIÃO] - VÍDEO",
+        "ad_id": "120221589261640251",
+        "ad_name": "[AD] - VÍDEO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "151"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "151"
+            },
+            {
+                "action_type": "video_view",
+                "value": "142"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "7815",
+        "account_id": "266116647806266",
+        "reach": "4694",
+        "spend": "48.74",
+        "adset_id": "120221589261630251",
+        "adset_name": "[WPP+IG][CG E REGIÃO] - VÍDEO",
+        "ad_id": "120221589703290251",
+        "ad_name": "[AD] - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "3245",
+        "account_id": "266116647806266",
+        "reach": "2135",
+        "spend": "50.32",
+        "adset_id": "120221673905710251",
+        "adset_name": "[WPP-IG][CG R60KM][EAD] - ABRIL",
+        "ad_id": "120221673950920251",
+        "ad_name": "[AD][VÍDEO] - EAD",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "410"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "410"
+            },
+            {
+                "action_type": "video_view",
+                "value": "396"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    }
+]

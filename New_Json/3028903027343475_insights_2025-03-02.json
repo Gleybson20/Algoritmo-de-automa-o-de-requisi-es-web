@@ -1,0 +1,174 @@
+[
+    {
+        "impressions": "1967",
+        "account_id": "3028903027343475",
+        "reach": "1376",
+        "spend": "26.8",
+        "adset_id": "120216196818670072",
+        "adset_name": "[WPP + IG][CACOAL+REGIÃO]",
+        "ad_id": "120216196818720072",
+        "ad_name": "[AD][VÍDEO] - DIREITO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "189"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    },
+    {
+        "impressions": "43836",
+        "account_id": "3028903027343475",
+        "reach": "27750",
+        "spend": "55.9",
+        "adset_id": "120216199215780072",
+        "adset_name": "[REC][CACOAL E REGIÃO] - RECEPÇÃO",
+        "ad_id": "120216199216150072",
+        "ad_name": "[AD][POSTADO] - Aula de Recepçã",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2282"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2282"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2242"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    },
+    {
+        "impressions": "1998",
+        "account_id": "3028903027343475",
+        "reach": "1261",
+        "spend": "26.83",
+        "adset_id": "120216196818670072",
+        "adset_name": "[WPP + IG][CACOAL+REGIÃO]",
+        "ad_id": "120216200223120072",
+        "ad_name": "[AD][VÍDEO] - FISIOTERAPIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "166"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "166"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "157"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    },
+    {
+        "impressions": "1757",
+        "account_id": "3028903027343475",
+        "reach": "1134",
+        "spend": "14.39",
+        "adset_id": "120216196818670072",
+        "adset_name": "[WPP + IG][CACOAL+REGIÃO]",
+        "ad_id": "120216200223130072",
+        "ad_name": "[AD][VÍDEO] - NUTRIÇÃO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "142"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "142"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "134"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "impressions": "2074",
+        "account_id": "260541305274163",
+        "reach": "1746",
+        "spend": "12.86",
+        "adset_id": "120216686529350428",
+        "adset_name": "02 | PROMO_MAI | ADV+",
+        "ad_id": "120217674648640428",
+        "ad_name": "05 | (Imagem interna) Vestibular Janeiro | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "214",
+        "account_id": "260541305274163",
+        "reach": "184",
+        "spend": "1.95",
+        "adset_id": "120216686529350428",
+        "adset_name": "02 | PROMO_MAI | ADV+",
+        "ad_id": "120217679398960428",
+        "ad_name": "06 | (vídeo) \"Geral\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "video_view",
+                "value": "19"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "781",
+        "account_id": "260541305274163",
+        "reach": "604",
+        "spend": "8.25",
+        "adset_id": "120217917998840428",
+        "adset_name": "02 | ADV+ | ENGENHARIA | 1801",
+        "ad_id": "120217918050090428",
+        "ad_name": "AD02 | \"ENGENHARIA\" | 1801",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "86"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "86"
+            },
+            {
+                "action_type": "video_view",
+                "value": "86"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "886",
+        "account_id": "260541305274163",
+        "reach": "711",
+        "spend": "7.56",
+        "adset_id": "120218660450700428",
+        "adset_name": "01 | ADV+ | ODONTO | 0602",
+        "ad_id": "120219358184930428",
+        "ad_name": "AD02 | \"ODONTO\" | 1902",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "92"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "92"
+            },
+            {
+                "action_type": "video_view",
+                "value": "90"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    }
+]

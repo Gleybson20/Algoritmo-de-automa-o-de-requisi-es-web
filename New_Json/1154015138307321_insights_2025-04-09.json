@@ -1,0 +1,104 @@
+[
+    {
+        "impressions": "684",
+        "account_id": "1154015138307321",
+        "reach": "603",
+        "spend": "12.82",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218088619640172",
+        "ad_name": "Transferencia 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "4112",
+        "account_id": "1154015138307321",
+        "reach": "3150",
+        "spend": "39.68",
+        "adset_id": "120216378370430172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218559901320172",
+        "ad_name": "Promo 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "lead",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "101",
+        "account_id": "1154015138307321",
+        "reach": "97",
+        "spend": "0.88",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120219028880420172",
+        "ad_name": "Novo anúncio de Engajamento",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    }
+]

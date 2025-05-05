@@ -1,0 +1,32 @@
+[
+    {
+        "impressions": "6582",
+        "account_id": "1758023371040322",
+        "reach": "4645",
+        "spend": "47.04",
+        "adset_id": "120221476166130134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120221476166170134",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    }
+]

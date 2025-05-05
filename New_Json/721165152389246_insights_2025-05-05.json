@@ -1,0 +1,112 @@
+[
+    {
+        "impressions": "998",
+        "account_id": "721165152389246",
+        "reach": "847",
+        "spend": "14.48",
+        "adset_id": "120219753474560690",
+        "adset_name": "[WPP - CRIS][RONDONIA + MATO GROSSO][ABRIL] - Inscriçoes Medicina",
+        "ad_id": "120219754496520690",
+        "ad_name": "[AD] - M",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "6496",
+        "account_id": "721165152389246",
+        "reach": "5665",
+        "spend": "85.66",
+        "adset_id": "120219753474560690",
+        "adset_name": "[WPP - CRIS][RONDONIA + MATO GROSSO][ABRIL] - Inscriçoes Medicina",
+        "ad_id": "120219902775060690",
+        "ad_name": "[AD] - FAÇA ACONTECER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "466",
+        "account_id": "721165152389246",
+        "reach": "397",
+        "spend": "8.07",
+        "adset_id": "120220438715540690",
+        "adset_name": "[WPP - CRIS][MAT-SEMELHANTE][ABRIL] - INSCRIÇÕES",
+        "ad_id": "120220438715550690",
+        "ad_name": "[AD] - M",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    }
+]

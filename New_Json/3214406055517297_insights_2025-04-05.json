@@ -1,0 +1,78 @@
+[
+    {
+        "impressions": "3657",
+        "account_id": "3214406055517297",
+        "reach": "3434",
+        "spend": "21.98",
+        "adset_id": "120220660948830334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120221619387320334",
+        "ad_name": "Transferencia - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "1640",
+        "account_id": "3214406055517297",
+        "reach": "1330",
+        "spend": "29.86",
+        "adset_id": "120218465802350334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120222882158970334",
+        "ad_name": "Promo 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "impressions": "15395",
+        "account_id": "3214406055517297",
+        "reach": "12295",
+        "spend": "63.24",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120219842027120334",
+        "ad_name": "Mês do Consumidor 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "lead",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "59"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    }
+]

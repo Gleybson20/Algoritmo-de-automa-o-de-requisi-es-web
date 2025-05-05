@@ -1,0 +1,36 @@
+[
+    {
+        "impressions": "22856",
+        "account_id": "1154015138307321",
+        "reach": "17046",
+        "spend": "81.96",
+        "adset_id": "120217426004670172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120217426004690172",
+        "ad_name": "Mês do consumidor",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "lead",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "81"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    }
+]

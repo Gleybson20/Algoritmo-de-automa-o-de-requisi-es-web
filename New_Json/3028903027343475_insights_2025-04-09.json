@@ -1,0 +1,86 @@
+[
+    {
+        "impressions": "2834",
+        "account_id": "3028903027343475",
+        "reach": "2027",
+        "spend": "32.95",
+        "adset_id": "120218397874570072",
+        "adset_name": "[MSG - WPP+IG][LOOKALIKE+PÚBLICO][ABRIL] - CURSOS",
+        "ad_id": "120218397874490072",
+        "ad_name": "[AD] - NUTRIÇÃO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "2226",
+        "account_id": "3028903027343475",
+        "reach": "1813",
+        "spend": "20.05",
+        "adset_id": "120218397874570072",
+        "adset_name": "[MSG - WPP+IG][LOOKALIKE+PÚBLICO][ABRIL] - CURSOS",
+        "ad_id": "120218397874500072",
+        "ad_name": "[AD] - FISIOTERAPIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    }
+]

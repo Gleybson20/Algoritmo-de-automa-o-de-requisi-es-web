@@ -1,0 +1,132 @@
+[
+    {
+        "impressions": "7",
+        "account_id": "1154015138307321",
+        "reach": "7",
+        "spend": "0.04",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218088619640172",
+        "ad_name": "Transferencia 1",
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "7525",
+        "account_id": "1154015138307321",
+        "reach": "6588",
+        "spend": "45.81",
+        "adset_id": "120216378370430172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120219072725710172",
+        "ad_name": "Promo 3 — 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "713"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "713"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "660"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "49"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "1356",
+        "account_id": "1154015138307321",
+        "reach": "945",
+        "spend": "13.89",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120219072775270172",
+        "ad_name": "Promo 3 Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "189"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "189"
+            },
+            {
+                "action_type": "video_view",
+                "value": "169"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "1531",
+        "account_id": "1154015138307321",
+        "reach": "1168",
+        "spend": "16.29",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120219072893950172",
+        "ad_name": "Transferencia 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "impressions": "1178",
+        "account_id": "207224937995313",
+        "reach": "959",
+        "spend": "10.53",
+        "adset_id": "120221352954580547",
+        "adset_name": "[MSG WPP-IG][ABRIL] - ABERTO",
+        "ad_id": "120221352954600547",
+        "ad_name": "[AD][MULHER] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-07",
+        "date_stop": "2025-04-07"
+    },
+    {
+        "impressions": "905",
+        "account_id": "207224937995313",
+        "reach": "740",
+        "spend": "9.08",
+        "adset_id": "120221352954580547",
+        "adset_name": "[MSG WPP-IG][ABRIL] - ABERTO",
+        "ad_id": "120221353786750547",
+        "ad_name": "[AD][MULHER] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-07",
+        "date_stop": "2025-04-07"
+    }
+]

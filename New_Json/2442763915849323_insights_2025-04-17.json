@@ -1,0 +1,600 @@
+[
+    {
+        "impressions": "25",
+        "account_id": "2442763915849323",
+        "reach": "21",
+        "spend": "0.5",
+        "adset_id": "120213481657720249",
+        "adset_name": "[REMARKETING] [17/11] [EAD] [MIX MORNO]",
+        "ad_id": "120214276294290249",
+        "ad_name": "[AD] [TODOS OS CURSOS EAD] [18/12]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "481",
+        "account_id": "2442763915849323",
+        "reach": "411",
+        "spend": "5.21",
+        "adset_id": "120214770116620249",
+        "adset_name": "[07/01] [PALMAS + CIDADES] [18/65] [INTERESSES]",
+        "ad_id": "120214770116790249",
+        "ad_name": "[AD 1] [VIDEO MARA NOGUEIRA] [07/01]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "80"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "2183",
+        "account_id": "2442763915849323",
+        "reach": "2113",
+        "spend": "5.75",
+        "adset_id": "120211715550170249",
+        "adset_name": "[18-45/INTERESSES] [PALMAS] [EXCLUSÃO DE PUB]",
+        "ad_id": "120214953004850249",
+        "ad_name": "[AD] [DIRETOR PEDRO] — [15/01]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "140"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "140"
+            },
+            {
+                "action_type": "video_view",
+                "value": "120"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "445",
+        "account_id": "2442763915849323",
+        "reach": "379",
+        "spend": "7.16",
+        "adset_id": "120214484528040249",
+        "adset_name": "[EAD] [VÁRIAS CIDADES] [ABERTO] [18/65]",
+        "ad_id": "120217512178910249",
+        "ad_name": "[AD] [NOVOS CARDS-FEV] [03/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "23",
+        "account_id": "2442763915849323",
+        "reach": "23",
+        "spend": "0.06",
+        "adset_id": "120211715550170249",
+        "adset_name": "[18-45/INTERESSES] [PALMAS] [EXCLUSÃO DE PUB]",
+        "ad_id": "120217987123150249",
+        "ad_name": "[AD] [BOAS VINDAS NOVA UNIDADE] — [03/03]",
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "412",
+        "account_id": "2442763915849323",
+        "reach": "354",
+        "spend": "4.41",
+        "adset_id": "120214772785160249",
+        "adset_name": "[18/65] [PALMAS+OUTRAS CIDADES] [INTERESSES]",
+        "ad_id": "120217987864260249",
+        "ad_name": "[AD] [VID-ODONTO] [03/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "56"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "56"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "52"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "233",
+        "account_id": "2442763915849323",
+        "reach": "172",
+        "spend": "3.15",
+        "adset_id": "120213481657720249",
+        "adset_name": "[REMARKETING] [17/11] [EAD] [MIX MORNO]",
+        "ad_id": "120217988248020249",
+        "ad_name": "[AD] [NOVOS CARDS-MARÇO] [03/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "399",
+        "account_id": "2442763915849323",
+        "reach": "343",
+        "spend": "4.96",
+        "adset_id": "120214770983590249",
+        "adset_name": "[07/01] [PALMAS + CIDADES] [18/65] [INTERESSES] — Cópia",
+        "ad_id": "120218562735150249",
+        "ad_name": "[AD] [PROFESSORA - FISIOTERAPIA] [12/03] — Cópia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "59"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "6",
+        "account_id": "2442763915849323",
+        "reach": "6",
+        "spend": "0.1",
+        "adset_id": "120214484528040249",
+        "adset_name": "[EAD] [VÁRIAS CIDADES] [ABERTO] [18/65]",
+        "ad_id": "120218819518530249",
+        "ad_name": "[AD] [FISIOTERAPIA] [17/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "686",
+        "account_id": "2442763915849323",
+        "reach": "534",
+        "spend": "11.42",
+        "adset_id": "120214484528040249",
+        "adset_name": "[EAD] [VÁRIAS CIDADES] [ABERTO] [18/65]",
+        "ad_id": "120219134735340249",
+        "ad_name": "[AD] [BIOMEDICINA-EAD] [24/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "2911",
+        "account_id": "2442763915849323",
+        "reach": "2811",
+        "spend": "5.86",
+        "adset_id": "120213481524590249",
+        "adset_name": "[ALC 1] [MIX MORNO]",
+        "ad_id": "120220179947780249",
+        "ad_name": "[AD] [PROMO ABRIL] [01/04]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "3",
+        "account_id": "2442763915849323",
+        "reach": "3",
+        "spend": "0.02",
+        "adset_id": "120213718014750249",
+        "adset_name": "[MSGS] [26/11] — [QG] [ABERTO-18/65] [VÁRIAS CIDADES]",
+        "ad_id": "120220181416050249",
+        "ad_name": "[AD] [DIREITO-VIDEO 2]-[01/04]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "2219",
+        "account_id": "2442763915849323",
+        "reach": "1857",
+        "spend": "23.81",
+        "adset_id": "120221325337560249",
+        "adset_name": "[07/04] [PALMAS + CIDADES] [18/65] [INTERESSES]",
+        "ad_id": "120221325337570249",
+        "ad_name": "[AD 1] [IMG-PSICOLOGIA] [07/04]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "1670",
+        "account_id": "2442763915849323",
+        "reach": "1341",
+        "spend": "23.62",
+        "adset_id": "120213718014750249",
+        "adset_name": "[MSGS] [26/11] — [QG] [ABERTO-18/65] [VÁRIAS CIDADES]",
+        "ad_id": "120222547440320249",
+        "ad_name": "[AD] [DIREITO-ALUNA]-[16/04]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "286"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "286"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "274"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "453",
+        "account_id": "2442763915849323",
+        "reach": "330",
+        "spend": "9.49",
+        "adset_id": "120213481903790249",
+        "adset_name": "[REMARKETING] [17/11] [DIREITO] [MIX MORNO]",
+        "ad_id": "120222548303030249",
+        "ad_name": "[AD] [DIREITO-ALUNA] [16/04]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "video_view",
+                "value": "76"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "353",
+        "account_id": "2442763915849323",
+        "reach": "243",
+        "spend": "3.11",
+        "adset_id": "120213481806010249",
+        "adset_name": "[REMARKETING] [17/11]  [MIX MORNO] [PSICOLOGIA]",
+        "ad_id": "120222548884460249",
+        "ad_name": "[AD 1] [IMG-PSICOLOGIA] [16/04]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    }
+]

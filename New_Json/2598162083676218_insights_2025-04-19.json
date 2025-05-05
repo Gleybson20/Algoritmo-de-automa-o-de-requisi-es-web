@@ -1,0 +1,108 @@
+[
+    {
+        "impressions": "3788",
+        "account_id": "2598162083676218",
+        "reach": "3168",
+        "spend": "87.72",
+        "adset_id": "120220199347040182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ABERTO] - ABRIL",
+        "ad_id": "120220199347090182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "2209",
+        "account_id": "2598162083676218",
+        "reach": "1679",
+        "spend": "84.62",
+        "adset_id": "120220199347040182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ABERTO] - ABRIL",
+        "ad_id": "120220199977060182",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "889",
+        "account_id": "2598162083676218",
+        "reach": "667",
+        "spend": "29.32",
+        "adset_id": "120220199347040182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ABERTO] - ABRIL",
+        "ad_id": "120220199977070182",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    }
+]

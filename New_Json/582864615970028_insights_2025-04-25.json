@@ -1,0 +1,158 @@
+[
+    {
+        "impressions": "410",
+        "account_id": "582864615970028",
+        "reach": "326",
+        "spend": "4.99",
+        "adset_id": "120218080339830172",
+        "adset_name": "Maracanau +20KM",
+        "ad_id": "120218080339850172",
+        "ad_name": "Medicina",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "597",
+        "account_id": "582864615970028",
+        "reach": "433",
+        "spend": "8.58",
+        "adset_id": "120218011705050172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120218557636990172",
+        "ad_name": "Promo 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "706",
+        "account_id": "582864615970028",
+        "reach": "563",
+        "spend": "5.72",
+        "adset_id": "120218920632420172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120218920672040172",
+        "ad_name": "Ead Eng Eletrica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "481",
+        "account_id": "582864615970028",
+        "reach": "379",
+        "spend": "4.26",
+        "adset_id": "120218920632420172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120219001605700172",
+        "ad_name": "EaD Estética",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    }
+]

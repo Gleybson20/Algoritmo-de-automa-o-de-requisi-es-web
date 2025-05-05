@@ -1,0 +1,396 @@
+[
+    {
+        "impressions": "5",
+        "account_id": "264383791293755",
+        "reach": "5",
+        "spend": "0.08",
+        "adset_id": "120213886173660114",
+        "adset_name": "02 | ADV+ | PROMO_01 | 0104",
+        "ad_id": "120215086270060114",
+        "ad_name": "AD08 | \"Odontologia\"",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "15",
+        "account_id": "264383791293755",
+        "reach": "10",
+        "spend": "0.76",
+        "adset_id": "120213886173660114",
+        "adset_name": "02 | ADV+ | PROMO_01 | 0104",
+        "ad_id": "120215086287450114",
+        "ad_name": "AD10 | \"Administração\"",
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "2157",
+        "account_id": "264383791293755",
+        "reach": "1702",
+        "spend": "43.51",
+        "adset_id": "120213886173660114",
+        "adset_name": "02 | ADV+ | PROMO_01 | 0104",
+        "ad_id": "120215086297080114",
+        "ad_name": "AD11 | \"Farmacia\"",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "314"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "314"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "301"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1",
+        "account_id": "264383791293755",
+        "reach": "1",
+        "spend": "0.02",
+        "adset_id": "120213886173660114",
+        "adset_name": "02 | ADV+ | PROMO_01 | 0104",
+        "ad_id": "120215086339340114",
+        "ad_name": "AD12 | \"Fisioterapia\"",
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "15",
+        "account_id": "264383791293755",
+        "reach": "11",
+        "spend": "0.7",
+        "adset_id": "120213886173660114",
+        "adset_name": "02 | ADV+ | PROMO_01 | 0104",
+        "ad_id": "120215086367130114",
+        "ad_name": "AD13 | \"Direito\"",
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "5538",
+        "account_id": "264383791293755",
+        "reach": "5142",
+        "spend": "18.45",
+        "adset_id": "120215302714600114",
+        "adset_name": "01 | ADV+ | 1001",
+        "ad_id": "120215302714620114",
+        "ad_name": "AD01 | \"UNIDADE\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "49"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "49"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "42"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1049",
+        "account_id": "264383791293755",
+        "reach": "835",
+        "spend": "39.27",
+        "adset_id": "120215324107640114",
+        "adset_name": "01 | ADV+ | DIREITO | 1101",
+        "ad_id": "120215324107430114",
+        "ad_name": "AD01 | \"Direito\" | 1101",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "111"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "111"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "107"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1682",
+        "account_id": "264383791293755",
+        "reach": "1400",
+        "spend": "36.77",
+        "adset_id": "120215426605060114",
+        "adset_name": "06 | ADV+ | ENFERMAGEM | 1401",
+        "ad_id": "120216241598430114",
+        "ad_name": "AD02 | \"Enfermagem\" | 0402",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "269"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "269"
+            },
+            {
+                "action_type": "video_view",
+                "value": "261"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1876",
+        "account_id": "264383791293755",
+        "reach": "1608",
+        "spend": "33.57",
+        "adset_id": "120215324203780114",
+        "adset_name": "04 | ADV+ | ODONTO | 1101",
+        "ad_id": "120216248382550114",
+        "ad_name": "AD01 | \"Odontologia\" | 0602",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "336"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "336"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "327"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1597",
+        "account_id": "264383791293755",
+        "reach": "1345",
+        "spend": "38.97",
+        "adset_id": "120216511748950114",
+        "adset_name": "08 | ADV+ | NUTRIÇÃO | 1002",
+        "ad_id": "120216511748940114",
+        "ad_name": "AD01 | \"Nutrição\" | 0602",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "282"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "282"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "266"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1221",
+        "account_id": "264383791293755",
+        "reach": "731",
+        "spend": "26.58",
+        "adset_id": "120213886173660114",
+        "adset_name": "02 | ADV+ | PROMO_01 | 0104",
+        "ad_id": "120216843629670114",
+        "ad_name": "AD14 | \"PROMO FEV\" | 1602",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "2784",
+        "account_id": "264383791293755",
+        "reach": "2454",
+        "spend": "51.29",
+        "adset_id": "120213886173660114",
+        "adset_name": "02 | ADV+ | PROMO_01 | 0104",
+        "ad_id": "120217768058930114",
+        "ad_name": "AD09 | \"Sistema de informação\" | 2502",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "752"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "752"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "726"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "impressions": "2445",
+        "account_id": "355726933640549",
+        "reach": "1986",
+        "spend": "28.99",
+        "adset_id": "120216182029140026",
+        "adset_name": "[MSG][WPP+IG][LAPA R40KM] Fevereiro",
+        "ad_id": "120216182029170026",
+        "ad_name": "[AD][HOMEM] - DINÂMICO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "15044",
+        "account_id": "355726933640549",
+        "reach": "9406",
+        "spend": "145.47",
+        "adset_id": "120216182029140026",
+        "adset_name": "[MSG][WPP+IG][LAPA R40KM] Fevereiro",
+        "ad_id": "120216182148540026",
+        "ad_name": "[AD][MULHER] - DINÂMICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "like",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "41"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "640",
+        "account_id": "355726933640549",
+        "reach": "468",
+        "spend": "7.23",
+        "adset_id": "120216182029140026",
+        "adset_name": "[MSG][WPP+IG][LAPA R40KM] Fevereiro",
+        "ad_id": "120216182154990026",
+        "ad_name": "[AD][HOMEM] - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    }
+]

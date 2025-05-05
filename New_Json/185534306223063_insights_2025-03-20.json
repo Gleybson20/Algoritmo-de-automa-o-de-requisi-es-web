@@ -1,0 +1,134 @@
+[
+    {
+        "impressions": "1135",
+        "account_id": "185534306223063",
+        "reach": "434",
+        "spend": "18.84",
+        "adset_id": "120219496986200116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120219496986210116",
+        "ad_name": "Mês do Consumidor",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "0",
+        "account_id": "185534306223063",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120219496986200116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120220337094910116",
+        "ad_name": "Mês do Consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "3015",
+        "account_id": "185534306223063",
+        "reach": "1756",
+        "spend": "46.47",
+        "adset_id": "120219496986200116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120220505208250116",
+        "ad_name": "Mês do Consumidor — Video",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "337"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "337"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "310"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "3785",
+        "account_id": "185534306223063",
+        "reach": "2354",
+        "spend": "41.05",
+        "adset_id": "120220571064040116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120220571064080116",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    }
+]

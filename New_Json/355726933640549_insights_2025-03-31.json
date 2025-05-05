@@ -1,0 +1,82 @@
+[
+    {
+        "impressions": "176",
+        "account_id": "355726933640549",
+        "reach": "152",
+        "spend": "2.07",
+        "adset_id": "120217820022190026",
+        "adset_name": "[MSG][WPP+IG][LAPA R40KM][MARÇO] - ABERTO",
+        "ad_id": "120217820022210026",
+        "ad_name": "[AD][HOMEM] - NEGRO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "152",
+        "account_id": "355726933640549",
+        "reach": "131",
+        "spend": "3.2",
+        "adset_id": "120217820022190026",
+        "adset_name": "[MSG][WPP+IG][LAPA R40KM][MARÇO] - ABERTO",
+        "ad_id": "120217820022220026",
+        "ad_name": "[AD][MULHER] - LOIRA",
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "221",
+        "account_id": "355726933640549",
+        "reach": "189",
+        "spend": "2.9",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MARÇO] - Mês do Consumidor",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    }
+]

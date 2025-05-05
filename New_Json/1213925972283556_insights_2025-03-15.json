@@ -1,0 +1,166 @@
+[
+    {
+        "impressions": "5575",
+        "account_id": "1213925972283556",
+        "reach": "5575",
+        "spend": "16.72",
+        "adset_id": "120219761045980221",
+        "adset_name": "00 | ADV+ | AUTO | 0703",
+        "ad_id": "120219761046610221",
+        "ad_name": "AD01 | \"Graduação e Pós | 0703",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "724"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "724"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "654"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "57"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "1685",
+        "account_id": "1213925972283556",
+        "reach": "1645",
+        "spend": "4.85",
+        "adset_id": "120219761045980221",
+        "adset_name": "00 | ADV+ | AUTO | 0703",
+        "ad_id": "120219762028880221",
+        "ad_name": "AD01 | \"8 Motivos para escolher Garanhuns | 0703",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "206"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "206"
+            },
+            {
+                "action_type": "video_view",
+                "value": "190"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "10191",
+        "account_id": "1213925972283556",
+        "reach": "7921",
+        "spend": "60.72",
+        "adset_id": "120220063313700221",
+        "adset_name": "05 | Aberto | 18-44 | 1102 — Cópia",
+        "ad_id": "120220063313670221",
+        "ad_name": "AD09 | \"Fachada\" | 1303",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "21"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "7",
+        "account_id": "1213925972283556",
+        "reach": "6",
+        "spend": "0.04",
+        "adset_id": "120220063313700221",
+        "adset_name": "05 | Aberto | 18-44 | 1102 — Cópia",
+        "ad_id": "120220063313680221",
+        "ad_name": "AD08 | \"Consumidor\" | 0503",
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "2408",
+        "account_id": "1213925972283556",
+        "reach": "1815",
+        "spend": "23.27",
+        "adset_id": "120220063313700221",
+        "adset_name": "05 | Aberto | 18-44 | 1102 — Cópia",
+        "ad_id": "120220063313690221",
+        "ad_name": "AD08 | \"interno\" | 1602",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "23",
+        "account_id": "1213925972283556",
+        "reach": "23",
+        "spend": "0.23",
+        "adset_id": "120220063313700221",
+        "adset_name": "05 | Aberto | 18-44 | 1102 — Cópia",
+        "ad_id": "120220063313710221",
+        "ad_name": "AD05 | \"interno\" | 1801",
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    }
+]

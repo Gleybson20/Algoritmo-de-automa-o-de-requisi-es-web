@@ -1,0 +1,66 @@
+[
+    {
+        "impressions": "1293",
+        "account_id": "1424681774358902",
+        "reach": "1033",
+        "spend": "36.57",
+        "adset_id": "120223263582350306",
+        "adset_name": "[CJ01][Advantage][Geral com exclusão de base]",
+        "ad_id": "120223263582330306",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    },
+    {
+        "impressions": "1915",
+        "account_id": "1424681774358902",
+        "reach": "1446",
+        "spend": "61.38",
+        "adset_id": "120223263582350306",
+        "adset_name": "[CJ01][Advantage][Geral com exclusão de base]",
+        "ad_id": "120223264741220306",
+        "ad_name": "[AD02] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "184"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "184"
+            },
+            {
+                "action_type": "video_view",
+                "value": "169"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    }
+]

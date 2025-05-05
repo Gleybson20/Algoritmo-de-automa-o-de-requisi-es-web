@@ -1,0 +1,224 @@
+[
+    {
+        "impressions": "1543",
+        "account_id": "185534306223063",
+        "reach": "1114",
+        "spend": "22.62",
+        "adset_id": "120220571064040116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120220571064080116",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "184",
+        "account_id": "185534306223063",
+        "reach": "161",
+        "spend": "1.83",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120221872286150116",
+        "ad_name": "Promo 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "1612",
+        "account_id": "185534306223063",
+        "reach": "1051",
+        "spend": "20.24",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120223568275600116",
+        "ad_name": "Promo 3 — biomedicina",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "223"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "223"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "212"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "604",
+        "account_id": "185534306223063",
+        "reach": "445",
+        "spend": "8.85",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120223568731250116",
+        "ad_name": "Promo 3 — Vendas",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "70"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "418",
+        "account_id": "185534306223063",
+        "reach": "285",
+        "spend": "8.64",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120223569251710116",
+        "ad_name": "Promo 3 —pós",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "36"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    }
+]

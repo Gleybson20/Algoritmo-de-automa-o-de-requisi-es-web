@@ -1,0 +1,60 @@
+[
+    {
+        "impressions": "4404",
+        "account_id": "5434306676675337",
+        "reach": "3235",
+        "spend": "28.42",
+        "adset_id": "120216949224900434",
+        "adset_name": "[FORMS][PATOS E REGIÃO][MARÇO] - EAD - NOVAS PEÇAS",
+        "ad_id": "120216949224920434",
+        "ad_name": "[AD][MULHER] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "6",
+        "account_id": "5434306676675337",
+        "reach": "4",
+        "spend": "0.02",
+        "adset_id": "120216949224900434",
+        "adset_name": "[FORMS][PATOS E REGIÃO][MARÇO] - EAD - NOVAS PEÇAS",
+        "ad_id": "120216949880050434",
+        "ad_name": "[AD][HOMEM] - 02",
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "impressions": "7603",
+        "account_id": "853521859988744",
+        "reach": "6936",
+        "spend": "51.37",
+        "adset_id": "120218179627680113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120218179627700113",
+        "ad_name": "AD02 | \"POST-01\" | 1003",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2543"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2543"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2501"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "20"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "1943",
+        "account_id": "853521859988744",
+        "reach": "1732",
+        "spend": "15.1",
+        "adset_id": "120218179627680113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120218179747550113",
+        "ad_name": "AD03 | \"POST-04\" | 1003",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "665"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "665"
+            },
+            {
+                "action_type": "video_view",
+                "value": "655"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "8982",
+        "account_id": "853521859988744",
+        "reach": "7869",
+        "spend": "54.53",
+        "adset_id": "120218179627680113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120218179824070113",
+        "ad_name": "AD05 | \"POST-05\" | 1003",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3107"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3107"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3073"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "19"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "1565",
+        "account_id": "853521859988744",
+        "reach": "1430",
+        "spend": "35.7",
+        "adset_id": "120218607587150113",
+        "adset_name": "00 | PÓS EDUC & GESTÃO | 1503",
+        "ad_id": "120218608207310113",
+        "ad_name": "AD01 | \"PÓS-GESTÃO\" | 1503",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "128",
+        "account_id": "853521859988744",
+        "reach": "117",
+        "spend": "7.39",
+        "adset_id": "120218607587150113",
+        "adset_name": "00 | PÓS EDUC & GESTÃO | 1503",
+        "ad_id": "120218608261330113",
+        "ad_name": "AD01 | \"PÓS-EDUC\" | 1503",
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    }
+]

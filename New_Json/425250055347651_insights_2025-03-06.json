@@ -1,0 +1,100 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "425250055347651",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120215763085820003",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120215763085810003",
+        "ad_name": "[AD01] Direito",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-06",
+        "date_stop": "2025-03-06"
+    },
+    {
+        "impressions": "8852",
+        "account_id": "425250055347651",
+        "reach": "4032",
+        "spend": "83.91",
+        "adset_id": "120216722944690003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120216722944670003",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-03-06",
+        "date_stop": "2025-03-06"
+    },
+    {
+        "impressions": "2118",
+        "account_id": "425250055347651",
+        "reach": "1143",
+        "spend": "26.32",
+        "adset_id": "120216722944690003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120216765356990003",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-06",
+        "date_stop": "2025-03-06"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "impressions": "26709",
+        "account_id": "207224937995313",
+        "reach": "16413",
+        "spend": "206.97",
+        "adset_id": "120221352954580547",
+        "adset_name": "[MSG WPP-IG][ABRIL] - ABERTO",
+        "ad_id": "120221352954600547",
+        "ad_name": "[AD][MULHER] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "17"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "119"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "119"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "18"
+            },
+            {
+                "action_type": "link_click",
+                "value": "96"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "17586",
+        "account_id": "207224937995313",
+        "reach": "11437",
+        "spend": "160.02",
+        "adset_id": "120221352954580547",
+        "adset_name": "[MSG WPP-IG][ABRIL] - ABERTO",
+        "ad_id": "120221353786750547",
+        "ad_name": "[AD][MULHER] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "50"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    }
+]

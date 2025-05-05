@@ -1,0 +1,162 @@
+[
+    {
+        "impressions": "1749",
+        "account_id": "1758023371040322",
+        "reach": "1355",
+        "spend": "29.88",
+        "adset_id": "120221476166130134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120221476166170134",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "4281",
+        "account_id": "1758023371040322",
+        "reach": "4046",
+        "spend": "49.71",
+        "adset_id": "120221476166130134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120222503114700134",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "513"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "513"
+            },
+            {
+                "action_type": "video_view",
+                "value": "483"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "6",
+        "account_id": "1758023371040322",
+        "reach": "5",
+        "spend": "0.13",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503164150134",
+        "ad_name": "[AD01] Fisio",
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "2095",
+        "account_id": "1758023371040322",
+        "reach": "1941",
+        "spend": "21.84",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503164170134",
+        "ad_name": "[AD02] Biomed",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "156"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "156"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "150"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "10255",
+        "account_id": "1758023371040322",
+        "reach": "7700",
+        "spend": "133.73",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503502720134",
+        "ad_name": "[AD03] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "59"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "45"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    }
+]

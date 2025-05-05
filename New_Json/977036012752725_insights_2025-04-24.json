@@ -1,0 +1,154 @@
+[
+    {
+        "impressions": "57452",
+        "account_id": "977036012752725",
+        "reach": "15040",
+        "spend": "43.24",
+        "adset_id": "120221569579130697",
+        "adset_name": "Publicação: \"A oportunidade que você esperava — ainda no tempo...\"",
+        "ad_id": "120221569580170697",
+        "ad_name": "Publicação: \"A oportunidade que você esperava — ainda no tempo...\"",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "231"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "231"
+            },
+            {
+                "action_type": "link_click",
+                "value": "231"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "550",
+        "account_id": "977036012752725",
+        "reach": "366",
+        "spend": "6.3",
+        "adset_id": "120222047880330697",
+        "adset_name": "Publicação: \"Venha estudar com a formação mais completa do...\"",
+        "ad_id": "120222047880420697",
+        "ad_name": "Publicação: \"Venha estudar com a formação mais completa do...\"",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "45"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "1235",
+        "account_id": "977036012752725",
+        "reach": "819",
+        "spend": "11.3",
+        "adset_id": "120222062810740697",
+        "adset_name": "Publicação: \"Venha estudar no melhor curso de Medicina...\"",
+        "ad_id": "120222062812240697",
+        "ad_name": "Publicação: \"Venha estudar no melhor curso de Medicina...\"",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "1038",
+        "account_id": "977036012752725",
+        "reach": "1028",
+        "spend": "46.67",
+        "adset_id": "120222582975380697",
+        "adset_name": "Publicação: \"Evento gratuito para cuidadores e pessoas com...\"",
+        "ad_id": "120222582976380697",
+        "ad_name": "Publicação: \"Evento gratuito para cuidadores e pessoas com...\"",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "659"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "659"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "654"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "impressions": "407",
+        "account_id": "2384522878464324",
+        "reach": "341",
+        "spend": "25.58",
+        "adset_id": "120220652834410653",
+        "adset_name": "[FORMS][SALVADOR R40KM][ABRIL] - ABERTO",
+        "ad_id": "120220652834370653",
+        "ad_name": "[AD][MULHER] - DINÂMICO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "318",
+        "account_id": "2384522878464324",
+        "reach": "268",
+        "spend": "19.19",
+        "adset_id": "120220652834410653",
+        "adset_name": "[FORMS][SALVADOR R40KM][ABRIL] - ABERTO",
+        "ad_id": "120220654076630653",
+        "ad_name": "[AD][HOMEM] - FUNDO ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    }
+]

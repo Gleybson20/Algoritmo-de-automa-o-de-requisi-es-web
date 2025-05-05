@@ -1,0 +1,166 @@
+[
+    {
+        "impressions": "159",
+        "account_id": "266116647806266",
+        "reach": "140",
+        "spend": "1.1",
+        "adset_id": "120218475067600251",
+        "adset_name": "[FORMS][CG R60KM][MARÇO] - ABERTO",
+        "ad_id": "120218475067630251",
+        "ad_name": "[AD] - LARANJA",
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "13585",
+        "account_id": "266116647806266",
+        "reach": "10349",
+        "spend": "75.58",
+        "adset_id": "120218475067600251",
+        "adset_name": "[FORMS][CG R60KM][MARÇO] - ABERTO",
+        "ad_id": "120218475235060251",
+        "ad_name": "[AD] - AZUL",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "40"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "6420",
+        "account_id": "266116647806266",
+        "reach": "5246",
+        "spend": "31.43",
+        "adset_id": "120218475067600251",
+        "adset_name": "[FORMS][CG R60KM][MARÇO] - ABERTO",
+        "ad_id": "120218475243130251",
+        "ad_name": "[AD] - PRETO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "1571",
+        "account_id": "266116647806266",
+        "reach": "1126",
+        "spend": "12.77",
+        "adset_id": "120217620261950251",
+        "adset_name": "[WPP-IG][CG R60KM][ABERTO] - MÊS DO CONSUMIDOR",
+        "ad_id": "120218475435280251",
+        "ad_name": "[AD][VÍDEO] - MÊS DO CONSUMIDOR",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "142"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "142"
+            },
+            {
+                "action_type": "video_view",
+                "value": "138"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "2330",
+        "account_id": "266116647806266",
+        "reach": "1512",
+        "spend": "20.63",
+        "adset_id": "120217620261950251",
+        "adset_name": "[WPP-IG][CG R60KM][ABERTO] - MÊS DO CONSUMIDOR",
+        "ad_id": "120218475450540251",
+        "ad_name": "[AD][VÍDEO] - ESTUDE NA UNINASSAU",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "270"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "270"
+            },
+            {
+                "action_type": "video_view",
+                "value": "259"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    }
+]

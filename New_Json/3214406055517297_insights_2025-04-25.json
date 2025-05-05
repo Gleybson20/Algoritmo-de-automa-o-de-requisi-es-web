@@ -1,0 +1,100 @@
+[
+    {
+        "impressions": "3983",
+        "account_id": "3214406055517297",
+        "reach": "3612",
+        "spend": "29.08",
+        "adset_id": "120220660948830334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120221619387320334",
+        "ad_name": "Transferencia - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "lead",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "339",
+        "account_id": "3214406055517297",
+        "reach": "306",
+        "spend": "11.42",
+        "adset_id": "120218465802350334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120222882158970334",
+        "ad_name": "Promo 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "373",
+        "account_id": "3214406055517297",
+        "reach": "270",
+        "spend": "4.45",
+        "adset_id": "120224023692310334",
+        "adset_name": "Cidades redondezas",
+        "ad_id": "120224183677480334",
+        "ad_name": "promo 3 — img att",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    }
+]

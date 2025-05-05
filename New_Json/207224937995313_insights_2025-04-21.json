@@ -1,0 +1,78 @@
+[
+    {
+        "impressions": "4993",
+        "account_id": "207224937995313",
+        "reach": "2847",
+        "spend": "45.5",
+        "adset_id": "120222646305120547",
+        "adset_name": "[WPP][BARREIRAS+REGIÃO][EAD] - ABRIL",
+        "ad_id": "120222646305230547",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "1558",
+        "account_id": "207224937995313",
+        "reach": "855",
+        "spend": "19.09",
+        "adset_id": "120222646305120547",
+        "adset_name": "[WPP][BARREIRAS+REGIÃO][EAD] - ABRIL",
+        "ad_id": "120222646588790547",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    }
+]

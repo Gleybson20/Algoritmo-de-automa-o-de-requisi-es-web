@@ -1,0 +1,170 @@
+[
+    {
+        "impressions": "12195",
+        "account_id": "829731337939484",
+        "reach": "10431",
+        "spend": "279.3",
+        "adset_id": "120219967111490579",
+        "adset_name": "01 - Y.25",
+        "ad_id": "120219967111440579",
+        "ad_name": "01 Arte EAD",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "22"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "62"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "1544",
+        "account_id": "829731337939484",
+        "reach": "1311",
+        "spend": "63.17",
+        "adset_id": "120219967802270579",
+        "adset_name": "02 - Transferencia",
+        "ad_id": "120219967802280579",
+        "ad_name": "01 - Arte Transferencia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "10471",
+        "account_id": "829731337939484",
+        "reach": "8360",
+        "spend": "152.84",
+        "adset_id": "120219967848700579",
+        "adset_name": "02 - Ensino Superior - Itaqua",
+        "ad_id": "120219967848720579",
+        "ad_name": "01 - Arte: Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "69"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "69"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "62"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "7292",
+        "account_id": "829731337939484",
+        "reach": "6145",
+        "spend": "155.08",
+        "adset_id": "120219968031250579",
+        "adset_name": "02 - Ensino Superior - Guarulhos",
+        "ad_id": "120219968031240579",
+        "ad_name": "01 - Arte: Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "22"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "18"
+            },
+            {
+                "action_type": "link_click",
+                "value": "64"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    }
+]

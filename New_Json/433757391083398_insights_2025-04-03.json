@@ -1,0 +1,600 @@
+[
+    {
+        "impressions": "3742",
+        "account_id": "433757391083398",
+        "reach": "3397",
+        "spend": "12.84",
+        "adset_id": "120214748599360279",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120214748599420279",
+        "ad_name": "AD01 | \"Prática\"| 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "50"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "234",
+        "account_id": "433757391083398",
+        "reach": "174",
+        "spend": "3.14",
+        "adset_id": "120214778415910279",
+        "adset_name": "04 | ADV+ | ENFERMAGEM | 1101",
+        "ad_id": "120214778415940279",
+        "ad_name": "08 | (Vídeo Reels) Vídeo de Enfermagem | 1312 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "video_view",
+                "value": "41"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "257",
+        "account_id": "433757391083398",
+        "reach": "191",
+        "spend": "7.52",
+        "adset_id": "120214778423800279",
+        "adset_name": "05 | ADV+ | PSICOLOGIA | 1101",
+        "ad_id": "120214778423870279",
+        "ad_name": "06 | (Vídeo Reels) Vídeo de Psicologia | 1312 — Cópia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "26"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "330",
+        "account_id": "433757391083398",
+        "reach": "234",
+        "spend": "7.07",
+        "adset_id": "120214778441870279",
+        "adset_name": "06 | ADV+ | ODONTO | 1101",
+        "ad_id": "120214778441880279",
+        "ad_name": "09 | (Vídeo Reels) Vídeo de Odonto | 1312 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "video_view",
+                "value": "45"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "78",
+        "account_id": "433757391083398",
+        "reach": "61",
+        "spend": "3.73",
+        "adset_id": "120214778441870279",
+        "adset_name": "06 | ADV+ | ODONTO | 1101",
+        "ad_id": "120216404404280279",
+        "ad_name": "12 | (Vídeo Reels) Vídeo de Odonto | 2102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "252",
+        "account_id": "433757391083398",
+        "reach": "213",
+        "spend": "6.07",
+        "adset_id": "120217509583790279",
+        "adset_name": "04 | ADV+ | \"Promo_mai\" | 0104",
+        "ad_id": "120217509583830279",
+        "ad_name": "10 | (Vídeo Mariana) Diretor Luiz Carlos | 2012 — Cópia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "34"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "498",
+        "account_id": "433757391083398",
+        "reach": "398",
+        "spend": "10.45",
+        "adset_id": "120217509583790279",
+        "adset_name": "04 | ADV+ | \"Promo_mai\" | 0104",
+        "ad_id": "120217509583840279",
+        "ad_name": "AD15 | (Vídeo) \"Comercial\" 2402",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "93"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "71",
+        "account_id": "433757391083398",
+        "reach": "64",
+        "spend": "1.35",
+        "adset_id": "120217509838560279",
+        "adset_name": "07 | ADV+ | DIREITO | 0703",
+        "ad_id": "120217509838500279",
+        "ad_name": "13 | (Vídeo Reels) Vídeo de Direito | 2102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "337",
+        "account_id": "433757391083398",
+        "reach": "271",
+        "spend": "5.48",
+        "adset_id": "120217509838560279",
+        "adset_name": "07 | ADV+ | DIREITO | 0703",
+        "ad_id": "120217509838530279",
+        "ad_name": "12 | (Vídeo Reels) Vídeo de Direito | 2102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "video_view",
+                "value": "30"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "320",
+        "account_id": "433757391083398",
+        "reach": "244",
+        "spend": "5.61",
+        "adset_id": "120217509838560279",
+        "adset_name": "07 | ADV+ | DIREITO | 0703",
+        "ad_id": "120217509838570279",
+        "ad_name": "07 | (Vídeo Reels) Vídeo de Direito | 1312 — Cópia — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "video_view",
+                "value": "37"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "503",
+        "account_id": "433757391083398",
+        "reach": "415",
+        "spend": "6.71",
+        "adset_id": "120214778441870279",
+        "adset_name": "06 | ADV+ | ODONTO | 1101",
+        "ad_id": "120217510870670279",
+        "ad_name": "13 | (Vídeo Reels) Vídeo Chamada 0703",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "54"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "54"
+            },
+            {
+                "action_type": "video_view",
+                "value": "50"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "563",
+        "account_id": "433757391083398",
+        "reach": "404",
+        "spend": "7.09",
+        "adset_id": "120217509583790279",
+        "adset_name": "04 | ADV+ | \"Promo_mai\" | 0104",
+        "ad_id": "120217816548760279",
+        "ad_name": "AD18 | \"CARROSSEL-NOVOS CURSOS\" | 1303",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "0",
+        "account_id": "433757391083398",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218193488610279",
+        "adset_name": "00 | ADV+ | TRANSFERENCIA | 2403",
+        "ad_id": "120218193488810279",
+        "ad_name": "AD18 | \"Transferencia\" | 2403",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "465",
+        "account_id": "433757391083398",
+        "reach": "271",
+        "spend": "11.12",
+        "adset_id": "120214778415910279",
+        "adset_name": "04 | ADV+ | ENFERMAGEM | 1101",
+        "ad_id": "120218380413770279",
+        "ad_name": "AD13 | \"ENFERMAGEM FORENSE\" | 2703",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "video_view",
+                "value": "56"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "918",
+        "account_id": "433757391083398",
+        "reach": "794",
+        "spend": "12.84",
+        "adset_id": "120218380462720279",
+        "adset_name": "09 | ADV+ | FISIOTERAPIA | 2703",
+        "ad_id": "120218380462730279",
+        "ad_name": "01 | \"Fisioterapia\" | 2703",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "193"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "193"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "177"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "759",
+        "account_id": "433757391083398",
+        "reach": "572",
+        "spend": "12.34",
+        "adset_id": "120218380758940279",
+        "adset_name": "10 | ADV+ | BIOMEDICINA | 2703",
+        "ad_id": "120218380770990279",
+        "ad_name": "01 | \"Biomedicina\" | 2703",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "135"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "135"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "127"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "518",
+        "account_id": "433757391083398",
+        "reach": "306",
+        "spend": "7.21",
+        "adset_id": "120218640085690279",
+        "adset_name": "10 | ADV+ | PROMO ABRIL | 0204",
+        "ad_id": "120218640117460279",
+        "ad_name": "AD19 | \"ESTATICO\" | 0104",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    }
+]

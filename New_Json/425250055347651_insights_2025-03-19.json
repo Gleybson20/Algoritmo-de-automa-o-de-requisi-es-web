@@ -1,0 +1,110 @@
+[
+    {
+        "impressions": "468",
+        "account_id": "425250055347651",
+        "reach": "250",
+        "spend": "15.51",
+        "adset_id": "120216722944690003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120216765356990003",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "8814",
+        "account_id": "425250055347651",
+        "reach": "7760",
+        "spend": "84.42",
+        "adset_id": "120216722944690003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120217219841130003",
+        "ad_name": "[AD03] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "823"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "823"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "792"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "15763",
+        "account_id": "425250055347651",
+        "reach": "9350",
+        "spend": "178.52",
+        "adset_id": "120217533485370003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120217533485400003",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "15"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "34"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    }
+]

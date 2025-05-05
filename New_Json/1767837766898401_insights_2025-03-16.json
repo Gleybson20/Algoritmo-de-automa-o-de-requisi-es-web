@@ -1,0 +1,154 @@
+[
+    {
+        "impressions": "919",
+        "account_id": "1767837766898401",
+        "reach": "717",
+        "spend": "25.55",
+        "adset_id": "120218077635120382",
+        "adset_name": "[WPP - IG][POA R20KM][MARÇO] - DIREITO",
+        "ad_id": "120218077885900382",
+        "ad_name": "[AD][LOIRA] - S/PREÇO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "772",
+        "account_id": "1767837766898401",
+        "reach": "607",
+        "spend": "29.41",
+        "adset_id": "120218077635120382",
+        "adset_name": "[WPP - IG][POA R20KM][MARÇO] - DIREITO",
+        "ad_id": "120218077941620382",
+        "ad_name": "[AD][MULHER] - S/PREÇO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "769",
+        "account_id": "1767837766898401",
+        "reach": "642",
+        "spend": "25.06",
+        "adset_id": "120218078150450382",
+        "adset_name": "[WPP + IG][POA R20KM][MARÇO] - ENFERMAGEM",
+        "ad_id": "120218078296380382",
+        "ad_name": "[AD][MULHER] - S/ PREÇO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "983",
+        "account_id": "1767837766898401",
+        "reach": "801",
+        "spend": "29.88",
+        "adset_id": "120218078150450382",
+        "adset_name": "[WPP + IG][POA R20KM][MARÇO] - ENFERMAGEM",
+        "ad_id": "120218078313420382",
+        "ad_name": "[AD][MORENA] - S/ PREÇO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    }
+]

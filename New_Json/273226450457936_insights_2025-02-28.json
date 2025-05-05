@@ -1,0 +1,140 @@
+[
+    {
+        "impressions": "4111",
+        "account_id": "273226450457936",
+        "reach": "2187",
+        "spend": "38.15",
+        "adset_id": "120218062794900400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120218062794950400",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "4269",
+        "account_id": "273226450457936",
+        "reach": "2758",
+        "spend": "36.75",
+        "adset_id": "120218158868800400",
+        "adset_name": "[CJ01][Advantage][Promo1][Cursos]",
+        "ad_id": "120218158868810400",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "3541",
+        "account_id": "273226450457936",
+        "reach": "2319",
+        "spend": "24.39",
+        "adset_id": "120218158868800400",
+        "adset_name": "[CJ01][Advantage][Promo1][Cursos]",
+        "ad_id": "120218195227150400",
+        "ad_name": "[AD02] Med Vet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    }
+]

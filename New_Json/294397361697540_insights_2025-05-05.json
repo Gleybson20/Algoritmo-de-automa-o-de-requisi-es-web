@@ -1,0 +1,120 @@
+[
+    {
+        "impressions": "115",
+        "account_id": "294397361697540",
+        "reach": "90",
+        "spend": "2.8",
+        "adset_id": "120225840844410131",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120225840843860131",
+        "ad_name": "AD [01] Graduação geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "46",
+        "account_id": "294397361697540",
+        "reach": "31",
+        "spend": "0.27",
+        "adset_id": "120225840844410131",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120225840844300131",
+        "ad_name": "[AD02] Carrossel",
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "792",
+        "account_id": "294397361697540",
+        "reach": "630",
+        "spend": "12.41",
+        "adset_id": "120226471111640131",
+        "adset_name": "[CJ01][Advantage][Técnico]",
+        "ad_id": "120226471111670131",
+        "ad_name": "[AD02] Moda",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "123"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "123"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "108"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "2101",
+        "account_id": "294397361697540",
+        "reach": "1678",
+        "spend": "16.89",
+        "adset_id": "120226471111640131",
+        "adset_name": "[CJ01][Advantage][Técnico]",
+        "ad_id": "120226479104430131",
+        "ad_name": "[AD01] Moda",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "impressions": "927",
+        "account_id": "1154015138307321",
+        "reach": "692",
+        "spend": "11.38",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218088619640172",
+        "ad_name": "Transferencia 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "5700",
+        "account_id": "1154015138307321",
+        "reach": "5276",
+        "spend": "37.72",
+        "adset_id": "120216378370430172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120219072725710172",
+        "ad_name": "Promo 3 — 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "506"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "506"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "475"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "677",
+        "account_id": "1154015138307321",
+        "reach": "591",
+        "spend": "8.03",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120219072775270172",
+        "ad_name": "Promo 3 Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "94"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "94"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "85"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "417",
+        "account_id": "1154015138307321",
+        "reach": "275",
+        "spend": "11.34",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120219471642350172",
+        "ad_name": "Post Psicologia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "50"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    }
+]

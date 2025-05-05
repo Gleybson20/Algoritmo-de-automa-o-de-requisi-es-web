@@ -1,0 +1,186 @@
+[
+    {
+        "impressions": "5297",
+        "account_id": "652220095673691",
+        "reach": "4349",
+        "spend": "44.95",
+        "adset_id": "120217618075790417",
+        "adset_name": "09 | ADV+ & Direct | TÉCNICOS | 0402",
+        "ad_id": "120217618075780417",
+        "ad_name": "AD01 | SAÚDE BUCAL | 0402",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "2",
+        "account_id": "652220095673691",
+        "reach": "2",
+        "spend": "0.02",
+        "adset_id": "120217618075790417",
+        "adset_name": "09 | ADV+ & Direct | TÉCNICOS | 0402",
+        "ad_id": "120217618075810417",
+        "ad_name": "AD02 | PRÓTESE | 0402",
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "18",
+        "account_id": "652220095673691",
+        "reach": "15",
+        "spend": "0.42",
+        "adset_id": "120217618075790417",
+        "adset_name": "09 | ADV+ & Direct | TÉCNICOS | 0402",
+        "ad_id": "120217762226330417",
+        "ad_name": "AD04 | \"Vídeo\" | 1303",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "4149",
+        "account_id": "652220095673691",
+        "reach": "3684",
+        "spend": "33.36",
+        "adset_id": "120217618011180417",
+        "adset_name": "06 | ADV+ & Direct | Promo_01 | 0104",
+        "ad_id": "120218014204320417",
+        "ad_name": "AD17 | \"Localização\" | 1903",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "587"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "587"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "553"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "29",
+        "account_id": "652220095673691",
+        "reach": "26",
+        "spend": "0.26",
+        "adset_id": "120217618011180417",
+        "adset_name": "06 | ADV+ & Direct | Promo_01 | 0104",
+        "ad_id": "120218029434730417",
+        "ad_name": "AD18 | \"cursos técnicos\" | 1903",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "3",
+        "account_id": "652220095673691",
+        "reach": "3",
+        "spend": "0.03",
+        "adset_id": "120217618075790417",
+        "adset_name": "09 | ADV+ & Direct | TÉCNICOS | 0402",
+        "ad_id": "120219149744160417",
+        "ad_name": "AD05 | \"tec.saude_dental\" | 0204",
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    }
+]

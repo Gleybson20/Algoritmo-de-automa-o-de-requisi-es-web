@@ -1,0 +1,154 @@
+[
+    {
+        "impressions": "1397",
+        "account_id": "1154015138307321",
+        "reach": "1121",
+        "spend": "13.28",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218088619640172",
+        "ad_name": "Transferencia 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "6064",
+        "account_id": "1154015138307321",
+        "reach": "5761",
+        "spend": "38.87",
+        "adset_id": "120216378370430172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120219072725710172",
+        "ad_name": "Promo 3 — 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "542"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "542"
+            },
+            {
+                "action_type": "lead",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "503"
+            },
+            {
+                "action_type": "link_click",
+                "value": "39"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "3",
+        "account_id": "1154015138307321",
+        "reach": "2",
+        "spend": "0.21",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120220224365340172",
+        "ad_name": "Promo 3 Ciencias Contabeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "1190",
+        "account_id": "1154015138307321",
+        "reach": "893",
+        "spend": "17.88",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120220224477030172",
+        "ad_name": "Promo 3 Direito",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "228"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "228"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "213"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    }
+]

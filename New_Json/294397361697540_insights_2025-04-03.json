@@ -1,0 +1,158 @@
+[
+    {
+        "impressions": "4557",
+        "account_id": "294397361697540",
+        "reach": "3630",
+        "spend": "66.05",
+        "adset_id": "120221778412790131",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120221843968670131",
+        "ad_name": "AD [01] Graduação geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "1682",
+        "account_id": "294397361697540",
+        "reach": "1284",
+        "spend": "35.07",
+        "adset_id": "120222391399580131",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120222391399570131",
+        "ad_name": "[AD01] Estética",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "637"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "637"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "4"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "540"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "51"
+            },
+            {
+                "action_type": "link_click",
+                "value": "35"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "2082",
+        "account_id": "294397361697540",
+        "reach": "1808",
+        "spend": "24.12",
+        "adset_id": "120222391399580131",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120222391541790131",
+        "ad_name": "[AD02] Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "303"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "303"
+            },
+            {
+                "action_type": "video_view",
+                "value": "286"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "1515",
+        "account_id": "294397361697540",
+        "reach": "1357",
+        "spend": "23.81",
+        "adset_id": "120222391399580131",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120222391672630131",
+        "ad_name": "[AD03] Nutrição",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "333"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "333"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "308"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    }
+]

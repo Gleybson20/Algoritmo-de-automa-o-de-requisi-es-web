@@ -1,0 +1,74 @@
+[
+    {
+        "impressions": "817",
+        "account_id": "185534306223063",
+        "reach": "627",
+        "spend": "12.95",
+        "adset_id": "120220571064040116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120220571064080116",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "3001",
+        "account_id": "185534306223063",
+        "reach": "1923",
+        "spend": "33.21",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120223568275600116",
+        "ad_name": "Promo 3 — biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "333"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "333"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "314"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    }
+]

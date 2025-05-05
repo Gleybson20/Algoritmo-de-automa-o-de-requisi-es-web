@@ -1,0 +1,94 @@
+[
+    {
+        "impressions": "3220",
+        "account_id": "2598162083676218",
+        "reach": "2494",
+        "spend": "51.27",
+        "adset_id": "120220199347040182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ABERTO] - ABRIL",
+        "ad_id": "120220199347090182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    },
+    {
+        "impressions": "1462",
+        "account_id": "2598162083676218",
+        "reach": "1127",
+        "spend": "36.67",
+        "adset_id": "120220199347040182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ABERTO] - ABRIL",
+        "ad_id": "120220199977060182",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    }
+]

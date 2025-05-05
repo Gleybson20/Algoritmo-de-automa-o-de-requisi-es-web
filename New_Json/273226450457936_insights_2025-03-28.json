@@ -1,0 +1,386 @@
+[
+    {
+        "impressions": "488",
+        "account_id": "273226450457936",
+        "reach": "305",
+        "spend": "8.88",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219258375430400",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "1330",
+        "account_id": "273226450457936",
+        "reach": "1095",
+        "spend": "21.62",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219279853240400",
+        "ad_name": "[AD03] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "202"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "202"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "195"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "378",
+        "account_id": "273226450457936",
+        "reach": "194",
+        "spend": "8.31",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219280061320400",
+        "ad_name": "[AD04] Direito",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "44"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "37",
+        "account_id": "273226450457936",
+        "reach": "30",
+        "spend": "0.56",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219280148100400",
+        "ad_name": "[AD05] Eng Civil",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "129",
+        "account_id": "273226450457936",
+        "reach": "115",
+        "spend": "1.6",
+        "adset_id": "120220114340000400",
+        "adset_name": "[CJ01][Advantage]",
+        "ad_id": "120220146224930400",
+        "ad_name": "AD01 geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "85",
+        "account_id": "273226450457936",
+        "reach": "56",
+        "spend": "1.13",
+        "adset_id": "120219849716470400",
+        "adset_name": "[CJ03][Advantage][Cursos]",
+        "ad_id": "120220178530270400",
+        "ad_name": "[AD02] Arquitetura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "33",
+        "account_id": "273226450457936",
+        "reach": "27",
+        "spend": "0.96",
+        "adset_id": "120219849716470400",
+        "adset_name": "[CJ03][Advantage][Cursos]",
+        "ad_id": "120220179765460400",
+        "ad_name": "[AD03] Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "1089",
+        "account_id": "273226450457936",
+        "reach": "1051",
+        "spend": "14.38",
+        "adset_id": "120217803465040400",
+        "adset_name": "[CJ02][Advantage][Semelhante+Cidade][MEDICINA]",
+        "ad_id": "120220293304080400",
+        "ad_name": "[AD03][Vídeo] Medicina [28/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "135"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "135"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "124"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "360",
+        "account_id": "273226450457936",
+        "reach": "360",
+        "spend": "5.48",
+        "adset_id": "120217803465040400",
+        "adset_name": "[CJ02][Advantage][Semelhante+Cidade][MEDICINA]",
+        "ad_id": "120220293314330400",
+        "ad_name": "[AD02][Vídeo] Medicina [28/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "video_view",
+                "value": "35"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "2995",
+        "account_id": "273226450457936",
+        "reach": "2609",
+        "spend": "19.77",
+        "adset_id": "120217803465040400",
+        "adset_name": "[CJ02][Advantage][Semelhante+Cidade][MEDICINA]",
+        "ad_id": "120220293336760400",
+        "ad_name": "[AD02][Vídeo] Medicina [28/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    }
+]

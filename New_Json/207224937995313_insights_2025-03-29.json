@@ -1,0 +1,170 @@
+[
+    {
+        "impressions": "11013",
+        "account_id": "207224937995313",
+        "reach": "7658",
+        "spend": "69.11",
+        "adset_id": "120218330036620547",
+        "adset_name": "[MSG WPP-IG][MARÇO] - ABERTO",
+        "ad_id": "120218330036660547",
+        "ad_name": "[AD] - PRETO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "3185",
+        "account_id": "207224937995313",
+        "reach": "2395",
+        "spend": "32.95",
+        "adset_id": "120218330036620547",
+        "adset_name": "[MSG WPP-IG][MARÇO] - ABERTO",
+        "ad_id": "120218330036670547",
+        "ad_name": "[AD] - LARANJA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "12222",
+        "account_id": "207224937995313",
+        "reach": "9190",
+        "spend": "125.91",
+        "adset_id": "120218330036620547",
+        "adset_name": "[MSG WPP-IG][MARÇO] - ABERTO",
+        "ad_id": "120218330172980547",
+        "ad_name": "[AD] - AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "43"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "26409",
+        "account_id": "207224937995313",
+        "reach": "19510",
+        "spend": "94.94",
+        "adset_id": "120219768672100547",
+        "adset_name": "[IG][][BARREIRAS E REGIÃO][MARÇO] - SEGUIDORES",
+        "ad_id": "120219768672110547",
+        "ad_name": "[AD] - CALOUROS",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1812"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1812"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1630"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "169"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    }
+]

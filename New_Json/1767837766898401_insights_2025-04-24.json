@@ -1,0 +1,258 @@
+[
+    {
+        "impressions": "5316",
+        "account_id": "1767837766898401",
+        "reach": "4417",
+        "spend": "107.15",
+        "adset_id": "120216358032540382",
+        "adset_name": "[ABERTO][WPP][EAD] - CAPTAÇÃO 2025.1",
+        "ad_id": "120221332148760382",
+        "ad_name": "005 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "11",
+        "account_id": "1767837766898401",
+        "reach": "11",
+        "spend": "0.18",
+        "adset_id": "120216358032540382",
+        "adset_name": "[ABERTO][WPP][EAD] - CAPTAÇÃO 2025.1",
+        "ad_id": "120221332148770382",
+        "ad_name": "006 - ESTÁTICO",
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "701",
+        "account_id": "1767837766898401",
+        "reach": "676",
+        "spend": "13.66",
+        "adset_id": "120216358032540382",
+        "adset_name": "[ABERTO][WPP][EAD] - CAPTAÇÃO 2025.1",
+        "ad_id": "120221332148780382",
+        "ad_name": "007 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "1012",
+        "account_id": "1767837766898401",
+        "reach": "775",
+        "spend": "19.5",
+        "adset_id": "120221360134380382",
+        "adset_name": "[WPP][TESTE PÚBLICO] - ENFERMAGEM — TESTE CRIATIVO",
+        "ad_id": "120221360200530382",
+        "ad_name": "[AD] - LIMPO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "2422",
+        "account_id": "1767837766898401",
+        "reach": "2019",
+        "spend": "32.88",
+        "adset_id": "120221360134380382",
+        "adset_name": "[WPP][TESTE PÚBLICO] - ENFERMAGEM — TESTE CRIATIVO",
+        "ad_id": "120221360233660382",
+        "ad_name": "[AD] - COPY",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "1063",
+        "account_id": "1767837766898401",
+        "reach": "884",
+        "spend": "17.4",
+        "adset_id": "120221360380380382",
+        "adset_name": "[TRÁFEGO][WPP] DIREITO - TESTE PÚBLICO",
+        "ad_id": "120221360422020382",
+        "ad_name": "[AD] - COPY",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "1006",
+        "account_id": "1767837766898401",
+        "reach": "837",
+        "spend": "30",
+        "adset_id": "120221360380380382",
+        "adset_name": "[TRÁFEGO][WPP] DIREITO - TESTE PÚBLICO",
+        "ad_id": "120221360450150382",
+        "ad_name": "[AD] - LIMPO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    }
+]

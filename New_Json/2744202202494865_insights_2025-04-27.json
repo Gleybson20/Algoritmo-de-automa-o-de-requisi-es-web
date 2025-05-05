@@ -1,0 +1,90 @@
+[
+    {
+        "impressions": "531",
+        "account_id": "2744202202494865",
+        "reach": "352",
+        "spend": "3.97",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "354",
+        "account_id": "2744202202494865",
+        "reach": "215",
+        "spend": "4.44",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "2",
+        "account_id": "2744202202494865",
+        "reach": "2",
+        "spend": "0",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    }
+]

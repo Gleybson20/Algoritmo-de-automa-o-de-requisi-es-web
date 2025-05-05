@@ -1,0 +1,132 @@
+[
+    {
+        "impressions": "1",
+        "account_id": "273717500551075",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120221785368830462",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120221785368910462",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "436",
+        "account_id": "273717500551075",
+        "reach": "368",
+        "spend": "6.89",
+        "adset_id": "120223092030790462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120223092030780462",
+        "ad_name": "[AD01] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "video_view",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "4555",
+        "account_id": "273717500551075",
+        "reach": "4120",
+        "spend": "41.93",
+        "adset_id": "120221785368830462",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120223098329610462",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "701"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "701"
+            },
+            {
+                "action_type": "lead",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "666"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "376",
+        "account_id": "273717500551075",
+        "reach": "346",
+        "spend": "6.74",
+        "adset_id": "120223092030790462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120223098972750462",
+        "ad_name": "[AD02] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "73"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "73"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "63"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    }
+]

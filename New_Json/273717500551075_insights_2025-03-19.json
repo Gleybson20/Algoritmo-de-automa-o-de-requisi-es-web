@@ -1,0 +1,238 @@
+[
+    {
+        "impressions": "1650",
+        "account_id": "273717500551075",
+        "reach": "1472",
+        "spend": "29.41",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219253354500462",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "86",
+        "account_id": "273717500551075",
+        "reach": "81",
+        "spend": "2.1",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219273861000462",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "11401",
+        "account_id": "273717500551075",
+        "reach": "7977",
+        "spend": "122.49",
+        "adset_id": "120220165428040462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220165428030462",
+        "ad_name": "[AD01]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "69",
+        "account_id": "273717500551075",
+        "reach": "64",
+        "spend": "1.13",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220238821390462",
+        "ad_name": "[AD03] Direito",
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "113",
+        "account_id": "273717500551075",
+        "reach": "110",
+        "spend": "1.35",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220238948410462",
+        "ad_name": "[AD04] Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "65",
+        "account_id": "273717500551075",
+        "reach": "64",
+        "spend": "0.86",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220239104520462",
+        "ad_name": "[AD05] Farmácia",
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "426",
+        "account_id": "273717500551075",
+        "reach": "355",
+        "spend": "7.75",
+        "adset_id": "120219821202220462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220259068540462",
+        "ad_name": "[AD03] Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "547",
+        "account_id": "273717500551075",
+        "reach": "471",
+        "spend": "9.91",
+        "adset_id": "120219821202220462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220259080190462",
+        "ad_name": "[AD04] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "1033",
+        "account_id": "273717500551075",
+        "reach": "866",
+        "spend": "26.21",
+        "adset_id": "120219821202220462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220259087900462",
+        "ad_name": "[AD05] Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    }
+]

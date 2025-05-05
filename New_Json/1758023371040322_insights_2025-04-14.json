@@ -1,0 +1,150 @@
+[
+    {
+        "impressions": "211",
+        "account_id": "1758023371040322",
+        "reach": "171",
+        "spend": "3.88",
+        "adset_id": "120221476166130134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120221476166170134",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "4441",
+        "account_id": "1758023371040322",
+        "reach": "4150",
+        "spend": "35.33",
+        "adset_id": "120221476166130134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120222503114700134",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "382"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "382"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "361"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "202",
+        "account_id": "1758023371040322",
+        "reach": "183",
+        "spend": "2.29",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503164170134",
+        "ad_name": "[AD02] Biomed",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "27"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "576",
+        "account_id": "1758023371040322",
+        "reach": "508",
+        "spend": "4.82",
+        "adset_id": "120222503164160134",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120222503502720134",
+        "ad_name": "[AD03] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    }
+]

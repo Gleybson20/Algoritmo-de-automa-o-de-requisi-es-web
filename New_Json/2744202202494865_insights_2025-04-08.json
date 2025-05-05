@@ -1,0 +1,190 @@
+[
+    {
+        "impressions": "5287",
+        "account_id": "2744202202494865",
+        "reach": "3880",
+        "spend": "46.3",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "1582",
+        "account_id": "2744202202494865",
+        "reach": "1322",
+        "spend": "14.58",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "2873",
+        "account_id": "2744202202494865",
+        "reach": "2161",
+        "spend": "15.4",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "3919",
+        "account_id": "2744202202494865",
+        "reach": "2437",
+        "spend": "43.5",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    }
+]

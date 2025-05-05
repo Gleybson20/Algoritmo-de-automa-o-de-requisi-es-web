@@ -1,0 +1,130 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "1424681774358902",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218010443610306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120218041472020306",
+        "ad_name": "[AD02] Psicologia - Aluno",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1424681774358902",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218010443610306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120218488869970306",
+        "ad_name": "[AD04] video",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1424681774358902",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218786104800306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120218786104730306",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "5320",
+        "account_id": "1424681774358902",
+        "reach": "3900",
+        "spend": "100.29",
+        "adset_id": "120219543116210306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120219543116220306",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "47"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    }
+]

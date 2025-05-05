@@ -1,0 +1,104 @@
+[
+    {
+        "impressions": "4542",
+        "account_id": "559561224946744",
+        "reach": "3720",
+        "spend": "62.34",
+        "adset_id": "120217923509020433",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120217923509040433",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "11455",
+        "account_id": "559561224946744",
+        "reach": "8932",
+        "spend": "102.46",
+        "adset_id": "120217923509020433",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218935925510433",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "7100",
+        "account_id": "559561224946744",
+        "reach": "5994",
+        "spend": "91.28",
+        "adset_id": "120219128283470433",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219128283500433",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    }
+]

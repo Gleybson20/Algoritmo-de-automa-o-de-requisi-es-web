@@ -1,0 +1,78 @@
+[
+    {
+        "impressions": "1347",
+        "account_id": "3214406055517297",
+        "reach": "1264",
+        "spend": "8.95",
+        "adset_id": "120220660948830334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120221619387320334",
+        "ad_name": "Transferencia - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "555",
+        "account_id": "3214406055517297",
+        "reach": "508",
+        "spend": "7.22",
+        "adset_id": "120218465802350334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120225942221360334",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    }
+]

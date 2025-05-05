@@ -1,0 +1,406 @@
+[
+    {
+        "impressions": "3820",
+        "account_id": "1630765270433461",
+        "reach": "2980",
+        "spend": "27.11",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120214887204300058",
+        "ad_name": "05 | (Vídeo Interno - Reels) Agropecuaria | 0712 — Cópia — Cópia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "693"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "693"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "670"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "4966",
+        "account_id": "1630765270433461",
+        "reach": "4597",
+        "spend": "10.97",
+        "adset_id": "120214892151380058",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120214892151390058",
+        "ad_name": "AD01 | \"explorando_unidade\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "173"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "173"
+            },
+            {
+                "action_type": "video_view",
+                "value": "123"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "48"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "15698",
+        "account_id": "1630765270433461",
+        "reach": "12062",
+        "spend": "120.23",
+        "adset_id": "120215129769020058",
+        "adset_name": "01 | ADV+ | EAD | 1001",
+        "ad_id": "120215129768910058",
+        "ad_name": "AD01 | \"EAD\" | 1801",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "34"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "29150",
+        "account_id": "1630765270433461",
+        "reach": "23476",
+        "spend": "228.86",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120216965382920058",
+        "ad_name": "06 | (imagem) Turmas Formadas | 2402",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "36"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "973"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "973"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "5"
+            },
+            {
+                "action_type": "comment",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "34"
+            },
+            {
+                "action_type": "post",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "36"
+            },
+            {
+                "action_type": "video_view",
+                "value": "815"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "50"
+            },
+            {
+                "action_type": "link_click",
+                "value": "93"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "131",
+        "account_id": "1630765270433461",
+        "reach": "96",
+        "spend": "2.51",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120217510607800058",
+        "ad_name": "07 | \"CONSUMIDOR\" | 0302",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "2755",
+        "account_id": "1630765270433461",
+        "reach": "2141",
+        "spend": "35.81",
+        "adset_id": "120215129769020058",
+        "adset_name": "01 | ADV+ | EAD | 1001",
+        "ad_id": "120217959694780058",
+        "ad_name": "AD02 | \"PÓS EAD\" | 1303",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "128",
+        "account_id": "1630765270433461",
+        "reach": "109",
+        "spend": "2.9",
+        "adset_id": "120218349958330058",
+        "adset_name": "09 | ADV+ | TRANSFERENCIA | 2403",
+        "ad_id": "120218349958340058",
+        "ad_name": "AD01 | \"Transferencia\" | 2403",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "14346",
+        "account_id": "1630765270433461",
+        "reach": "10654",
+        "spend": "138.38",
+        "adset_id": "120218349958330058",
+        "adset_name": "09 | ADV+ | TRANSFERENCIA | 2403",
+        "ad_id": "120218484686610058",
+        "ad_name": "AD02 | \"fono\" | 2703",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "45"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1141"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1141"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "4"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "28"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "43"
+            },
+            {
+                "action_type": "post",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "48"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1020"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "32"
+            },
+            {
+                "action_type": "link_click",
+                "value": "65"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    }
+]

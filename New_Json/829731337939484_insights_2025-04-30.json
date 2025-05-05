@@ -1,0 +1,172 @@
+[
+    {
+        "impressions": "15442",
+        "account_id": "829731337939484",
+        "reach": "14353",
+        "spend": "289.56",
+        "adset_id": "120219967111490579",
+        "adset_name": "01 - Y.25",
+        "ad_id": "120223418760900579",
+        "ad_name": "02 - Reels EAD",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2876"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2876"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "16"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2751"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "52"
+            },
+            {
+                "action_type": "link_click",
+                "value": "68"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "97919",
+        "account_id": "829731337939484",
+        "reach": "86645",
+        "spend": "2509.91",
+        "adset_id": "120224092403110579",
+        "adset_name": "01 - Y.25 EAD",
+        "ad_id": "120224092403120579",
+        "ad_name": "01 - ARTE EAD",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "22"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "606"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "604"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "10"
+            },
+            {
+                "action_type": "comment",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "23"
+            },
+            {
+                "action_type": "post",
+                "value": "15"
+            },
+            {
+                "action_type": "lead",
+                "value": "60"
+            },
+            {
+                "action_type": "like",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "60"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "121"
+            },
+            {
+                "action_type": "link_click",
+                "value": "449"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "41552",
+        "account_id": "829731337939484",
+        "reach": "36381",
+        "spend": "615.09",
+        "adset_id": "120224092403110579",
+        "adset_name": "01 - Y.25 EAD",
+        "ad_id": "120224093719390579",
+        "ad_name": "02 - ARTE EAD 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "182"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "182"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "lead",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "15"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "166"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    }
+]

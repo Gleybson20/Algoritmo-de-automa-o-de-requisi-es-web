@@ -1,0 +1,198 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "266116647806266",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217620261950251",
+        "adset_name": "[WPP-IG][CG R60KM][ABERTO] - MÊS DO CONSUMIDOR",
+        "ad_id": "120218475450540251",
+        "ad_name": "[AD][VÍDEO] - ESTUDE NA UNINASSAU",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "143",
+        "account_id": "266116647806266",
+        "reach": "123",
+        "spend": "3.16",
+        "adset_id": "120220518643000251",
+        "adset_name": "[FORMS][CG R60KM][ABRIL] - ABERTO",
+        "ad_id": "120220518643010251",
+        "ad_name": "[AD][MULHER] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "137",
+        "account_id": "266116647806266",
+        "reach": "123",
+        "spend": "2.08",
+        "adset_id": "120220518643000251",
+        "adset_name": "[FORMS][CG R60KM][ABRIL] - ABERTO",
+        "ad_id": "120220519223640251",
+        "ad_name": "[AD][MULHER] - 02",
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "1625",
+        "account_id": "266116647806266",
+        "reach": "1214",
+        "spend": "26.25",
+        "adset_id": "120220696328490251",
+        "adset_name": "[FORMS][PÚBLICO LOOKALIKE][ABRIL] - ABERTO",
+        "ad_id": "120220696328480251",
+        "ad_name": "[AD][MULHER] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "806",
+        "account_id": "266116647806266",
+        "reach": "675",
+        "spend": "12.73",
+        "adset_id": "120220696328490251",
+        "adset_name": "[FORMS][PÚBLICO LOOKALIKE][ABRIL] - ABERTO",
+        "ad_id": "120220696328500251",
+        "ad_name": "[AD][MULHER] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "6683",
+        "account_id": "266116647806266",
+        "reach": "4219",
+        "spend": "48.07",
+        "adset_id": "120220995596840251",
+        "adset_name": "[WPP+IG][CG E REGIÃO][ABRIL] - CONVERSÃO",
+        "ad_id": "120220995596930251",
+        "ad_name": "[AD]- 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "7432",
+        "account_id": "266116647806266",
+        "reach": "5222",
+        "spend": "58.84",
+        "adset_id": "120220995596840251",
+        "adset_name": "[WPP+IG][CG E REGIÃO][ABRIL] - CONVERSÃO",
+        "ad_id": "120220995772890251",
+        "ad_name": "[AD]- 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    }
+]

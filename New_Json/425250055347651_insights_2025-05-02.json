@@ -1,0 +1,126 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "425250055347651",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218635124420003",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120218635124430003",
+        "ad_name": "[AD01] Direito",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "0",
+        "account_id": "425250055347651",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218076891560003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218636278760003",
+        "ad_name": "[AD02] Carrossel",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "3476",
+        "account_id": "425250055347651",
+        "reach": "2474",
+        "spend": "35.02",
+        "adset_id": "120220899665290003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220899665280003",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "288",
+        "account_id": "425250055347651",
+        "reach": "253",
+        "spend": "2.79",
+        "adset_id": "120220899665290003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220900525850003",
+        "ad_name": "[AD02] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    }
+]

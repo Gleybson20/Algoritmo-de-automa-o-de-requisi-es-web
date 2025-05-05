@@ -1,0 +1,252 @@
+[
+    {
+        "account_id": "196724701599490",
+        "spend": "0",
+        "adset_id": "120217532209030689",
+        "adset_name": "[WPP-IG][JP R20KM] - BIOMEDICINA",
+        "ad_id": "120217532209210689",
+        "ad_name": "[AD] - PRETO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "176",
+        "account_id": "196724701599490",
+        "reach": "119",
+        "spend": "5.96",
+        "adset_id": "120218610416660689",
+        "adset_name": "[WPP][JP ABERTO][MARÇO] - VÍDEOS",
+        "ad_id": "120218610416670689",
+        "ad_name": "[AD][VÍDEO] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "video_view",
+                "value": "38"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "2972",
+        "account_id": "196724701599490",
+        "reach": "2480",
+        "spend": "47.43",
+        "adset_id": "120218610416660689",
+        "adset_name": "[WPP][JP ABERTO][MARÇO] - VÍDEOS",
+        "ad_id": "120218610471440689",
+        "ad_name": "[AD][VÍDEO] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "886"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "886"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "857"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "25"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "7563",
+        "account_id": "196724701599490",
+        "reach": "5602",
+        "spend": "79.35",
+        "adset_id": "120218622267600689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS",
+        "ad_id": "120218622562930689",
+        "ad_name": "[AD][ESTÁTICO] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "2598",
+        "account_id": "196724701599490",
+        "reach": "1880",
+        "spend": "43.28",
+        "adset_id": "120219567370550689",
+        "adset_name": "[WPP][JP ABERTO][ABRIL] - CURSOS ABERTO",
+        "ad_id": "120219567370540689",
+        "ad_name": "[AD][MULHER] - FUNDO ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "1262",
+        "account_id": "196724701599490",
+        "reach": "909",
+        "spend": "24.05",
+        "adset_id": "120219567370550689",
+        "adset_name": "[WPP][JP ABERTO][ABRIL] - CURSOS ABERTO",
+        "ad_id": "120219567584810689",
+        "ad_name": "[AD][MULHER] - FUNDO DINÂMICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    }
+]

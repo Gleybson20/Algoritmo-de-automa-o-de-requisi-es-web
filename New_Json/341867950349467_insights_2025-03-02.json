@@ -1,0 +1,30 @@
+[
+    {
+        "account_id": "341867950349467",
+        "spend": "0",
+        "adset_id": "120215289802180689",
+        "adset_name": "02 | Público amplo + ADV+ | 2101",
+        "ad_id": "120216355532250689",
+        "ad_name": "AD03 | \"PROMO FEV\" | 1602",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    }
+]

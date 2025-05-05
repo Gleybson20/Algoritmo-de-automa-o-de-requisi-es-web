@@ -1,0 +1,96 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "300036158051894",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216015036780443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120216015316990443",
+        "ad_name": "Cursos Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "0",
+        "account_id": "300036158051894",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217250256650443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120217250256670443",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "17203",
+        "account_id": "300036158051894",
+        "reach": "7944",
+        "spend": "156.79",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "13"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "20"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "47"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    }
+]

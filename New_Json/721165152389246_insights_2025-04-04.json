@@ -1,0 +1,162 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "721165152389246",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120215619667000690",
+        "adset_name": "[MSG IG+WPP][VILHENA R40KM+CIDADES][FEV] - CURSOS",
+        "ad_id": "120215619729290690",
+        "ad_name": "[AD][VÍDEO] FISIOTERAPIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "5087",
+        "account_id": "721165152389246",
+        "reach": "3279",
+        "spend": "54.89",
+        "adset_id": "120218494837800690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO] - ABRIL",
+        "ad_id": "120218494837810690",
+        "ad_name": "[AD][HOMEM] - OFICIAL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "1551",
+        "account_id": "721165152389246",
+        "reach": "1103",
+        "spend": "18.47",
+        "adset_id": "120218494837800690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO] - ABRIL",
+        "ad_id": "120218496687810690",
+        "ad_name": "[AD][MULHER] - LARANJA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "2375",
+        "account_id": "721165152389246",
+        "reach": "1813",
+        "spend": "19.49",
+        "adset_id": "120218494837800690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO] - ABRIL",
+        "ad_id": "120218496687820690",
+        "ad_name": "[AD][MULHER] - AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    }
+]

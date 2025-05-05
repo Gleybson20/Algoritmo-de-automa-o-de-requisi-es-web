@@ -1,0 +1,110 @@
+[
+    {
+        "impressions": "386",
+        "account_id": "298926841283208",
+        "reach": "335",
+        "spend": "4.14",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216135410840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "73"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "73"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "67"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    },
+    {
+        "impressions": "2999",
+        "account_id": "298926841283208",
+        "reach": "2648",
+        "spend": "26.45",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216135447840695",
+        "ad_name": "[AD04] Direito",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "12"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "396"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "396"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "352"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "25"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    }
+]

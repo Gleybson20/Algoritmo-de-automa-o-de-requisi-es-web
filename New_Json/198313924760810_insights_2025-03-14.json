@@ -1,0 +1,150 @@
+[
+    {
+        "impressions": "2987",
+        "account_id": "198313924760810",
+        "reach": "2364",
+        "spend": "52.21",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "29",
+        "account_id": "198313924760810",
+        "reach": "29",
+        "spend": "0.8",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "5",
+        "account_id": "198313924760810",
+        "reach": "4",
+        "spend": "0.46",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "521",
+        "account_id": "198313924760810",
+        "reach": "500",
+        "spend": "17.17",
+        "adset_id": "120218510873820565",
+        "adset_name": "[CJ01][Advantage][Clínica Escola]",
+        "ad_id": "120218510873840565",
+        "ad_name": "Novo anúncio de Engajamento",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "226"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "226"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "224"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    }
+]

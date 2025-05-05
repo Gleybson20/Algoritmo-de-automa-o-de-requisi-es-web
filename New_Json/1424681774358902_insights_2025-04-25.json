@@ -1,0 +1,424 @@
+[
+    {
+        "impressions": "1694",
+        "account_id": "1424681774358902",
+        "reach": "1474",
+        "spend": "43.36",
+        "adset_id": "120219543116210306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120219543116220306",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "245",
+        "account_id": "1424681774358902",
+        "reach": "234",
+        "spend": "13.87",
+        "adset_id": "120219898508780306",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120219902322600306",
+        "ad_name": "[AD02] Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "66"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "1304",
+        "account_id": "1424681774358902",
+        "reach": "1212",
+        "spend": "49.2",
+        "adset_id": "120219898508780306",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120219903498830306",
+        "ad_name": "[AD01] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "261"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "261"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "229"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "1699",
+        "account_id": "1424681774358902",
+        "reach": "1428",
+        "spend": "69.86",
+        "adset_id": "120219898508780306",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220331813060306",
+        "ad_name": "[AD03] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1424681774358902",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120221317823490306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120222000759140306",
+        "ad_name": "[AD02] Direito — Cópia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "2710",
+        "account_id": "1424681774358902",
+        "reach": "1828",
+        "spend": "67.68",
+        "adset_id": "120222146790510306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120222146790420306",
+        "ad_name": "[AD03] Carrossel — Cópia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "842",
+        "account_id": "1424681774358902",
+        "reach": "773",
+        "spend": "24.74",
+        "adset_id": "120222146790510306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120222146790460306",
+        "ad_name": "[AD02] Direito — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "234"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "234"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "223"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "3931",
+        "account_id": "1424681774358902",
+        "reach": "2580",
+        "spend": "100.6",
+        "adset_id": "120222146790510306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120222146790470306",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "831",
+        "account_id": "1424681774358902",
+        "reach": "763",
+        "spend": "16.98",
+        "adset_id": "120222146790510306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120222146790490306",
+        "ad_name": "[AD02] Reels",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "165"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "165"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "156"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "3421",
+        "account_id": "1424681774358902",
+        "reach": "2623",
+        "spend": "82.12",
+        "adset_id": "120222146790510306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120222146790600306",
+        "ad_name": "[AD02] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "680"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "680"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "652"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "668",
+        "account_id": "1424681774358902",
+        "reach": "617",
+        "spend": "26.64",
+        "adset_id": "120222146790510306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120222146790620306",
+        "ad_name": "[AD02] Psicologia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "161"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "161"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "147"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    }
+]

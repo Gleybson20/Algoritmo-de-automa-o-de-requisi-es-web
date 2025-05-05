@@ -1,0 +1,124 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "559561224946744",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220728024430433",
+        "adset_name": "Promo3_01_30_04",
+        "ad_id": "120220728024410433",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "605",
+        "account_id": "559561224946744",
+        "reach": "505",
+        "spend": "11.69",
+        "adset_id": "120224338561420433",
+        "adset_name": "Promo3_01_31_05",
+        "ad_id": "120224338561440433",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "1836",
+        "account_id": "559561224946744",
+        "reach": "1640",
+        "spend": "31.31",
+        "adset_id": "120224855928670433",
+        "adset_name": "Publicação: \"Chegou a hora de dar voz ao seu futuro!\"",
+        "ad_id": "120224855931090433",
+        "ad_name": "Publicação: \"Chegou a hora de dar voz ao seu futuro!\"",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "289"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "289"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "257"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    }
+]

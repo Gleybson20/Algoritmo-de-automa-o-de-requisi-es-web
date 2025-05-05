@@ -1,0 +1,258 @@
+[
+    {
+        "impressions": "2307",
+        "account_id": "399378954300562",
+        "reach": "2001",
+        "spend": "8.53",
+        "adset_id": "120216930516420715",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120216930516430715",
+        "ad_name": "AD01 | \"PRÁTICA\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "6093",
+        "account_id": "399378954300562",
+        "reach": "5263",
+        "spend": "37.83",
+        "adset_id": "120217583688860715",
+        "adset_name": "01 | Mai25 | PROMO_01 | ADV+ | 0204",
+        "ad_id": "120217583688880715",
+        "ad_name": "04 | (Vídeo interno) Prof Lamartine SUPER PROMO | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "536"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "536"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "503"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "237",
+        "account_id": "399378954300562",
+        "reach": "232",
+        "spend": "1.34",
+        "adset_id": "120217583873140715",
+        "adset_name": "03 | ADV+ | PALMEIRA DOS INDIOS | 2301 | NOVO",
+        "ad_id": "120217583873130715",
+        "ad_name": "AD01 | (Imagem) \"Palmeira dos Indios\" | 2301",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "video_view",
+                "value": "60"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "2505",
+        "account_id": "399378954300562",
+        "reach": "2060",
+        "spend": "22.71",
+        "adset_id": "120219912956840715",
+        "adset_name": "01 | ADV+ | MÊS DO CONSUMIDOR | 0102",
+        "ad_id": "120219912956860715",
+        "ad_name": "01 | \"MÊS DO CONSUMIDOR\" | 0102",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "1",
+        "account_id": "399378954300562",
+        "reach": "1",
+        "spend": "0.04",
+        "adset_id": "120217583873140715",
+        "adset_name": "03 | ADV+ | PALMEIRA DOS INDIOS | 2301 | NOVO",
+        "ad_id": "120220169250000715",
+        "ad_name": "02 | (Vídeo interno) Prof Lamartine | 1012 — Cópia",
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "2373",
+        "account_id": "399378954300562",
+        "reach": "1985",
+        "spend": "22.99",
+        "adset_id": "120220752430830715",
+        "adset_name": "02 | ADV+ | NUTRIÇÃO | 1703",
+        "ad_id": "120220752430820715",
+        "ad_name": "01 | \"NUTRIÇÃO\" | 1703",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "258"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "258"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "244"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "66",
+        "account_id": "399378954300562",
+        "reach": "60",
+        "spend": "0.95",
+        "adset_id": "120222764049520715",
+        "adset_name": "04 | ADV+ | PROMO ABRIL | 0104",
+        "ad_id": "120222764151700715",
+        "ad_name": "09 | \"ESTATICO PROMO\" | 0204",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    }
+]

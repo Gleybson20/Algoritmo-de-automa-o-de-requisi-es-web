@@ -1,0 +1,98 @@
+[
+    {
+        "impressions": "193",
+        "account_id": "2744202202494865",
+        "reach": "105",
+        "spend": "2.94",
+        "adset_id": "120217940388760780",
+        "adset_name": "MêsDoConsumidor_12_31_03",
+        "ad_id": "120217940388830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "84",
+        "account_id": "2744202202494865",
+        "reach": "55",
+        "spend": "1.52",
+        "adset_id": "120217940388760780",
+        "adset_name": "MêsDoConsumidor_12_31_03",
+        "ad_id": "120218011291630780",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "4834",
+        "account_id": "2744202202494865",
+        "reach": "3873",
+        "spend": "42.88",
+        "adset_id": "120217940388760780",
+        "adset_name": "MêsDoConsumidor_12_31_03",
+        "ad_id": "120218021360160780",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "592"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "592"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "560"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    }
+]

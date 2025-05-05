@@ -1,0 +1,70 @@
+[
+    {
+        "account_id": "652220095673691",
+        "spend": "0",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O | 1401",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "account_id": "652220095673691",
+        "spend": "0",
+        "adset_id": "120215591239710417",
+        "adset_name": "08 | ADV+ | ODONTO | 0102",
+        "ad_id": "120215591239700417",
+        "ad_name": "AD01 | ODONTO | 0102",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "account_id": "652220095673691",
+        "spend": "0",
+        "adset_id": "120215867426370417",
+        "adset_name": "06 | PROMO_FEV | ADV+ | 1601",
+        "ad_id": "120215867466480417",
+        "ad_name": "AD01 | \"Promo 1 - Fevereiro\" | 1601",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "account_id": "652220095673691",
+        "spend": "0",
+        "adset_id": "120215867426370417",
+        "adset_name": "06 | PROMO_FEV | ADV+ | 1601",
+        "ad_id": "120216596725680417",
+        "ad_name": "AD03 | \"E.C\" | 2402",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    }
+]

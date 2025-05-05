@@ -1,0 +1,128 @@
+[
+    {
+        "impressions": "23",
+        "account_id": "266116647806266",
+        "reach": "19",
+        "spend": "0.16",
+        "adset_id": "120221589261630251",
+        "adset_name": "[WPP+IG][CG E REGIÃO] - VÍDEO",
+        "ad_id": "120221589261640251",
+        "ad_name": "[AD] - VÍDEO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "21074",
+        "account_id": "266116647806266",
+        "reach": "10585",
+        "spend": "114.78",
+        "adset_id": "120221589261630251",
+        "adset_name": "[WPP+IG][CG E REGIÃO] - VÍDEO",
+        "ad_id": "120221589703290251",
+        "ad_name": "[AD] - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "37"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "17406",
+        "account_id": "266116647806266",
+        "reach": "12713",
+        "spend": "155.02",
+        "adset_id": "120221673905710251",
+        "adset_name": "[WPP-IG][CG R60KM][EAD] - ABRIL",
+        "ad_id": "120221673950920251",
+        "ad_name": "[AD][VÍDEO] - EAD",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2415"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2415"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2321"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "38"
+            },
+            {
+                "action_type": "link_click",
+                "value": "54"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    }
+]

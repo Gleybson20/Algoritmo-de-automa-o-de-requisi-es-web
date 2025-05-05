@@ -1,0 +1,172 @@
+[
+    {
+        "impressions": "11",
+        "account_id": "298926841283208",
+        "reach": "9",
+        "spend": "0.1",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216116848300695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "855",
+        "account_id": "298926841283208",
+        "reach": "737",
+        "spend": "10.84",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216135410840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "145"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "145"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "140"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "27",
+        "account_id": "298926841283208",
+        "reach": "17",
+        "spend": "0.32",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216135423520695",
+        "ad_name": "[AD03] Geral",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "2767",
+        "account_id": "298926841283208",
+        "reach": "2418",
+        "spend": "35.08",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216135447840695",
+        "ad_name": "[AD04] Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "307"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "307"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "274"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "1082",
+        "account_id": "298926841283208",
+        "reach": "711",
+        "spend": "27.18",
+        "adset_id": "120216786885360695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216786885370695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "112",
+        "account_id": "298926841283208",
+        "reach": "88",
+        "spend": "2.49",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216835583990695",
+        "ad_name": "[AD05] Enfermagem",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "7",
+        "account_id": "298926841283208",
+        "reach": "5",
+        "spend": "0.01",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216835797140695",
+        "ad_name": "[AD06] Farmácia",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "18",
+        "account_id": "298926841283208",
+        "reach": "4",
+        "spend": "0.19",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216836277920695",
+        "ad_name": "[AD07] Direito card",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "impressions": "5438",
+        "account_id": "721165152389246",
+        "reach": "2827",
+        "spend": "83.61",
+        "adset_id": "120215619667000690",
+        "adset_name": "[MSG IG+WPP][VILHENA R40KM+CIDADES][FEV] - CURSOS",
+        "ad_id": "120215619666980690",
+        "ad_name": "[AD][VÍDEO] ENFERMAGEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "485"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "485"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "470"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "1558",
+        "account_id": "721165152389246",
+        "reach": "1044",
+        "spend": "24.33",
+        "adset_id": "120215619667000690",
+        "adset_name": "[MSG IG+WPP][VILHENA R40KM+CIDADES][FEV] - CURSOS",
+        "ad_id": "120215619729290690",
+        "ad_name": "[AD][VÍDEO] FISIOTERAPIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "191"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "4470",
+        "account_id": "721165152389246",
+        "reach": "2839",
+        "spend": "60.29",
+        "adset_id": "120215619667000690",
+        "adset_name": "[MSG IG+WPP][VILHENA R40KM+CIDADES][FEV] - CURSOS",
+        "ad_id": "120215619746290690",
+        "ad_name": "[AD][VÍDEO] MED. VETERINÁRIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "387"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "387"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "367"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "0",
+        "account_id": "721165152389246",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120215620382870690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO][FEV]",
+        "ad_id": "120215620382880690",
+        "ad_name": "[AD][ESTÉTICO] AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "0",
+        "account_id": "721165152389246",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120215620415010690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO][FEV] - 02",
+        "ad_id": "120215620415000690",
+        "ad_name": "[AD][ESTÉTICO] ENF/PSICO/AGRO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    }
+]

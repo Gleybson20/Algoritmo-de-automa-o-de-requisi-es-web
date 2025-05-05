@@ -1,0 +1,94 @@
+[
+    {
+        "impressions": "3303",
+        "account_id": "3214406055517297",
+        "reach": "2745",
+        "spend": "57.16",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120220206767910334",
+        "ad_name": "Mês do Consumidor Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "82",
+        "account_id": "3214406055517297",
+        "reach": "71",
+        "spend": "1.44",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120220551316080334",
+        "ad_name": "Mês do Consumidor Engenharia",
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "3087",
+        "account_id": "3214406055517297",
+        "reach": "2304",
+        "spend": "38.89",
+        "adset_id": "120220660948830334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120220660948900334",
+        "ad_name": "Transferencia - arquitetura",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    }
+]

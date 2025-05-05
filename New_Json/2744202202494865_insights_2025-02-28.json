@@ -1,0 +1,116 @@
+[
+    {
+        "impressions": "30736",
+        "account_id": "2744202202494865",
+        "reach": "20923",
+        "spend": "268.45",
+        "adset_id": "120216261325890780",
+        "adset_name": "Promo1_16_28_02",
+        "ad_id": "120216261325900780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "67"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216925787530780",
+        "adset_name": "TopCursos_20_28_02",
+        "ad_id": "120216925786640780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "28545",
+        "account_id": "2744202202494865",
+        "reach": "22715",
+        "spend": "268.46",
+        "adset_id": "120216925787530780",
+        "adset_name": "TopCursos_20_28_02",
+        "ad_id": "120217079530360780",
+        "ad_name": "Fisioterapia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "109"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "108"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "34"
+            },
+            {
+                "action_type": "link_click",
+                "value": "71"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    }
+]

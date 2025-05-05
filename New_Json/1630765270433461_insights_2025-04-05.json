@@ -1,0 +1,234 @@
+[
+    {
+        "impressions": "290",
+        "account_id": "1630765270433461",
+        "reach": "237",
+        "spend": "2.71",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120214887204300058",
+        "ad_name": "05 | (Vídeo Interno - Reels) Agropecuaria | 0712 — Cópia — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "38"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "2533",
+        "account_id": "1630765270433461",
+        "reach": "2264",
+        "spend": "7.06",
+        "adset_id": "120214892151380058",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120214892151390058",
+        "ad_name": "AD01 | \"explorando_unidade\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "116"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "116"
+            },
+            {
+                "action_type": "video_view",
+                "value": "87"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "290",
+        "account_id": "1630765270433461",
+        "reach": "251",
+        "spend": "4.48",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120214892287390058",
+        "ad_name": "06 | (imagem) Turmas 2025.01 | 1009",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "video_view",
+                "value": "56"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "3479",
+        "account_id": "1630765270433461",
+        "reach": "2531",
+        "spend": "23.49",
+        "adset_id": "120215129769020058",
+        "adset_name": "01 | ADV+ | EAD | 1001",
+        "ad_id": "120215129768910058",
+        "ad_name": "AD01 | \"EAD\" | 1801",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "3323",
+        "account_id": "1630765270433461",
+        "reach": "2831",
+        "spend": "25.43",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120216965382920058",
+        "ad_name": "06 | (imagem) Turmas Formadas | 2402",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "178"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "178"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "149"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "269",
+        "account_id": "1630765270433461",
+        "reach": "226",
+        "spend": "3.67",
+        "adset_id": "120218867842470058",
+        "adset_name": "10 | ADV+ | PROMO ABRIL | 0104",
+        "ad_id": "120218867842480058",
+        "ad_name": "AD01 | \"Estatico Abril\" | 0104",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    }
+]

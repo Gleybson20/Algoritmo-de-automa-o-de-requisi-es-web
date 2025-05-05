@@ -1,0 +1,136 @@
+[
+    {
+        "impressions": "109",
+        "account_id": "427999658307455",
+        "reach": "89",
+        "spend": "0.56",
+        "adset_id": "120220111868430565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120220111868490565",
+        "ad_name": "[AD 01] Geral",
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "2335",
+        "account_id": "427999658307455",
+        "reach": "1808",
+        "spend": "13.72",
+        "adset_id": "120220111868430565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120221391735530565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "290"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "290"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "281"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "67",
+        "account_id": "427999658307455",
+        "reach": "63",
+        "spend": "0.31",
+        "adset_id": "120221391974140565",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120221391974150565",
+        "ad_name": "[AD01] Med Vet",
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "365",
+        "account_id": "427999658307455",
+        "reach": "272",
+        "spend": "2.03",
+        "adset_id": "120221391974140565",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120221509592170565",
+        "ad_name": "[AD02] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "1336",
+        "account_id": "427999658307455",
+        "reach": "843",
+        "spend": "10.19",
+        "adset_id": "120221391974140565",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120221511441370565",
+        "ad_name": "[AD03] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    }
+]

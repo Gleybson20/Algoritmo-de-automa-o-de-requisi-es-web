@@ -1,0 +1,310 @@
+[
+    {
+        "impressions": "1613",
+        "account_id": "273717500551075",
+        "reach": "1388",
+        "spend": "27.91",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219253354500462",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "81",
+        "account_id": "273717500551075",
+        "reach": "78",
+        "spend": "3.18",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219273861000462",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "10468",
+        "account_id": "273717500551075",
+        "reach": "7745",
+        "spend": "116.36",
+        "adset_id": "120220165428040462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220165428030462",
+        "ad_name": "[AD01]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "35"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "208",
+        "account_id": "273717500551075",
+        "reach": "183",
+        "spend": "4.41",
+        "adset_id": "120219821202220462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220259068540462",
+        "ad_name": "[AD03] Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "181",
+        "account_id": "273717500551075",
+        "reach": "166",
+        "spend": "3.5",
+        "adset_id": "120219821202220462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220259080190462",
+        "ad_name": "[AD04] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "700",
+        "account_id": "273717500551075",
+        "reach": "600",
+        "spend": "16.82",
+        "adset_id": "120219821202220462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220259087900462",
+        "ad_name": "[AD05] Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "2044",
+        "account_id": "273717500551075",
+        "reach": "1828",
+        "spend": "35.98",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220392832890462",
+        "ad_name": "[AD06] Consumidor Vídeo",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "276"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "276"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "253"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "36",
+        "account_id": "273717500551075",
+        "reach": "35",
+        "spend": "0.64",
+        "adset_id": "120219821202220462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220392909910462",
+        "ad_name": "[AD06] Consumidor Vídeo 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    }
+]

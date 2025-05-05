@@ -1,0 +1,122 @@
+[
+    {
+        "impressions": "19747",
+        "account_id": "369199774040680",
+        "reach": "7046",
+        "spend": "77.26",
+        "adset_id": "120216165505660588",
+        "adset_name": "01 | ADV+ | MEDICINA | 1404",
+        "ad_id": "120222198562380588",
+        "ad_name": "AD05 | \"Médicos do Futuro\" | 1404",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "link_click",
+                "value": "198"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "26649",
+        "account_id": "369199774040680",
+        "reach": "5869",
+        "spend": "84.41",
+        "adset_id": "120222395956120588",
+        "adset_name": "02 | LKL 1% | MEDICINA | 1704",
+        "ad_id": "120222395956130588",
+        "ad_name": "AD01 | \"Sicoob\" | 1704",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "310"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "310"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "309"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "31836",
+        "account_id": "369199774040680",
+        "reach": "11502",
+        "spend": "119.19",
+        "adset_id": "120216165505660588",
+        "adset_name": "01 | ADV+ | MEDICINA | 1404",
+        "ad_id": "120222410691720588",
+        "ad_name": "AD06 | \"Sicoob\" | 1704",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "319"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "319"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "316"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "36556",
+        "account_id": "369199774040680",
+        "reach": "9229",
+        "spend": "112.87",
+        "adset_id": "120222395956120588",
+        "adset_name": "02 | LKL 1% | MEDICINA | 1704",
+        "ad_id": "120222410832650588",
+        "ad_name": "AD02 | \"Sicoob\" | 1704",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "371"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "371"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "368"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "impressions": "436",
+        "account_id": "5434306676675337",
+        "reach": "341",
+        "spend": "8.22",
+        "adset_id": "120215951819210434",
+        "adset_name": "[FORMS][PATOS E REGIÃO][MARÇO] - EAD",
+        "ad_id": "120215951819200434",
+        "ad_name": "[AD][MULHER] - AZUL",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-11",
+        "date_stop": "2025-03-11"
+    },
+    {
+        "impressions": "2628",
+        "account_id": "5434306676675337",
+        "reach": "1791",
+        "spend": "20.83",
+        "adset_id": "120215951819210434",
+        "adset_name": "[FORMS][PATOS E REGIÃO][MARÇO] - EAD",
+        "ad_id": "120215951954540434",
+        "ad_name": "[AD][HOMEM] - AMARELO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-11",
+        "date_stop": "2025-03-11"
+    },
+    {
+        "impressions": "12771",
+        "account_id": "5434306676675337",
+        "reach": "8423",
+        "spend": "76.15",
+        "adset_id": "120215951819210434",
+        "adset_name": "[FORMS][PATOS E REGIÃO][MARÇO] - EAD",
+        "ad_id": "120215951954550434",
+        "ad_name": "[AD][HOMEM] - PRETO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-03-11",
+        "date_stop": "2025-03-11"
+    }
+]

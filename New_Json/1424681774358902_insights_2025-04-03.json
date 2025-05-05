@@ -1,0 +1,256 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "1424681774358902",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218489451930306",
+        "adset_name": "[CJ04][00][wpp] [envolvimento ig 30D]",
+        "ad_id": "120218489451920306",
+        "ad_name": "[AD01] video",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1424681774358902",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218786104800306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120218786104730306",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "4252",
+        "account_id": "1424681774358902",
+        "reach": "3739",
+        "spend": "53.97",
+        "adset_id": "120219543116210306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120219543116220306",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "12"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "207",
+        "account_id": "1424681774358902",
+        "reach": "192",
+        "spend": "6.17",
+        "adset_id": "120219872054300306",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120219872054290306",
+        "ad_name": "[AD01] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "47"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "28",
+        "account_id": "1424681774358902",
+        "reach": "25",
+        "spend": "0.17",
+        "adset_id": "120219872054300306",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120219872428320306",
+        "ad_name": "[AD02] Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "32",
+        "account_id": "1424681774358902",
+        "reach": "32",
+        "spend": "0.66",
+        "adset_id": "120219898508780306",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120219902322600306",
+        "ad_name": "[AD02] Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "1389",
+        "account_id": "1424681774358902",
+        "reach": "1231",
+        "spend": "24.98",
+        "adset_id": "120219898508780306",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120219903498830306",
+        "ad_name": "[AD01] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "263"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "263"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "248"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    }
+]

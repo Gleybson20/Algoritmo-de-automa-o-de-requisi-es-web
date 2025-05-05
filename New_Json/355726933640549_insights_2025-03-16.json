@@ -1,0 +1,108 @@
+[
+    {
+        "impressions": "1628",
+        "account_id": "355726933640549",
+        "reach": "1211",
+        "spend": "21.26",
+        "adset_id": "120217820022190026",
+        "adset_name": "[MSG][WPP+IG][LAPA R40KM][MARÇO] - ABERTO",
+        "ad_id": "120217820022210026",
+        "ad_name": "[AD][HOMEM] - NEGRO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "819",
+        "account_id": "355726933640549",
+        "reach": "612",
+        "spend": "10.89",
+        "adset_id": "120217820022190026",
+        "adset_name": "[MSG][WPP+IG][LAPA R40KM][MARÇO] - ABERTO",
+        "ad_id": "120217820022220026",
+        "ad_name": "[AD][MULHER] - LOIRA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "2554",
+        "account_id": "355726933640549",
+        "reach": "2001",
+        "spend": "17.63",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MARÇO] - Mês do Consumidor",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "201"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "200"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "191"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    }
+]

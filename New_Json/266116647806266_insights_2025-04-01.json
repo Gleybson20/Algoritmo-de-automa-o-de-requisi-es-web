@@ -1,0 +1,162 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "266116647806266",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218475067600251",
+        "adset_name": "[FORMS][CG R60KM][MARÇO] - ABERTO",
+        "ad_id": "120218475235060251",
+        "ad_name": "[AD] - AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "266116647806266",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218475067600251",
+        "adset_name": "[FORMS][CG R60KM][MARÇO] - ABERTO",
+        "ad_id": "120218475243130251",
+        "ad_name": "[AD] - PRETO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "266116647806266",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217620261950251",
+        "adset_name": "[WPP-IG][CG R60KM][ABERTO] - MÊS DO CONSUMIDOR",
+        "ad_id": "120218475435280251",
+        "ad_name": "[AD][VÍDEO] - MÊS DO CONSUMIDOR",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "266116647806266",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217620261950251",
+        "adset_name": "[WPP-IG][CG R60KM][ABERTO] - MÊS DO CONSUMIDOR",
+        "ad_id": "120218475450540251",
+        "ad_name": "[AD][VÍDEO] - ESTUDE NA UNINASSAU",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "5103",
+        "account_id": "266116647806266",
+        "reach": "4357",
+        "spend": "48.71",
+        "adset_id": "120220518643000251",
+        "adset_name": "[FORMS][CG R60KM][ABRIL] - ABERTO",
+        "ad_id": "120220518643010251",
+        "ad_name": "[AD][MULHER] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "4324",
+        "account_id": "266116647806266",
+        "reach": "3720",
+        "spend": "33.85",
+        "adset_id": "120220518643000251",
+        "adset_name": "[FORMS][CG R60KM][ABRIL] - ABERTO",
+        "ad_id": "120220519223640251",
+        "ad_name": "[AD][MULHER] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    }
+]

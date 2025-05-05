@@ -1,0 +1,66 @@
+[
+    {
+        "account_id": "712703422560858",
+        "spend": "0",
+        "adset_id": "120217374640610568",
+        "adset_name": "[03/02] [PUB PERSONALIZADOS] [BRASILIA+CIDADES]",
+        "ad_id": "120217591124130568",
+        "ad_name": "[AD] [CARROSSEL-CARNAVAL] [16/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "account_id": "712703422560858",
+        "spend": "0",
+        "adset_id": "120217374640610568",
+        "adset_name": "[03/02] [PUB PERSONALIZADOS] [BRASILIA+CIDADES]",
+        "ad_id": "120218052081850568",
+        "ad_name": "[AD] [CARROSSEL ANTIGO] [22/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "account_id": "712703422560858",
+        "spend": "0",
+        "adset_id": "120217590584500568",
+        "adset_name": "[13/02] [INTERESSE] [BRASILIA+CIDADES]",
+        "ad_id": "120218052851310568",
+        "ad_name": "[AD] [CARROSSEL ANTIGO] [22/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "account_id": "712703422560858",
+        "spend": "0",
+        "adset_id": "120218054060100568",
+        "adset_name": "[13/02] [ABERTO] [BRASILIA+CIDADES]",
+        "ad_id": "120218055473220568",
+        "ad_name": "[AD] [DIREITO- CARD PREÇO] [22/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "account_id": "506161170713365",
+        "spend": "0",
+        "adset_id": "120216704326290078",
+        "adset_name": "Promo1_16_28_02",
+        "ad_id": "120216704326340078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    }
+]

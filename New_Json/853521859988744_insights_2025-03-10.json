@@ -1,0 +1,218 @@
+[
+    {
+        "impressions": "100204",
+        "account_id": "853521859988744",
+        "reach": "86660",
+        "spend": "409.29",
+        "adset_id": "120216054092440113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120216054092460113",
+        "ad_name": "AD01 | \"LOCAL\" | 1102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10400"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10400"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9486"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "911"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "5504",
+        "account_id": "853521859988744",
+        "reach": "5163",
+        "spend": "18.32",
+        "adset_id": "120216054092440113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120216393329620113",
+        "ad_name": "AD02 | \"LOCAL\" | 1602",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "41"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "654",
+        "account_id": "853521859988744",
+        "reach": "620",
+        "spend": "1.99",
+        "adset_id": "120218179627680113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120218179627700113",
+        "ad_name": "AD02 | \"POST-01\" | 1003",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "208"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "208"
+            },
+            {
+                "action_type": "video_view",
+                "value": "206"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1",
+        "account_id": "853521859988744",
+        "reach": "1",
+        "spend": "0",
+        "adset_id": "120218179627680113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120218179627710113",
+        "ad_name": "AD01 | \"POST-02\" | 1003",
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1826",
+        "account_id": "853521859988744",
+        "reach": "1779",
+        "spend": "4.39",
+        "adset_id": "120218179627680113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120218179747550113",
+        "ad_name": "AD03 | \"POST-04\" | 1003",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "508"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "508"
+            },
+            {
+                "action_type": "video_view",
+                "value": "506"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "23448",
+        "account_id": "853521859988744",
+        "reach": "22064",
+        "spend": "92.78",
+        "adset_id": "120218179627680113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120218179781360113",
+        "ad_name": "AD04| \"POST-04\" | 1003",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12967"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12967"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "12832"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "104"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "3179",
+        "account_id": "853521859988744",
+        "reach": "3100",
+        "spend": "9.95",
+        "adset_id": "120218179627680113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120218179824070113",
+        "ad_name": "AD05 | \"POST-05\" | 1003",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1154"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1154"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1143"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    }
+]

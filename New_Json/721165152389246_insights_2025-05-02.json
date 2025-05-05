@@ -1,0 +1,22 @@
+[
+    {
+        "account_id": "721165152389246",
+        "spend": "0",
+        "adset_id": "120219753474560690",
+        "adset_name": "[WPP - CRIS][RONDONIA + MATO GROSSO][ABRIL] - Inscriçoes Medicina",
+        "ad_id": "120219902775060690",
+        "ad_name": "[AD] - FAÇA ACONTECER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    }
+]

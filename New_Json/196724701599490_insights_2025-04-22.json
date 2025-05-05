@@ -1,0 +1,158 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220927594290689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS - NOVOS CRIATIVOS",
+        "ad_id": "120220927693210689",
+        "ad_name": "[AD][ESTÁTICO] - PROCURAM-SE",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "2589",
+        "account_id": "196724701599490",
+        "reach": "2006",
+        "spend": "41.16",
+        "adset_id": "120221874994970689",
+        "adset_name": "[WPP-IG][JP R40KM]- EAD",
+        "ad_id": "120221889383950689",
+        "ad_name": "[AD] - M",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "3678",
+        "account_id": "196724701599490",
+        "reach": "3178",
+        "spend": "44.45",
+        "adset_id": "120221892282500689",
+        "adset_name": "Teste - [WPP-IG][JP R40KM]- EAD",
+        "ad_id": "120221892282490689",
+        "ad_name": "[AD] - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "87",
+        "account_id": "196724701599490",
+        "reach": "79",
+        "spend": "1.29",
+        "adset_id": "120221892282500689",
+        "adset_name": "Teste - [WPP-IG][JP R40KM]- EAD",
+        "ad_id": "120221892282510689",
+        "ad_name": "[AD] - M",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    }
+]

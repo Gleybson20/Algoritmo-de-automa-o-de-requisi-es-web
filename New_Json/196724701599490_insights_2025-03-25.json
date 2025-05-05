@@ -1,0 +1,764 @@
+[
+    {
+        "impressions": "147",
+        "account_id": "196724701599490",
+        "reach": "118",
+        "spend": "5.32",
+        "adset_id": "120217531931910689",
+        "adset_name": "[WPP-IG][JP R20KM] - ADMINISTRAÇÃO",
+        "ad_id": "120217531931940689",
+        "ad_name": "[AD] - PRETO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "1395",
+        "account_id": "196724701599490",
+        "reach": "1019",
+        "spend": "27.6",
+        "adset_id": "120217532209030689",
+        "adset_name": "[WPP-IG][JP R20KM] - BIOMEDICINA",
+        "ad_id": "120217532209060689",
+        "ad_name": "[AD] - LARANJA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217532209050689",
+        "adset_name": "[WPP-IG][JP R20KM] - GASTRONOMIA",
+        "ad_id": "120217532209070689",
+        "ad_name": "[AD] - AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "228",
+        "account_id": "196724701599490",
+        "reach": "154",
+        "spend": "7",
+        "adset_id": "120217532209020689",
+        "adset_name": "[WPP-IG][JP R20KM] - JORNALISMO",
+        "ad_id": "120217532209090689",
+        "ad_name": "[AD] - LARANJA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217532209160689",
+        "adset_name": "[WPP-IG][JP R20KM] - ENFERMAGEM",
+        "ad_id": "120217532209120689",
+        "ad_name": "[AD] - LARANJA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "914",
+        "account_id": "196724701599490",
+        "reach": "736",
+        "spend": "17.79",
+        "adset_id": "120217532209030689",
+        "adset_name": "[WPP-IG][JP R20KM] - BIOMEDICINA",
+        "ad_id": "120217532209130689",
+        "ad_name": "[AD] - AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217532209160689",
+        "adset_name": "[WPP-IG][JP R20KM] - ENFERMAGEM",
+        "ad_id": "120217532209140689",
+        "ad_name": "[AD] - AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "8939",
+        "account_id": "196724701599490",
+        "reach": "7448",
+        "spend": "108.33",
+        "adset_id": "120217532209030689",
+        "adset_name": "[WPP-IG][JP R20KM] - BIOMEDICINA",
+        "ad_id": "120217532209210689",
+        "ad_name": "[AD] - PRETO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "14"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "39"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "7",
+        "account_id": "196724701599490",
+        "reach": "7",
+        "spend": "0.38",
+        "adset_id": "120217532209020689",
+        "adset_name": "[WPP-IG][JP R20KM] - JORNALISMO",
+        "ad_id": "120217532264820689",
+        "ad_name": "[AD] - AZUL",
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "535",
+        "account_id": "196724701599490",
+        "reach": "456",
+        "spend": "12.33",
+        "adset_id": "120217532209020689",
+        "adset_name": "[WPP-IG][JP R20KM] - JORNALISMO",
+        "ad_id": "120217532289810689",
+        "ad_name": "[AD] - PRETO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "734",
+        "account_id": "196724701599490",
+        "reach": "707",
+        "spend": "12.39",
+        "adset_id": "120217988369730689",
+        "adset_name": "[MAX - VV][JP R40KM][MARÇO] - Alcance",
+        "ad_id": "120217988369740689",
+        "ad_name": "[AD] - EGRESSO DE SUCESSO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "369"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "369"
+            },
+            {
+                "action_type": "video_view",
+                "value": "366"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "2960",
+        "account_id": "196724701599490",
+        "reach": "2871",
+        "spend": "20.87",
+        "adset_id": "120217988369730689",
+        "adset_name": "[MAX - VV][JP R40KM][MARÇO] - Alcance",
+        "ad_id": "120217988442750689",
+        "ad_name": "[AD] - ALUNO USP",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1456"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1456"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1450"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218481156230689",
+        "adset_name": "[WPP][JP R25KM] - ADM",
+        "ad_id": "120218481156240689",
+        "ad_name": "[AD] - ADM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218481400640689",
+        "adset_name": "[WPP][JP R25KM] - ENFERMAGEM",
+        "ad_id": "120218481400630689",
+        "ad_name": "[AD] - ENFERMAGEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218594139520689",
+        "adset_name": "[WPP][JP ABERTO][MARÇO] - CURSOS ABERTO",
+        "ad_id": "120218594175720689",
+        "ad_name": "[AD][HOMEM] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218610416660689",
+        "adset_name": "[WPP][JP ABERTO][MARÇO] - VÍDEOS",
+        "ad_id": "120218610471440689",
+        "ad_name": "[AD][VÍDEO] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "2379",
+        "account_id": "196724701599490",
+        "reach": "1648",
+        "spend": "31.13",
+        "adset_id": "120218622267600689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS",
+        "ad_id": "120218622267630689",
+        "ad_name": "[AD][ESTÁTICO] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "11311",
+        "account_id": "196724701599490",
+        "reach": "7804",
+        "spend": "123.05",
+        "adset_id": "120218622267600689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS",
+        "ad_id": "120218622562930689",
+        "ad_name": "[AD][ESTÁTICO] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "14"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "49"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "49"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "post",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "10163",
+        "account_id": "196724701599490",
+        "reach": "8862",
+        "spend": "117.92",
+        "adset_id": "120218622855360689",
+        "adset_name": "[WPP+IG][JP R20KM][VÍDEOS] - VÍDEOS",
+        "ad_id": "120218622855370689",
+        "ad_name": "VÍDEO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "16"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3144"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3144"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2997"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "83"
+            },
+            {
+                "action_type": "link_click",
+                "value": "50"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "3106",
+        "account_id": "196724701599490",
+        "reach": "2494",
+        "spend": "45.69",
+        "adset_id": "120218622855360689",
+        "adset_name": "[WPP+IG][JP R20KM][VÍDEOS] - VÍDEOS",
+        "ad_id": "120218623233320689",
+        "ad_name": "VÍDEO - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "623"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "623"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "591"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    }
+]

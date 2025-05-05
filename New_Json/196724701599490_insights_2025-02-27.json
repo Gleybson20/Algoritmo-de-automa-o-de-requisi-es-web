@@ -1,0 +1,644 @@
+[
+    {
+        "impressions": "1080",
+        "account_id": "196724701599490",
+        "reach": "993",
+        "spend": "22.01",
+        "adset_id": "120216015594200689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV]",
+        "ad_id": "120216015594210689",
+        "ad_name": "[CURSOS][SAÚDE] VALESKA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "1374",
+        "account_id": "196724701599490",
+        "reach": "1304",
+        "spend": "25.52",
+        "adset_id": "120216015594200689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV]",
+        "ad_id": "120216015706270689",
+        "ad_name": "[CURSOS][HUMANAS/EXATAS] MIRELLA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "481",
+        "account_id": "196724701599490",
+        "reach": "438",
+        "spend": "10.28",
+        "adset_id": "120216015754320689",
+        "adset_name": "Teste - [MSG IG+WPP][JP R20KM][FEV]",
+        "ad_id": "120216015754360689",
+        "ad_name": "[CURSOS][SAÚDE] VALESKA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "38",
+        "account_id": "196724701599490",
+        "reach": "36",
+        "spend": "0.91",
+        "adset_id": "120216015754320689",
+        "adset_name": "Teste - [MSG IG+WPP][JP R20KM][FEV]",
+        "ad_id": "120216015754370689",
+        "ad_name": "[CURSOS][HUMANAS/EXATAS] MIRELLA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "25",
+        "account_id": "196724701599490",
+        "reach": "23",
+        "spend": "0.51",
+        "adset_id": "120216016327500689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV] - FONOAUDIOLOGIA",
+        "ad_id": "120216016327510689",
+        "ad_name": "[AD] [FONOAUDIOLOGIA] - 01",
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "29",
+        "account_id": "196724701599490",
+        "reach": "29",
+        "spend": "0.38",
+        "adset_id": "120216016327500689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV] - FONOAUDIOLOGIA",
+        "ad_id": "120216016578000689",
+        "ad_name": "[AD] [FONOAUDIOLOGIA] - 02",
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "806",
+        "account_id": "196724701599490",
+        "reach": "717",
+        "spend": "14.51",
+        "adset_id": "120216016647500689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV] ENFERMAGEM",
+        "ad_id": "120216016647520689",
+        "ad_name": "[AD] [ENFERMAGEM] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "142",
+        "account_id": "196724701599490",
+        "reach": "125",
+        "spend": "2.91",
+        "adset_id": "120216016647500689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV] ENFERMAGEM",
+        "ad_id": "120216016702040689",
+        "ad_name": "[AD] [ENFERMAGEM] - 02",
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "10",
+        "account_id": "196724701599490",
+        "reach": "8",
+        "spend": "0.59",
+        "adset_id": "120216016755190689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV] - JORNALISMO",
+        "ad_id": "120216016755240689",
+        "ad_name": "[AD] [JORNALISMO] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "486",
+        "account_id": "196724701599490",
+        "reach": "436",
+        "spend": "5.78",
+        "adset_id": "120216016755230689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV] - ESTÉTICA E COSMÉTICA",
+        "ad_id": "120216016755250689",
+        "ad_name": "[AD] [ESTÉTICA E COSMÉTICA] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "383",
+        "account_id": "196724701599490",
+        "reach": "352",
+        "spend": "4",
+        "adset_id": "120216016755230689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV] - ESTÉTICA E COSMÉTICA",
+        "ad_id": "120216016798800689",
+        "ad_name": "[AD] [ESTÉTICA E COSMÉTICA] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "112",
+        "account_id": "196724701599490",
+        "reach": "109",
+        "spend": "3.47",
+        "adset_id": "120216052463880689",
+        "adset_name": "Teste - [MSG IG+WPP][JP R20KM][FEV]",
+        "ad_id": "120216052463870689",
+        "ad_name": "[CURSOS][HUMANAS/EXATAS] MIRELLA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "894",
+        "account_id": "196724701599490",
+        "reach": "823",
+        "spend": "18.99",
+        "adset_id": "120216052463880689",
+        "adset_name": "Teste - [MSG IG+WPP][JP R20KM][FEV]",
+        "ad_id": "120216052463900689",
+        "ad_name": "[CURSOS][SAÚDE] VALESKA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "5099",
+        "account_id": "196724701599490",
+        "reach": "4247",
+        "spend": "46.41",
+        "adset_id": "120216124444700689",
+        "adset_name": "[WPP-IG][JP R20KM] TO",
+        "ad_id": "120216124444710689",
+        "ad_name": "[AD][ESTÁTICO] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "18"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "5163",
+        "account_id": "196724701599490",
+        "reach": "4414",
+        "spend": "63.88",
+        "adset_id": "120216124444700689",
+        "adset_name": "[WPP-IG][JP R20KM] TO",
+        "ad_id": "120216124790990689",
+        "ad_name": "[AD][ESTÁTICO] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "71"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "71"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "33"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "1857",
+        "account_id": "196724701599490",
+        "reach": "1483",
+        "spend": "25.72",
+        "adset_id": "120217231198200689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV]",
+        "ad_id": "120217231457830689",
+        "ad_name": "[AD][HOMEM] AZUL",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "2111",
+        "account_id": "196724701599490",
+        "reach": "1825",
+        "spend": "41.88",
+        "adset_id": "120217231198200689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV]",
+        "ad_id": "120217231998630689",
+        "ad_name": "[AD][MULHER] AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "2540",
+        "account_id": "196724701599490",
+        "reach": "2175",
+        "spend": "40.51",
+        "adset_id": "120217231198200689",
+        "adset_name": "[MSG IG+WPP][JP R20KM][FEV]",
+        "ad_id": "120217232014440689",
+        "ad_name": "[AD][HOMEM] AMARELO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "306",
+        "account_id": "196724701599490",
+        "reach": "298",
+        "spend": "7.51",
+        "adset_id": "120217232233250689",
+        "adset_name": "[ENG][ADV+R$100/DIA][VÍDEOS] - Vídeos",
+        "ad_id": "120217232233330689",
+        "ad_name": "[AD] - ESTRUTURA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "224"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "224"
+            },
+            {
+                "action_type": "video_view",
+                "value": "222"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "117",
+        "account_id": "196724701599490",
+        "reach": "116",
+        "spend": "2",
+        "adset_id": "120217232233250689",
+        "adset_name": "[ENG][ADV+R$100/DIA][VÍDEOS] - Vídeos",
+        "ad_id": "120217233341870689",
+        "ad_name": "[AD] - CLÍNICAS",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "video_view",
+                "value": "80"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    }
+]

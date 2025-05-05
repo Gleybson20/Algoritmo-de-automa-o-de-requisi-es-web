@@ -1,0 +1,74 @@
+[
+    {
+        "impressions": "23843",
+        "account_id": "829731337939484",
+        "reach": "18383",
+        "spend": "428.31",
+        "adset_id": "120224086734300579",
+        "adset_name": "01 - Y.25",
+        "ad_id": "120224086734330579",
+        "ad_name": "01 Arte EAD",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "138"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "138"
+            },
+            {
+                "action_type": "lead",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "29"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "20"
+            },
+            {
+                "action_type": "link_click",
+                "value": "118"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "829731337939484",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224092403110579",
+        "adset_name": "01 - Y.25 EAD",
+        "ad_id": "120224092403120579",
+        "ad_name": "01 - ARTE EAD",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    }
+]

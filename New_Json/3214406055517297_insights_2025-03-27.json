@@ -1,0 +1,98 @@
+[
+    {
+        "impressions": "2315",
+        "account_id": "3214406055517297",
+        "reach": "2009",
+        "spend": "49.39",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120220206767910334",
+        "ad_name": "Mês do Consumidor Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "197",
+        "account_id": "3214406055517297",
+        "reach": "163",
+        "spend": "3.96",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120220551316080334",
+        "ad_name": "Mês do Consumidor Engenharia",
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "6639",
+        "account_id": "3214406055517297",
+        "reach": "5778",
+        "spend": "38.57",
+        "adset_id": "120220660948830334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120221619387320334",
+        "ad_name": "Transferencia - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "lead",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    }
+]

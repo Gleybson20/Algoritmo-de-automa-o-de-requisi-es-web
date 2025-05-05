@@ -1,0 +1,90 @@
+[
+    {
+        "impressions": "1214",
+        "account_id": "298926841283208",
+        "reach": "953",
+        "spend": "11.05",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216135410840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "210"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "210"
+            },
+            {
+                "action_type": "video_view",
+                "value": "207"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    },
+    {
+        "impressions": "3820",
+        "account_id": "298926841283208",
+        "reach": "2752",
+        "spend": "38.52",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216135447840695",
+        "ad_name": "[AD04] Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "571"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "571"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "531"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "19"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "impressions": "477",
+        "account_id": "294397361697540",
+        "reach": "366",
+        "spend": "5.74",
+        "adset_id": "120221778412790131",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120221843968670131",
+        "ad_name": "AD [01] Graduação geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "1117",
+        "account_id": "294397361697540",
+        "reach": "807",
+        "spend": "23.62",
+        "adset_id": "120222391399580131",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120222391399570131",
+        "ad_name": "[AD01] Estética",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "186"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "301",
+        "account_id": "294397361697540",
+        "reach": "227",
+        "spend": "2.85",
+        "adset_id": "120222391399580131",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120222391541790131",
+        "ad_name": "[AD02] Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "video_view",
+                "value": "40"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "393",
+        "account_id": "294397361697540",
+        "reach": "301",
+        "spend": "4.89",
+        "adset_id": "120222391399580131",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120222391672630131",
+        "ad_name": "[AD03] Nutrição",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "video_view",
+                "value": "33"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    }
+]

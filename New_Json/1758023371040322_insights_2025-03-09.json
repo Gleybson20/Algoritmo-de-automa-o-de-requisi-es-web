@@ -1,0 +1,162 @@
+[
+    {
+        "impressions": "2876",
+        "account_id": "1758023371040322",
+        "reach": "2409",
+        "spend": "30.3",
+        "adset_id": "120219317574610134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219317574570134",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "71",
+        "account_id": "1758023371040322",
+        "reach": "61",
+        "spend": "0.64",
+        "adset_id": "120219317574610134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219336758750134",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "469",
+        "account_id": "1758023371040322",
+        "reach": "439",
+        "spend": "5.74",
+        "adset_id": "120219317574610134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219336918130134",
+        "ad_name": "[AD03] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "50"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "292",
+        "account_id": "1758023371040322",
+        "reach": "283",
+        "spend": "5.55",
+        "adset_id": "120219317574610134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219336942990134",
+        "ad_name": "[AD04] Saúde",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "video_view",
+                "value": "41"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "3639",
+        "account_id": "1758023371040322",
+        "reach": "3340",
+        "spend": "33.46",
+        "adset_id": "120219317574610134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219336958870134",
+        "ad_name": "[AD05] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "276"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "276"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "256"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    }
+]

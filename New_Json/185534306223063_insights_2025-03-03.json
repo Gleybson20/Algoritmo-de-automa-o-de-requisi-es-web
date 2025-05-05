@@ -1,0 +1,44 @@
+[
+    {
+        "impressions": "15464",
+        "account_id": "185534306223063",
+        "reach": "6757",
+        "spend": "85.28",
+        "adset_id": "120219496986200116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120219496986210116",
+        "ad_name": "Mês do Consumidor",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "26"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-03-03",
+        "date_stop": "2025-03-03"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "impressions": "3569",
+        "account_id": "207224937995313",
+        "reach": "2316",
+        "spend": "21.74",
+        "adset_id": "120222646305120547",
+        "adset_name": "[WPP][BARREIRAS+REGIÃO][EAD] - ABRIL",
+        "ad_id": "120222646305230547",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "1490",
+        "account_id": "207224937995313",
+        "reach": "988",
+        "spend": "14.72",
+        "adset_id": "120222646305120547",
+        "adset_name": "[WPP][BARREIRAS+REGIÃO][EAD] - ABRIL",
+        "ad_id": "120222646588790547",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    }
+]

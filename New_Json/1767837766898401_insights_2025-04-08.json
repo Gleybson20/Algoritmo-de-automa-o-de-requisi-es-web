@@ -1,0 +1,358 @@
+[
+    {
+        "impressions": "340",
+        "account_id": "1767837766898401",
+        "reach": "281",
+        "spend": "11.72",
+        "adset_id": "120216318651900382",
+        "adset_name": "[TRÁFEGO][WPP] DIREITO",
+        "ad_id": "120216318651920382",
+        "ad_name": "001 - DIREITO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "1337",
+        "account_id": "1767837766898401",
+        "reach": "1016",
+        "spend": "47.47",
+        "adset_id": "120216318651900382",
+        "adset_name": "[TRÁFEGO][WPP] DIREITO",
+        "ad_id": "120216318742600382",
+        "ad_name": "003 - DIREITO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "2505",
+        "account_id": "1767837766898401",
+        "reach": "1938",
+        "spend": "52.21",
+        "adset_id": "120216318906030382",
+        "adset_name": "[TRÁFEGO][WPP] ENFERMAGEM",
+        "ad_id": "120216318906070382",
+        "ad_name": "001 - ENFERMAGEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "515",
+        "account_id": "1767837766898401",
+        "reach": "431",
+        "spend": "13.26",
+        "adset_id": "120216318906030382",
+        "adset_name": "[TRÁFEGO][WPP] ENFERMAGEM",
+        "ad_id": "120216318976220382",
+        "ad_name": "002 - ENFERMAGEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "188",
+        "account_id": "1767837766898401",
+        "reach": "165",
+        "spend": "10.15",
+        "adset_id": "120216358032540382",
+        "adset_name": "[ABERTO][WPP][EAD] - CAPTAÇÃO 2025.1",
+        "ad_id": "120216358380540382",
+        "ad_name": "002 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "1664",
+        "account_id": "1767837766898401",
+        "reach": "1335",
+        "spend": "71.85",
+        "adset_id": "120216358032540382",
+        "adset_name": "[ABERTO][WPP][EAD] - CAPTAÇÃO 2025.1",
+        "ad_id": "120216358390490382",
+        "ad_name": "003 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "828",
+        "account_id": "1767837766898401",
+        "reach": "646",
+        "spend": "23.78",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO][WPP][EAD] - NOVOS CURSOS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "332",
+        "account_id": "1767837766898401",
+        "reach": "235",
+        "spend": "12.9",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO][WPP][EAD] - NOVOS CURSOS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "91",
+        "account_id": "1767837766898401",
+        "reach": "76",
+        "spend": "1.63",
+        "adset_id": "120220977204210382",
+        "adset_name": "[WPP][TESTE PÚBLICO] - ENFERMAGEM",
+        "ad_id": "120220977204200382",
+        "ad_name": "001 - ENFERMAGEM",
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "30",
+        "account_id": "1767837766898401",
+        "reach": "25",
+        "spend": "0.51",
+        "adset_id": "120220977204210382",
+        "adset_name": "[WPP][TESTE PÚBLICO] - ENFERMAGEM",
+        "ad_id": "120220977823780382",
+        "ad_name": "002 - ENFERMAGEM",
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    }
+]

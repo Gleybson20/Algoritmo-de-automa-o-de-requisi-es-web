@@ -1,0 +1,124 @@
+[
+    {
+        "impressions": "3871",
+        "account_id": "399378954300562",
+        "reach": "3624",
+        "spend": "17.27",
+        "adset_id": "120216930516420715",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120216930516430715",
+        "ad_name": "AD01 | \"PRÁTICA\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "7619",
+        "account_id": "399378954300562",
+        "reach": "6008",
+        "spend": "38.44",
+        "adset_id": "120217583688860715",
+        "adset_name": "01 | Mai25 | PROMO_01 | ADV+ | 0204",
+        "ad_id": "120217583688880715",
+        "ad_name": "04 | (Vídeo interno) Prof Lamartine SUPER PROMO | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "544"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "544"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "511"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "1754",
+        "account_id": "399378954300562",
+        "reach": "1256",
+        "spend": "16.25",
+        "adset_id": "120224997357600715",
+        "adset_name": "03  | ADV+ | GRADUAÇÃO EAD | 1704",
+        "ad_id": "120224997357590715",
+        "ad_name": "01 | \"GRADUAÇÃO EAD\" | 1704",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    }
+]

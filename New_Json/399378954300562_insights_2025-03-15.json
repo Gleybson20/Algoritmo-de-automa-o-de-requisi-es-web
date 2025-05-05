@@ -1,0 +1,202 @@
+[
+    {
+        "impressions": "3102",
+        "account_id": "399378954300562",
+        "reach": "2768",
+        "spend": "10.94",
+        "adset_id": "120216930516420715",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120216930516430715",
+        "ad_name": "AD01 | \"PRÁTICA\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "video_view",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "3078",
+        "account_id": "399378954300562",
+        "reach": "2559",
+        "spend": "26.33",
+        "adset_id": "120217583688860715",
+        "adset_name": "01 | Mai25 | PROMO_01 | ADV+ | 0204",
+        "ad_id": "120217583688880715",
+        "ad_name": "04 | (Vídeo interno) Prof Lamartine SUPER PROMO | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "296"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "296"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "276"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "267",
+        "account_id": "399378954300562",
+        "reach": "231",
+        "spend": "2.18",
+        "adset_id": "120217583873140715",
+        "adset_name": "03 | ADV+ | PALMEIRA DOS INDIOS | 2301 | NOVO",
+        "ad_id": "120217583873130715",
+        "ad_name": "AD01 | (Imagem) \"Palmeira dos Indios\" | 2301",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "61"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "12",
+        "account_id": "399378954300562",
+        "reach": "12",
+        "spend": "0.19",
+        "adset_id": "120217583688860715",
+        "adset_name": "01 | Mai25 | PROMO_01 | ADV+ | 0204",
+        "ad_id": "120219566779020715",
+        "ad_name": "07 | (Vídeo interno) Prof Lamartine | 2502",
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "2192",
+        "account_id": "399378954300562",
+        "reach": "1612",
+        "spend": "19.6",
+        "adset_id": "120219912956840715",
+        "adset_name": "01 | ADV+ | MÊS DO CONSUMIDOR | 0102",
+        "ad_id": "120219912956860715",
+        "ad_name": "01 | \"MÊS DO CONSUMIDOR\" | 0102",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    }
+]

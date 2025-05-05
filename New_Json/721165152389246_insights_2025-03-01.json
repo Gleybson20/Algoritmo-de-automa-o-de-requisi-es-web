@@ -1,0 +1,192 @@
+[
+    {
+        "impressions": "2018",
+        "account_id": "721165152389246",
+        "reach": "1357",
+        "spend": "19.31",
+        "adset_id": "120215620382870690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO][FEV]",
+        "ad_id": "120215620382880690",
+        "ad_name": "[AD][ESTÉTICO] AZUL",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "8055",
+        "account_id": "721165152389246",
+        "reach": "5314",
+        "spend": "67.21",
+        "adset_id": "120215620382870690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO][FEV]",
+        "ad_id": "120215620409980690",
+        "ad_name": "[AD][ESTÉTICO] PRETO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "2488",
+        "account_id": "721165152389246",
+        "reach": "1832",
+        "spend": "27.31",
+        "adset_id": "120215620415010690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO][FEV] - 02",
+        "ad_id": "120215620414990690",
+        "ad_name": "[AD][ESTÉTICO] MED/FISIO/NUTRI/FARM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "6959",
+        "account_id": "721165152389246",
+        "reach": "5421",
+        "spend": "50.74",
+        "adset_id": "120215620415010690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO][FEV] - 02",
+        "ad_id": "120215620415000690",
+        "ad_name": "[AD][ESTÉTICO] ENF/PSICO/AGRO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "17358",
+        "account_id": "721165152389246",
+        "reach": "13395",
+        "spend": "198.03",
+        "adset_id": "120215706514810690",
+        "adset_name": "[MSG][VILHENA E REGIÃO][MED] TRANSFERÊNCIA",
+        "ad_id": "120215706514780690",
+        "ad_name": "[AD] - TRANSFERÊNCIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "108"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "108"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "29"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "66"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    }
+]

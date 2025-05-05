@@ -1,0 +1,126 @@
+[
+    {
+        "impressions": "17",
+        "account_id": "341867950349467",
+        "reach": "15",
+        "spend": "0.33",
+        "adset_id": "120219932217300689",
+        "adset_name": "02 | Público amplo + ADV+ | Promo_01 | 0104",
+        "ad_id": "120219932217340689",
+        "ad_name": "AD14 | \"EAD\" | 2603",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "588",
+        "account_id": "341867950349467",
+        "reach": "522",
+        "spend": "5.26",
+        "adset_id": "120219932217300689",
+        "adset_name": "02 | Público amplo + ADV+ | Promo_01 | 0104",
+        "ad_id": "120219932217350689",
+        "ad_name": "AD13 | \"Turmas Abertas\" | 2503",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "17",
+        "account_id": "341867950349467",
+        "reach": "13",
+        "spend": "0.35",
+        "adset_id": "120219932217300689",
+        "adset_name": "02 | Público amplo + ADV+ | Promo_01 | 0104",
+        "ad_id": "120219932217360689",
+        "ad_name": "AD10 | \"Estagios\" | 1903",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "16",
+        "account_id": "341867950349467",
+        "reach": "15",
+        "spend": "0.17",
+        "adset_id": "120219932257160689",
+        "adset_name": "03 | Público amplo + ADV+ | PROMO ABRIL | 0104 — Cópia",
+        "ad_id": "120219932257140689",
+        "ad_name": "AD15 | \"ESTATICO\" |  0104",
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "235",
+        "account_id": "341867950349467",
+        "reach": "185",
+        "spend": "2.41",
+        "adset_id": "120219932217300689",
+        "adset_name": "02 | Público amplo + ADV+ | Promo_01 | 0104",
+        "ad_id": "120221044778580689",
+        "ad_name": "AD15 | \"Valor Mensalidade\" | 1004",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    }
+]

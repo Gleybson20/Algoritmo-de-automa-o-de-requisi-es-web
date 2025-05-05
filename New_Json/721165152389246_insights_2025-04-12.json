@@ -1,0 +1,128 @@
+[
+    {
+        "impressions": "285",
+        "account_id": "721165152389246",
+        "reach": "260",
+        "spend": "2.9",
+        "adset_id": "120218494837800690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO] - ABRIL",
+        "ad_id": "120218494837810690",
+        "ad_name": "[AD][HOMEM] - OFICIAL",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "54",
+        "account_id": "721165152389246",
+        "reach": "49",
+        "spend": "0.78",
+        "adset_id": "120218494837800690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO] - ABRIL",
+        "ad_id": "120218496687810690",
+        "ad_name": "[AD][MULHER] - LARANJA",
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "10998",
+        "account_id": "721165152389246",
+        "reach": "7038",
+        "spend": "110.12",
+        "adset_id": "120218494837800690",
+        "adset_name": "[MSG IG+WPP][PÚBLICO SALVO] - ABRIL",
+        "ad_id": "120218496687820690",
+        "ad_name": "[AD][MULHER] - AZUL",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "6605",
+        "account_id": "721165152389246",
+        "reach": "4275",
+        "spend": "66.4",
+        "adset_id": "120218961375610690",
+        "adset_name": "[WPP][VILHENA+REGIÃO][ABRIL] - EAD",
+        "ad_id": "120218961375660690",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "6",
+        "account_id": "721165152389246",
+        "reach": "5",
+        "spend": "0.01",
+        "adset_id": "120218961375610690",
+        "adset_name": "[WPP][VILHENA+REGIÃO][ABRIL] - EAD",
+        "ad_id": "120219022473150690",
+        "ad_name": "[AD] - HOMEM",
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    }
+]

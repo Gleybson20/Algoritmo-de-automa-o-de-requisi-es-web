@@ -1,0 +1,282 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "1767837766898401",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216318651900382",
+        "adset_name": "[TRÁFEGO][WPP] DIREITO",
+        "ad_id": "120216318742600382",
+        "ad_name": "003 - DIREITO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "4376",
+        "account_id": "1767837766898401",
+        "reach": "3808",
+        "spend": "58.84",
+        "adset_id": "120216318906030382",
+        "adset_name": "[TRÁFEGO][WPP] ENFERMAGEM",
+        "ad_id": "120216318906070382",
+        "ad_name": "001 - ENFERMAGEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "1190",
+        "account_id": "1767837766898401",
+        "reach": "1026",
+        "spend": "16.07",
+        "adset_id": "120216318906030382",
+        "adset_name": "[TRÁFEGO][WPP] ENFERMAGEM",
+        "ad_id": "120216318976220382",
+        "ad_name": "002 - ENFERMAGEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1767837766898401",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216358032540382",
+        "adset_name": "[ABERTO][WPP][EAD] - CAPTAÇÃO 2025.1",
+        "ad_id": "120216358390490382",
+        "ad_name": "003 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "51",
+        "account_id": "1767837766898401",
+        "reach": "50",
+        "spend": "0.49",
+        "adset_id": "120218077635120382",
+        "adset_name": "[WPP - IG][POA R20KM][MARÇO] - DIREITO",
+        "ad_id": "120218077635140382",
+        "ad_name": "[AD][LOIRA] - C/ PREÇO",
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "257",
+        "account_id": "1767837766898401",
+        "reach": "243",
+        "spend": "2.48",
+        "adset_id": "120218077635120382",
+        "adset_name": "[WPP - IG][POA R20KM][MARÇO] - DIREITO",
+        "ad_id": "120218077885900382",
+        "ad_name": "[AD][LOIRA] - S/PREÇO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "707",
+        "account_id": "1767837766898401",
+        "reach": "646",
+        "spend": "6.85",
+        "adset_id": "120218077635120382",
+        "adset_name": "[WPP - IG][POA R20KM][MARÇO] - DIREITO",
+        "ad_id": "120218077906520382",
+        "ad_name": "[AD][MULHER] - C/PREÇO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "164",
+        "account_id": "1767837766898401",
+        "reach": "158",
+        "spend": "2.97",
+        "adset_id": "120218077635120382",
+        "adset_name": "[WPP - IG][POA R20KM][MARÇO] - DIREITO",
+        "ad_id": "120218077941620382",
+        "ad_name": "[AD][MULHER] - S/PREÇO",
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "149",
+        "account_id": "1767837766898401",
+        "reach": "139",
+        "spend": "1.97",
+        "adset_id": "120218078150450382",
+        "adset_name": "[WPP + IG][POA R20KM][MARÇO] - ENFERMAGEM",
+        "ad_id": "120218078150470382",
+        "ad_name": "[AD][MULHER] - C/ PREÇO",
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "288",
+        "account_id": "1767837766898401",
+        "reach": "275",
+        "spend": "2.47",
+        "adset_id": "120218078150450382",
+        "adset_name": "[WPP + IG][POA R20KM][MARÇO] - ENFERMAGEM",
+        "ad_id": "120218078296380382",
+        "ad_name": "[AD][MULHER] - S/ PREÇO",
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "161",
+        "account_id": "1767837766898401",
+        "reach": "156",
+        "spend": "2.01",
+        "adset_id": "120218078150450382",
+        "adset_name": "[WPP + IG][POA R20KM][MARÇO] - ENFERMAGEM",
+        "ad_id": "120218078313420382",
+        "ad_name": "[AD][MORENA] - S/ PREÇO",
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "465",
+        "account_id": "1767837766898401",
+        "reach": "431",
+        "spend": "4.66",
+        "adset_id": "120218078150450382",
+        "adset_name": "[WPP + IG][POA R20KM][MARÇO] - ENFERMAGEM",
+        "ad_id": "120218078356490382",
+        "ad_name": "[AD][MORENA] - C/ PREÇO",
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    }
+]

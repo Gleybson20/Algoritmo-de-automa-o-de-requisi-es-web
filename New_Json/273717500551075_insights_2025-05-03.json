@@ -1,0 +1,74 @@
+[
+    {
+        "impressions": "2216",
+        "account_id": "273717500551075",
+        "reach": "1830",
+        "spend": "20.32",
+        "adset_id": "120225463307300462",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120225463307270462",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    },
+    {
+        "impressions": "1038",
+        "account_id": "273717500551075",
+        "reach": "800",
+        "spend": "13.84",
+        "adset_id": "120225463307300462",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120225464118410462",
+        "ad_name": "[AD02] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    }
+]

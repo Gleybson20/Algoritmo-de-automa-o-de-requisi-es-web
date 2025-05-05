@@ -1,0 +1,70 @@
+[
+    {
+        "impressions": "226",
+        "account_id": "3214406055517297",
+        "reach": "196",
+        "spend": "3.86",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120219841686790334",
+        "ad_name": "Mês do Consumidor 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "3568",
+        "account_id": "3214406055517297",
+        "reach": "2866",
+        "spend": "38.16",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120219842027120334",
+        "ad_name": "Mês do Consumidor 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "impressions": "1248",
+        "account_id": "196724701599490",
+        "reach": "857",
+        "spend": "20.23",
+        "adset_id": "120218622267600689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS",
+        "ad_id": "120220668168510689",
+        "ad_name": "[AD][DINÂMICO] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "110"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "110"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "105"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "12548",
+        "account_id": "196724701599490",
+        "reach": "10415",
+        "spend": "151.06",
+        "adset_id": "120220927594290689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS - NOVOS CRIATIVOS",
+        "ad_id": "120220927693210689",
+        "ad_name": "[AD][ESTÁTICO] - PROCURAM-SE",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "20"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "75"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "19"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "21"
+            },
+            {
+                "action_type": "link_click",
+                "value": "53"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "297",
+        "account_id": "196724701599490",
+        "reach": "231",
+        "spend": "7.51",
+        "adset_id": "120220927594290689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS - NOVOS CRIATIVOS",
+        "ad_id": "120220927693220689",
+        "ad_name": "[AD][ESTÁTICO] - ATENÇÃO JP",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "6721",
+        "account_id": "196724701599490",
+        "reach": "5288",
+        "spend": "107.52",
+        "adset_id": "120220927594290689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS - NOVOS CRIATIVOS",
+        "ad_id": "120220928731840689",
+        "ad_name": "[AD][ESTÁTICO] - PORTADOR/SEGUNDA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    }
+]

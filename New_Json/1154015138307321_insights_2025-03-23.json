@@ -1,0 +1,168 @@
+[
+    {
+        "impressions": "12137",
+        "account_id": "1154015138307321",
+        "reach": "10207",
+        "spend": "82.49",
+        "adset_id": "120217426004670172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120217426004690172",
+        "ad_name": "Mês do consumidor",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "49"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "48",
+        "account_id": "1154015138307321",
+        "reach": "25",
+        "spend": "1.91",
+        "adset_id": "120215275579080172",
+        "adset_name": "Geolocalizado 5km",
+        "ad_id": "120217727664820172",
+        "ad_name": "Nutrição",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "337",
+        "account_id": "1154015138307321",
+        "reach": "209",
+        "spend": "9.95",
+        "adset_id": "120215275579080172",
+        "adset_name": "Geolocalizado 5km",
+        "ad_id": "120218079543590172",
+        "ad_name": "TOC 5 motivos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "video_view",
+                "value": "36"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "14584",
+        "account_id": "1154015138307321",
+        "reach": "12300",
+        "spend": "103.86",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218088619640172",
+        "ad_name": "Transferencia 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "59"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "59"
+            },
+            {
+                "action_type": "lead",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "58"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "1345",
+        "account_id": "1154015138307321",
+        "reach": "1095",
+        "spend": "16.94",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218207558860172",
+        "ad_name": "Transferencia 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    }
+]

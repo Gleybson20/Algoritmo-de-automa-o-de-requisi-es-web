@@ -1,0 +1,158 @@
+[
+    {
+        "impressions": "1890",
+        "account_id": "273226450457936",
+        "reach": "1378",
+        "spend": "18.32",
+        "adset_id": "120221595246200400",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120221595246280400",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "1469",
+        "account_id": "273226450457936",
+        "reach": "1157",
+        "spend": "23.05",
+        "adset_id": "120221595246200400",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120222147848450400",
+        "ad_name": "[AD02] Vídeo Tour",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "196"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "196"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "185"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "834",
+        "account_id": "273226450457936",
+        "reach": "672",
+        "spend": "11.52",
+        "adset_id": "120221595246200400",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120222149485630400",
+        "ad_name": "[AD03] Geral Vídeo",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "89"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "89"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "85"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "15",
+        "account_id": "273226450457936",
+        "reach": "9",
+        "spend": "0.37",
+        "adset_id": "120223010376230400",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120223010818970400",
+        "ad_name": "[AD02] Biomedicina",
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "428",
+        "account_id": "273226450457936",
+        "reach": "202",
+        "spend": "7.18",
+        "adset_id": "120223010376230400",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120223011786770400",
+        "ad_name": "[AD03] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    }
+]

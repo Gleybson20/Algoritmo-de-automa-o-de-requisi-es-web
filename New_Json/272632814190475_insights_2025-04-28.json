@@ -1,0 +1,38 @@
+[
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120213384190690584",
+        "adset_name": "[MSGS- 3 INTERESSES - H/M - 18/45- BOA VISTA] [ADVANTAGE+]",
+        "ad_id": "120220405294200584",
+        "ad_name": "[AD] [CONSULTORA-OFERTA129] [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120220405932790584",
+        "adset_name": "[17/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120220405932810584",
+        "ad_name": "[AD] [ALUNA ENFERMAGEM] — [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    }
+]

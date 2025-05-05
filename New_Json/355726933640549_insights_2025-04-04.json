@@ -1,0 +1,56 @@
+[
+    {
+        "impressions": "5986",
+        "account_id": "355726933640549",
+        "reach": "3880",
+        "spend": "72.29",
+        "adset_id": "120219879372640026",
+        "adset_name": "[ENG][ADV+R$70/DIA][ABRIL] - CONVERSÃO Conjunto de anúncios",
+        "ad_id": "120219879372630026",
+        "ad_name": "[ENG][ADV+R$70/DIA][ABRIL] - CONVERSÃO Anúncio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "751"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "750"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "730"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    }
+]

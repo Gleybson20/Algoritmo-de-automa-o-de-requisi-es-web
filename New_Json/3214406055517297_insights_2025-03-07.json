@@ -1,0 +1,80 @@
+[
+    {
+        "impressions": "6810",
+        "account_id": "3214406055517297",
+        "reach": "5821",
+        "spend": "39.72",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120219842027120334",
+        "ad_name": "Mês do Consumidor 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "162",
+        "account_id": "3214406055517297",
+        "reach": "148",
+        "spend": "3.02",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120220206625650334",
+        "ad_name": "Mês do Consumidor Adm",
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "244",
+        "account_id": "3214406055517297",
+        "reach": "229",
+        "spend": "2.12",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120220206691530334",
+        "ad_name": "Mês do Consumidor Psicologia",
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "247",
+        "account_id": "3214406055517297",
+        "reach": "223",
+        "spend": "2.32",
+        "adset_id": "120219841686780334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120220206767910334",
+        "ad_name": "Mês do Consumidor Direito",
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    }
+]

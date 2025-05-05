@@ -1,0 +1,74 @@
+[
+    {
+        "impressions": "144302",
+        "account_id": "853521859988744",
+        "reach": "112577",
+        "spend": "459.87",
+        "adset_id": "120216054092440113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120216054092460113",
+        "ad_name": "AD01 | \"LOCAL\" | 1102",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14351"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14351"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "13097"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1250"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    },
+    {
+        "impressions": "10292",
+        "account_id": "853521859988744",
+        "reach": "9233",
+        "spend": "32.26",
+        "adset_id": "120216054092440113",
+        "adset_name": "00 | Belo Horizonte | ADV+",
+        "ad_id": "120216393329620113",
+        "ad_name": "AD02 | \"LOCAL\" | 1602",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "85"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    }
+]

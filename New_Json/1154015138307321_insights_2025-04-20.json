@@ -1,0 +1,116 @@
+[
+    {
+        "impressions": "1362",
+        "account_id": "1154015138307321",
+        "reach": "1115",
+        "spend": "15.91",
+        "adset_id": "120218088619620172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120218088619640172",
+        "ad_name": "Transferencia 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "8452",
+        "account_id": "1154015138307321",
+        "reach": "7877",
+        "spend": "43.07",
+        "adset_id": "120216378370430172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120219072725710172",
+        "ad_name": "Promo 3 — 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "717"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "717"
+            },
+            {
+                "action_type": "lead",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "662"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "53"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "1263",
+        "account_id": "1154015138307321",
+        "reach": "979",
+        "spend": "15.19",
+        "adset_id": "120219028880320172",
+        "adset_name": "Bairros adv+",
+        "ad_id": "120219072775270172",
+        "ad_name": "Promo 3 Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "158"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "158"
+            },
+            {
+                "action_type": "video_view",
+                "value": "151"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    }
+]

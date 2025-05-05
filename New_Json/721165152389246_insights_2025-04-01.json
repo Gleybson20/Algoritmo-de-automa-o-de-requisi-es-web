@@ -1,0 +1,38 @@
+[
+    {
+        "account_id": "721165152389246",
+        "spend": "0",
+        "adset_id": "120215619667000690",
+        "adset_name": "[MSG IG+WPP][VILHENA R40KM+CIDADES][FEV] - CURSOS",
+        "ad_id": "120215619666980690",
+        "ad_name": "[AD][VÍDEO] ENFERMAGEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "account_id": "721165152389246",
+        "spend": "0",
+        "adset_id": "120217905239010690",
+        "adset_name": "[WPP - CRISTIANE][RONDÔNIA+MATO GROSSA] - TRANSFERÊNCIA",
+        "ad_id": "120217905239020690",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    }
+]

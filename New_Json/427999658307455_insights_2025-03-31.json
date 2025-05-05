@@ -1,0 +1,150 @@
+[
+    {
+        "impressions": "250",
+        "account_id": "427999658307455",
+        "reach": "202",
+        "spend": "2.85",
+        "adset_id": "120218040241960565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040241940565",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "1382",
+        "account_id": "427999658307455",
+        "reach": "1173",
+        "spend": "12.36",
+        "adset_id": "120218539610170565",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120218539610150565",
+        "ad_name": "[AD01] reel insta",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "200"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "200"
+            },
+            {
+                "action_type": "video_view",
+                "value": "195"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "6086",
+        "account_id": "427999658307455",
+        "reach": "4324",
+        "spend": "59.16",
+        "adset_id": "120218885294180565",
+        "adset_name": "[CJ01][Advantage]",
+        "ad_id": "120218885294170565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "599",
+        "account_id": "427999658307455",
+        "reach": "522",
+        "spend": "6.43",
+        "adset_id": "120218539610170565",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120218939229420565",
+        "ad_name": "[AD02] Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "309",
+        "account_id": "427999658307455",
+        "reach": "259",
+        "spend": "5.26",
+        "adset_id": "120218539610170565",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120218939234730565",
+        "ad_name": "[AD03] Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    }
+]

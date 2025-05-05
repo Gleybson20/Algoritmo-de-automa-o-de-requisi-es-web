@@ -1,0 +1,108 @@
+[
+    {
+        "impressions": "1691",
+        "account_id": "2384522878464324",
+        "reach": "1382",
+        "spend": "58.21",
+        "adset_id": "120220652834410653",
+        "adset_name": "[FORMS][SALVADOR R40KM][ABRIL] - ABERTO",
+        "ad_id": "120220654076630653",
+        "ad_name": "[AD][HOMEM] - FUNDO ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "lead",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2384522878464324",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120222969326650653",
+        "adset_name": "[WPP + IG][SALVADOR E REGIÃO] - DINÂMICO",
+        "ad_id": "120222969326760653",
+        "ad_name": "[AD] - AMERELO/VERDE",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2384522878464324",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120222969326650653",
+        "adset_name": "[WPP + IG][SALVADOR E REGIÃO] - DINÂMICO",
+        "ad_id": "120222969326780653",
+        "ad_name": "[AD] - AZUL/BRANCO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    }
+]

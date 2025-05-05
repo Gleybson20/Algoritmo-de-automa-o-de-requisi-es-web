@@ -1,0 +1,62 @@
+[
+    {
+        "impressions": "2882",
+        "account_id": "3028903027343475",
+        "reach": "2213",
+        "spend": "18",
+        "adset_id": "120219169176390072",
+        "adset_name": "[WPP][CACOAL+REGIÃO][ABRIL] - EAD",
+        "ad_id": "120219189768500072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "18307",
+        "account_id": "3028903027343475",
+        "reach": "15121",
+        "spend": "30.44",
+        "adset_id": "120220344159690072",
+        "adset_name": "[ALCANCE][CACOAL+REGIÃO][ABRIL] - Medicina",
+        "ad_id": "120220344159950072",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "photo_view",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    }
+]

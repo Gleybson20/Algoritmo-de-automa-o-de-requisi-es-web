@@ -1,0 +1,22 @@
+[
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120213384190690584",
+        "adset_name": "[MSGS- 3 INTERESSES - H/M - 18/45- BOA VISTA] [ADVANTAGE+]",
+        "ad_id": "120220405294200584",
+        "ad_name": "[AD] [CONSULTORA-OFERTA129] [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    }
+]

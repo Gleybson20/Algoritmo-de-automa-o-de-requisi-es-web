@@ -1,0 +1,200 @@
+[
+    {
+        "impressions": "6776",
+        "account_id": "729097561227405",
+        "reach": "5222",
+        "spend": "44",
+        "adset_id": "120217385334430705",
+        "adset_name": "07.01 | ADV+ & Direct | GERAIS | 2803",
+        "ad_id": "120217385334420705",
+        "ad_name": "AD01 | \"enem\" | 2303",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "857"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "857"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "814"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "21"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    },
+    {
+        "impressions": "257",
+        "account_id": "729097561227405",
+        "reach": "187",
+        "spend": "4.83",
+        "adset_id": "120217385334430705",
+        "adset_name": "07.01 | ADV+ & Direct | GERAIS | 2803",
+        "ad_id": "120218549049600705",
+        "ad_name": "AD02 | \"geral\" | 0304",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "48"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    },
+    {
+        "impressions": "0",
+        "account_id": "729097561227405",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217385334430705",
+        "adset_name": "07.01 | ADV+ & Direct | GERAIS | 2803",
+        "ad_id": "120219906393990705",
+        "ad_name": "AD03 | \"Pós\" | 1104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    },
+    {
+        "impressions": "1051",
+        "account_id": "729097561227405",
+        "reach": "700",
+        "spend": "15.18",
+        "adset_id": "120217385334430705",
+        "adset_name": "07.01 | ADV+ & Direct | GERAIS | 2803",
+        "ad_id": "120219998989810705",
+        "ad_name": "AD01 | \"farmacia\" | 1004",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "150"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "150"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "140"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    },
+    {
+        "impressions": "13011",
+        "account_id": "729097561227405",
+        "reach": "6927",
+        "spend": "66.36",
+        "adset_id": "120218292816700705",
+        "adset_name": "06 | ABR | ADV+ & Direct | 0203",
+        "ad_id": "120221973127970705",
+        "ad_name": "AD08 | \"PROMO_01\" | 0204",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    }
+]

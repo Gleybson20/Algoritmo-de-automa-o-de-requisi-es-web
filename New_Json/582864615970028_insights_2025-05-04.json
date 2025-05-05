@@ -1,0 +1,146 @@
+[
+    {
+        "impressions": "776",
+        "account_id": "582864615970028",
+        "reach": "647",
+        "spend": "10.45",
+        "adset_id": "120218080339830172",
+        "adset_name": "Maracanau +20KM",
+        "ad_id": "120218080339850172",
+        "ad_name": "Medicina",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "4",
+        "account_id": "582864615970028",
+        "reach": "4",
+        "spend": "0.02",
+        "adset_id": "120218920632420172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120218920672040172",
+        "ad_name": "Ead Eng Eletrica",
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "792",
+        "account_id": "582864615970028",
+        "reach": "625",
+        "spend": "10.21",
+        "adset_id": "120218920632420172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120219001605700172",
+        "ad_name": "EaD Estética",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "635",
+        "account_id": "582864615970028",
+        "reach": "485",
+        "spend": "9.65",
+        "adset_id": "120218011705050172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120220943418380172",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "751",
+        "account_id": "582864615970028",
+        "reach": "609",
+        "spend": "10.8",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120220943669830172",
+        "ad_name": "Transferência",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    }
+]

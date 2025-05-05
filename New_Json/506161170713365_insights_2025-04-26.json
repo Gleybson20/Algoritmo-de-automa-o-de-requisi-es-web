@@ -1,0 +1,146 @@
+[
+    {
+        "impressions": "7",
+        "account_id": "506161170713365",
+        "reach": "7",
+        "spend": "0.02",
+        "adset_id": "120221981538020078",
+        "adset_name": "Promo3_10_30_04_WhatsAppp",
+        "ad_id": "120221981538410078",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "331",
+        "account_id": "506161170713365",
+        "reach": "272",
+        "spend": "3.03",
+        "adset_id": "120221982805180078",
+        "adset_name": "Interno_10_30_04_WhatsAppp",
+        "ad_id": "120221983063390078",
+        "ad_name": "OdontoUninassau",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "video_view",
+                "value": "65"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "441",
+        "account_id": "506161170713365",
+        "reach": "340",
+        "spend": "3.51",
+        "adset_id": "120221983974060078",
+        "adset_name": "Transferência_10_30_04_WhatsAppp",
+        "ad_id": "120221983974070078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "36",
+        "account_id": "506161170713365",
+        "reach": "35",
+        "spend": "0.37",
+        "adset_id": "120221982805180078",
+        "adset_name": "Interno_10_30_04_WhatsAppp",
+        "ad_id": "120222590242300078",
+        "ad_name": "Promoção Páscoa",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "575",
+        "account_id": "506161170713365",
+        "reach": "446",
+        "spend": "4.27",
+        "adset_id": "120221981538020078",
+        "adset_name": "Promo3_10_30_04_WhatsAppp",
+        "ad_id": "120222590685900078",
+        "ad_name": "Criativo_05_Odonto",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    }
+]

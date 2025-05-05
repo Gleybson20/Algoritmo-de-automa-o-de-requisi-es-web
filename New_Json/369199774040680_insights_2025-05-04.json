@@ -1,0 +1,140 @@
+[
+    {
+        "impressions": "29632",
+        "account_id": "369199774040680",
+        "reach": "11052",
+        "spend": "99.26",
+        "adset_id": "120216165505660588",
+        "adset_name": "01 | ADV+ | MEDICINA | 1404",
+        "ad_id": "120222198562380588",
+        "ad_name": "AD05 | \"Médicos do Futuro\" | 1404",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "264"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "264"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "258"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "35243",
+        "account_id": "369199774040680",
+        "reach": "7563",
+        "spend": "100.79",
+        "adset_id": "120222395956120588",
+        "adset_name": "02 | LKL 1% | MEDICINA | 1704",
+        "ad_id": "120222395956130588",
+        "ad_name": "AD01 | \"Sicoob\" | 1704",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "376"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "376"
+            },
+            {
+                "action_type": "link_click",
+                "value": "376"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "27504",
+        "account_id": "369199774040680",
+        "reach": "10663",
+        "spend": "116.73",
+        "adset_id": "120216165505660588",
+        "adset_name": "01 | ADV+ | MEDICINA | 1404",
+        "ad_id": "120222410691720588",
+        "ad_name": "AD06 | \"Sicoob\" | 1704",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "312"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "312"
+            },
+            {
+                "action_type": "link_click",
+                "value": "312"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "39388",
+        "account_id": "369199774040680",
+        "reach": "8099",
+        "spend": "113.74",
+        "adset_id": "120222395956120588",
+        "adset_name": "02 | LKL 1% | MEDICINA | 1704",
+        "ad_id": "120222410832650588",
+        "ad_name": "AD02 | \"Sicoob\" | 1704",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "375"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "375"
+            },
+            {
+                "action_type": "link_click",
+                "value": "375"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "1677",
+        "account_id": "369199774040680",
+        "reach": "1476",
+        "spend": "12.55",
+        "adset_id": "120217101256490588",
+        "adset_name": "09 | ADV+ | PROMO_MAI | 0104",
+        "ad_id": "120224823879940588",
+        "ad_name": "AD11 | \"mai_promo1\" | 0104",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    }
+]

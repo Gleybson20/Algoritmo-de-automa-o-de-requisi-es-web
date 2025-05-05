@@ -1,0 +1,330 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218610416660689",
+        "adset_name": "[WPP][JP ABERTO][MARÇO] - VÍDEOS",
+        "ad_id": "120218610416670689",
+        "ad_name": "[AD][VÍDEO] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218610416660689",
+        "adset_name": "[WPP][JP ABERTO][MARÇO] - VÍDEOS",
+        "ad_id": "120218610471440689",
+        "ad_name": "[AD][VÍDEO] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "345",
+        "account_id": "196724701599490",
+        "reach": "237",
+        "spend": "10.44",
+        "adset_id": "120218622267600689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS",
+        "ad_id": "120220668168510689",
+        "ad_name": "[AD][DINÂMICO] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "47"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220897282330689",
+        "adset_name": "[WHATSAPP][JP + REGIÃO][ABRIL] - ABERTO",
+        "ad_id": "120220897282340689",
+        "ad_name": "[AD][AZUL] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "0",
+        "account_id": "196724701599490",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220897282330689",
+        "adset_name": "[WHATSAPP][JP + REGIÃO][ABRIL] - ABERTO",
+        "ad_id": "120220898111910689",
+        "ad_name": "[AD][AZUL] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "13861",
+        "account_id": "196724701599490",
+        "reach": "10644",
+        "spend": "150.16",
+        "adset_id": "120220927594290689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS - NOVOS CRIATIVOS",
+        "ad_id": "120220927693210689",
+        "ad_name": "[AD][ESTÁTICO] - PROCURAM-SE",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "30"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "89"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "89"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "23"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "26"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "29"
+            },
+            {
+                "action_type": "link_click",
+                "value": "58"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "1109",
+        "account_id": "196724701599490",
+        "reach": "775",
+        "spend": "20.9",
+        "adset_id": "120220927594290689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS - NOVOS CRIATIVOS",
+        "ad_id": "120220927693220689",
+        "ad_name": "[AD][ESTÁTICO] - ATENÇÃO JP",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "1495",
+        "account_id": "196724701599490",
+        "reach": "1181",
+        "spend": "21.67",
+        "adset_id": "120220927594290689",
+        "adset_name": "[WPP-IG][JP R20KM]- CURSOS - NOVOS CRIATIVOS",
+        "ad_id": "120220928731840689",
+        "ad_name": "[AD][ESTÁTICO] - PORTADOR/SEGUNDA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    }
+]

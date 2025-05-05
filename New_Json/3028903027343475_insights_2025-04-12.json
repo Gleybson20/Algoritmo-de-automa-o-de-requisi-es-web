@@ -1,0 +1,60 @@
+[
+    {
+        "impressions": "8256",
+        "account_id": "3028903027343475",
+        "reach": "6001",
+        "spend": "69.72",
+        "adset_id": "120218397874570072",
+        "adset_name": "[MSG - WPP+IG][LOOKALIKE+PÚBLICO][ABRIL] - CURSOS",
+        "ad_id": "120218397874490072",
+        "ad_name": "[AD] - NUTRIÇÃO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "37",
+        "account_id": "3028903027343475",
+        "reach": "33",
+        "spend": "0.27",
+        "adset_id": "120218397874570072",
+        "adset_name": "[MSG - WPP+IG][LOOKALIKE+PÚBLICO][ABRIL] - CURSOS",
+        "ad_id": "120218397874500072",
+        "ad_name": "[AD] - FISIOTERAPIA",
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    }
+]

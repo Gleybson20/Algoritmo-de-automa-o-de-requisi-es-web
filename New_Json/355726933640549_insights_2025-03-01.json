@@ -1,0 +1,22 @@
+[
+    {
+        "account_id": "355726933640549",
+        "spend": "0",
+        "adset_id": "120216182029140026",
+        "adset_name": "[MSG][WPP+IG][LAPA R40KM] Fevereiro",
+        "ad_id": "120216182154990026",
+        "ad_name": "[AD][HOMEM] - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    }
+]

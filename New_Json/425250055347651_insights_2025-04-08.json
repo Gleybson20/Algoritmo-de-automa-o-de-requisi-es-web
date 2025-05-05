@@ -1,0 +1,164 @@
+[
+    {
+        "impressions": "3962",
+        "account_id": "425250055347651",
+        "reach": "3010",
+        "spend": "44.87",
+        "adset_id": "120218076891560003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218076891520003",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "687",
+        "account_id": "425250055347651",
+        "reach": "576",
+        "spend": "8.97",
+        "adset_id": "120218635124420003",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120218635124430003",
+        "ad_name": "[AD01] Direito",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "177"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "177"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "169"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "545",
+        "account_id": "425250055347651",
+        "reach": "471",
+        "spend": "5.71",
+        "adset_id": "120218635124420003",
+        "adset_name": "[CJ02][Advantage] Cursos",
+        "ad_id": "120218636206910003",
+        "ad_name": "[AD02] Med Vet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "158"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "158"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "148"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "26",
+        "account_id": "425250055347651",
+        "reach": "24",
+        "spend": "0.18",
+        "adset_id": "120218076891560003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218636278760003",
+        "ad_name": "[AD02] Carrossel",
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    }
+]

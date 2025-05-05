@@ -1,0 +1,78 @@
+[
+    {
+        "impressions": "6017",
+        "account_id": "5434306676675337",
+        "reach": "4478",
+        "spend": "42.38",
+        "adset_id": "120215951819210434",
+        "adset_name": "[FORMS][PATOS E REGIÃO][MARÇO] - EAD",
+        "ad_id": "120215951954540434",
+        "ad_name": "[AD][HOMEM] - AMARELO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "11205",
+        "account_id": "5434306676675337",
+        "reach": "8164",
+        "spend": "78.71",
+        "adset_id": "120215951819210434",
+        "adset_name": "[FORMS][PATOS E REGIÃO][MARÇO] - EAD",
+        "ad_id": "120215951954550434",
+        "ad_name": "[AD][HOMEM] - PRETO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    }
+]

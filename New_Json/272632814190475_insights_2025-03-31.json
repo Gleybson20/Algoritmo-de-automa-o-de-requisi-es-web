@@ -1,0 +1,42 @@
+[
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120213386567140584",
+        "adset_name": "[MIX MORNO] [H/M] [18/65] — Cópia",
+        "ad_id": "120214352770430584",
+        "ad_name": "[AD] [CAMPANHA 70% DE DESCONTO] [15/10]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "account_id": "272632814190475",
+        "spend": "0",
+        "adset_id": "120220406762520584",
+        "adset_name": "[17/03] [INTERESSES] [H/M] [18/65] [ORIGINAL]",
+        "ad_id": "120220406762540584",
+        "ad_name": "[AD] [FISIOTERAPIA] — [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    }
+]

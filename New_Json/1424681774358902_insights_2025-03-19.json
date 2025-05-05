@@ -1,0 +1,362 @@
+[
+    {
+        "impressions": "3205",
+        "account_id": "1424681774358902",
+        "reach": "2753",
+        "spend": "105.04",
+        "adset_id": "120218010443610306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120218041472020306",
+        "ad_name": "[AD02] Psicologia - Aluno",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "29"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "695"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "695"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "21"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "27"
+            },
+            {
+                "action_type": "video_view",
+                "value": "652"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "21"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "258",
+        "account_id": "1424681774358902",
+        "reach": "227",
+        "spend": "10.81",
+        "adset_id": "120218010443610306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120218041586830306",
+        "ad_name": "[AD03] Psicologia - Coordenador",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "56"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "56"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "53"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "52",
+        "account_id": "1424681774358902",
+        "reach": "47",
+        "spend": "1.5",
+        "adset_id": "120218010443610306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120218041786420306",
+        "ad_name": "[AD04] Odontologia - Aluna",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1424681774358902",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218488608840306",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218488608820306",
+        "ad_name": "[AD01] video",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "8494",
+        "account_id": "1424681774358902",
+        "reach": "7481",
+        "spend": "177.5",
+        "adset_id": "120218010443610306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120218488869970306",
+        "ad_name": "[AD04] video",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "51"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1434"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1433"
+            },
+            {
+                "action_type": "comment",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "40"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "33"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "34"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "44"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1376"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "24"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "207",
+        "account_id": "1424681774358902",
+        "reach": "190",
+        "spend": "5.1",
+        "adset_id": "120218488963240306",
+        "adset_name": "[CJ03][01][wpp] [envolvimento ig 120D]",
+        "ad_id": "120218488963230306",
+        "ad_name": "[AD01] video",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "video_view",
+                "value": "24"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "240",
+        "account_id": "1424681774358902",
+        "reach": "203",
+        "spend": "5.18",
+        "adset_id": "120218489451930306",
+        "adset_name": "[CJ04][00][wpp] [envolvimento ig 30D]",
+        "ad_id": "120218489451920306",
+        "ad_name": "[AD01] video",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "video_view",
+                "value": "32"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "16532",
+        "account_id": "1424681774358902",
+        "reach": "12399",
+        "spend": "412.43",
+        "adset_id": "120218786104800306",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120218786104730306",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "18"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "128"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "127"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "3"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "15"
+            },
+            {
+                "action_type": "video_view",
+                "value": "19"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "27"
+            },
+            {
+                "action_type": "link_click",
+                "value": "74"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    }
+]

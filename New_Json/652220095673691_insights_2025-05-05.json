@@ -1,0 +1,74 @@
+[
+    {
+        "impressions": "752",
+        "account_id": "652220095673691",
+        "reach": "685",
+        "spend": "6.56",
+        "adset_id": "120217618011180417",
+        "adset_name": "06 | ADV+ & Direct | Promo_01 | 0104",
+        "ad_id": "120218014204320417",
+        "ad_name": "AD17 | \"Localização\" | 1903",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "94"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "94"
+            },
+            {
+                "action_type": "video_view",
+                "value": "93"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "3",
+        "account_id": "652220095673691",
+        "reach": "3",
+        "spend": "0.03",
+        "adset_id": "120217618011180417",
+        "adset_name": "06 | ADV+ & Direct | Promo_01 | 0104",
+        "ad_id": "120218029434730417",
+        "ad_name": "AD18 | \"cursos técnicos\" | 1903",
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "2359",
+        "account_id": "652220095673691",
+        "reach": "1835",
+        "spend": "25.05",
+        "adset_id": "120217618011180417",
+        "adset_name": "06 | ADV+ & Direct | Promo_01 | 0104",
+        "ad_id": "120223714977250417",
+        "ad_name": "AD20 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    }
+]

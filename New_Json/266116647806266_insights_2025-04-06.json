@@ -1,0 +1,164 @@
+[
+    {
+        "impressions": "351",
+        "account_id": "266116647806266",
+        "reach": "323",
+        "spend": "7.42",
+        "adset_id": "120220518643000251",
+        "adset_name": "[FORMS][CG R60KM][ABRIL] - ABERTO",
+        "ad_id": "120220518643010251",
+        "ad_name": "[AD][MULHER] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "11",
+        "account_id": "266116647806266",
+        "reach": "11",
+        "spend": "0.15",
+        "adset_id": "120220518643000251",
+        "adset_name": "[FORMS][CG R60KM][ABRIL] - ABERTO",
+        "ad_id": "120220519223640251",
+        "ad_name": "[AD][MULHER] - 02",
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "2092",
+        "account_id": "266116647806266",
+        "reach": "1582",
+        "spend": "29.85",
+        "adset_id": "120220696328490251",
+        "adset_name": "[FORMS][PÚBLICO LOOKALIKE][ABRIL] - ABERTO",
+        "ad_id": "120220696328480251",
+        "ad_name": "[AD][MULHER] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "1103",
+        "account_id": "266116647806266",
+        "reach": "879",
+        "spend": "15.5",
+        "adset_id": "120220696328490251",
+        "adset_name": "[FORMS][PÚBLICO LOOKALIKE][ABRIL] - ABERTO",
+        "ad_id": "120220696328500251",
+        "ad_name": "[AD][MULHER] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "1103",
+        "account_id": "266116647806266",
+        "reach": "621",
+        "spend": "13.39",
+        "adset_id": "120220995596840251",
+        "adset_name": "[WPP+IG][CG E REGIÃO][ABRIL] - CONVERSÃO",
+        "ad_id": "120220995596930251",
+        "ad_name": "[AD]- 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "9755",
+        "account_id": "266116647806266",
+        "reach": "5502",
+        "spend": "72.95",
+        "adset_id": "120220995596840251",
+        "adset_name": "[WPP+IG][CG E REGIÃO][ABRIL] - CONVERSÃO",
+        "ad_id": "120220995772890251",
+        "ad_name": "[AD]- 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    }
+]

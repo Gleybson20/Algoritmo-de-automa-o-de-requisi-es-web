@@ -1,0 +1,74 @@
+[
+    {
+        "impressions": "3512",
+        "account_id": "294397361697540",
+        "reach": "2525",
+        "spend": "54.51",
+        "adset_id": "120225840844410131",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120225840843860131",
+        "ad_name": "AD [01] Graduação geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    },
+    {
+        "impressions": "2996",
+        "account_id": "294397361697540",
+        "reach": "1980",
+        "spend": "33.96",
+        "adset_id": "120225840844410131",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120225840844300131",
+        "ad_name": "[AD02] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    }
+]

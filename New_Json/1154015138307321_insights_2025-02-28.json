@@ -1,0 +1,112 @@
+[
+    {
+        "impressions": "3014",
+        "account_id": "1154015138307321",
+        "reach": "2792",
+        "spend": "15.74",
+        "adset_id": "120215970944690172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120216535940810172",
+        "ad_name": "Pedagogia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "166"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "166"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "149"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "7465",
+        "account_id": "1154015138307321",
+        "reach": "6378",
+        "spend": "37.46",
+        "adset_id": "120216378370430172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120217041261360172",
+        "ad_name": "Promo 1 — 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "3698",
+        "account_id": "1154015138307321",
+        "reach": "3056",
+        "spend": "22.66",
+        "adset_id": "120215970944690172",
+        "adset_name": "Geolocalizado Nassau Parangaba",
+        "ad_id": "120217412945590172",
+        "ad_name": "Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "152"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "152"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "141"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    }
+]

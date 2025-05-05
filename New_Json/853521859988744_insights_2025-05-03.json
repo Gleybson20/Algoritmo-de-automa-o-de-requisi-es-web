@@ -1,0 +1,44 @@
+[
+    {
+        "impressions": "2326",
+        "account_id": "853521859988744",
+        "reach": "1847",
+        "spend": "68.39",
+        "adset_id": "120218607587150113",
+        "adset_name": "00 | PÓS EDUC & GESTÃO | 1503",
+        "ad_id": "120220571928520113",
+        "ad_name": "AD01 | \"VÍDEO\" | 2502",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "322"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "322"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "305"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    }
+]

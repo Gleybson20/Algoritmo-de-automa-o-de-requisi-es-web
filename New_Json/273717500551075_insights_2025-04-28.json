@@ -1,0 +1,230 @@
+[
+    {
+        "impressions": "370",
+        "account_id": "273717500551075",
+        "reach": "346",
+        "spend": "6.55",
+        "adset_id": "120221785368830462",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120221785368910462",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "511",
+        "account_id": "273717500551075",
+        "reach": "468",
+        "spend": "9.57",
+        "adset_id": "120223092030790462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120223092030780462",
+        "ad_name": "[AD01] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "4645",
+        "account_id": "273717500551075",
+        "reach": "4597",
+        "spend": "35.77",
+        "adset_id": "120221785368830462",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120223098329610462",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "538"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "538"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "515"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "188",
+        "account_id": "273717500551075",
+        "reach": "182",
+        "spend": "1.88",
+        "adset_id": "120223092030790462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120223098972750462",
+        "ad_name": "[AD02] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "video_view",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "11935",
+        "account_id": "273717500551075",
+        "reach": "10643",
+        "spend": "124.32",
+        "adset_id": "120221785368830462",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120224438463630462",
+        "ad_name": "[AD03] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "967"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "967"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "889"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "62"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "1306",
+        "account_id": "273717500551075",
+        "reach": "1127",
+        "spend": "20.6",
+        "adset_id": "120223092030790462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120224480641540462",
+        "ad_name": "[AD03] Unama",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "154"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "154"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "136"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    }
+]

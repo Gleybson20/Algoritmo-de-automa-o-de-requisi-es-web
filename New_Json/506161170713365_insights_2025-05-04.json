@@ -1,0 +1,56 @@
+[
+    {
+        "impressions": "2753",
+        "account_id": "506161170713365",
+        "reach": "1953",
+        "spend": "27.4",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1_01_31_05",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "438"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "438"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "407"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    }
+]

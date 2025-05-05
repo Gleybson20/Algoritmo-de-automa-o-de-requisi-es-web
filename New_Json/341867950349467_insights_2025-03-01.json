@@ -1,0 +1,592 @@
+[
+    {
+        "impressions": "5001",
+        "account_id": "341867950349467",
+        "reach": "4607",
+        "spend": "12.51",
+        "adset_id": "120214877925220689",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120214877925210689",
+        "ad_name": "AD01 | \"LABORATORIO | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "362"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "362"
+            },
+            {
+                "action_type": "video_view",
+                "value": "320"
+            },
+            {
+                "action_type": "link_click",
+                "value": "42"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "7147",
+        "account_id": "341867950349467",
+        "reach": "6346",
+        "spend": "89.81",
+        "adset_id": "120215289802180689",
+        "adset_name": "02 | Público amplo + ADV+ | 2101",
+        "ad_id": "120215289848320689",
+        "ad_name": "04 | (Vídeo Interno) Odonto | 1012 — Cópia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1234"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1234"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1198"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "776",
+        "account_id": "341867950349467",
+        "reach": "567",
+        "spend": "9.8",
+        "adset_id": "120215289802180689",
+        "adset_name": "02 | Público amplo + ADV+ | 2101",
+        "ad_id": "120215289848340689",
+        "ad_name": "07 | (Vídeo Interno - Reels) Odontologia | 2712 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "99"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "99"
+            },
+            {
+                "action_type": "video_view",
+                "value": "95"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "56",
+        "account_id": "341867950349467",
+        "reach": "41",
+        "spend": "0.87",
+        "adset_id": "120215287868160689",
+        "adset_name": "01 | ADV+ | 2101",
+        "ad_id": "120215942992200689",
+        "ad_name": "AD01 | VIDEO ODONTO | 0702",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "15218",
+        "account_id": "341867950349467",
+        "reach": "12459",
+        "spend": "160.51",
+        "adset_id": "120215287868160689",
+        "adset_name": "01 | ADV+ | 2101",
+        "ad_id": "120216353821400689",
+        "ad_name": "AD02 | \"PROMO CARNAVAL\"",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "2784",
+        "account_id": "341867950349467",
+        "reach": "2235",
+        "spend": "49.45",
+        "adset_id": "120215287868160689",
+        "adset_name": "01 | ADV+ | 2101",
+        "ad_id": "120216355481340689",
+        "ad_name": "AD03 | \"PROMO FEV\" | 1602",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "22242",
+        "account_id": "341867950349467",
+        "reach": "17777",
+        "spend": "335.76",
+        "adset_id": "120215289802180689",
+        "adset_name": "02 | Público amplo + ADV+ | 2101",
+        "ad_id": "120216355532250689",
+        "ad_name": "AD03 | \"PROMO FEV\" | 1602",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "18"
+            },
+            {
+                "action_type": "link_click",
+                "value": "65"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "1240",
+        "account_id": "341867950349467",
+        "reach": "1113",
+        "spend": "23.66",
+        "adset_id": "120216464352480689",
+        "adset_name": "01 | ADV+ | 2101 — Cópia",
+        "ad_id": "120216464352450689",
+        "ad_name": "AD03 | \"PROMO FEV\" | 1602",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "38999",
+        "account_id": "341867950349467",
+        "reach": "31363",
+        "spend": "478.01",
+        "adset_id": "120216464352480689",
+        "adset_name": "01 | ADV+ | 2101 — Cópia",
+        "ad_id": "120216464352460689",
+        "ad_name": "AD02 | \"PROMO CARNAVAL\"",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "12"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "158"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "158"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "12"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "39"
+            },
+            {
+                "action_type": "link_click",
+                "value": "111"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "131",
+        "account_id": "341867950349467",
+        "reach": "104",
+        "spend": "1.16",
+        "adset_id": "120216464352480689",
+        "adset_name": "01 | ADV+ | 2101 — Cópia",
+        "ad_id": "120216464352470689",
+        "ad_name": "AD01 | VIDEO ODONTO | 0702",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "13511",
+        "account_id": "341867950349467",
+        "reach": "10872",
+        "spend": "201.28",
+        "adset_id": "120215287868160689",
+        "adset_name": "01 | ADV+ | 2101",
+        "ad_id": "120217484288170689",
+        "ad_name": "AD04 | \"PÓS AO VIVO\" | 2702",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2514"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2513"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2424"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "24"
+            },
+            {
+                "action_type": "link_click",
+                "value": "64"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "12733",
+        "account_id": "341867950349467",
+        "reach": "10555",
+        "spend": "168.97",
+        "adset_id": "120215289802180689",
+        "adset_name": "02 | Público amplo + ADV+ | 2101",
+        "ad_id": "120217485088200689",
+        "ad_name": "AD04 | \"PÓS AO VIVO\" | 2702",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2194"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2194"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2107"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "30"
+            },
+            {
+                "action_type": "link_click",
+                "value": "54"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "35378",
+        "account_id": "341867950349467",
+        "reach": "27548",
+        "spend": "391.71",
+        "adset_id": "120216464352480689",
+        "adset_name": "01 | ADV+ | 2101 — Cópia",
+        "ad_id": "120217485125320689",
+        "ad_name": "AD04 | \"PÓS AO VIVO\" | 2702",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "14"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5898"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5898"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "3"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "12"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5703"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "77"
+            },
+            {
+                "action_type": "link_click",
+                "value": "110"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "impressions": "94",
+        "account_id": "427999658307455",
+        "reach": "75",
+        "spend": "1.33",
+        "adset_id": "120220111868430565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120220111868490565",
+        "ad_name": "[AD 01] Geral",
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "2011",
+        "account_id": "427999658307455",
+        "reach": "1753",
+        "spend": "13.61",
+        "adset_id": "120220111868430565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120221391735530565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "261"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "261"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "253"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "278",
+        "account_id": "427999658307455",
+        "reach": "232",
+        "spend": "1.26",
+        "adset_id": "120221391974140565",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120221391974150565",
+        "ad_name": "[AD01] Med Vet",
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "662",
+        "account_id": "427999658307455",
+        "reach": "497",
+        "spend": "5.67",
+        "adset_id": "120221391974140565",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120221511441370565",
+        "ad_name": "[AD03] Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    }
+]

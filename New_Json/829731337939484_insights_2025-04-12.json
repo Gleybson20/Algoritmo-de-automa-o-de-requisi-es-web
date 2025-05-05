@@ -1,0 +1,44 @@
+[
+    {
+        "impressions": "20532",
+        "account_id": "829731337939484",
+        "reach": "16802",
+        "spend": "535.94",
+        "adset_id": "120219967111490579",
+        "adset_name": "01 - Y.25",
+        "ad_id": "120219967111440579",
+        "ad_name": "01 Arte EAD",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "126"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "126"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "29"
+            },
+            {
+                "action_type": "link_click",
+                "value": "95"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    }
+]

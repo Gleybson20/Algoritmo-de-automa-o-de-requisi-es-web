@@ -1,0 +1,32 @@
+[
+    {
+        "impressions": "4905",
+        "account_id": "506161170713365",
+        "reach": "3893",
+        "spend": "71.27",
+        "adset_id": "120220713414140078",
+        "adset_name": "Promo3_01_30_04",
+        "ad_id": "120220713414150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    }
+]

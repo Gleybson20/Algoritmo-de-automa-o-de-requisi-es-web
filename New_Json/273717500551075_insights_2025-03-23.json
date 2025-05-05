@@ -1,0 +1,146 @@
+[
+    {
+        "impressions": "173",
+        "account_id": "273717500551075",
+        "reach": "145",
+        "spend": "2.82",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219253354500462",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "16",
+        "account_id": "273717500551075",
+        "reach": "15",
+        "spend": "0.19",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120219273861000462",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "11009",
+        "account_id": "273717500551075",
+        "reach": "8481",
+        "spend": "123.78",
+        "adset_id": "120220165428040462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220165428030462",
+        "ad_name": "[AD01]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "7",
+        "account_id": "273717500551075",
+        "reach": "7",
+        "spend": "0.06",
+        "adset_id": "120219821202220462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220259087900462",
+        "ad_name": "[AD05] Farmácia",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "14439",
+        "account_id": "273717500551075",
+        "reach": "13181",
+        "spend": "175.45",
+        "adset_id": "120219253354510462",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120220392832890462",
+        "ad_name": "[AD06] Consumidor Vídeo",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1395"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1395"
+            },
+            {
+                "action_type": "comment",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "16"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1293"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "25"
+            },
+            {
+                "action_type": "link_click",
+                "value": "73"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "3",
+        "account_id": "273717500551075",
+        "reach": "3",
+        "spend": "0.07",
+        "adset_id": "120219821202220462",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120220392909910462",
+        "ad_name": "[AD06] Consumidor Vídeo 2",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    }
+]

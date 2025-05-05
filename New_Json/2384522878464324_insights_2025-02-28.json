@@ -1,0 +1,430 @@
+[
+    {
+        "impressions": "298",
+        "account_id": "2384522878464324",
+        "reach": "277",
+        "spend": "6.62",
+        "adset_id": "120214523491660653",
+        "adset_name": "[LEADS] [2025.1] NOVAS PEÇAS",
+        "ad_id": "120214523491670653",
+        "ad_name": "PEÇA - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "4157",
+        "account_id": "2384522878464324",
+        "reach": "3599",
+        "spend": "61.1",
+        "adset_id": "120214523491660653",
+        "adset_name": "[LEADS] [2025.1] NOVAS PEÇAS",
+        "ad_id": "120214524182400653",
+        "ad_name": "PEÇA - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "1349",
+        "account_id": "2384522878464324",
+        "reach": "1097",
+        "spend": "26.82",
+        "adset_id": "120215995538320653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] FONO",
+        "ad_id": "120215995538300653",
+        "ad_name": "001 - FONO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "3",
+        "account_id": "2384522878464324",
+        "reach": "3",
+        "spend": "0.05",
+        "adset_id": "120215995538320653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] FONO",
+        "ad_id": "120215995863840653",
+        "ad_name": "002 - FONO",
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "1028",
+        "account_id": "2384522878464324",
+        "reach": "848",
+        "spend": "25.56",
+        "adset_id": "120215996130680653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] PSICOLOGIA",
+        "ad_id": "120215996130690653",
+        "ad_name": "001 - PSICOLOGIA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "10",
+        "account_id": "2384522878464324",
+        "reach": "10",
+        "spend": "0.13",
+        "adset_id": "120215996130680653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] PSICOLOGIA",
+        "ad_id": "120215996130700653",
+        "ad_name": "002 - PSICOLOGIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "210",
+        "account_id": "2384522878464324",
+        "reach": "179",
+        "spend": "9.33",
+        "adset_id": "120215999456870653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] TERAPIA OCUPACIONAL",
+        "ad_id": "120215999456880653",
+        "ad_name": "002 - TERAPIA OCUPACIONAL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "852",
+        "account_id": "2384522878464324",
+        "reach": "735",
+        "spend": "14.79",
+        "adset_id": "120215999456870653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] TERAPIA OCUPACIONAL",
+        "ad_id": "120215999456890653",
+        "ad_name": "001 - TERAPIA OCUPACIONAL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "585",
+        "account_id": "2384522878464324",
+        "reach": "461",
+        "spend": "14.12",
+        "adset_id": "120216001967030653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] DIREITO",
+        "ad_id": "120216001967020653",
+        "ad_name": "002 - DIREITO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "746",
+        "account_id": "2384522878464324",
+        "reach": "631",
+        "spend": "11.31",
+        "adset_id": "120216001967030653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] DIREITO",
+        "ad_id": "120216001967040653",
+        "ad_name": "001 - DIREITO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "7",
+        "account_id": "2384522878464324",
+        "reach": "6",
+        "spend": "0.12",
+        "adset_id": "120216002055960653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] SISTEMA DA INFORMAÇÃO",
+        "ad_id": "120216002055940653",
+        "ad_name": "002 - SISTEMA DA INFORMAÇÃO",
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "1361",
+        "account_id": "2384522878464324",
+        "reach": "1112",
+        "spend": "23.94",
+        "adset_id": "120216002055960653",
+        "adset_name": "[TRÁFEGO][CURSOS ESP] SISTEMA DA INFORMAÇÃO",
+        "ad_id": "120216002055950653",
+        "ad_name": "001 - SISTEMA DA INFORMAÇÃO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "5759",
+        "account_id": "2384522878464324",
+        "reach": "5136",
+        "spend": "61.31",
+        "adset_id": "120217987758910653",
+        "adset_name": "[TRÁFEGO][FOCO CURSOS] - CAMP. CARNAVAL",
+        "ad_id": "120217987798950653",
+        "ad_name": "[AD] - CARNAVAL - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "5833",
+        "account_id": "2384522878464324",
+        "reach": "5297",
+        "spend": "80.38",
+        "adset_id": "120217987758910653",
+        "adset_name": "[TRÁFEGO][FOCO CURSOS] - CAMP. CARNAVAL",
+        "ad_id": "120217987850570653",
+        "ad_name": "[AD] - CARNAVAL - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    }
+]

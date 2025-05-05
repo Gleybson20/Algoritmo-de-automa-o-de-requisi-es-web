@@ -1,0 +1,170 @@
+[
+    {
+        "impressions": "9553",
+        "account_id": "721165152389246",
+        "reach": "5641",
+        "spend": "96.16",
+        "adset_id": "120218961375610690",
+        "adset_name": "[WPP][VILHENA+REGIÃO][ABRIL] - EAD",
+        "ad_id": "120218961375660690",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "37"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "7310",
+        "account_id": "721165152389246",
+        "reach": "5355",
+        "spend": "72.85",
+        "adset_id": "120219753474560690",
+        "adset_name": "[WPP - CRIS][RONDONIA + MATO GROSSO][ABRIL] - Inscriçoes Medicina",
+        "ad_id": "120219754496520690",
+        "ad_name": "[AD] - M",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "17079",
+        "account_id": "721165152389246",
+        "reach": "13293",
+        "spend": "195.93",
+        "adset_id": "120219753474560690",
+        "adset_name": "[WPP - CRIS][RONDONIA + MATO GROSSO][ABRIL] - Inscriçoes Medicina",
+        "ad_id": "120219902775060690",
+        "ad_name": "[AD] - FAÇA ACONTECER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "49"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "1651",
+        "account_id": "721165152389246",
+        "reach": "1038",
+        "spend": "27.28",
+        "adset_id": "120220438715540690",
+        "adset_name": "[WPP - CRIS][MAT-SEMELHANTE][ABRIL] - INSCRIÇÕES",
+        "ad_id": "120220438715520690",
+        "ad_name": "[AD] - H",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    }
+]

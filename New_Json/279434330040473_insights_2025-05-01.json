@@ -1,0 +1,44 @@
+[
+    {
+        "impressions": "208",
+        "account_id": "279434330040473",
+        "reach": "206",
+        "spend": "4.35",
+        "adset_id": "120223282468100676",
+        "adset_name": "Promo1_01_31_05",
+        "ad_id": "120223282468120676",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "359",
+        "account_id": "279434330040473",
+        "reach": "356",
+        "spend": "6.21",
+        "adset_id": "120223282468100676",
+        "adset_name": "Promo1_01_31_05",
+        "ad_id": "120223283042370676",
+        "ad_name": "Vídeo_Instagram",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "video_view",
+                "value": "51"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    }
+]

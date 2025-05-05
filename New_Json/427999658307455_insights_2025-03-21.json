@@ -1,0 +1,150 @@
+[
+    {
+        "impressions": "1387",
+        "account_id": "427999658307455",
+        "reach": "1200",
+        "spend": "14.04",
+        "adset_id": "120218040241960565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040241940565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "3937",
+        "account_id": "427999658307455",
+        "reach": "3216",
+        "spend": "27.97",
+        "adset_id": "120218539610170565",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120218539610150565",
+        "ad_name": "[AD01] reel insta",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "595"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "594"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "585"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "1731",
+        "account_id": "427999658307455",
+        "reach": "1238",
+        "spend": "20.38",
+        "adset_id": "120218885294180565",
+        "adset_name": "[CJ01][Advantage]",
+        "ad_id": "120218885294170565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "1822",
+        "account_id": "427999658307455",
+        "reach": "1420",
+        "spend": "24.92",
+        "adset_id": "120218539610170565",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120218939229420565",
+        "ad_name": "[AD02] Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "5",
+        "account_id": "427999658307455",
+        "reach": "5",
+        "spend": "0.05",
+        "adset_id": "120218539610170565",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120218939234730565",
+        "ad_name": "[AD03] Fonoaudiologia",
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    }
+]

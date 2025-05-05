@@ -1,0 +1,158 @@
+[
+    {
+        "impressions": "325",
+        "account_id": "427999658307455",
+        "reach": "242",
+        "spend": "3.02",
+        "adset_id": "120220111868430565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120220111868490565",
+        "ad_name": "[AD 01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "3016",
+        "account_id": "427999658307455",
+        "reach": "2450",
+        "spend": "22.74",
+        "adset_id": "120220111868430565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120221391735530565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "440"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "440"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "418"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "306",
+        "account_id": "427999658307455",
+        "reach": "273",
+        "spend": "1.86",
+        "adset_id": "120221391974140565",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120221391974150565",
+        "ad_name": "[AD01] Med Vet",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "58",
+        "account_id": "427999658307455",
+        "reach": "53",
+        "spend": "0.3",
+        "adset_id": "120221391974140565",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120221509592170565",
+        "ad_name": "[AD02] Biomedicina",
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "898",
+        "account_id": "427999658307455",
+        "reach": "664",
+        "spend": "7.88",
+        "adset_id": "120221391974140565",
+        "adset_name": "[CJ01][Advantage][Cursos]",
+        "ad_id": "120221511441370565",
+        "ad_name": "[AD03] Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    }
+]

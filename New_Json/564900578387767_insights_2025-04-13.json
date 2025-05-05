@@ -1,0 +1,294 @@
+[
+    {
+        "impressions": "1788",
+        "account_id": "564900578387767",
+        "reach": "1742",
+        "spend": "4.3",
+        "adset_id": "120209183287780395",
+        "adset_name": "[VISITAS NO PERFIL] [02/09] [EXCLUSÃO DE PUB PERSONALIZADOS]",
+        "ad_id": "120209183287790395",
+        "ad_name": "[AD] [ONDE FICA UNINASSAU IMPERATRIZ] [02/09]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "170"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "170"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "157"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "1865",
+        "account_id": "564900578387767",
+        "reach": "1580",
+        "spend": "3.51",
+        "adset_id": "120209183287780395",
+        "adset_name": "[VISITAS NO PERFIL] [02/09] [EXCLUSÃO DE PUB PERSONALIZADOS]",
+        "ad_id": "120210685625750395",
+        "ad_name": "[AD] [LABORATORIO DE PROTESE] [08/11]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "video_view",
+                "value": "76"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "17",
+        "account_id": "564900578387767",
+        "reach": "16",
+        "spend": "0.12",
+        "adset_id": "120213989917640395",
+        "adset_name": "[IMPERATRIZ+CIDADES] [18/65] [INTERESSE]",
+        "ad_id": "120213989917620395",
+        "ad_name": "[AD] [VIDEO-SR. VALDECI] [24/02]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "2865",
+        "account_id": "564900578387767",
+        "reach": "2434",
+        "spend": "23.33",
+        "adset_id": "120213989917640395",
+        "adset_name": "[IMPERATRIZ+CIDADES] [18/65] [INTERESSE]",
+        "ad_id": "120213991006610395",
+        "ad_name": "[AD] [VIDEO-ESTUDANTE] [24/02]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "270"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "270"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "238"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "2280",
+        "account_id": "564900578387767",
+        "reach": "1815",
+        "spend": "28.91",
+        "adset_id": "120214503846770395",
+        "adset_name": "[IMPERATRIZ +CIDADES] [18/65] [INTERESSES]",
+        "ad_id": "120214503846800395",
+        "ad_name": "[AD] [COORDENADOR] [03/03]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "242"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "242"
+            },
+            {
+                "action_type": "video_view",
+                "value": "237"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "838",
+        "account_id": "564900578387767",
+        "reach": "762",
+        "spend": "13.71",
+        "adset_id": "120214504199150395",
+        "adset_name": "[IMPERATRIZ +CIDADES] [18/65] [INTERESSES]",
+        "ad_id": "120214504199170395",
+        "ad_name": "[AD] [TERAPIA OCUPACIONAL] [03/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "180"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "180"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "163"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "1718",
+        "account_id": "564900578387767",
+        "reach": "1049",
+        "spend": "21.72",
+        "adset_id": "120215024242130395",
+        "adset_name": "[IMPERATRIZ +CIDADES] [18/65] [INTERESSES]",
+        "ad_id": "120215024242150395",
+        "ad_name": "[AD] [PROMOÇÃO-129] [17/03]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "2892",
+        "account_id": "564900578387767",
+        "reach": "2149",
+        "spend": "17.39",
+        "adset_id": "120212543420900395",
+        "adset_name": "[IMPERATRIZ+CIDADES] [18/65] [INTERESSE]",
+        "ad_id": "120215689176200395",
+        "ad_name": "[AD] [OFERTA-ABRIL] [01/04]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    }
+]

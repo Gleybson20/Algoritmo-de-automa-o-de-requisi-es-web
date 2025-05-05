@@ -1,0 +1,64 @@
+[
+    {
+        "impressions": "24430",
+        "account_id": "829731337939484",
+        "reach": "18708",
+        "spend": "528.57",
+        "adset_id": "120219967111490579",
+        "adset_name": "01 - Y.25",
+        "ad_id": "120223418760900579",
+        "ad_name": "02 - Reels EAD",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3655"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3652"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "21"
+            },
+            {
+                "action_type": "like",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "21"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3467"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "64"
+            },
+            {
+                "action_type": "link_click",
+                "value": "116"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    }
+]

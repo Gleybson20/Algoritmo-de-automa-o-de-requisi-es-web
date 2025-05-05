@@ -1,0 +1,178 @@
+[
+    {
+        "impressions": "4032",
+        "account_id": "3028903027343475",
+        "reach": "2814",
+        "spend": "50.26",
+        "adset_id": "120216196818670072",
+        "adset_name": "[WPP + IG][CACOAL+REGIÃO]",
+        "ad_id": "120216196818720072",
+        "ad_name": "[AD][VÍDEO] - DIREITO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "425"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "425"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "413"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    },
+    {
+        "impressions": "43667",
+        "account_id": "3028903027343475",
+        "reach": "27179",
+        "spend": "48.26",
+        "adset_id": "120216199215780072",
+        "adset_name": "[REC][CACOAL E REGIÃO] - RECEPÇÃO",
+        "ad_id": "120216199216150072",
+        "ad_name": "[AD][POSTADO] - Aula de Recepçã",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2293"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2293"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2250"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    },
+    {
+        "impressions": "997",
+        "account_id": "3028903027343475",
+        "reach": "548",
+        "spend": "14.5",
+        "adset_id": "120216196818670072",
+        "adset_name": "[WPP + IG][CACOAL+REGIÃO]",
+        "ad_id": "120216200223120072",
+        "ad_name": "[AD][VÍDEO] - FISIOTERAPIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "86"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    },
+    {
+        "impressions": "1413",
+        "account_id": "3028903027343475",
+        "reach": "857",
+        "spend": "16.8",
+        "adset_id": "120216196818670072",
+        "adset_name": "[WPP + IG][CACOAL+REGIÃO]",
+        "ad_id": "120216200223130072",
+        "ad_name": "[AD][VÍDEO] - NUTRIÇÃO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "135"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "135"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "126"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    }
+]

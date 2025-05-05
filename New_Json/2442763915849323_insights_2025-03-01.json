@@ -1,0 +1,706 @@
+[
+    {
+        "impressions": "772",
+        "account_id": "2442763915849323",
+        "reach": "752",
+        "spend": "1.89",
+        "adset_id": "120211715550170249",
+        "adset_name": "[18-45/INTERESSES] [PALMAS] [EXCLUSÃO DE PUB]",
+        "ad_id": "120211715550400249",
+        "ad_name": "[AD] [KAUE]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "64"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "64"
+            },
+            {
+                "action_type": "video_view",
+                "value": "60"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "249",
+        "account_id": "2442763915849323",
+        "reach": "226",
+        "spend": "3.03",
+        "adset_id": "120213718014750249",
+        "adset_name": "[MSGS] [26/11] — [QG] [ABERTO-18/65] [VÁRIAS CIDADES]",
+        "ad_id": "120213718014760249",
+        "ad_name": "[AD] [DIREITO]-[26/11]",
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "791",
+        "account_id": "2442763915849323",
+        "reach": "657",
+        "spend": "10.59",
+        "adset_id": "120213718014750249",
+        "adset_name": "[MSGS] [26/11] — [QG] [ABERTO-18/65] [VÁRIAS CIDADES]",
+        "ad_id": "120213718014770249",
+        "ad_name": "[AD] [PSICOLOGIA]-[26/11]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "91",
+        "account_id": "2442763915849323",
+        "reach": "74",
+        "spend": "0.63",
+        "adset_id": "120213481903790249",
+        "adset_name": "[REMARKETING] [17/11] [DIREITO] [MIX MORNO]",
+        "ad_id": "120213719019230249",
+        "ad_name": "[AD] [ODONTO-PORCENTAGEM] [03/03]",
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "736",
+        "account_id": "2442763915849323",
+        "reach": "488",
+        "spend": "8.84",
+        "adset_id": "120213481657720249",
+        "adset_name": "[REMARKETING] [17/11] [EAD] [MIX MORNO]",
+        "ad_id": "120214276294290249",
+        "ad_name": "[AD] [TODOS OS CURSOS EAD] [18/12]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "87",
+        "account_id": "2442763915849323",
+        "reach": "73",
+        "spend": "0.75",
+        "adset_id": "120213481806010249",
+        "adset_name": "[REMARKETING] [17/11]  [MIX MORNO] [PSICOLOGIA]",
+        "ad_id": "120214278603090249",
+        "ad_name": "[AD] [FISIOTERAPIA] [22/02]",
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "14122",
+        "account_id": "2442763915849323",
+        "reach": "10430",
+        "spend": "170.56",
+        "adset_id": "120214484528040249",
+        "adset_name": "[EAD] [VÁRIAS CIDADES] [ABERTO] [18/65]",
+        "ad_id": "120214484528240249",
+        "ad_name": "[AD] [TODOS OS CURSOS EAD] [24/12]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "136"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "136"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "81"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "40"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "3683",
+        "account_id": "2442763915849323",
+        "reach": "2749",
+        "spend": "28.87",
+        "adset_id": "120214770983590249",
+        "adset_name": "[07/01] [PALMAS + CIDADES] [18/65] [INTERESSES] — Cópia",
+        "ad_id": "120214770983580249",
+        "ad_name": "[AD 1] [IMG FISIOTERAPIA] [03/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "16487",
+        "account_id": "2442763915849323",
+        "reach": "10188",
+        "spend": "133.05",
+        "adset_id": "120214772785160249",
+        "adset_name": "[18/65] [PALMAS+OUTRAS CIDADES] [INTERESSES]",
+        "ad_id": "120214772785170249",
+        "ad_name": "[AD] [IMG-ODONTO] [07/01]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "5918",
+        "account_id": "2442763915849323",
+        "reach": "5127",
+        "spend": "15.24",
+        "adset_id": "120211715550170249",
+        "adset_name": "[18-45/INTERESSES] [PALMAS] [EXCLUSÃO DE PUB]",
+        "ad_id": "120214953004850249",
+        "ad_name": "[AD] [DIRETOR PEDRO] — [15/01]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "410"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "410"
+            },
+            {
+                "action_type": "video_view",
+                "value": "387"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "13560",
+        "account_id": "2442763915849323",
+        "reach": "9176",
+        "spend": "168.79",
+        "adset_id": "120214905036940249",
+        "adset_name": "[18/65] [PALMAS+OUTRAS CIDADES] [INTERESSES]",
+        "ad_id": "120215381561340249",
+        "ad_name": "[AD 2] [IMG-TERAPIA PREÇO] [24/01]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "1945",
+        "account_id": "2442763915849323",
+        "reach": "1790",
+        "spend": "17.15",
+        "adset_id": "120214770116620249",
+        "adset_name": "[07/01] [PALMAS + CIDADES] [18/65] [INTERESSES]",
+        "ad_id": "120215381811060249",
+        "ad_name": "[AD 1] [VIDEO ALUNAS] [24/01]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "235"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "235"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "230"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "6047",
+        "account_id": "2442763915849323",
+        "reach": "5484",
+        "spend": "17.04",
+        "adset_id": "120213481524590249",
+        "adset_name": "[ALC 1] [MIX MORNO]",
+        "ad_id": "120215836339550249",
+        "ad_name": "[AD] [TERAPIA OCUPACIONAL] [03/02]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "3679",
+        "account_id": "2442763915849323",
+        "reach": "2978",
+        "spend": "36.58",
+        "adset_id": "120214772785160249",
+        "adset_name": "[18/65] [PALMAS+OUTRAS CIDADES] [INTERESSES]",
+        "ad_id": "120216691958800249",
+        "ad_name": "[AD] [IMG-ODONTO PORCENTAGEM] [17/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "15215",
+        "account_id": "2442763915849323",
+        "reach": "10279",
+        "spend": "140.89",
+        "adset_id": "120214770983590249",
+        "adset_name": "[07/01] [PALMAS + CIDADES] [18/65] [INTERESSES] — Cópia",
+        "ad_id": "120216692246680249",
+        "ad_name": "[AD 2] [IMG FISIOTERAPIA 2] [17/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "38"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "2443",
+        "account_id": "2442763915849323",
+        "reach": "1739",
+        "spend": "17.23",
+        "adset_id": "120214770116620249",
+        "adset_name": "[07/01] [PALMAS + CIDADES] [18/65] [INTERESSES]",
+        "ad_id": "120216692380460249",
+        "ad_name": "[AD 3] [IMG-MED VET] [17/02]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "4647",
+        "account_id": "2442763915849323",
+        "reach": "2565",
+        "spend": "41.55",
+        "adset_id": "120213481806010249",
+        "adset_name": "[REMARKETING] [17/11]  [MIX MORNO] [PSICOLOGIA]",
+        "ad_id": "120217166287010249",
+        "ad_name": "[AD] [FISIOTERAPIA-1° MENSALIDADE] [22/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "2470",
+        "account_id": "2442763915849323",
+        "reach": "1477",
+        "spend": "33",
+        "adset_id": "120213481903790249",
+        "adset_name": "[REMARKETING] [17/11] [DIREITO] [MIX MORNO]",
+        "ad_id": "120217166478400249",
+        "ad_name": "[AD 2] [IMG-TERAPIA PREÇO] [22/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "1376",
+        "account_id": "2442763915849323",
+        "reach": "1104",
+        "spend": "20.06",
+        "adset_id": "120213718014750249",
+        "adset_name": "[MSGS] [26/11] — [QG] [ABERTO-18/65] [VÁRIAS CIDADES]",
+        "ad_id": "120217874749890249",
+        "ad_name": "[AD] [OFERTA-MARÇO]-[28/02]",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    }
+]

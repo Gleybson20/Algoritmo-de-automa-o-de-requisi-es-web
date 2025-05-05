@@ -1,0 +1,206 @@
+[
+    {
+        "impressions": "169",
+        "account_id": "1767837766898401",
+        "reach": "152",
+        "spend": "6",
+        "adset_id": "120216358032540382",
+        "adset_name": "[ABERTO][WPP][EAD] - CAPTAÇÃO 2025.1",
+        "ad_id": "120216358380540382",
+        "ad_name": "002 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "1489",
+        "account_id": "1767837766898401",
+        "reach": "1185",
+        "spend": "59.51",
+        "adset_id": "120216358032540382",
+        "adset_name": "[ABERTO][WPP][EAD] - CAPTAÇÃO 2025.1",
+        "ad_id": "120216358390490382",
+        "ad_name": "003 - ESTÁTICO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "817",
+        "account_id": "1767837766898401",
+        "reach": "643",
+        "spend": "30.91",
+        "adset_id": "120218077635120382",
+        "adset_name": "[WPP - IG][POA R20KM][MARÇO] - DIREITO",
+        "ad_id": "120218077885900382",
+        "ad_name": "[AD][LOIRA] - S/PREÇO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "485",
+        "account_id": "1767837766898401",
+        "reach": "372",
+        "spend": "15.57",
+        "adset_id": "120218077635120382",
+        "adset_name": "[WPP - IG][POA R20KM][MARÇO] - DIREITO",
+        "ad_id": "120218077941620382",
+        "ad_name": "[AD][MULHER] - S/PREÇO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "755",
+        "account_id": "1767837766898401",
+        "reach": "609",
+        "spend": "14.27",
+        "adset_id": "120218078150450382",
+        "adset_name": "[WPP + IG][POA R20KM][MARÇO] - ENFERMAGEM",
+        "ad_id": "120218078296380382",
+        "ad_name": "[AD][MULHER] - S/ PREÇO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "2102",
+        "account_id": "1767837766898401",
+        "reach": "1531",
+        "spend": "29.45",
+        "adset_id": "120218078150450382",
+        "adset_name": "[WPP + IG][POA R20KM][MARÇO] - ENFERMAGEM",
+        "ad_id": "120218078313420382",
+        "ad_name": "[AD][MORENA] - S/ PREÇO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    }
+]

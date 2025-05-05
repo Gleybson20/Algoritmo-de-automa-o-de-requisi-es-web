@@ -1,0 +1,36 @@
+[
+    {
+        "impressions": "23186",
+        "account_id": "2744202202494865",
+        "reach": "15294",
+        "spend": "198.97",
+        "adset_id": "120217376594010780",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120217376594030780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "24"
+            },
+            {
+                "action_type": "link_click",
+                "value": "56"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    }
+]

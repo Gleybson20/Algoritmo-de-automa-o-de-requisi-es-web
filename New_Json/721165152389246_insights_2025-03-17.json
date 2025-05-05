@@ -1,0 +1,144 @@
+[
+    {
+        "impressions": "3868",
+        "account_id": "721165152389246",
+        "reach": "2392",
+        "spend": "64.59",
+        "adset_id": "120215619667000690",
+        "adset_name": "[MSG IG+WPP][VILHENA R40KM+CIDADES][FEV] - CURSOS",
+        "ad_id": "120215619666980690",
+        "ad_name": "[AD][VÍDEO] ENFERMAGEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "329"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "329"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "321"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "403",
+        "account_id": "721165152389246",
+        "reach": "344",
+        "spend": "6.13",
+        "adset_id": "120215619667000690",
+        "adset_name": "[MSG IG+WPP][VILHENA R40KM+CIDADES][FEV] - CURSOS",
+        "ad_id": "120215619729290690",
+        "ad_name": "[AD][VÍDEO] FISIOTERAPIA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "video_view",
+                "value": "38"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "8629",
+        "account_id": "721165152389246",
+        "reach": "5836",
+        "spend": "88.8",
+        "adset_id": "120215619667000690",
+        "adset_name": "[MSG IG+WPP][VILHENA R40KM+CIDADES][FEV] - CURSOS",
+        "ad_id": "120215619746290690",
+        "ad_name": "[AD][VÍDEO] MED. VETERINÁRIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "731"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "731"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "694"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    }
+]

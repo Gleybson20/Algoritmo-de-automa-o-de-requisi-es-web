@@ -1,0 +1,174 @@
+[
+    {
+        "impressions": "3550",
+        "account_id": "273226450457936",
+        "reach": "1610",
+        "spend": "36.39",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219258375430400",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "1034",
+        "account_id": "273226450457936",
+        "reach": "420",
+        "spend": "10.38",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219279799900400",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "2055",
+        "account_id": "273226450457936",
+        "reach": "1271",
+        "spend": "29.69",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219279853240400",
+        "ad_name": "[AD03] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "165"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "165"
+            },
+            {
+                "action_type": "video_view",
+                "value": "150"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "1764",
+        "account_id": "273226450457936",
+        "reach": "923",
+        "spend": "20.55",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219280061320400",
+        "ad_name": "[AD04] Direito",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "145"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "145"
+            },
+            {
+                "action_type": "video_view",
+                "value": "137"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "1073",
+        "account_id": "273226450457936",
+        "reach": "645",
+        "spend": "12.86",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219280148100400",
+        "ad_name": "[AD05] Eng Civil",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "126"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "126"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "119"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "impressions": "1360",
+        "account_id": "273226450457936",
+        "reach": "829",
+        "spend": "23.31",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219258375430400",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "62",
+        "account_id": "273226450457936",
+        "reach": "49",
+        "spend": "1.39",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219279853240400",
+        "ad_name": "[AD03] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "511",
+        "account_id": "273226450457936",
+        "reach": "280",
+        "spend": "12.55",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219280061320400",
+        "ad_name": "[AD04] Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "video_view",
+                "value": "40"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "2",
+        "account_id": "273226450457936",
+        "reach": "2",
+        "spend": "0.01",
+        "adset_id": "120219258375390400",
+        "adset_name": "[CJ02][Advantage][Promo1][Geral]",
+        "ad_id": "120219280148100400",
+        "ad_name": "[AD05] Eng Civil",
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "479",
+        "account_id": "273226450457936",
+        "reach": "337",
+        "spend": "6.8",
+        "adset_id": "120219849716470400",
+        "adset_name": "[CJ03][Advantage][Cursos]",
+        "ad_id": "120219849716440400",
+        "ad_name": "[AD01]",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "55"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "55"
+            },
+            {
+                "action_type": "video_view",
+                "value": "49"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    }
+]
