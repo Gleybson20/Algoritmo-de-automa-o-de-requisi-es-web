@@ -1,6 +1,6 @@
 import os
 import json
-
+ 
 def move_files(account_ids, input_folder="json_atualizado", output_folder="aqui"):
     """
     Função que move arquivos da pasta 'input_folder' para 'output_folder' para cada conta na lista 'account_ids'.

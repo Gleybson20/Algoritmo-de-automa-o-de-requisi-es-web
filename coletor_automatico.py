@@ -4,7 +4,7 @@ import json
 import urllib.parse
 from datetime import datetime, timedelta
 import os
-
+ 
 def fetch_insights_range(account_id, access_token, start_date_str, end_date_str, pasta_saida="Megerd_Json"):
     start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
     end_date = datetime.strptime(end_date_str, "%Y-%m-%d")

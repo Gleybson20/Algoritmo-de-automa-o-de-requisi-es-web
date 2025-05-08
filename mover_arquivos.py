@@ -2,7 +2,7 @@ import os
 import json
 import re
 from datetime import datetime
-
+ 
 def process_account_files(account_id, input_folder="Megerd_Json", output_folder="f_Json"):
     # Cria o diretório de saída se não existir
     os.makedirs(output_folder, exist_ok=True)

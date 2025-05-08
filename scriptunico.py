@@ -1,7 +1,7 @@
 import time
 import requests
 import json
-
+ 
 def fetch_all_insights():
     account_id = "341867950349467"
 

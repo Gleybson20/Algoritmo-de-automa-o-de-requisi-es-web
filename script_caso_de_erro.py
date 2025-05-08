@@ -1,7 +1,7 @@
 import time
 import requests
 import json
-
+ 
 def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
     account_id = "712703422560858"

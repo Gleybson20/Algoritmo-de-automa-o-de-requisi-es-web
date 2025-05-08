@@ -2,7 +2,7 @@ import requests
 import json
 import time
 from datetime import datetime, timedelta
-
+ 
 def fetch_insights_yesterday(account_id, access_token):
     """
     Coleta os dados de anúncios do dia anterior para uma conta específica,

@@ -2,7 +2,7 @@ import time
 import requests
 import json
 import urllib.parse  # Import necessário para formatar corretamente a URL
-
+ 
 def fetch_all_insights():
     # Substitua este ID de conta e a URL conforme necessário
     account_id = "185534306223063"

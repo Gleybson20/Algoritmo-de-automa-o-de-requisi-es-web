@@ -1,6 +1,6 @@
 import os
 import json
-
+ 
 def merge_files(input_folder="f_Json", output_folder="Versao_final"):
     # Cria o diretório de saída se não existir
     os.makedirs(output_folder, exist_ok=True)

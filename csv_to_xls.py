@@ -1,5 +1,5 @@
 import pandas as pd
-
+ 
 def converter_csv_para_xls(caminho_csv, caminho_xls):
     try:
         # Ler o arquivo CSV com pandas, forçando a coluna 'unidade' a ser do tipo string
