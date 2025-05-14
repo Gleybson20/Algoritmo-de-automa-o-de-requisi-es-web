@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Tratamento de Dados - Ser Educacional   
 
 ## 📌 Visão Geral
