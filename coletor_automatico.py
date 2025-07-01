@@ -5,7 +5,7 @@ import urllib.parse
 from datetime import datetime, timedelta
 import os
  
-def fetch_insights_range(account_id, access_token, start_date_str, end_date_str, pasta_saida="Megerd_Json"):
+def fetch_insights_range(account_id, access_token, start_date_str, end_date_str, pasta_saida="Repositorio"):
     start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
     end_date = datetime.strptime(end_date_str, "%Y-%m-%d")
 
@@ -71,16 +71,31 @@ def fetch_insights_range(account_id, access_token, start_date_str, end_date_str,
         start_date = end_of_month + timedelta(days=1)
 
 if __name__ == "__main__":
-    ACCESS_TOKEN = "EAANWRqx9Ex8BOZBEufWbayTjX3sy9StKOsGjZB6PBO8SFah2dVaK8orKcbLJnZCwWxymymHvzuHBlNUq9A1gRZAYLxF2Yid6DepOZBGeuAPC3qR3diDnpeU1B3Poj1NeNQMWwWqjfFahqaUzZCEzZAAGrub3dQIje1G4SR3Fhj3F5HuBlxDlAVVB4bvAiZB53zaempZBm3nMz"
+    ACCESS_TOKEN = "EAANWRqx9Ex8BOZCOOKZAWCZA7v61ar7kjek9iR6Mc4EGo1h2aKnARpaygdJq2AvL0SZCRVYPHizovsOF1JWYwK0ZCxKe2h23dEZBpXuUoPzeVniQWaFnop7Y9QYkCNRjEyJoV9GGDdYxWnwMkBiVwmOiYV9Emlk1belGhfYB8W8s4eOe4lklNlqxPQa5iax71hicEk3weX"
 
     # Lista completa de contas de anúncios
     lista_de_contas = [
-        "185534306223063", "198313924760810", "196724701599490"
+       "294397361697540", "273717500551075", "185534306223063", "399378954300562",
+        "207224937995313", "853521859988744", "369199774040680", "272632814190475",
+        "712703422560858", "260541305274163", "3028903027343475", "266116647806266",
+        "433757391083398", "729097561227405", "427999658307455", "341867950349467",
+        "829731337939484", "421556315432981", "766843484598389", "2650800000000000",
+        "2598162083676218", "3214406055517297", "1213925972283556", "198313924760810",
+        "1354713388060439", "564900578387767", "196724701599490", "506161170713365",
+        "355726933640549", "2416446385112004", "425250055347651", "257122798893050",
+        "257917255324718", "1758023371040322", "582864615970028", "559561224946744",
+        "977036012752725", "264383791293755", "2442763915849323", "1154015138307321",
+        "717825175658793", "300036158051894", "298926841283208", "5434306676675337",
+        "652220095673691", "1630765270433461", "1767837766898401", "685333375655758",
+        "864255814099011", "1424681774358902", "511327413610720", "2384522878464324",
+        "273226450457936", "413233799949309", "2744202202494865", "275686683733706",
+        "279434330040473", "721165152389246", "442051349838768"
+
     ]
 
     # Define o intervalo desejado
-    DATA_INICIO = "2025-02-06"
-    DATA_FIM = "2025-05-06"
+    DATA_INICIO = "2025-05-12"
+    DATA_FIM = "2025-05-16"
 
     for account_id in lista_de_contas:
         print(f"\n🟦 Iniciando coleta para conta: {account_id}")

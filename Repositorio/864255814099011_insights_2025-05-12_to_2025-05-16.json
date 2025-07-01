@@ -1,0 +1,546 @@
+[
+    {
+        "impressions": "312",
+        "account_id": "864255814099011",
+        "reach": "209",
+        "spend": "4.27",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120222974512520384",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "62",
+        "account_id": "864255814099011",
+        "reach": "55",
+        "spend": "0.76",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120222974773590384",
+        "ad_name": "[AD02] Carrossel",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "153",
+        "account_id": "864255814099011",
+        "reach": "116",
+        "spend": "2.52",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223747520990384",
+        "ad_name": "[AD03] Vídeo Trabalhabilidade",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "2535",
+        "account_id": "864255814099011",
+        "reach": "1830",
+        "spend": "22.94",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223747641640384",
+        "ad_name": "[AD04] Vídeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "271"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "271"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "251"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "39",
+        "account_id": "864255814099011",
+        "reach": "29",
+        "spend": "0.48",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120222974512520384",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "1",
+        "account_id": "864255814099011",
+        "reach": "1",
+        "spend": "0.02",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120222974773590384",
+        "ad_name": "[AD02] Carrossel",
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "520",
+        "account_id": "864255814099011",
+        "reach": "407",
+        "spend": "5.43",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223747520990384",
+        "ad_name": "[AD03] Vídeo Trabalhabilidade",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "68"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "68"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "64"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "3008",
+        "account_id": "864255814099011",
+        "reach": "2405",
+        "spend": "23.03",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223747641640384",
+        "ad_name": "[AD04] Vídeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "293"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "293"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "274"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "1",
+        "account_id": "864255814099011",
+        "reach": "1",
+        "spend": "0.02",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120222974773590384",
+        "ad_name": "[AD02] Carrossel",
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "165",
+        "account_id": "864255814099011",
+        "reach": "131",
+        "spend": "1.69",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223747520990384",
+        "ad_name": "[AD03] Vídeo Trabalhabilidade",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "video_view",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "2139",
+        "account_id": "864255814099011",
+        "reach": "1599",
+        "spend": "15.95",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223747641640384",
+        "ad_name": "[AD04] Vídeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "203"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "203"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "188"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "0",
+        "account_id": "864255814099011",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223747520990384",
+        "ad_name": "[AD03] Vídeo Trabalhabilidade",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "77",
+        "account_id": "864255814099011",
+        "reach": "65",
+        "spend": "0.98",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223747641640384",
+        "ad_name": "[AD04] Vídeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "4",
+        "account_id": "864255814099011",
+        "reach": "4",
+        "spend": "0",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223919980040384",
+        "ad_name": "[AD05] Fisioterapia",
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "3394",
+        "account_id": "864255814099011",
+        "reach": "1941",
+        "spend": "27.73",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223919995540384",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "9",
+        "account_id": "864255814099011",
+        "reach": "8",
+        "spend": "0.05",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223747641640384",
+        "ad_name": "[AD04] Vídeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "156",
+        "account_id": "864255814099011",
+        "reach": "136",
+        "spend": "1",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223919980040384",
+        "ad_name": "[AD05] Fisioterapia",
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "1339",
+        "account_id": "864255814099011",
+        "reach": "952",
+        "spend": "10.1",
+        "adset_id": "120222974512550384",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120223919995540384",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    }
+]

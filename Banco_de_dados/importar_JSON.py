@@ -4,7 +4,7 @@ import psycopg2
 
 # Configuração do banco de dados
 DB_CONFIG = {
-    "dbname": "Database_Ser_Educacional",
+    "dbname": "doze-dezesseis",
     "user": "postgres",
     "password": "1993",
     "host": "localhost",
@@ -12,7 +12,7 @@ DB_CONFIG = {
 }
 
 # Definir a pasta onde os arquivos JSON estão localizados
-pasta_json = r"C:\Users\Pc1ac\Downloads\Tratamento-de-Dados-Ser-Educacional-2-main (1)\Tratamento-de-Dados-Ser-Educacional-2\New_Json"
+pasta_json = r"C:\Users\Pc1ac\Desktop\Projetos com Programação\Algoritmo de automação de requisições web\Repositorio"
 
 def importar_json():
     """Importa todos os arquivos JSON da pasta para o PostgreSQL"""
@@ -71,7 +71,7 @@ def importar_json():
 
         # Inserir todos os dados de uma vez
         cursor.executemany("""
-            INSERT INTO anuncios_json (
+            INSERT INTO anuncios_json_complete (
                 id_conta, id_conjunto, nome_conjunto, id_anuncio, nome_anuncio,
                 data, investimento, cliques, leads, cadastro_meta, conversas_iniciadas
             ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)

@@ -2,7 +2,7 @@ import psycopg2
 
 # Configuração do banco de dados
 DB_CONFIG = {
-    "dbname": "Database_Ser_Educacional",
+    "dbname": "doze-dezesseis",
     "user": "postgres",
     "password": "1993",
     "host": "localhost",
@@ -15,17 +15,9 @@ def criar_tabelas():
         conn = psycopg2.connect(**DB_CONFIG)
         cursor = conn.cursor()
 
-        # 1. Criar a tabela de unidades
+        # Criar a tabela de anuncios_json
         cursor.execute("""
-        CREATE TABLE IF NOT EXISTS unidades (
-            id_conta BIGINT PRIMARY KEY,   -- ID da conta
-            nome_unidade TEXT NOT NULL     -- Nome da unidade (ex: 'Cabo', 'Cacoal', etc.)
-        );
-        """)
-
-        # 2. Criar a tabela de anuncios_json
-        cursor.execute("""
-        CREATE TABLE IF NOT EXISTS anuncios_json (
+        CREATE TABLE IF NOT EXISTS anuncios_json_complete (
             id SERIAL PRIMARY KEY,           -- Identificador único para cada entrada
             id_conta BIGINT NOT NULL,        -- ID da conta
             id_conjunto BIGINT,              -- ID do conjunto de anúncios

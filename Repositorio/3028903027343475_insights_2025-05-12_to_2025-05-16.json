@@ -1,0 +1,812 @@
+[
+    {
+        "impressions": "4787",
+        "account_id": "3028903027343475",
+        "reach": "3023",
+        "spend": "64.77",
+        "adset_id": "120221739492800072",
+        "adset_name": "[WHATS][CACOAL+REGIÃO] - Ciclo 2025.2",
+        "ad_id": "120221755830540072",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "477",
+        "account_id": "3028903027343475",
+        "reach": "374",
+        "spend": "7.29",
+        "adset_id": "120222424284830072",
+        "adset_name": "[WHATS][CACOAL+REGIÃO][LOOKALIKE] - Bonecos I.A",
+        "ad_id": "120222424284840072",
+        "ad_name": "[AD] - AZUL",
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "1",
+        "account_id": "3028903027343475",
+        "reach": "1",
+        "spend": "0",
+        "adset_id": "120222424284830072",
+        "adset_name": "[WHATS][CACOAL+REGIÃO][LOOKALIKE] - Bonecos I.A",
+        "ad_id": "120222424416790072",
+        "ad_name": "[AD] - AMARELO",
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "9570",
+        "account_id": "3028903027343475",
+        "reach": "6877",
+        "spend": "119.09",
+        "adset_id": "120221739492800072",
+        "adset_name": "[WHATS][CACOAL+REGIÃO] - Ciclo 2025.2",
+        "ad_id": "120221755830540072",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "53",
+        "account_id": "3028903027343475",
+        "reach": "48",
+        "spend": "0.31",
+        "adset_id": "120222959810070072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2",
+        "ad_id": "120222959810050072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "5188",
+        "account_id": "3028903027343475",
+        "reach": "3967",
+        "spend": "38.76",
+        "adset_id": "120222959810070072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2",
+        "ad_id": "120222959923330072",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "356",
+        "account_id": "3028903027343475",
+        "reach": "335",
+        "spend": "3.84",
+        "adset_id": "120222959974580072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2 - TESTE CRIATIVO",
+        "ad_id": "120222959974570072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "494",
+        "account_id": "3028903027343475",
+        "reach": "372",
+        "spend": "7.11",
+        "adset_id": "120222959974580072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2 - TESTE CRIATIVO",
+        "ad_id": "120222959974590072",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "5293",
+        "account_id": "3028903027343475",
+        "reach": "4376",
+        "spend": "52.49",
+        "adset_id": "120221739492800072",
+        "adset_name": "[WHATS][CACOAL+REGIÃO] - Ciclo 2025.2",
+        "ad_id": "120221755830540072",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "3309",
+        "account_id": "3028903027343475",
+        "reach": "2447",
+        "spend": "27.99",
+        "adset_id": "120222959810070072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2",
+        "ad_id": "120222959810050072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "326",
+        "account_id": "3028903027343475",
+        "reach": "288",
+        "spend": "2.56",
+        "adset_id": "120222959810070072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2",
+        "ad_id": "120222959923330072",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "4005",
+        "account_id": "3028903027343475",
+        "reach": "2933",
+        "spend": "37.7",
+        "adset_id": "120222959974580072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2 - TESTE CRIATIVO",
+        "ad_id": "120222959974570072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "2743",
+        "account_id": "3028903027343475",
+        "reach": "2041",
+        "spend": "26.48",
+        "adset_id": "120222959810070072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2",
+        "ad_id": "120222959810050072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "66",
+        "account_id": "3028903027343475",
+        "reach": "62",
+        "spend": "0.45",
+        "adset_id": "120222959810070072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2",
+        "ad_id": "120222959923330072",
+        "ad_name": "[AD] - HOMEM",
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "1695",
+        "account_id": "3028903027343475",
+        "reach": "1402",
+        "spend": "15.47",
+        "adset_id": "120222959974580072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2 - TESTE CRIATIVO",
+        "ad_id": "120222959974570072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "1",
+        "account_id": "3028903027343475",
+        "reach": "1",
+        "spend": "0.02",
+        "adset_id": "120222959974580072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2 - TESTE CRIATIVO",
+        "ad_id": "120222959974590072",
+        "ad_name": "[AD] - HOMEM",
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "2427",
+        "account_id": "3028903027343475",
+        "reach": "1897",
+        "spend": "19.42",
+        "adset_id": "120222959974580072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2 - TESTE CRIATIVO",
+        "ad_id": "120223293834350072",
+        "ad_name": "[AD] - MULHER - CORRIGIDO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "23",
+        "account_id": "3028903027343475",
+        "reach": "20",
+        "spend": "0.17",
+        "adset_id": "120222959974580072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2 - TESTE CRIATIVO",
+        "ad_id": "120223293959640072",
+        "ad_name": "[AD] - HOMEM - CORRIGIDO",
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "413",
+        "account_id": "3028903027343475",
+        "reach": "359",
+        "spend": "5.05",
+        "adset_id": "120222959810070072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2",
+        "ad_id": "120222959810050072",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "1236",
+        "account_id": "3028903027343475",
+        "reach": "1094",
+        "spend": "8.52",
+        "adset_id": "120222959810070072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2",
+        "ad_id": "120222959923330072",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "697",
+        "account_id": "3028903027343475",
+        "reach": "603",
+        "spend": "6.17",
+        "adset_id": "120222959974580072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2 - TESTE CRIATIVO",
+        "ad_id": "120223293834350072",
+        "ad_name": "[AD] - MULHER - CORRIGIDO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "283",
+        "account_id": "3028903027343475",
+        "reach": "253",
+        "spend": "2.73",
+        "adset_id": "120222959974580072",
+        "adset_name": "[IG+WPP][CACOAL R80KM E REGIÃO] - 2025.2 - TESTE CRIATIVO",
+        "ad_id": "120223293959640072",
+        "ad_name": "[AD] - HOMEM - CORRIGIDO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    }
+]
