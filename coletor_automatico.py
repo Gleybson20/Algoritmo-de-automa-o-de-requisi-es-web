@@ -100,3 +100,4 @@ if __name__ == "__main__":
     for account_id in lista_de_contas:
         print(f"\n🟦 Iniciando coleta para conta: {account_id}")
         fetch_insights_range(account_id, ACCESS_TOKEN, DATA_INICIO, DATA_FIM)
+ 
