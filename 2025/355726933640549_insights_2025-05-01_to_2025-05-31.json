@@ -1,0 +1,1344 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "355726933640549",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120221583429820026",
+        "adset_name": "[WPP][LAPA+REGIÃO][ABRIL] - EAD",
+        "ad_id": "120221584038850026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "355726933640549",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120221583429820026",
+        "adset_name": "[WPP][LAPA+REGIÃO][ABRIL] - EAD",
+        "ad_id": "120221584038850026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "96",
+        "account_id": "355726933640549",
+        "reach": "81",
+        "spend": "1.2",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746000026",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-07",
+        "date_stop": "2025-05-07"
+    },
+    {
+        "impressions": "39",
+        "account_id": "355726933640549",
+        "reach": "29",
+        "spend": "0.24",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746020026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-07",
+        "date_stop": "2025-05-07"
+    },
+    {
+        "impressions": "764",
+        "account_id": "355726933640549",
+        "reach": "630",
+        "spend": "5.96",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-07",
+        "date_stop": "2025-05-07"
+    },
+    {
+        "impressions": "123",
+        "account_id": "355726933640549",
+        "reach": "89",
+        "spend": "1.46",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746000026",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "17",
+        "account_id": "355726933640549",
+        "reach": "13",
+        "spend": "0.35",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746020026",
+        "ad_name": "[AD] - 01",
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "3450",
+        "account_id": "355726933640549",
+        "reach": "2246",
+        "spend": "31.06",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "43",
+        "account_id": "355726933640549",
+        "reach": "34",
+        "spend": "0.28",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746000026",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "801",
+        "account_id": "355726933640549",
+        "reach": "605",
+        "spend": "7.44",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746020026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "2723",
+        "account_id": "355726933640549",
+        "reach": "2033",
+        "spend": "22.03",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "1834",
+        "account_id": "355726933640549",
+        "reach": "1328",
+        "spend": "13.63",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746000026",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "1094",
+        "account_id": "355726933640549",
+        "reach": "704",
+        "spend": "11.41",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746020026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "47",
+        "account_id": "355726933640549",
+        "reach": "39",
+        "spend": "0.22",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "2601",
+        "account_id": "355726933640549",
+        "reach": "1626",
+        "spend": "19.19",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746000026",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "25",
+        "account_id": "355726933640549",
+        "reach": "22",
+        "spend": "0.21",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746020026",
+        "ad_name": "[AD] - 01",
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "50",
+        "account_id": "355726933640549",
+        "reach": "42",
+        "spend": "0.23",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "44",
+        "account_id": "355726933640549",
+        "reach": "38",
+        "spend": "0.25",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746000026",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "3838",
+        "account_id": "355726933640549",
+        "reach": "2376",
+        "spend": "40.09",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "10578",
+        "account_id": "355726933640549",
+        "reach": "6273",
+        "spend": "105.15",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1229"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1229"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1187"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "18"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "4886",
+        "account_id": "355726933640549",
+        "reach": "3239",
+        "spend": "43.09",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "9775",
+        "account_id": "355726933640549",
+        "reach": "5968",
+        "spend": "100.83",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "862"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "862"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "825"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "2648",
+        "account_id": "355726933640549",
+        "reach": "1870",
+        "spend": "23.91",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "9700",
+        "account_id": "355726933640549",
+        "reach": "6351",
+        "spend": "93.55",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "838"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "838"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "802"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "3331",
+        "account_id": "355726933640549",
+        "reach": "2408",
+        "spend": "26.07",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "7825",
+        "account_id": "355726933640549",
+        "reach": "5318",
+        "spend": "91.99",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "732"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "732"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "697"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "3070",
+        "account_id": "355726933640549",
+        "reach": "2167",
+        "spend": "27.55",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "9399",
+        "account_id": "355726933640549",
+        "reach": "6505",
+        "spend": "98.48",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "764"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "764"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "736"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "3379",
+        "account_id": "355726933640549",
+        "reach": "2282",
+        "spend": "29.4",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "6002",
+        "account_id": "355726933640549",
+        "reach": "3954",
+        "spend": "68.14",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "410"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "410"
+            },
+            {
+                "action_type": "video_view",
+                "value": "391"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "4121",
+        "account_id": "355726933640549",
+        "reach": "2796",
+        "spend": "31.98",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "5742",
+        "account_id": "355726933640549",
+        "reach": "3789",
+        "spend": "77.82",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "496"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "495"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "468"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "3573",
+        "account_id": "355726933640549",
+        "reach": "2437",
+        "spend": "32.68",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "288",
+        "account_id": "355726933640549",
+        "reach": "247",
+        "spend": "3.62",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "161",
+        "account_id": "355726933640549",
+        "reach": "132",
+        "spend": "1.88",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "10140",
+        "account_id": "355726933640549",
+        "reach": "8424",
+        "spend": "121.88",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1234"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1233"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1196"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "4324",
+        "account_id": "355726933640549",
+        "reach": "3527",
+        "spend": "52.18",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "11383",
+        "account_id": "355726933640549",
+        "reach": "7376",
+        "spend": "118.61",
+        "adset_id": "120218183042790026",
+        "adset_name": "[WPP][LAPA R40KM][MAIO] - Vídeo",
+        "ad_id": "120218183042770026",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1038"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1037"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "995"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "1361",
+        "account_id": "355726933640549",
+        "reach": "1148",
+        "spend": "16.87",
+        "adset_id": "120223967746010026",
+        "adset_name": "[WPP][LAPA+REGIÃO][MAIO] - EAD",
+        "ad_id": "120223967746030026",
+        "ad_name": "[AD] - 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    }
+]

@@ -1,0 +1,6318 @@
+[
+    {
+        "account_id": "1767837766898401",
+        "spend": "0",
+        "adset_id": "120221360380380382",
+        "adset_name": "[TRÁFEGO][WPP] DIREITO - TESTE PÚBLICO",
+        "ad_id": "120221360422020382",
+        "ad_name": "[AD] - COPY",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "700",
+        "account_id": "1767837766898401",
+        "reach": "611",
+        "spend": "13.37",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "661",
+        "account_id": "1767837766898401",
+        "reach": "553",
+        "spend": "14.14",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "1043",
+        "account_id": "1767837766898401",
+        "reach": "863",
+        "spend": "17.75",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "572",
+        "account_id": "1767837766898401",
+        "reach": "466",
+        "spend": "20.94",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "534",
+        "account_id": "1767837766898401",
+        "reach": "445",
+        "spend": "17.43",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596564170382",
+        "ad_name": "[AD] - DIREITO - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "361",
+        "account_id": "1767837766898401",
+        "reach": "317",
+        "spend": "9.48",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "8998",
+        "account_id": "1767837766898401",
+        "reach": "7329",
+        "spend": "129.76",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603002570382",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "1387",
+        "account_id": "1767837766898401",
+        "reach": "1095",
+        "spend": "43.78",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "223",
+        "account_id": "1767837766898401",
+        "reach": "184",
+        "spend": "5.41",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "1604",
+        "account_id": "1767837766898401",
+        "reach": "1260",
+        "spend": "33.82",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "1446",
+        "account_id": "1767837766898401",
+        "reach": "1189",
+        "spend": "20.82",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "309",
+        "account_id": "1767837766898401",
+        "reach": "242",
+        "spend": "10.2",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "847",
+        "account_id": "1767837766898401",
+        "reach": "650",
+        "spend": "32.18",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596564170382",
+        "ad_name": "[AD] - DIREITO - 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "562",
+        "account_id": "1767837766898401",
+        "reach": "436",
+        "spend": "13.6",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "2699",
+        "account_id": "1767837766898401",
+        "reach": "2285",
+        "spend": "52.39",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603002570382",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "1196",
+        "account_id": "1767837766898401",
+        "reach": "945",
+        "spend": "46.11",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "91",
+        "account_id": "1767837766898401",
+        "reach": "78",
+        "spend": "3.42",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "1734",
+        "account_id": "1767837766898401",
+        "reach": "1398",
+        "spend": "36.52",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "260",
+        "account_id": "1767837766898401",
+        "reach": "222",
+        "spend": "3.25",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "262",
+        "account_id": "1767837766898401",
+        "reach": "227",
+        "spend": "8.55",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "477",
+        "account_id": "1767837766898401",
+        "reach": "392",
+        "spend": "15.02",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596564170382",
+        "ad_name": "[AD] - DIREITO - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "1171",
+        "account_id": "1767837766898401",
+        "reach": "939",
+        "spend": "21.03",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "1126",
+        "account_id": "1767837766898401",
+        "reach": "959",
+        "spend": "14.82",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603002570382",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "808",
+        "account_id": "1767837766898401",
+        "reach": "660",
+        "spend": "26.83",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "2",
+        "account_id": "1767837766898401",
+        "reach": "2",
+        "spend": "0.18",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "1001",
+        "account_id": "1767837766898401",
+        "reach": "819",
+        "spend": "18.55",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "258",
+        "account_id": "1767837766898401",
+        "reach": "211",
+        "spend": "3.98",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "11",
+        "account_id": "1767837766898401",
+        "reach": "10",
+        "spend": "2.02",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "324",
+        "account_id": "1767837766898401",
+        "reach": "231",
+        "spend": "10.9",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596564170382",
+        "ad_name": "[AD] - DIREITO - 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "613",
+        "account_id": "1767837766898401",
+        "reach": "508",
+        "spend": "12.25",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "779",
+        "account_id": "1767837766898401",
+        "reach": "642",
+        "spend": "13.39",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603002570382",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "1245",
+        "account_id": "1767837766898401",
+        "reach": "884",
+        "spend": "35.34",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "462",
+        "account_id": "1767837766898401",
+        "reach": "390",
+        "spend": "13.63",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "151",
+        "account_id": "1767837766898401",
+        "reach": "122",
+        "spend": "3.8",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "1931",
+        "account_id": "1767837766898401",
+        "reach": "1430",
+        "spend": "58.34",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "499",
+        "account_id": "1767837766898401",
+        "reach": "424",
+        "spend": "29.55",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "84",
+        "account_id": "1767837766898401",
+        "reach": "74",
+        "spend": "2.96",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596564170382",
+        "ad_name": "[AD] - DIREITO - 2",
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "1592",
+        "account_id": "1767837766898401",
+        "reach": "1223",
+        "spend": "57.42",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "67",
+        "account_id": "1767837766898401",
+        "reach": "62",
+        "spend": "1.35",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603002570382",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "928",
+        "account_id": "1767837766898401",
+        "reach": "623",
+        "spend": "60.63",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "2247",
+        "account_id": "1767837766898401",
+        "reach": "1737",
+        "spend": "59.24",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "238",
+        "account_id": "1767837766898401",
+        "reach": "200",
+        "spend": "5.82",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "1450",
+        "account_id": "1767837766898401",
+        "reach": "1182",
+        "spend": "30.55",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "1075",
+        "account_id": "1767837766898401",
+        "reach": "847",
+        "spend": "41.37",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "1392",
+        "account_id": "1767837766898401",
+        "reach": "1129",
+        "spend": "47.92",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "1423",
+        "account_id": "1767837766898401",
+        "reach": "1010",
+        "spend": "62.58",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "675",
+        "account_id": "1767837766898401",
+        "reach": "579",
+        "spend": "16.42",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "985",
+        "account_id": "1767837766898401",
+        "reach": "801",
+        "spend": "25.47",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "451",
+        "account_id": "1767837766898401",
+        "reach": "386",
+        "spend": "9.03",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "720",
+        "account_id": "1767837766898401",
+        "reach": "585",
+        "spend": "20.61",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "1020",
+        "account_id": "1767837766898401",
+        "reach": "829",
+        "spend": "25.02",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "779",
+        "account_id": "1767837766898401",
+        "reach": "581",
+        "spend": "32.25",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "898",
+        "account_id": "1767837766898401",
+        "reach": "764",
+        "spend": "17.1",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "1002",
+        "account_id": "1767837766898401",
+        "reach": "797",
+        "spend": "23.16",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "518",
+        "account_id": "1767837766898401",
+        "reach": "419",
+        "spend": "14.52",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "1428",
+        "account_id": "1767837766898401",
+        "reach": "1140",
+        "spend": "38.43",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "568",
+        "account_id": "1767837766898401",
+        "reach": "438",
+        "spend": "12.27",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "1108",
+        "account_id": "1767837766898401",
+        "reach": "804",
+        "spend": "41.33",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "985",
+        "account_id": "1767837766898401",
+        "reach": "886",
+        "spend": "20.36",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "1413",
+        "account_id": "1767837766898401",
+        "reach": "1221",
+        "spend": "24.33",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "1673",
+        "account_id": "1767837766898401",
+        "reach": "1343",
+        "spend": "31.97",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "2162",
+        "account_id": "1767837766898401",
+        "reach": "1730",
+        "spend": "53.64",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "1236",
+        "account_id": "1767837766898401",
+        "reach": "1043",
+        "spend": "20.66",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "2928",
+        "account_id": "1767837766898401",
+        "reach": "2228",
+        "spend": "86.97",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "1194",
+        "account_id": "1767837766898401",
+        "reach": "1029",
+        "spend": "20.76",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "1162",
+        "account_id": "1767837766898401",
+        "reach": "1006",
+        "spend": "24.11",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "2252",
+        "account_id": "1767837766898401",
+        "reach": "1875",
+        "spend": "37.81",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "2518",
+        "account_id": "1767837766898401",
+        "reach": "1953",
+        "spend": "64.97",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "1014",
+        "account_id": "1767837766898401",
+        "reach": "841",
+        "spend": "17.67",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "5275",
+        "account_id": "1767837766898401",
+        "reach": "3975",
+        "spend": "108.84",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "1285",
+        "account_id": "1767837766898401",
+        "reach": "1110",
+        "spend": "23.77",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "1213",
+        "account_id": "1767837766898401",
+        "reach": "1011",
+        "spend": "24.94",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "1974",
+        "account_id": "1767837766898401",
+        "reach": "1560",
+        "spend": "33.77",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "2482",
+        "account_id": "1767837766898401",
+        "reach": "1917",
+        "spend": "72.26",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "653",
+        "account_id": "1767837766898401",
+        "reach": "518",
+        "spend": "14.28",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "4668",
+        "account_id": "1767837766898401",
+        "reach": "3355",
+        "spend": "113.66",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "194",
+        "account_id": "1767837766898401",
+        "reach": "180",
+        "spend": "3.29",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596019760382",
+        "ad_name": "[AD] - ENFERMAGEM - 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "241",
+        "account_id": "1767837766898401",
+        "reach": "216",
+        "spend": "7.11",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "3088",
+        "account_id": "1767837766898401",
+        "reach": "2491",
+        "spend": "54.78",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "3022",
+        "account_id": "1767837766898401",
+        "reach": "2307",
+        "spend": "90.78",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "1047",
+        "account_id": "1767837766898401",
+        "reach": "825",
+        "spend": "22.88",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "5189",
+        "account_id": "1767837766898401",
+        "reach": "3618",
+        "spend": "153.74",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "2263",
+        "account_id": "1767837766898401",
+        "reach": "1833",
+        "spend": "40.27",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120225321415820382",
+        "ad_name": "[AD] - ENFERMAGEM - 2 - CORRIGIDO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1767837766898401",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596079690382",
+        "ad_name": "[AD] - ENFERMAGEM - 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "2719",
+        "account_id": "1767837766898401",
+        "reach": "2135",
+        "spend": "56.03",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "1889",
+        "account_id": "1767837766898401",
+        "reach": "1512",
+        "spend": "65.77",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "752",
+        "account_id": "1767837766898401",
+        "reach": "585",
+        "spend": "16.98",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "3141",
+        "account_id": "1767837766898401",
+        "reach": "2181",
+        "spend": "111.89",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "1321",
+        "account_id": "1767837766898401",
+        "reach": "1031",
+        "spend": "31.48",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120225321415820382",
+        "ad_name": "[AD] - ENFERMAGEM - 2 - CORRIGIDO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "1354",
+        "account_id": "1767837766898401",
+        "reach": "1071",
+        "spend": "35.51",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "1471",
+        "account_id": "1767837766898401",
+        "reach": "1107",
+        "spend": "54.73",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "608",
+        "account_id": "1767837766898401",
+        "reach": "443",
+        "spend": "16.11",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "3082",
+        "account_id": "1767837766898401",
+        "reach": "2093",
+        "spend": "82.14",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "2012",
+        "account_id": "1767837766898401",
+        "reach": "1552",
+        "spend": "44.56",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120225321415820382",
+        "ad_name": "[AD] - ENFERMAGEM - 2 - CORRIGIDO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "3751",
+        "account_id": "1767837766898401",
+        "reach": "3076",
+        "spend": "63.04",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "2194",
+        "account_id": "1767837766898401",
+        "reach": "1659",
+        "spend": "72.99",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "335",
+        "account_id": "1767837766898401",
+        "reach": "286",
+        "spend": "12.68",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596674880382",
+        "ad_name": "[AD] - DIREITO - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "4143",
+        "account_id": "1767837766898401",
+        "reach": "3023",
+        "spend": "131.62",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "1091",
+        "account_id": "1767837766898401",
+        "reach": "909",
+        "spend": "25.31",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120225321415820382",
+        "ad_name": "[AD] - ENFERMAGEM - 2 - CORRIGIDO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "3396",
+        "account_id": "1767837766898401",
+        "reach": "2634",
+        "spend": "91.59",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "137",
+        "account_id": "1767837766898401",
+        "reach": "125",
+        "spend": "2.81",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "5285",
+        "account_id": "1767837766898401",
+        "reach": "4090",
+        "spend": "86.15",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "3029",
+        "account_id": "1767837766898401",
+        "reach": "2405",
+        "spend": "89.36",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "2165",
+        "account_id": "1767837766898401",
+        "reach": "1621",
+        "spend": "72.22",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "2918",
+        "account_id": "1767837766898401",
+        "reach": "2210",
+        "spend": "81.78",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "2013",
+        "account_id": "1767837766898401",
+        "reach": "1450",
+        "spend": "77",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "5910",
+        "account_id": "1767837766898401",
+        "reach": "4645",
+        "spend": "97.08",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "3785",
+        "account_id": "1767837766898401",
+        "reach": "3058",
+        "spend": "99.97",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "138",
+        "account_id": "1767837766898401",
+        "reach": "96",
+        "spend": "7.38",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "3351",
+        "account_id": "1767837766898401",
+        "reach": "2612",
+        "spend": "77.22",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "2486",
+        "account_id": "1767837766898401",
+        "reach": "1862",
+        "spend": "71.44",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "3439",
+        "account_id": "1767837766898401",
+        "reach": "2707",
+        "spend": "71.64",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "2914",
+        "account_id": "1767837766898401",
+        "reach": "2310",
+        "spend": "73.75",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "176",
+        "account_id": "1767837766898401",
+        "reach": "107",
+        "spend": "9.86",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "4249",
+        "account_id": "1767837766898401",
+        "reach": "3032",
+        "spend": "128.01",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "1459",
+        "account_id": "1767837766898401",
+        "reach": "1008",
+        "spend": "63.35",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "3325",
+        "account_id": "1767837766898401",
+        "reach": "2219",
+        "spend": "96.58",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "3256",
+        "account_id": "1767837766898401",
+        "reach": "2310",
+        "spend": "104.42",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "277",
+        "account_id": "1767837766898401",
+        "reach": "153",
+        "spend": "23.53",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "9299",
+        "account_id": "1767837766898401",
+        "reach": "6413",
+        "spend": "219.61",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "16"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "43"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "3745",
+        "account_id": "1767837766898401",
+        "reach": "2373",
+        "spend": "125.1",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "12"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "7244",
+        "account_id": "1767837766898401",
+        "reach": "5503",
+        "spend": "133.81",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "4552",
+        "account_id": "1767837766898401",
+        "reach": "3601",
+        "spend": "118.75",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "95",
+        "account_id": "1767837766898401",
+        "reach": "71",
+        "spend": "8.99",
+        "adset_id": "120224602918000382",
+        "adset_name": "[WPP][POA R40KM][ABERTO][EAD] - Ciclo 2025.2",
+        "ad_id": "120224603071360382",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "7076",
+        "account_id": "1767837766898401",
+        "reach": "5383",
+        "spend": "161.2",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "17"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "13"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "38"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "3557",
+        "account_id": "1767837766898401",
+        "reach": "2549",
+        "spend": "110.24",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "3728",
+        "account_id": "1767837766898401",
+        "reach": "2711",
+        "spend": "71.82",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "3198",
+        "account_id": "1767837766898401",
+        "reach": "2467",
+        "spend": "76.52",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "6940",
+        "account_id": "1767837766898401",
+        "reach": "5839",
+        "spend": "175.07",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "21"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "14"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "2638",
+        "account_id": "1767837766898401",
+        "reach": "2025",
+        "spend": "92.84",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "3434",
+        "account_id": "1767837766898401",
+        "reach": "2616",
+        "spend": "73.18",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "2213",
+        "account_id": "1767837766898401",
+        "reach": "1693",
+        "spend": "74.42",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "11446",
+        "account_id": "1767837766898401",
+        "reach": "9292",
+        "spend": "209.73",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "39"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "1632",
+        "account_id": "1767837766898401",
+        "reach": "1322",
+        "spend": "57.49",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "3889",
+        "account_id": "1767837766898401",
+        "reach": "3126",
+        "spend": "61.2",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "2264",
+        "account_id": "1767837766898401",
+        "reach": "1797",
+        "spend": "60.94",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "10843",
+        "account_id": "1767837766898401",
+        "reach": "9035",
+        "spend": "208.89",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797050382",
+        "ad_name": "[AD][VERDE] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "4634",
+        "account_id": "1767837766898401",
+        "reach": "3789",
+        "spend": "117.53",
+        "adset_id": "120220156797060382",
+        "adset_name": "[ABERTO] [WPP] [EAD] - NOVAS PEÇAS",
+        "ad_id": "120220156797070382",
+        "ad_name": "[AD][VERDE] - MULHER - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "8994",
+        "account_id": "1767837766898401",
+        "reach": "6840",
+        "spend": "117.99",
+        "adset_id": "120224596019740382",
+        "adset_name": "[WPP][POA R20KM][MAIO] - ENFERMAGEM",
+        "ad_id": "120224596109840382",
+        "ad_name": "[AD] - ENFERMAGEM - 3",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "35"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "4651",
+        "account_id": "1767837766898401",
+        "reach": "3462",
+        "spend": "117.68",
+        "adset_id": "120224596343220382",
+        "adset_name": "[WPP][POA R17KM][MAIO] - DIREITO",
+        "ad_id": "120224596343240382",
+        "ad_name": "[AD] - DIREITO - 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    }
+]

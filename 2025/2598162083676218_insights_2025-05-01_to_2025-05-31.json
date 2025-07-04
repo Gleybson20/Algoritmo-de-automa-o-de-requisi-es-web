@@ -1,0 +1,2348 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "2598162083676218",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220199347040182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ABERTO] - ABRIL",
+        "ad_id": "120220199347090182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2598162083676218",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220199347040182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ABERTO] - ABRIL",
+        "ad_id": "120220199977060182",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2598162083676218",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220199347040182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ABERTO] - ABRIL",
+        "ad_id": "120220199347090182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2598162083676218",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220199347040182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ABERTO] - ABRIL",
+        "ad_id": "120220199977060182",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "3584",
+        "account_id": "2598162083676218",
+        "reach": "2971",
+        "spend": "80.69",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "708"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "708"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "666"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "21"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "114",
+        "account_id": "2598162083676218",
+        "reach": "94",
+        "spend": "2.18",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "151",
+        "account_id": "2598162083676218",
+        "reach": "133",
+        "spend": "3.82",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "6771",
+        "account_id": "2598162083676218",
+        "reach": "5603",
+        "spend": "130.35",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "14"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1081"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1079"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "14"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "like",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "14"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1025"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "24"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "376",
+        "account_id": "2598162083676218",
+        "reach": "239",
+        "spend": "14.03",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "43",
+        "account_id": "2598162083676218",
+        "reach": "40",
+        "spend": "1.58",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "7137",
+        "account_id": "2598162083676218",
+        "reach": "6023",
+        "spend": "108.58",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "951"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "951"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "897"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "22"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "391",
+        "account_id": "2598162083676218",
+        "reach": "278",
+        "spend": "9.84",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "2670",
+        "account_id": "2598162083676218",
+        "reach": "2213",
+        "spend": "60.74",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "353"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "353"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "332"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "342",
+        "account_id": "2598162083676218",
+        "reach": "242",
+        "spend": "8.22",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "6205",
+        "account_id": "2598162083676218",
+        "reach": "4946",
+        "spend": "177.82",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "974"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "974"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "932"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "20"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "19",
+        "account_id": "2598162083676218",
+        "reach": "18",
+        "spend": "0.43",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "10",
+        "account_id": "2598162083676218",
+        "reach": "9",
+        "spend": "0.46",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "13046",
+        "account_id": "2598162083676218",
+        "reach": "10535",
+        "spend": "248.14",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "54"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2058"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2058"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "6"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "33"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "35"
+            },
+            {
+                "action_type": "post",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "42"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1963"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "34"
+            },
+            {
+                "action_type": "link_click",
+                "value": "48"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2598162083676218",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "7738",
+        "account_id": "2598162083676218",
+        "reach": "6592",
+        "spend": "129.25",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1019"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1018"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "973"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "9819",
+        "account_id": "2598162083676218",
+        "reach": "8275",
+        "spend": "144.95",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "23"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1216"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1216"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "13"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "15"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1167"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "19"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "8165",
+        "account_id": "2598162083676218",
+        "reach": "6853",
+        "spend": "133.8",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "991"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "991"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "947"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "9932",
+        "account_id": "2598162083676218",
+        "reach": "8553",
+        "spend": "146.18",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1024"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1024"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "978"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "10408",
+        "account_id": "2598162083676218",
+        "reach": "8359",
+        "spend": "155.61",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1039"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1038"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "993"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "7669",
+        "account_id": "2598162083676218",
+        "reach": "6258",
+        "spend": "163.08",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "17"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "888"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "888"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "850"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "7719",
+        "account_id": "2598162083676218",
+        "reach": "6617",
+        "spend": "143.63",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "932"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "932"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "886"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "7319",
+        "account_id": "2598162083676218",
+        "reach": "5827",
+        "spend": "138.44",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "14"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "872"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "872"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "834"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "34"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "6816",
+        "account_id": "2598162083676218",
+        "reach": "5832",
+        "spend": "137.28",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "25"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "804"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "803"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "12"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "14"
+            },
+            {
+                "action_type": "video_view",
+                "value": "765"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "8792",
+        "account_id": "2598162083676218",
+        "reach": "7520",
+        "spend": "157.21",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1210"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1210"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "3"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1152"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "38"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "128",
+        "account_id": "2598162083676218",
+        "reach": "115",
+        "spend": "2.56",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "256",
+        "account_id": "2598162083676218",
+        "reach": "202",
+        "spend": "8.68",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "6642",
+        "account_id": "2598162083676218",
+        "reach": "5658",
+        "spend": "133.15",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "891"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "891"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "858"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "1803",
+        "account_id": "2598162083676218",
+        "reach": "1169",
+        "spend": "55.74",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "20",
+        "account_id": "2598162083676218",
+        "reach": "20",
+        "spend": "0.33",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "6197",
+        "account_id": "2598162083676218",
+        "reach": "4616",
+        "spend": "116.33",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "711"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "711"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "684"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "1678",
+        "account_id": "2598162083676218",
+        "reach": "1018",
+        "spend": "47.26",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "98",
+        "account_id": "2598162083676218",
+        "reach": "88",
+        "spend": "2.31",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "6104",
+        "account_id": "2598162083676218",
+        "reach": "4764",
+        "spend": "167.7",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "24"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "817"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "817"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "13"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "17"
+            },
+            {
+                "action_type": "video_view",
+                "value": "769"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "35"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "1752",
+        "account_id": "2598162083676218",
+        "reach": "1168",
+        "spend": "77.03",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "769",
+        "account_id": "2598162083676218",
+        "reach": "483",
+        "spend": "24.87",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "7577",
+        "account_id": "2598162083676218",
+        "reach": "6092",
+        "spend": "171.19",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "13"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1025"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1025"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "977"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "1252",
+        "account_id": "2598162083676218",
+        "reach": "950",
+        "spend": "40.57",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "392",
+        "account_id": "2598162083676218",
+        "reach": "283",
+        "spend": "9.58",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "8007",
+        "account_id": "2598162083676218",
+        "reach": "6685",
+        "spend": "138.91",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "12"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "921"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "921"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "885"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "775",
+        "account_id": "2598162083676218",
+        "reach": "605",
+        "spend": "24.97",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "142",
+        "account_id": "2598162083676218",
+        "reach": "108",
+        "spend": "4.01",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "8550",
+        "account_id": "2598162083676218",
+        "reach": "7074",
+        "spend": "140.36",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "44"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "969"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "968"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "923"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "643",
+        "account_id": "2598162083676218",
+        "reach": "484",
+        "spend": "29.13",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "16"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "40",
+        "account_id": "2598162083676218",
+        "reach": "32",
+        "spend": "1.17",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "9096",
+        "account_id": "2598162083676218",
+        "reach": "7502",
+        "spend": "140.16",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1091"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1091"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1038"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "37"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "1012",
+        "account_id": "2598162083676218",
+        "reach": "734",
+        "spend": "45.6",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "18",
+        "account_id": "2598162083676218",
+        "reach": "17",
+        "spend": "1.12",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "11785",
+        "account_id": "2598162083676218",
+        "reach": "9430",
+        "spend": "159.34",
+        "adset_id": "120224515477160182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][VÍDEO] - MAIO",
+        "ad_id": "120224515477180182",
+        "ad_name": "[AD] - VÍDEO (AMARO)",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "14"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1157"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1157"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1089"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "51"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "1361",
+        "account_id": "2598162083676218",
+        "reach": "1064",
+        "spend": "46.04",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518403980182",
+        "ad_name": "[AD] - 01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "457",
+        "account_id": "2598162083676218",
+        "reach": "348",
+        "spend": "12.05",
+        "adset_id": "120224518403990182",
+        "adset_name": "[WPP][FLORIPA E REGIÃO][ESTÁTICO] - MAIO",
+        "ad_id": "120224518982780182",
+        "ad_name": "[AD] - 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    }
+]

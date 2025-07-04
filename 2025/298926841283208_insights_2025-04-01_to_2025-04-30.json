@@ -1,0 +1,3770 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216135410840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216135447840695",
+        "ad_name": "[AD04] Direito",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "49"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "49"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216786885360695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216786885370695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216116848310695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216835583990695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "3254",
+        "account_id": "298926841283208",
+        "reach": "1892",
+        "spend": "46.12",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-01",
+        "date_stop": "2025-04-01"
+    },
+    {
+        "impressions": "2955",
+        "account_id": "298926841283208",
+        "reach": "1925",
+        "spend": "40.08",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216786885360695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216786885370695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "1683",
+        "account_id": "298926841283208",
+        "reach": "1211",
+        "spend": "22.2",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "13"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216786885360695",
+        "adset_name": "[CJ01][Advantage][Presencial]",
+        "ad_id": "120216786885370695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "2556",
+        "account_id": "298926841283208",
+        "reach": "1801",
+        "spend": "29.9",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "3164",
+        "account_id": "298926841283208",
+        "reach": "2138",
+        "spend": "33.39",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "2278",
+        "account_id": "298926841283208",
+        "reach": "1606",
+        "spend": "21.16",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "2992",
+        "account_id": "298926841283208",
+        "reach": "1882",
+        "spend": "44.4",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-04-07",
+        "date_stop": "2025-04-07"
+    },
+    {
+        "impressions": "2718",
+        "account_id": "298926841283208",
+        "reach": "1823",
+        "spend": "53.53",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "1243",
+        "account_id": "298926841283208",
+        "reach": "786",
+        "spend": "24.26",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "1224",
+        "account_id": "298926841283208",
+        "reach": "1023",
+        "spend": "13.31",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "186"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "186"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "175"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "107",
+        "account_id": "298926841283208",
+        "reach": "96",
+        "spend": "0.99",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "44",
+        "account_id": "298926841283208",
+        "reach": "37",
+        "spend": "0.72",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "2",
+        "account_id": "298926841283208",
+        "reach": "2",
+        "spend": "0.09",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603269630695",
+        "ad_name": "[AD03] Carrossel",
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "21",
+        "account_id": "298926841283208",
+        "reach": "20",
+        "spend": "0.5",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    },
+    {
+        "impressions": "1622",
+        "account_id": "298926841283208",
+        "reach": "1247",
+        "spend": "20.92",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "250"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "249"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "230"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    },
+    {
+        "impressions": "239",
+        "account_id": "298926841283208",
+        "reach": "151",
+        "spend": "3.39",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    },
+    {
+        "impressions": "11",
+        "account_id": "298926841283208",
+        "reach": "11",
+        "spend": "0.19",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "2620",
+        "account_id": "298926841283208",
+        "reach": "1996",
+        "spend": "27.16",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "288"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "288"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "266"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "170",
+        "account_id": "298926841283208",
+        "reach": "122",
+        "spend": "2.27",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "222",
+        "account_id": "298926841283208",
+        "reach": "178",
+        "spend": "3.35",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "2687",
+        "account_id": "298926841283208",
+        "reach": "2130",
+        "spend": "26.74",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "303"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "303"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "277"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "3",
+        "account_id": "298926841283208",
+        "reach": "3",
+        "spend": "0.05",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "669",
+        "account_id": "298926841283208",
+        "reach": "461",
+        "spend": "7.78",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "358",
+        "account_id": "298926841283208",
+        "reach": "234",
+        "spend": "4.89",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "1048",
+        "account_id": "298926841283208",
+        "reach": "807",
+        "spend": "13.34",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "108"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "68",
+        "account_id": "298926841283208",
+        "reach": "58",
+        "spend": "0.83",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "85",
+        "account_id": "298926841283208",
+        "reach": "62",
+        "spend": "1.07",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603269630695",
+        "ad_name": "[AD03] Carrossel",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "3",
+        "account_id": "298926841283208",
+        "reach": "3",
+        "spend": "0.01",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "3368",
+        "account_id": "298926841283208",
+        "reach": "2514",
+        "spend": "42.77",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "381"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "381"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "363"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "373",
+        "account_id": "298926841283208",
+        "reach": "291",
+        "spend": "3.06",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "485",
+        "account_id": "298926841283208",
+        "reach": "356",
+        "spend": "6",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "193",
+        "account_id": "298926841283208",
+        "reach": "143",
+        "spend": "3.69",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "3069",
+        "account_id": "298926841283208",
+        "reach": "2467",
+        "spend": "36.23",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "369"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "369"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "346"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "579",
+        "account_id": "298926841283208",
+        "reach": "415",
+        "spend": "6.56",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "106",
+        "account_id": "298926841283208",
+        "reach": "97",
+        "spend": "1.1",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "166",
+        "account_id": "298926841283208",
+        "reach": "126",
+        "spend": "2.68",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "1393",
+        "account_id": "298926841283208",
+        "reach": "1184",
+        "spend": "19.7",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "157"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "157"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "147"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "347",
+        "account_id": "298926841283208",
+        "reach": "249",
+        "spend": "4.05",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "270",
+        "account_id": "298926841283208",
+        "reach": "221",
+        "spend": "3.52",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "50",
+        "account_id": "298926841283208",
+        "reach": "41",
+        "spend": "0.67",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "1458",
+        "account_id": "298926841283208",
+        "reach": "1138",
+        "spend": "22.29",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "178"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "178"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "164"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "4",
+        "account_id": "298926841283208",
+        "reach": "4",
+        "spend": "0.01",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "567",
+        "account_id": "298926841283208",
+        "reach": "455",
+        "spend": "6.46",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "4",
+        "account_id": "298926841283208",
+        "reach": "4",
+        "spend": "0.03",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603269630695",
+        "ad_name": "[AD03] Carrossel",
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "1066",
+        "account_id": "298926841283208",
+        "reach": "823",
+        "spend": "14.49",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "101"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "101"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "93"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "227",
+        "account_id": "298926841283208",
+        "reach": "180",
+        "spend": "2.24",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "83",
+        "account_id": "298926841283208",
+        "reach": "72",
+        "spend": "1.21",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603227960695",
+        "ad_name": "[AD02] Fisio",
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "20",
+        "account_id": "298926841283208",
+        "reach": "16",
+        "spend": "0.25",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603269630695",
+        "ad_name": "[AD03] Carrossel",
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "205",
+        "account_id": "298926841283208",
+        "reach": "178",
+        "spend": "2.34",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "344",
+        "account_id": "298926841283208",
+        "reach": "269",
+        "spend": "4.5",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "29",
+        "account_id": "298926841283208",
+        "reach": "25",
+        "spend": "0.35",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "2008",
+        "account_id": "298926841283208",
+        "reach": "1573",
+        "spend": "30.73",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "207"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "207"
+            },
+            {
+                "action_type": "video_view",
+                "value": "197"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "1",
+        "account_id": "298926841283208",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "45",
+        "account_id": "298926841283208",
+        "reach": "37",
+        "spend": "0.46",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "1222",
+        "account_id": "298926841283208",
+        "reach": "831",
+        "spend": "16.05",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-19",
+        "date_stop": "2025-04-19"
+    },
+    {
+        "impressions": "93",
+        "account_id": "298926841283208",
+        "reach": "63",
+        "spend": "1.99",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "1163",
+        "account_id": "298926841283208",
+        "reach": "875",
+        "spend": "16.39",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "92"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "92"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "86"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "79",
+        "account_id": "298926841283208",
+        "reach": "64",
+        "spend": "1.44",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "567",
+        "account_id": "298926841283208",
+        "reach": "342",
+        "spend": "11.02",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-20",
+        "date_stop": "2025-04-20"
+    },
+    {
+        "impressions": "2",
+        "account_id": "298926841283208",
+        "reach": "2",
+        "spend": "0",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "2642",
+        "account_id": "298926841283208",
+        "reach": "1935",
+        "spend": "31.61",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "240"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "240"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "221"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "3",
+        "account_id": "298926841283208",
+        "reach": "3",
+        "spend": "0.05",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "1",
+        "account_id": "298926841283208",
+        "reach": "1",
+        "spend": "0.02",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "1012",
+        "account_id": "298926841283208",
+        "reach": "649",
+        "spend": "12.9",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-21",
+        "date_stop": "2025-04-21"
+    },
+    {
+        "impressions": "2211",
+        "account_id": "298926841283208",
+        "reach": "1533",
+        "spend": "35.64",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "257"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "257"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "241"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "473",
+        "account_id": "298926841283208",
+        "reach": "306",
+        "spend": "9.54",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "98",
+        "account_id": "298926841283208",
+        "reach": "74",
+        "spend": "0.71",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "54",
+        "account_id": "298926841283208",
+        "reach": "47",
+        "spend": "1.15",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "12341",
+        "account_id": "298926841283208",
+        "reach": "9143",
+        "spend": "115.97",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1202"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1202"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1161"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "18"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "1712",
+        "account_id": "298926841283208",
+        "reach": "1058",
+        "spend": "26.73",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "676",
+        "account_id": "298926841283208",
+        "reach": "513",
+        "spend": "10.07",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "8180",
+        "account_id": "298926841283208",
+        "reach": "6732",
+        "spend": "87.23",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "722"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "722"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "679"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "460",
+        "account_id": "298926841283208",
+        "reach": "366",
+        "spend": "7.29",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "281",
+        "account_id": "298926841283208",
+        "reach": "216",
+        "spend": "5.48",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "289",
+        "account_id": "298926841283208",
+        "reach": "226",
+        "spend": "5.28",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "2839",
+        "account_id": "298926841283208",
+        "reach": "2316",
+        "spend": "38.32",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "287"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "287"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "274"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "614",
+        "account_id": "298926841283208",
+        "reach": "465",
+        "spend": "9.03",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "32831",
+        "account_id": "298926841283208",
+        "reach": "31741",
+        "spend": "34.08",
+        "adset_id": "120219737383450695",
+        "adset_name": "[CJ01][Advantage][Presencial][Cursos]",
+        "ad_id": "120219737383530695",
+        "ad_name": "[AD01] T.O.",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "8",
+        "account_id": "298926841283208",
+        "reach": "7",
+        "spend": "0.24",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "769",
+        "account_id": "298926841283208",
+        "reach": "576",
+        "spend": "9.87",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "69",
+        "account_id": "298926841283208",
+        "reach": "60",
+        "spend": "0.96",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "3793",
+        "account_id": "298926841283208",
+        "reach": "2929",
+        "spend": "43.04",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "345"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "345"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "324"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "843",
+        "account_id": "298926841283208",
+        "reach": "584",
+        "spend": "13.97",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "31753",
+        "account_id": "298926841283208",
+        "reach": "31615",
+        "spend": "34.26",
+        "adset_id": "120219737383450695",
+        "adset_name": "[CJ01][Advantage][Presencial][Cursos]",
+        "ad_id": "120219737383530695",
+        "ad_name": "[AD01] T.O.",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "81",
+        "account_id": "298926841283208",
+        "reach": "65",
+        "spend": "1.28",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "3811",
+        "account_id": "298926841283208",
+        "reach": "2925",
+        "spend": "36.91",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "297"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "297"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "279"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "1044",
+        "account_id": "298926841283208",
+        "reach": "697",
+        "spend": "12.69",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "10124",
+        "account_id": "298926841283208",
+        "reach": "10011",
+        "spend": "10.45",
+        "adset_id": "120219737383450695",
+        "adset_name": "[CJ01][Advantage][Presencial][Cursos]",
+        "ad_id": "120219737383530695",
+        "ad_name": "[AD01] T.O.",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "5",
+        "account_id": "298926841283208",
+        "reach": "5",
+        "spend": "0.04",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "8905",
+        "account_id": "298926841283208",
+        "reach": "6997",
+        "spend": "99.62",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "905"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "905"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "868"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "27",
+        "account_id": "298926841283208",
+        "reach": "21",
+        "spend": "0.39",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "9193",
+        "account_id": "298926841283208",
+        "reach": "8999",
+        "spend": "9.8",
+        "adset_id": "120219737383450695",
+        "adset_name": "[CJ01][Advantage][Presencial][Cursos]",
+        "ad_id": "120219737383530695",
+        "ad_name": "[AD01] T.O.",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "3069",
+        "account_id": "298926841283208",
+        "reach": "2124",
+        "spend": "49.18",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "5",
+        "account_id": "298926841283208",
+        "reach": "5",
+        "spend": "0.03",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "653",
+        "account_id": "298926841283208",
+        "reach": "470",
+        "spend": "16.62",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "3171",
+        "account_id": "298926841283208",
+        "reach": "2792",
+        "spend": "39.95",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "20"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "311"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "311"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "18"
+            },
+            {
+                "action_type": "video_view",
+                "value": "292"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "142",
+        "account_id": "298926841283208",
+        "reach": "104",
+        "spend": "6.11",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "5085",
+        "account_id": "298926841283208",
+        "reach": "5085",
+        "spend": "5.61",
+        "adset_id": "120219737383450695",
+        "adset_name": "[CJ01][Advantage][Presencial][Cursos]",
+        "ad_id": "120219737383530695",
+        "ad_name": "[AD01] T.O.",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "1337",
+        "account_id": "298926841283208",
+        "reach": "1049",
+        "spend": "28.89",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "698",
+        "account_id": "298926841283208",
+        "reach": "572",
+        "spend": "12.22",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "674",
+        "account_id": "298926841283208",
+        "reach": "592",
+        "spend": "6.63",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120217480906180695",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "6627",
+        "account_id": "298926841283208",
+        "reach": "5948",
+        "spend": "40.67",
+        "adset_id": "120217480906100695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120218602817840695",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "604"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "604"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "580"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120218603151780695",
+        "ad_name": "[AD01] Fono",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120219737383450695",
+        "adset_name": "[CJ01][Advantage][Presencial][Cursos]",
+        "ad_id": "120219737383530695",
+        "ad_name": "[AD01] T.O.",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "711",
+        "account_id": "298926841283208",
+        "reach": "640",
+        "spend": "7.36",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739097570695",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "1439",
+        "account_id": "298926841283208",
+        "reach": "1262",
+        "spend": "9.93",
+        "adset_id": "120218603151770695",
+        "adset_name": "[CJ02][Advantage][Presencial][Cursos]",
+        "ad_id": "120219739614210695",
+        "ad_name": "[AD05] Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    }
+]

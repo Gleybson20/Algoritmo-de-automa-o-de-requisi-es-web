@@ -1,0 +1,3326 @@
+[
+    {
+        "impressions": "268",
+        "account_id": "506161170713365",
+        "reach": "263",
+        "spend": "1.48",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "1278",
+        "account_id": "506161170713365",
+        "reach": "1157",
+        "spend": "8.1",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "224"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "224"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "210"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "553",
+        "account_id": "506161170713365",
+        "reach": "513",
+        "spend": "5.84",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "4918",
+        "account_id": "506161170713365",
+        "reach": "4292",
+        "spend": "34.65",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "876"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "876"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "10"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "820"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "26"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "508",
+        "account_id": "506161170713365",
+        "reach": "412",
+        "spend": "5.31",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "73"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-03",
+        "date_stop": "2025-05-03"
+    },
+    {
+        "impressions": "2753",
+        "account_id": "506161170713365",
+        "reach": "1953",
+        "spend": "27.4",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "440"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "440"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "409"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "0",
+        "account_id": "506161170713365",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120221982805180078",
+        "adset_name": "Interno_10_30_04_WhatsAppp",
+        "ad_id": "120221982805200078",
+        "ad_name": "Nathali",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "0",
+        "account_id": "506161170713365",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120221983974060078",
+        "adset_name": "Transferência_10_30_04_WhatsAppp",
+        "ad_id": "120221983974070078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "5336",
+        "account_id": "506161170713365",
+        "reach": "4443",
+        "spend": "42.29",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "21"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "890"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "889"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "23"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "836"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "36"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "24",
+        "account_id": "506161170713365",
+        "reach": "18",
+        "spend": "0.23",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-06",
+        "date_stop": "2025-05-06"
+    },
+    {
+        "impressions": "3649",
+        "account_id": "506161170713365",
+        "reach": "3211",
+        "spend": "27.72",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "598"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "598"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "561"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "19"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-06",
+        "date_stop": "2025-05-06"
+    },
+    {
+        "impressions": "1353",
+        "account_id": "506161170713365",
+        "reach": "1166",
+        "spend": "11.49",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "216"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "216"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "196"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-07",
+        "date_stop": "2025-05-07"
+    },
+    {
+        "impressions": "2818",
+        "account_id": "506161170713365",
+        "reach": "2450",
+        "spend": "18.92",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "400"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "400"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "373"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "3094",
+        "account_id": "506161170713365",
+        "reach": "2827",
+        "spend": "21.07",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "417"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "417"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "396"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "8",
+        "account_id": "506161170713365",
+        "reach": "8",
+        "spend": "0.07",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "4164",
+        "account_id": "506161170713365",
+        "reach": "3745",
+        "spend": "23.7",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "427"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "427"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "407"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "2",
+        "account_id": "506161170713365",
+        "reach": "2",
+        "spend": "0.05",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "808",
+        "account_id": "506161170713365",
+        "reach": "662",
+        "spend": "6.52",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "87"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "87"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "73"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "5762",
+        "account_id": "506161170713365",
+        "reach": "4636",
+        "spend": "41.01",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "16"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "674"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "674"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "636"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "6014",
+        "account_id": "506161170713365",
+        "reach": "5325",
+        "spend": "34.61",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "767"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "767"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "722"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "22"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "46",
+        "account_id": "506161170713365",
+        "reach": "37",
+        "spend": "0.33",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "49",
+        "account_id": "506161170713365",
+        "reach": "39",
+        "spend": "0.66",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "2641",
+        "account_id": "506161170713365",
+        "reach": "2411",
+        "spend": "19.04",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "15"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "340"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "340"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "13"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "14"
+            },
+            {
+                "action_type": "video_view",
+                "value": "311"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "3",
+        "account_id": "506161170713365",
+        "reach": "3",
+        "spend": "0.01",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "3987",
+        "account_id": "506161170713365",
+        "reach": "3365",
+        "spend": "21.71",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "14"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "543"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "543"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "14"
+            },
+            {
+                "action_type": "video_view",
+                "value": "504"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "1",
+        "account_id": "506161170713365",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "641",
+        "account_id": "506161170713365",
+        "reach": "499",
+        "spend": "4.93",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "3838",
+        "account_id": "506161170713365",
+        "reach": "3159",
+        "spend": "18.28",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "473"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "473"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "453"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "1",
+        "account_id": "506161170713365",
+        "reach": "1",
+        "spend": "0",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "8",
+        "account_id": "506161170713365",
+        "reach": "8",
+        "spend": "0.07",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "5428",
+        "account_id": "506161170713365",
+        "reach": "4478",
+        "spend": "25.29",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "584"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "584"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "551"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "468",
+        "account_id": "506161170713365",
+        "reach": "386",
+        "spend": "2.47",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "5958",
+        "account_id": "506161170713365",
+        "reach": "5286",
+        "spend": "33.02",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "634"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "633"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "10"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "596"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "6",
+        "account_id": "506161170713365",
+        "reach": "6",
+        "spend": "0.13",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "0",
+        "account_id": "506161170713365",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "3782",
+        "account_id": "506161170713365",
+        "reach": "3150",
+        "spend": "27.75",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "24"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "445"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "445"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "414"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "17",
+        "account_id": "506161170713365",
+        "reach": "16",
+        "spend": "0.13",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "739",
+        "account_id": "506161170713365",
+        "reach": "665",
+        "spend": "5.87",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "103"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "103"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "94"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "1841",
+        "account_id": "506161170713365",
+        "reach": "1518",
+        "spend": "15.08",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "329"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "329"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "313"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "6231",
+        "account_id": "506161170713365",
+        "reach": "5647",
+        "spend": "31.17",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "775"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "775"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "734"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "553",
+        "account_id": "506161170713365",
+        "reach": "440",
+        "spend": "4.01",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "52",
+        "account_id": "506161170713365",
+        "reach": "48",
+        "spend": "0.58",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "163",
+        "account_id": "506161170713365",
+        "reach": "122",
+        "spend": "1.66",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "21660",
+        "account_id": "506161170713365",
+        "reach": "17400",
+        "spend": "123.04",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "23"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2541"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2541"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "24"
+            },
+            {
+                "action_type": "post",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "29"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2424"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "38"
+            },
+            {
+                "action_type": "link_click",
+                "value": "71"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "1",
+        "account_id": "506161170713365",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "570",
+        "account_id": "506161170713365",
+        "reach": "490",
+        "spend": "6.5",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "86"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "316",
+        "account_id": "506161170713365",
+        "reach": "242",
+        "spend": "3.54",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "16696",
+        "account_id": "506161170713365",
+        "reach": "14047",
+        "spend": "107.2",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "12"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2043"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2043"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "10"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1956"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "31"
+            },
+            {
+                "action_type": "link_click",
+                "value": "53"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "91",
+        "account_id": "506161170713365",
+        "reach": "53",
+        "spend": "0.9",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "2349",
+        "account_id": "506161170713365",
+        "reach": "1777",
+        "spend": "22.72",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "446"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "446"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "420"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "453",
+        "account_id": "506161170713365",
+        "reach": "360",
+        "spend": "4.14",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "10097",
+        "account_id": "506161170713365",
+        "reach": "8693",
+        "spend": "79.03",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "16"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1335"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1335"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "16"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "16"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1273"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "26"
+            },
+            {
+                "action_type": "link_click",
+                "value": "35"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "101",
+        "account_id": "506161170713365",
+        "reach": "79",
+        "spend": "0.94",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "4513",
+        "account_id": "506161170713365",
+        "reach": "3739",
+        "spend": "37.82",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "676"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "676"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "644"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "1090",
+        "account_id": "506161170713365",
+        "reach": "747",
+        "spend": "9.49",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "5441",
+        "account_id": "506161170713365",
+        "reach": "4434",
+        "spend": "46.39",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "584"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "584"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "551"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "89",
+        "account_id": "506161170713365",
+        "reach": "61",
+        "spend": "1.06",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "1333",
+        "account_id": "506161170713365",
+        "reach": "1083",
+        "spend": "12.78",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "190"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "190"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "179"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "1661",
+        "account_id": "506161170713365",
+        "reach": "1229",
+        "spend": "15.51",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "20767",
+        "account_id": "506161170713365",
+        "reach": "17158",
+        "spend": "163.63",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "37"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2666"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2666"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "26"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "28"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2549"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "54"
+            },
+            {
+                "action_type": "link_click",
+                "value": "60"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "154",
+        "account_id": "506161170713365",
+        "reach": "111",
+        "spend": "1.37",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "2323",
+        "account_id": "506161170713365",
+        "reach": "1905",
+        "spend": "23.28",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "372"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "372"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "356"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "734",
+        "account_id": "506161170713365",
+        "reach": "568",
+        "spend": "9.01",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "14654",
+        "account_id": "506161170713365",
+        "reach": "12390",
+        "spend": "113.63",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "28"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1877"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1877"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "29"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "32"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1772"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "41"
+            },
+            {
+                "action_type": "link_click",
+                "value": "61"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "109",
+        "account_id": "506161170713365",
+        "reach": "89",
+        "spend": "1.6",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "2191",
+        "account_id": "506161170713365",
+        "reach": "1855",
+        "spend": "22.79",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "356"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "356"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "338"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "484",
+        "account_id": "506161170713365",
+        "reach": "381",
+        "spend": "4.92",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "12739",
+        "account_id": "506161170713365",
+        "reach": "10758",
+        "spend": "87.13",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "13"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1447"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1447"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "12"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "16"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1383"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "22"
+            },
+            {
+                "action_type": "link_click",
+                "value": "39"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "93",
+        "account_id": "506161170713365",
+        "reach": "78",
+        "spend": "0.79",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "2627",
+        "account_id": "506161170713365",
+        "reach": "2204",
+        "spend": "23.74",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "374"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "374"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "354"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "547",
+        "account_id": "506161170713365",
+        "reach": "456",
+        "spend": "6.7",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "15626",
+        "account_id": "506161170713365",
+        "reach": "13426",
+        "spend": "117.65",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "20"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1733"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1733"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "20"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "21"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1635"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "26"
+            },
+            {
+                "action_type": "link_click",
+                "value": "70"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "78",
+        "account_id": "506161170713365",
+        "reach": "66",
+        "spend": "0.82",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "3007",
+        "account_id": "506161170713365",
+        "reach": "2630",
+        "spend": "25.35",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "420"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "420"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "403"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "317",
+        "account_id": "506161170713365",
+        "reach": "250",
+        "spend": "4.71",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "11059",
+        "account_id": "506161170713365",
+        "reach": "9676",
+        "spend": "70.68",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1344"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1344"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1278"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "30"
+            },
+            {
+                "action_type": "link_click",
+                "value": "36"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "51",
+        "account_id": "506161170713365",
+        "reach": "44",
+        "spend": "0.55",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "1617",
+        "account_id": "506161170713365",
+        "reach": "1407",
+        "spend": "13.79",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "221"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "221"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "206"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "369",
+        "account_id": "506161170713365",
+        "reach": "291",
+        "spend": "3.74",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223875629150078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "15984",
+        "account_id": "506161170713365",
+        "reach": "14342",
+        "spend": "90.59",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120223881289750078",
+        "ad_name": "Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1523"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1523"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "10"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1454"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "19"
+            },
+            {
+                "action_type": "link_click",
+                "value": "48"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "167",
+        "account_id": "506161170713365",
+        "reach": "136",
+        "spend": "1.06",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120224836287350078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "2765",
+        "account_id": "506161170713365",
+        "reach": "2301",
+        "spend": "17.31",
+        "adset_id": "120223875629110078",
+        "adset_name": "Promo1",
+        "ad_id": "120225317527760078",
+        "ad_name": "Vídeo 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "305"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "305"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "293"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    }
+]

@@ -1,0 +1,5098 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217940388760780",
+        "adset_name": "MêsDoConsumidor_12_31_03",
+        "ad_id": "120217940388830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "10",
+        "account_id": "2744202202494865",
+        "reach": "9",
+        "spend": "2.19",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "45",
+        "account_id": "2744202202494865",
+        "reach": "44",
+        "spend": "19.11",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "688",
+        "account_id": "2744202202494865",
+        "reach": "679",
+        "spend": "24.15",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-02",
+        "date_stop": "2025-04-02"
+    },
+    {
+        "impressions": "8480",
+        "account_id": "2744202202494865",
+        "reach": "6931",
+        "spend": "101.31",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "35"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "1716",
+        "account_id": "2744202202494865",
+        "reach": "1410",
+        "spend": "11.12",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "521",
+        "account_id": "2744202202494865",
+        "reach": "403",
+        "spend": "4.09",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-03",
+        "date_stop": "2025-04-03"
+    },
+    {
+        "impressions": "3672",
+        "account_id": "2744202202494865",
+        "reach": "2641",
+        "spend": "24.52",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "1673",
+        "account_id": "2744202202494865",
+        "reach": "1218",
+        "spend": "13.1",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "451",
+        "account_id": "2744202202494865",
+        "reach": "300",
+        "spend": "7.38",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-04",
+        "date_stop": "2025-04-04"
+    },
+    {
+        "impressions": "3874",
+        "account_id": "2744202202494865",
+        "reach": "2933",
+        "spend": "25.41",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "1274",
+        "account_id": "2744202202494865",
+        "reach": "958",
+        "spend": "9.04",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "424",
+        "account_id": "2744202202494865",
+        "reach": "299",
+        "spend": "5.06",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-05",
+        "date_stop": "2025-04-05"
+    },
+    {
+        "impressions": "3543",
+        "account_id": "2744202202494865",
+        "reach": "2641",
+        "spend": "25.99",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "615",
+        "account_id": "2744202202494865",
+        "reach": "504",
+        "spend": "4.26",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "7",
+        "account_id": "2744202202494865",
+        "reach": "6",
+        "spend": "0.05",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "date_start": "2025-04-06",
+        "date_stop": "2025-04-06"
+    },
+    {
+        "impressions": "13355",
+        "account_id": "2744202202494865",
+        "reach": "9564",
+        "spend": "94.7",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "13"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "54"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "54"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "19"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-04-07",
+        "date_stop": "2025-04-07"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-07",
+        "date_stop": "2025-04-07"
+    },
+    {
+        "impressions": "5287",
+        "account_id": "2744202202494865",
+        "reach": "3880",
+        "spend": "46.3",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "1582",
+        "account_id": "2744202202494865",
+        "reach": "1322",
+        "spend": "14.58",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "2873",
+        "account_id": "2744202202494865",
+        "reach": "2161",
+        "spend": "15.4",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "3919",
+        "account_id": "2744202202494865",
+        "reach": "2437",
+        "spend": "43.5",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-08",
+        "date_stop": "2025-04-08"
+    },
+    {
+        "impressions": "2009",
+        "account_id": "2744202202494865",
+        "reach": "1430",
+        "spend": "16.06",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "2170",
+        "account_id": "2744202202494865",
+        "reach": "1721",
+        "spend": "18.74",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "3290",
+        "account_id": "2744202202494865",
+        "reach": "2738",
+        "spend": "14.76",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "2370",
+        "account_id": "2744202202494865",
+        "reach": "1617",
+        "spend": "22.41",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-09",
+        "date_stop": "2025-04-09"
+    },
+    {
+        "impressions": "1883",
+        "account_id": "2744202202494865",
+        "reach": "1339",
+        "spend": "15.82",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    },
+    {
+        "impressions": "3473",
+        "account_id": "2744202202494865",
+        "reach": "2780",
+        "spend": "23.8",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    },
+    {
+        "impressions": "3670",
+        "account_id": "2744202202494865",
+        "reach": "3126",
+        "spend": "15.77",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    },
+    {
+        "impressions": "2473",
+        "account_id": "2744202202494865",
+        "reach": "1728",
+        "spend": "21.14",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-10",
+        "date_stop": "2025-04-10"
+    },
+    {
+        "impressions": "2096",
+        "account_id": "2744202202494865",
+        "reach": "1639",
+        "spend": "17.64",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "5298",
+        "account_id": "2744202202494865",
+        "reach": "4228",
+        "spend": "33.64",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "381",
+        "account_id": "2744202202494865",
+        "reach": "331",
+        "spend": "5.57",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "3598",
+        "account_id": "2744202202494865",
+        "reach": "3140",
+        "spend": "14.44",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "236",
+        "account_id": "2744202202494865",
+        "reach": "189",
+        "spend": "2.88",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "174",
+        "account_id": "2744202202494865",
+        "reach": "133",
+        "spend": "0.95",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "306",
+        "account_id": "2744202202494865",
+        "reach": "240",
+        "spend": "3.23",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "3445",
+        "account_id": "2744202202494865",
+        "reach": "2616",
+        "spend": "29.23",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-04-11",
+        "date_stop": "2025-04-11"
+    },
+    {
+        "impressions": "13",
+        "account_id": "2744202202494865",
+        "reach": "13",
+        "spend": "0.1",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "10191",
+        "account_id": "2744202202494865",
+        "reach": "8131",
+        "spend": "66.77",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "24"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "910",
+        "account_id": "2744202202494865",
+        "reach": "714",
+        "spend": "11.39",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "3684",
+        "account_id": "2744202202494865",
+        "reach": "3240",
+        "spend": "13.94",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "13306",
+        "account_id": "2744202202494865",
+        "reach": "12032",
+        "spend": "136.53",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "5",
+        "account_id": "2744202202494865",
+        "reach": "5",
+        "spend": "0.04",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "20",
+        "account_id": "2744202202494865",
+        "reach": "16",
+        "spend": "0.13",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "6639",
+        "account_id": "2744202202494865",
+        "reach": "4180",
+        "spend": "63.9",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-04-12",
+        "date_stop": "2025-04-12"
+    },
+    {
+        "impressions": "1965",
+        "account_id": "2744202202494865",
+        "reach": "1567",
+        "spend": "13.71",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "3197",
+        "account_id": "2744202202494865",
+        "reach": "2616",
+        "spend": "22.83",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "203",
+        "account_id": "2744202202494865",
+        "reach": "172",
+        "spend": "3.34",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "2724",
+        "account_id": "2744202202494865",
+        "reach": "2210",
+        "spend": "11.97",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "537",
+        "account_id": "2744202202494865",
+        "reach": "484",
+        "spend": "4.59",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "21841",
+        "account_id": "2744202202494865",
+        "reach": "18119",
+        "spend": "164.25",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "42"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "2609",
+        "account_id": "2744202202494865",
+        "reach": "1865",
+        "spend": "35.94",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-13",
+        "date_stop": "2025-04-13"
+    },
+    {
+        "impressions": "2221",
+        "account_id": "2744202202494865",
+        "reach": "1711",
+        "spend": "18.66",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "9187",
+        "account_id": "2744202202494865",
+        "reach": "7174",
+        "spend": "68.43",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "20"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "42",
+        "account_id": "2744202202494865",
+        "reach": "40",
+        "spend": "0.44",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "2976",
+        "account_id": "2744202202494865",
+        "reach": "2431",
+        "spend": "16.86",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "940",
+        "account_id": "2744202202494865",
+        "reach": "807",
+        "spend": "7.82",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "7923",
+        "account_id": "2744202202494865",
+        "reach": "5760",
+        "spend": "99.23",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "4",
+        "account_id": "2744202202494865",
+        "reach": "4",
+        "spend": "0.01",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "7",
+        "account_id": "2744202202494865",
+        "reach": "5",
+        "spend": "0.15",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "7866",
+        "account_id": "2744202202494865",
+        "reach": "5588",
+        "spend": "105.54",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-04-14",
+        "date_stop": "2025-04-14"
+    },
+    {
+        "impressions": "3703",
+        "account_id": "2744202202494865",
+        "reach": "2967",
+        "spend": "28.5",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "3613",
+        "account_id": "2744202202494865",
+        "reach": "2792",
+        "spend": "30.82",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "95",
+        "account_id": "2744202202494865",
+        "reach": "85",
+        "spend": "2.22",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "3009",
+        "account_id": "2744202202494865",
+        "reach": "2559",
+        "spend": "13.36",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "44",
+        "account_id": "2744202202494865",
+        "reach": "43",
+        "spend": "0.26",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "6036",
+        "account_id": "2744202202494865",
+        "reach": "4714",
+        "spend": "83.22",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "154",
+        "account_id": "2744202202494865",
+        "reach": "114",
+        "spend": "1.98",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "906",
+        "account_id": "2744202202494865",
+        "reach": "548",
+        "spend": "18.95",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "6731",
+        "account_id": "2744202202494865",
+        "reach": "5314",
+        "spend": "84.93",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-04-15",
+        "date_stop": "2025-04-15"
+    },
+    {
+        "impressions": "3105",
+        "account_id": "2744202202494865",
+        "reach": "2437",
+        "spend": "25.16",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "2657",
+        "account_id": "2744202202494865",
+        "reach": "2077",
+        "spend": "20.9",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "32",
+        "account_id": "2744202202494865",
+        "reach": "27",
+        "spend": "0.7",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "3955",
+        "account_id": "2744202202494865",
+        "reach": "3418",
+        "spend": "14.69",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "195",
+        "account_id": "2744202202494865",
+        "reach": "165",
+        "spend": "2.38",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "4441",
+        "account_id": "2744202202494865",
+        "reach": "3259",
+        "spend": "60.5",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "186",
+        "account_id": "2744202202494865",
+        "reach": "147",
+        "spend": "1.5",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "514",
+        "account_id": "2744202202494865",
+        "reach": "331",
+        "spend": "10.64",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "4561",
+        "account_id": "2744202202494865",
+        "reach": "3549",
+        "spend": "52.07",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-16",
+        "date_stop": "2025-04-16"
+    },
+    {
+        "impressions": "4677",
+        "account_id": "2744202202494865",
+        "reach": "3751",
+        "spend": "28.78",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "2150",
+        "account_id": "2744202202494865",
+        "reach": "1765",
+        "spend": "13.79",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "72",
+        "account_id": "2744202202494865",
+        "reach": "58",
+        "spend": "1.05",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "3943",
+        "account_id": "2744202202494865",
+        "reach": "3566",
+        "spend": "15.55",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "437",
+        "account_id": "2744202202494865",
+        "reach": "375",
+        "spend": "4.38",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "9676",
+        "account_id": "2744202202494865",
+        "reach": "7439",
+        "spend": "93.05",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "34"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "1274",
+        "account_id": "2744202202494865",
+        "reach": "898",
+        "spend": "14.8",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "8394",
+        "account_id": "2744202202494865",
+        "reach": "6788",
+        "spend": "67.59",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-04-17",
+        "date_stop": "2025-04-17"
+    },
+    {
+        "impressions": "2955",
+        "account_id": "2744202202494865",
+        "reach": "2641",
+        "spend": "17.25",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "1006",
+        "account_id": "2744202202494865",
+        "reach": "948",
+        "spend": "4.98",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "68",
+        "account_id": "2744202202494865",
+        "reach": "58",
+        "spend": "0.99",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "2051",
+        "account_id": "2744202202494865",
+        "reach": "1951",
+        "spend": "7.35",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "7",
+        "account_id": "2744202202494865",
+        "reach": "6",
+        "spend": "0.01",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "3283",
+        "account_id": "2744202202494865",
+        "reach": "2726",
+        "spend": "34.67",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "198",
+        "account_id": "2744202202494865",
+        "reach": "167",
+        "spend": "3.03",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "3208",
+        "account_id": "2744202202494865",
+        "reach": "2843",
+        "spend": "31.04",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-04-18",
+        "date_stop": "2025-04-18"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-22",
+        "date_stop": "2025-04-22"
+    },
+    {
+        "impressions": "9225",
+        "account_id": "2744202202494865",
+        "reach": "7716",
+        "spend": "72.67",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "6",
+        "account_id": "2744202202494865",
+        "reach": "6",
+        "spend": "0.06",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "897",
+        "account_id": "2744202202494865",
+        "reach": "809",
+        "spend": "5.58",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "19728",
+        "account_id": "2744202202494865",
+        "reach": "17276",
+        "spend": "171.29",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "19"
+            },
+            {
+                "action_type": "link_click",
+                "value": "53"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "6788",
+        "account_id": "2744202202494865",
+        "reach": "5908",
+        "spend": "47.76",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "12884",
+        "account_id": "2744202202494865",
+        "reach": "10718",
+        "spend": "119.48",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "38"
+            }
+        ],
+        "date_start": "2025-04-23",
+        "date_stop": "2025-04-23"
+    },
+    {
+        "impressions": "4508",
+        "account_id": "2744202202494865",
+        "reach": "3861",
+        "spend": "35.93",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "173",
+        "account_id": "2744202202494865",
+        "reach": "159",
+        "spend": "1.15",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "22",
+        "account_id": "2744202202494865",
+        "reach": "18",
+        "spend": "0.31",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "1341",
+        "account_id": "2744202202494865",
+        "reach": "1267",
+        "spend": "6.21",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "57",
+        "account_id": "2744202202494865",
+        "reach": "47",
+        "spend": "0.39",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "6098",
+        "account_id": "2744202202494865",
+        "reach": "5257",
+        "spend": "69.36",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "1178",
+        "account_id": "2744202202494865",
+        "reach": "1066",
+        "spend": "9.63",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "157",
+        "account_id": "2744202202494865",
+        "reach": "122",
+        "spend": "1.59",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "3221",
+        "account_id": "2744202202494865",
+        "reach": "2871",
+        "spend": "36.1",
+        "adset_id": "120220606361600780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220606552740780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-04-24",
+        "date_stop": "2025-04-24"
+    },
+    {
+        "impressions": "360",
+        "account_id": "2744202202494865",
+        "reach": "230",
+        "spend": "3.6",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "12",
+        "account_id": "2744202202494865",
+        "reach": "10",
+        "spend": "0.07",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "6",
+        "account_id": "2744202202494865",
+        "reach": "3",
+        "spend": "0.06",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "408",
+        "account_id": "2744202202494865",
+        "reach": "219",
+        "spend": "5.17",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "173",
+        "account_id": "2744202202494865",
+        "reach": "122",
+        "spend": "1.56",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "29",
+        "account_id": "2744202202494865",
+        "reach": "23",
+        "spend": "0.36",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "date_start": "2025-04-25",
+        "date_stop": "2025-04-25"
+    },
+    {
+        "impressions": "344",
+        "account_id": "2744202202494865",
+        "reach": "223",
+        "spend": "3.09",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "452",
+        "account_id": "2744202202494865",
+        "reach": "298",
+        "spend": "5.55",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "235",
+        "account_id": "2744202202494865",
+        "reach": "159",
+        "spend": "2.05",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-26",
+        "date_stop": "2025-04-26"
+    },
+    {
+        "impressions": "531",
+        "account_id": "2744202202494865",
+        "reach": "352",
+        "spend": "3.97",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "354",
+        "account_id": "2744202202494865",
+        "reach": "215",
+        "spend": "4.44",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "2",
+        "account_id": "2744202202494865",
+        "reach": "2",
+        "spend": "0",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "date_start": "2025-04-27",
+        "date_stop": "2025-04-27"
+    },
+    {
+        "impressions": "96",
+        "account_id": "2744202202494865",
+        "reach": "50",
+        "spend": "0.93",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "525",
+        "account_id": "2744202202494865",
+        "reach": "430",
+        "spend": "3.76",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "33",
+        "account_id": "2744202202494865",
+        "reach": "26",
+        "spend": "0.29",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265720780",
+        "ad_name": "Promo3_01",
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "55",
+        "account_id": "2744202202494865",
+        "reach": "50",
+        "spend": "1.05",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "570",
+        "account_id": "2744202202494865",
+        "reach": "366",
+        "spend": "8.55",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "272",
+        "account_id": "2744202202494865",
+        "reach": "211",
+        "spend": "3.87",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-04-28",
+        "date_stop": "2025-04-28"
+    },
+    {
+        "impressions": "536",
+        "account_id": "2744202202494865",
+        "reach": "362",
+        "spend": "4.98",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "6",
+        "account_id": "2744202202494865",
+        "reach": "6",
+        "spend": "0.03",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220227291790780",
+        "ad_name": "Farmácia 02",
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "422",
+        "account_id": "2744202202494865",
+        "reach": "272",
+        "spend": "5.97",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "15",
+        "account_id": "2744202202494865",
+        "reach": "12",
+        "spend": "0.11",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "date_start": "2025-04-29",
+        "date_stop": "2025-04-29"
+    },
+    {
+        "impressions": "1",
+        "account_id": "2744202202494865",
+        "reach": "1",
+        "spend": "0",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265690780",
+        "ad_name": "Fonoaudiologia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "19",
+        "account_id": "2744202202494865",
+        "reach": "18",
+        "spend": "0.12",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120219337265710780",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220226732040780",
+        "adset_name": "Geoloc_Grendene_Sobral",
+        "ad_id": "120220226732830780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "477",
+        "account_id": "2744202202494865",
+        "reach": "300",
+        "spend": "4.17",
+        "adset_id": "120220603797410780",
+        "adset_name": "Transferência_10_30_04",
+        "ad_id": "120220603797470780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "441",
+        "account_id": "2744202202494865",
+        "reach": "317",
+        "spend": "2.85",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605369430780",
+        "ad_name": "Farmácia 03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    },
+    {
+        "impressions": "121",
+        "account_id": "2744202202494865",
+        "reach": "87",
+        "spend": "1.28",
+        "adset_id": "120219337265730780",
+        "adset_name": "Promo3&TopCursos_01_30_04",
+        "ad_id": "120220605948880780",
+        "ad_name": "Cursos EAD Disponíveis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-04-30",
+        "date_stop": "2025-04-30"
+    }
+]

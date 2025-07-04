@@ -1,0 +1,5682 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "198313924760810",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216829291250565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120216829291260565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "1340",
+        "account_id": "198313924760810",
+        "reach": "1272",
+        "spend": "16.91",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "60",
+        "account_id": "198313924760810",
+        "reach": "59",
+        "spend": "0.44",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "1295",
+        "account_id": "198313924760810",
+        "reach": "1168",
+        "spend": "15.83",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "265"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "265"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "253"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "1740",
+        "account_id": "198313924760810",
+        "reach": "1608",
+        "spend": "16.41",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    },
+    {
+        "impressions": "261",
+        "account_id": "198313924760810",
+        "reach": "227",
+        "spend": "2.79",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    },
+    {
+        "impressions": "4928",
+        "account_id": "198313924760810",
+        "reach": "4399",
+        "spend": "60",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "829"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "828"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "778"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "30"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    },
+    {
+        "impressions": "588",
+        "account_id": "198313924760810",
+        "reach": "457",
+        "spend": "6.14",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-03",
+        "date_stop": "2025-03-03"
+    },
+    {
+        "impressions": "12",
+        "account_id": "198313924760810",
+        "reach": "11",
+        "spend": "0.33",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-03",
+        "date_stop": "2025-03-03"
+    },
+    {
+        "impressions": "2649",
+        "account_id": "198313924760810",
+        "reach": "2096",
+        "spend": "40.81",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "433"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "433"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "421"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-03",
+        "date_stop": "2025-03-03"
+    },
+    {
+        "impressions": "1207",
+        "account_id": "198313924760810",
+        "reach": "872",
+        "spend": "15.63",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    },
+    {
+        "impressions": "4",
+        "account_id": "198313924760810",
+        "reach": "1",
+        "spend": "0.18",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    },
+    {
+        "impressions": "3684",
+        "account_id": "198313924760810",
+        "reach": "3012",
+        "spend": "46.12",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "580"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "580"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "563"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    },
+    {
+        "impressions": "0",
+        "account_id": "198313924760810",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216829291250565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120216829291260565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "0",
+        "account_id": "198313924760810",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216926679980565",
+        "adset_name": "[CJ02][Advantage][Cursos]",
+        "ad_id": "120216926679990565",
+        "ad_name": "[AD01] Ed. Física",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "1437",
+        "account_id": "198313924760810",
+        "reach": "988",
+        "spend": "30.08",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "5",
+        "account_id": "198313924760810",
+        "reach": "1",
+        "spend": "0.61",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "2751",
+        "account_id": "198313924760810",
+        "reach": "2267",
+        "spend": "40.2",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "362"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "362"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "344"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "885",
+        "account_id": "198313924760810",
+        "reach": "717",
+        "spend": "24.88",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-06",
+        "date_stop": "2025-03-06"
+    },
+    {
+        "impressions": "301",
+        "account_id": "198313924760810",
+        "reach": "239",
+        "spend": "8.53",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-06",
+        "date_stop": "2025-03-06"
+    },
+    {
+        "impressions": "517",
+        "account_id": "198313924760810",
+        "reach": "457",
+        "spend": "11.33",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "89"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "89"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "86"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-06",
+        "date_stop": "2025-03-06"
+    },
+    {
+        "impressions": "1144",
+        "account_id": "198313924760810",
+        "reach": "896",
+        "spend": "27.24",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "360",
+        "account_id": "198313924760810",
+        "reach": "276",
+        "spend": "9.15",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "697",
+        "account_id": "198313924760810",
+        "reach": "605",
+        "spend": "14.56",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "128"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "128"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "117"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "1147",
+        "account_id": "198313924760810",
+        "reach": "943",
+        "spend": "17.85",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-08",
+        "date_stop": "2025-03-08"
+    },
+    {
+        "impressions": "342",
+        "account_id": "198313924760810",
+        "reach": "305",
+        "spend": "7.79",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-08",
+        "date_stop": "2025-03-08"
+    },
+    {
+        "impressions": "1365",
+        "account_id": "198313924760810",
+        "reach": "1164",
+        "spend": "27.65",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "245"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "245"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "228"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-08",
+        "date_stop": "2025-03-08"
+    },
+    {
+        "impressions": "1186",
+        "account_id": "198313924760810",
+        "reach": "934",
+        "spend": "16.7",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "213",
+        "account_id": "198313924760810",
+        "reach": "198",
+        "spend": "2.85",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "1486",
+        "account_id": "198313924760810",
+        "reach": "1297",
+        "spend": "19.87",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "221"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "221"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "211"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "2434",
+        "account_id": "198313924760810",
+        "reach": "1806",
+        "spend": "49.35",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "67",
+        "account_id": "198313924760810",
+        "reach": "46",
+        "spend": "1.46",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1859",
+        "account_id": "198313924760810",
+        "reach": "1623",
+        "spend": "33.18",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "282"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "282"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "268"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "363",
+        "account_id": "198313924760810",
+        "reach": "348",
+        "spend": "7.96",
+        "adset_id": "120218510873820565",
+        "adset_name": "[CJ01][Advantage][Clínica Escola]",
+        "ad_id": "120218510873840565",
+        "ad_name": "Novo anúncio de Engajamento",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "147"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "147"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "146"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "1945",
+        "account_id": "198313924760810",
+        "reach": "1539",
+        "spend": "45.82",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-11",
+        "date_stop": "2025-03-11"
+    },
+    {
+        "impressions": "3",
+        "account_id": "198313924760810",
+        "reach": "3",
+        "spend": "0.01",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-11",
+        "date_stop": "2025-03-11"
+    },
+    {
+        "impressions": "1608",
+        "account_id": "198313924760810",
+        "reach": "1420",
+        "spend": "31.84",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "243"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "243"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "235"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-11",
+        "date_stop": "2025-03-11"
+    },
+    {
+        "impressions": "541",
+        "account_id": "198313924760810",
+        "reach": "504",
+        "spend": "15.31",
+        "adset_id": "120218510873820565",
+        "adset_name": "[CJ01][Advantage][Clínica Escola]",
+        "ad_id": "120218510873840565",
+        "ad_name": "Novo anúncio de Engajamento",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "271"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "271"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "270"
+            }
+        ],
+        "date_start": "2025-03-11",
+        "date_stop": "2025-03-11"
+    },
+    {
+        "impressions": "1004",
+        "account_id": "198313924760810",
+        "reach": "822",
+        "spend": "18.75",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    },
+    {
+        "impressions": "166",
+        "account_id": "198313924760810",
+        "reach": "147",
+        "spend": "2.98",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    },
+    {
+        "impressions": "221",
+        "account_id": "198313924760810",
+        "reach": "210",
+        "spend": "4.32",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    },
+    {
+        "impressions": "516",
+        "account_id": "198313924760810",
+        "reach": "497",
+        "spend": "15.98",
+        "adset_id": "120218510873820565",
+        "adset_name": "[CJ01][Advantage][Clínica Escola]",
+        "ad_id": "120218510873840565",
+        "ad_name": "Novo anúncio de Engajamento",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "236"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "236"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "235"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    },
+    {
+        "impressions": "116",
+        "account_id": "198313924760810",
+        "reach": "108",
+        "spend": "1.58",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218611320820565",
+        "ad_name": "[AD01] Video",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "video_view",
+                "value": "25"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    },
+    {
+        "impressions": "997",
+        "account_id": "198313924760810",
+        "reach": "798",
+        "spend": "15.87",
+        "adset_id": "120218619320600565",
+        "adset_name": "[CJ03] Interesses",
+        "ad_id": "120218619320590565",
+        "ad_name": "[AD01] Video",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "186"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "186"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "171"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    },
+    {
+        "impressions": "3679",
+        "account_id": "198313924760810",
+        "reach": "2904",
+        "spend": "52.01",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-03-13",
+        "date_stop": "2025-03-13"
+    },
+    {
+        "impressions": "26",
+        "account_id": "198313924760810",
+        "reach": "19",
+        "spend": "0.51",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-13",
+        "date_stop": "2025-03-13"
+    },
+    {
+        "impressions": "4",
+        "account_id": "198313924760810",
+        "reach": "4",
+        "spend": "0.29",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-13",
+        "date_stop": "2025-03-13"
+    },
+    {
+        "impressions": "621",
+        "account_id": "198313924760810",
+        "reach": "617",
+        "spend": "17.74",
+        "adset_id": "120218510873820565",
+        "adset_name": "[CJ01][Advantage][Clínica Escola]",
+        "ad_id": "120218510873840565",
+        "ad_name": "Novo anúncio de Engajamento",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "247"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "247"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "245"
+            }
+        ],
+        "date_start": "2025-03-13",
+        "date_stop": "2025-03-13"
+    },
+    {
+        "impressions": "2987",
+        "account_id": "198313924760810",
+        "reach": "2364",
+        "spend": "52.21",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "29",
+        "account_id": "198313924760810",
+        "reach": "29",
+        "spend": "0.8",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "5",
+        "account_id": "198313924760810",
+        "reach": "4",
+        "spend": "0.46",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "521",
+        "account_id": "198313924760810",
+        "reach": "500",
+        "spend": "17.17",
+        "adset_id": "120218510873820565",
+        "adset_name": "[CJ01][Advantage][Clínica Escola]",
+        "ad_id": "120218510873840565",
+        "ad_name": "Novo anúncio de Engajamento",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "226"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "226"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "224"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "1974",
+        "account_id": "198313924760810",
+        "reach": "1537",
+        "spend": "32.28",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "720",
+        "account_id": "198313924760810",
+        "reach": "627",
+        "spend": "14.92",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "504",
+        "account_id": "198313924760810",
+        "reach": "435",
+        "spend": "10.58",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "97"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "97"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "94"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "477",
+        "account_id": "198313924760810",
+        "reach": "471",
+        "spend": "15.84",
+        "adset_id": "120218510873820565",
+        "adset_name": "[CJ01][Advantage][Clínica Escola]",
+        "ad_id": "120218510873840565",
+        "ad_name": "Novo anúncio de Engajamento",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "223"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "223"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "220"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "689",
+        "account_id": "198313924760810",
+        "reach": "561",
+        "spend": "11.06",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "218",
+        "account_id": "198313924760810",
+        "reach": "189",
+        "spend": "6.07",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "143",
+        "account_id": "198313924760810",
+        "reach": "127",
+        "spend": "4.56",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "video_view",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "2249",
+        "account_id": "198313924760810",
+        "reach": "1751",
+        "spend": "46.65",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "2167",
+        "account_id": "198313924760810",
+        "reach": "1657",
+        "spend": "49.04",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "1206",
+        "account_id": "198313924760810",
+        "reach": "956",
+        "spend": "23.78",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "200"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "200"
+            },
+            {
+                "action_type": "video_view",
+                "value": "190"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "734",
+        "account_id": "198313924760810",
+        "reach": "668",
+        "spend": "14.25",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "1653",
+        "account_id": "198313924760810",
+        "reach": "1446",
+        "spend": "35.42",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "1952",
+        "account_id": "198313924760810",
+        "reach": "1657",
+        "spend": "37.39",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "1444",
+        "account_id": "198313924760810",
+        "reach": "1260",
+        "spend": "25.72",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "259"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "259"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "248"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "6104",
+        "account_id": "198313924760810",
+        "reach": "4505",
+        "spend": "103.42",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "18"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "338",
+        "account_id": "198313924760810",
+        "reach": "298",
+        "spend": "10.16",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "162",
+        "account_id": "198313924760810",
+        "reach": "142",
+        "spend": "4.23",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "260",
+        "account_id": "198313924760810",
+        "reach": "240",
+        "spend": "7.87",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "video_view",
+                "value": "41"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "3381",
+        "account_id": "198313924760810",
+        "reach": "2835",
+        "spend": "64.09",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "16",
+        "account_id": "198313924760810",
+        "reach": "14",
+        "spend": "0.13",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218932578820565",
+        "ad_name": "[AD02] Ed. fisica",
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "33",
+        "account_id": "198313924760810",
+        "reach": "31",
+        "spend": "1.15",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938014240565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "279",
+        "account_id": "198313924760810",
+        "reach": "255",
+        "spend": "5.45",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938047810565",
+        "ad_name": "[AD03] Ed. fisica",
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "351",
+        "account_id": "198313924760810",
+        "reach": "283",
+        "spend": "7.71",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "1027",
+        "account_id": "198313924760810",
+        "reach": "858",
+        "spend": "24.09",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "51",
+        "account_id": "198313924760810",
+        "reach": "42",
+        "spend": "1.11",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "515",
+        "account_id": "198313924760810",
+        "reach": "449",
+        "spend": "13.27",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "101"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "101"
+            },
+            {
+                "action_type": "video_view",
+                "value": "95"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "2467",
+        "account_id": "198313924760810",
+        "reach": "2025",
+        "spend": "54.68",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "1",
+        "account_id": "198313924760810",
+        "reach": "1",
+        "spend": "0.06",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938014240565",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "24",
+        "account_id": "198313924760810",
+        "reach": "22",
+        "spend": "0.34",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938047810565",
+        "ad_name": "[AD03] Ed. fisica",
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "533",
+        "account_id": "198313924760810",
+        "reach": "471",
+        "spend": "9.04",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "2240",
+        "account_id": "198313924760810",
+        "reach": "1887",
+        "spend": "40.09",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "8",
+        "account_id": "198313924760810",
+        "reach": "7",
+        "spend": "0.08",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "558",
+        "account_id": "198313924760810",
+        "reach": "527",
+        "spend": "12.85",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "131"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "131"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "124"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "2917",
+        "account_id": "198313924760810",
+        "reach": "2313",
+        "spend": "67.54",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "342",
+        "account_id": "198313924760810",
+        "reach": "301",
+        "spend": "6.26",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218932578820565",
+        "ad_name": "[AD02] Ed. fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "166",
+        "account_id": "198313924760810",
+        "reach": "149",
+        "spend": "2.62",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218936566170565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "406",
+        "account_id": "198313924760810",
+        "reach": "355",
+        "spend": "9.52",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "2046",
+        "account_id": "198313924760810",
+        "reach": "1784",
+        "spend": "37.27",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "81",
+        "account_id": "198313924760810",
+        "reach": "76",
+        "spend": "2.17",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "503",
+        "account_id": "198313924760810",
+        "reach": "474",
+        "spend": "15.43",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "111"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "111"
+            },
+            {
+                "action_type": "video_view",
+                "value": "111"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "3116",
+        "account_id": "198313924760810",
+        "reach": "2535",
+        "spend": "72.71",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "289",
+        "account_id": "198313924760810",
+        "reach": "248",
+        "spend": "4.84",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218932578820565",
+        "ad_name": "[AD02] Ed. fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "245",
+        "account_id": "198313924760810",
+        "reach": "208",
+        "spend": "3.31",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218936566170565",
+        "ad_name": "[AD02] Fisioterapia",
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "367",
+        "account_id": "198313924760810",
+        "reach": "326",
+        "spend": "8.13",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "383",
+        "account_id": "198313924760810",
+        "reach": "317",
+        "spend": "9.39",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "170",
+        "account_id": "198313924760810",
+        "reach": "149",
+        "spend": "3.02",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "121",
+        "account_id": "198313924760810",
+        "reach": "111",
+        "spend": "2.5",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "743",
+        "account_id": "198313924760810",
+        "reach": "581",
+        "spend": "19.56",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "24",
+        "account_id": "198313924760810",
+        "reach": "22",
+        "spend": "0.68",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218932578820565",
+        "ad_name": "[AD02] Ed. fisica",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "4",
+        "account_id": "198313924760810",
+        "reach": "4",
+        "spend": "0.12",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218936566170565",
+        "ad_name": "[AD02] Fisioterapia",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "127",
+        "account_id": "198313924760810",
+        "reach": "105",
+        "spend": "1.87",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938014240565",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "88",
+        "account_id": "198313924760810",
+        "reach": "65",
+        "spend": "1.3",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "3181",
+        "account_id": "198313924760810",
+        "reach": "2360",
+        "spend": "71.61",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "56",
+        "account_id": "198313924760810",
+        "reach": "42",
+        "spend": "1.38",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "2003",
+        "account_id": "198313924760810",
+        "reach": "1736",
+        "spend": "47.96",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "371"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "371"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "354"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "5219",
+        "account_id": "198313924760810",
+        "reach": "3719",
+        "spend": "130.41",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "1",
+        "account_id": "198313924760810",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218932578820565",
+        "ad_name": "[AD02] Ed. fisica",
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "4",
+        "account_id": "198313924760810",
+        "reach": "4",
+        "spend": "0.07",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938014240565",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "319",
+        "account_id": "198313924760810",
+        "reach": "240",
+        "spend": "7.74",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "2659",
+        "account_id": "198313924760810",
+        "reach": "2202",
+        "spend": "60.22",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "622",
+        "account_id": "198313924760810",
+        "reach": "546",
+        "spend": "21.41",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "1334",
+        "account_id": "198313924760810",
+        "reach": "1207",
+        "spend": "38.85",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "279"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "279"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "266"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "4700",
+        "account_id": "198313924760810",
+        "reach": "3739",
+        "spend": "129.97",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "12",
+        "account_id": "198313924760810",
+        "reach": "11",
+        "spend": "0.51",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218936566170565",
+        "ad_name": "[AD02] Fisioterapia",
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "4",
+        "account_id": "198313924760810",
+        "reach": "4",
+        "spend": "0.05",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938014240565",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "393",
+        "account_id": "198313924760810",
+        "reach": "327",
+        "spend": "8.18",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "1395",
+        "account_id": "198313924760810",
+        "reach": "1129",
+        "spend": "28.95",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "336",
+        "account_id": "198313924760810",
+        "reach": "295",
+        "spend": "11.31",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "663",
+        "account_id": "198313924760810",
+        "reach": "619",
+        "spend": "19.93",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "173"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "173"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "162"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "2778",
+        "account_id": "198313924760810",
+        "reach": "2316",
+        "spend": "71.98",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "41",
+        "account_id": "198313924760810",
+        "reach": "40",
+        "spend": "0.86",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218932578820565",
+        "ad_name": "[AD02] Ed. fisica",
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "44",
+        "account_id": "198313924760810",
+        "reach": "42",
+        "spend": "1.47",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218936566170565",
+        "ad_name": "[AD02] Fisioterapia",
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "370",
+        "account_id": "198313924760810",
+        "reach": "309",
+        "spend": "8.15",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "1635",
+        "account_id": "198313924760810",
+        "reach": "1392",
+        "spend": "26.08",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "375",
+        "account_id": "198313924760810",
+        "reach": "343",
+        "spend": "8.53",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "1326",
+        "account_id": "198313924760810",
+        "reach": "1198",
+        "spend": "33.41",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "292"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "292"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "280"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "4076",
+        "account_id": "198313924760810",
+        "reach": "3461",
+        "spend": "75.74",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "45",
+        "account_id": "198313924760810",
+        "reach": "42",
+        "spend": "0.76",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218932578820565",
+        "ad_name": "[AD02] Ed. fisica",
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "70",
+        "account_id": "198313924760810",
+        "reach": "61",
+        "spend": "1.34",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938014240565",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "13",
+        "account_id": "198313924760810",
+        "reach": "11",
+        "spend": "0.2",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938047810565",
+        "ad_name": "[AD03] Ed. fisica",
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "515",
+        "account_id": "198313924760810",
+        "reach": "460",
+        "spend": "7.76",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "881",
+        "account_id": "198313924760810",
+        "reach": "703",
+        "spend": "15.9",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "244",
+        "account_id": "198313924760810",
+        "reach": "217",
+        "spend": "5.85",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "664",
+        "account_id": "198313924760810",
+        "reach": "609",
+        "spend": "19.4",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "118"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "118"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "112"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "1744",
+        "account_id": "198313924760810",
+        "reach": "1483",
+        "spend": "35.39",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "318",
+        "account_id": "198313924760810",
+        "reach": "276",
+        "spend": "5.49",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "892",
+        "account_id": "198313924760810",
+        "reach": "763",
+        "spend": "14.54",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "305",
+        "account_id": "198313924760810",
+        "reach": "265",
+        "spend": "8.29",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "710",
+        "account_id": "198313924760810",
+        "reach": "672",
+        "spend": "16.76",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "153"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "153"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "148"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "1882",
+        "account_id": "198313924760810",
+        "reach": "1586",
+        "spend": "34.48",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "17",
+        "account_id": "198313924760810",
+        "reach": "17",
+        "spend": "0.32",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218936566170565",
+        "ad_name": "[AD02] Fisioterapia",
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "528",
+        "account_id": "198313924760810",
+        "reach": "455",
+        "spend": "8.97",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "973",
+        "account_id": "198313924760810",
+        "reach": "613",
+        "spend": "15.04",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "417",
+        "account_id": "198313924760810",
+        "reach": "290",
+        "spend": "6.74",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "387",
+        "account_id": "198313924760810",
+        "reach": "306",
+        "spend": "8.03",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "49"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "1444",
+        "account_id": "198313924760810",
+        "reach": "1032",
+        "spend": "17.95",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "36",
+        "account_id": "198313924760810",
+        "reach": "30",
+        "spend": "0.43",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218932578820565",
+        "ad_name": "[AD02] Ed. fisica",
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "46",
+        "account_id": "198313924760810",
+        "reach": "38",
+        "spend": "0.84",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938014240565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "14",
+        "account_id": "198313924760810",
+        "reach": "13",
+        "spend": "0.15",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938047810565",
+        "ad_name": "[AD03] Ed. fisica",
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "335",
+        "account_id": "198313924760810",
+        "reach": "206",
+        "spend": "7.9",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "1124",
+        "account_id": "198313924760810",
+        "reach": "803",
+        "spend": "22.27",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218040371830565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "473",
+        "account_id": "198313924760810",
+        "reach": "366",
+        "spend": "7.66",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057426000565",
+        "ad_name": "[AD02] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "436",
+        "account_id": "198313924760810",
+        "reach": "344",
+        "spend": "11.45",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218057505380565",
+        "ad_name": "[AD03] Adm e Ciências Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "56"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "56"
+            },
+            {
+                "action_type": "video_view",
+                "value": "54"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "3208",
+        "account_id": "198313924760810",
+        "reach": "2258",
+        "spend": "63.95",
+        "adset_id": "120218886604860565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218886604780565",
+        "ad_name": "[AD01] Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "1",
+        "account_id": "198313924760810",
+        "reach": "1",
+        "spend": "0",
+        "adset_id": "120218040371840565",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120218932578820565",
+        "ad_name": "[AD02] Ed. fisica",
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "357",
+        "account_id": "198313924760810",
+        "reach": "249",
+        "spend": "6.99",
+        "adset_id": "120218611320790565",
+        "adset_name": "[CJ02] LAL",
+        "ad_id": "120218938102260565",
+        "ad_name": "[AD02] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    }
+]

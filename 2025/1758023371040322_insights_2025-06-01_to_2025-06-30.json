@@ -1,0 +1,4052 @@
+[
+    {
+        "impressions": "5452",
+        "account_id": "1758023371040322",
+        "reach": "4505",
+        "spend": "32.1",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099750134",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-06-01",
+        "date_stop": "2025-06-01"
+    },
+    {
+        "impressions": "140",
+        "account_id": "1758023371040322",
+        "reach": "138",
+        "spend": "0.65",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099760134",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-01",
+        "date_stop": "2025-06-01"
+    },
+    {
+        "impressions": "339",
+        "account_id": "1758023371040322",
+        "reach": "322",
+        "spend": "2.4",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483131020134",
+        "ad_name": "[AD07] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-01",
+        "date_stop": "2025-06-01"
+    },
+    {
+        "impressions": "459",
+        "account_id": "1758023371040322",
+        "reach": "438",
+        "spend": "3.54",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "date_start": "2025-06-01",
+        "date_stop": "2025-06-01"
+    },
+    {
+        "impressions": "7888",
+        "account_id": "1758023371040322",
+        "reach": "5686",
+        "spend": "64.67",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099750134",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "42",
+        "account_id": "1758023371040322",
+        "reach": "42",
+        "spend": "0.28",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099760134",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "217",
+        "account_id": "1758023371040322",
+        "reach": "206",
+        "spend": "1.82",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483131020134",
+        "ad_name": "[AD07] Fisioterapia",
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "4274",
+        "account_id": "1758023371040322",
+        "reach": "3331",
+        "spend": "35.09",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "2624",
+        "account_id": "1758023371040322",
+        "reach": "2261",
+        "spend": "24.81",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099750134",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "3855",
+        "account_id": "1758023371040322",
+        "reach": "3150",
+        "spend": "22.78",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099760134",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "739",
+        "account_id": "1758023371040322",
+        "reach": "653",
+        "spend": "7.71",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483131020134",
+        "ad_name": "[AD07] Fisioterapia",
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "4163",
+        "account_id": "1758023371040322",
+        "reach": "3201",
+        "spend": "43.82",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "2999",
+        "account_id": "1758023371040322",
+        "reach": "2373",
+        "spend": "26.2",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099750134",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "3517",
+        "account_id": "1758023371040322",
+        "reach": "2902",
+        "spend": "22.57",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099760134",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "338",
+        "account_id": "1758023371040322",
+        "reach": "300",
+        "spend": "5.12",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483131020134",
+        "ad_name": "[AD07] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "3917",
+        "account_id": "1758023371040322",
+        "reach": "3159",
+        "spend": "33.62",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "1268",
+        "account_id": "1758023371040322",
+        "reach": "1083",
+        "spend": "14.72",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099750134",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "5637",
+        "account_id": "1758023371040322",
+        "reach": "4827",
+        "spend": "37.69",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099760134",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "187",
+        "account_id": "1758023371040322",
+        "reach": "159",
+        "spend": "2.13",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483131020134",
+        "ad_name": "[AD07] Fisioterapia",
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "4318",
+        "account_id": "1758023371040322",
+        "reach": "3355",
+        "spend": "37.7",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "57",
+        "account_id": "1758023371040322",
+        "reach": "53",
+        "spend": "0.59",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227841808310134",
+        "ad_name": "[AD01] Vídeo Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "1657",
+        "account_id": "1758023371040322",
+        "reach": "1432",
+        "spend": "18.84",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099750134",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "4300",
+        "account_id": "1758023371040322",
+        "reach": "3714",
+        "spend": "35.67",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099760134",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "150",
+        "account_id": "1758023371040322",
+        "reach": "137",
+        "spend": "2.49",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483131020134",
+        "ad_name": "[AD07] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "3285",
+        "account_id": "1758023371040322",
+        "reach": "2617",
+        "spend": "30.26",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "295",
+        "account_id": "1758023371040322",
+        "reach": "228",
+        "spend": "3.74",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227841808310134",
+        "ad_name": "[AD01] Vídeo Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "31"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "1724",
+        "account_id": "1758023371040322",
+        "reach": "1416",
+        "spend": "14.29",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099750134",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "5014",
+        "account_id": "1758023371040322",
+        "reach": "4408",
+        "spend": "33.63",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099760134",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "340",
+        "account_id": "1758023371040322",
+        "reach": "317",
+        "spend": "3.21",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483131020134",
+        "ad_name": "[AD07] Fisioterapia",
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "6220",
+        "account_id": "1758023371040322",
+        "reach": "4597",
+        "spend": "44.14",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "329",
+        "account_id": "1758023371040322",
+        "reach": "292",
+        "spend": "3.91",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227841808310134",
+        "ad_name": "[AD01] Vídeo Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "video_view",
+                "value": "23"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "1082",
+        "account_id": "1758023371040322",
+        "reach": "971",
+        "spend": "9.42",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099750134",
+        "ad_name": "[AD06] Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "4320",
+        "account_id": "1758023371040322",
+        "reach": "3697",
+        "spend": "26.86",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483099760134",
+        "ad_name": "[AD04] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "201",
+        "account_id": "1758023371040322",
+        "reach": "182",
+        "spend": "1.97",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483131020134",
+        "ad_name": "[AD07] Fisioterapia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "5332",
+        "account_id": "1758023371040322",
+        "reach": "4244",
+        "spend": "36.17",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "946",
+        "account_id": "1758023371040322",
+        "reach": "870",
+        "spend": "10.04",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227841808310134",
+        "ad_name": "[AD01] Vídeo Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "90"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "90"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "82"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "864",
+        "account_id": "1758023371040322",
+        "reach": "791",
+        "spend": "7.75",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228031381680134",
+        "ad_name": "[AD08] Vídeo Biomedicina 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "95"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "95"
+            },
+            {
+                "action_type": "video_view",
+                "value": "90"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "796",
+        "account_id": "1758023371040322",
+        "reach": "707",
+        "spend": "6.5",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228031488650134",
+        "ad_name": "[AD09] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "71"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "71"
+            },
+            {
+                "action_type": "video_view",
+                "value": "69"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "4099",
+        "account_id": "1758023371040322",
+        "reach": "3236",
+        "spend": "39.39",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-06-09",
+        "date_stop": "2025-06-09"
+    },
+    {
+        "impressions": "3862",
+        "account_id": "1758023371040322",
+        "reach": "3179",
+        "spend": "39.04",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228031381680134",
+        "ad_name": "[AD08] Vídeo Biomedicina 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "293"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "293"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "282"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-09",
+        "date_stop": "2025-06-09"
+    },
+    {
+        "impressions": "1730",
+        "account_id": "1758023371040322",
+        "reach": "1420",
+        "spend": "20.49",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228031488650134",
+        "ad_name": "[AD09] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "142"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "142"
+            },
+            {
+                "action_type": "video_view",
+                "value": "135"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-09",
+        "date_stop": "2025-06-09"
+    },
+    {
+        "impressions": "7829",
+        "account_id": "1758023371040322",
+        "reach": "5972",
+        "spend": "66.33",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-06-10",
+        "date_stop": "2025-06-10"
+    },
+    {
+        "impressions": "1258",
+        "account_id": "1758023371040322",
+        "reach": "1115",
+        "spend": "15.34",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228031381680134",
+        "ad_name": "[AD08] Vídeo Biomedicina 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "105"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "105"
+            },
+            {
+                "action_type": "video_view",
+                "value": "98"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-10",
+        "date_stop": "2025-06-10"
+    },
+    {
+        "impressions": "782",
+        "account_id": "1758023371040322",
+        "reach": "656",
+        "spend": "10.58",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228031488650134",
+        "ad_name": "[AD09] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "video_view",
+                "value": "39"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-10",
+        "date_stop": "2025-06-10"
+    },
+    {
+        "impressions": "4962",
+        "account_id": "1758023371040322",
+        "reach": "3745",
+        "spend": "61.01",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-06-11",
+        "date_stop": "2025-06-11"
+    },
+    {
+        "impressions": "1606",
+        "account_id": "1758023371040322",
+        "reach": "1461",
+        "spend": "20.55",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228031381680134",
+        "ad_name": "[AD08] Vídeo Biomedicina 2",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "120"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "120"
+            },
+            {
+                "action_type": "video_view",
+                "value": "111"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-11",
+        "date_stop": "2025-06-11"
+    },
+    {
+        "impressions": "1326",
+        "account_id": "1758023371040322",
+        "reach": "1155",
+        "spend": "15.9",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228031488650134",
+        "ad_name": "[AD09] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "75"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-11",
+        "date_stop": "2025-06-11"
+    },
+    {
+        "impressions": "49",
+        "account_id": "1758023371040322",
+        "reach": "48",
+        "spend": "0.48",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "date_start": "2025-06-11",
+        "date_stop": "2025-06-11"
+    },
+    {
+        "impressions": "1495",
+        "account_id": "1758023371040322",
+        "reach": "1299",
+        "spend": "17.37",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-12",
+        "date_stop": "2025-06-12"
+    },
+    {
+        "impressions": "1294",
+        "account_id": "1758023371040322",
+        "reach": "1096",
+        "spend": "11.03",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324821670134",
+        "ad_name": "[AD09] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-12",
+        "date_stop": "2025-06-12"
+    },
+    {
+        "impressions": "526",
+        "account_id": "1758023371040322",
+        "reach": "408",
+        "spend": "5.92",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-12",
+        "date_stop": "2025-06-12"
+    },
+    {
+        "impressions": "2430",
+        "account_id": "1758023371040322",
+        "reach": "1952",
+        "spend": "20.38",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228325519770134",
+        "ad_name": "[AD06] Enfermagem — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-12",
+        "date_stop": "2025-06-12"
+    },
+    {
+        "impressions": "3535",
+        "account_id": "1758023371040322",
+        "reach": "2855",
+        "spend": "39.57",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228325534790134",
+        "ad_name": "[AD01] Geral — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-12",
+        "date_stop": "2025-06-12"
+    },
+    {
+        "impressions": "2334",
+        "account_id": "1758023371040322",
+        "reach": "1948",
+        "spend": "30.07",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-06-13",
+        "date_stop": "2025-06-13"
+    },
+    {
+        "impressions": "445",
+        "account_id": "1758023371040322",
+        "reach": "393",
+        "spend": "4.4",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324821670134",
+        "ad_name": "[AD09] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-13",
+        "date_stop": "2025-06-13"
+    },
+    {
+        "impressions": "127",
+        "account_id": "1758023371040322",
+        "reach": "117",
+        "spend": "1.55",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-13",
+        "date_stop": "2025-06-13"
+    },
+    {
+        "impressions": "3663",
+        "account_id": "1758023371040322",
+        "reach": "3113",
+        "spend": "32.12",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228325519770134",
+        "ad_name": "[AD06] Enfermagem — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-06-13",
+        "date_stop": "2025-06-13"
+    },
+    {
+        "impressions": "1801",
+        "account_id": "1758023371040322",
+        "reach": "1520",
+        "spend": "27.1",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228325534790134",
+        "ad_name": "[AD01] Geral — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-13",
+        "date_stop": "2025-06-13"
+    },
+    {
+        "impressions": "4565",
+        "account_id": "1758023371040322",
+        "reach": "3821",
+        "spend": "44.58",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-06-14",
+        "date_stop": "2025-06-14"
+    },
+    {
+        "impressions": "400",
+        "account_id": "1758023371040322",
+        "reach": "363",
+        "spend": "4.7",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324821670134",
+        "ad_name": "[AD09] Odonto",
+        "date_start": "2025-06-14",
+        "date_stop": "2025-06-14"
+    },
+    {
+        "impressions": "2300",
+        "account_id": "1758023371040322",
+        "reach": "2066",
+        "spend": "19.62",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228325519770134",
+        "ad_name": "[AD06] Enfermagem — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-06-14",
+        "date_stop": "2025-06-14"
+    },
+    {
+        "impressions": "2163",
+        "account_id": "1758023371040322",
+        "reach": "1928",
+        "spend": "32.67",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228325534790134",
+        "ad_name": "[AD01] Geral — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-14",
+        "date_stop": "2025-06-14"
+    },
+    {
+        "impressions": "7307",
+        "account_id": "1758023371040322",
+        "reach": "5816",
+        "spend": "62.8",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "769",
+        "account_id": "1758023371040322",
+        "reach": "664",
+        "spend": "5.83",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324821670134",
+        "ad_name": "[AD09] Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "293",
+        "account_id": "1758023371040322",
+        "reach": "254",
+        "spend": "4.1",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "689",
+        "account_id": "1758023371040322",
+        "reach": "621",
+        "spend": "4.44",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228325519770134",
+        "ad_name": "[AD06] Enfermagem — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "2472",
+        "account_id": "1758023371040322",
+        "reach": "2291",
+        "spend": "25.62",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228325534790134",
+        "ad_name": "[AD01] Geral — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "199",
+        "account_id": "1758023371040322",
+        "reach": "191",
+        "spend": "1.76",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "video_view",
+                "value": "23"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "6478",
+        "account_id": "1758023371040322",
+        "reach": "4957",
+        "spend": "64.98",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "35"
+            }
+        ],
+        "date_start": "2025-06-16",
+        "date_stop": "2025-06-16"
+    },
+    {
+        "impressions": "182",
+        "account_id": "1758023371040322",
+        "reach": "164",
+        "spend": "2.32",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-16",
+        "date_stop": "2025-06-16"
+    },
+    {
+        "impressions": "3601",
+        "account_id": "1758023371040322",
+        "reach": "2811",
+        "spend": "42.7",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "424"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "424"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "402"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-06-16",
+        "date_stop": "2025-06-16"
+    },
+    {
+        "impressions": "9280",
+        "account_id": "1758023371040322",
+        "reach": "6562",
+        "spend": "66.95",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-06-17",
+        "date_stop": "2025-06-17"
+    },
+    {
+        "impressions": "94",
+        "account_id": "1758023371040322",
+        "reach": "83",
+        "spend": "0.96",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-17",
+        "date_stop": "2025-06-17"
+    },
+    {
+        "impressions": "2171",
+        "account_id": "1758023371040322",
+        "reach": "1933",
+        "spend": "20.17",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "201"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "201"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "187"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-06-17",
+        "date_stop": "2025-06-17"
+    },
+    {
+        "impressions": "9298",
+        "account_id": "1758023371040322",
+        "reach": "6798",
+        "spend": "70.42",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-06-18",
+        "date_stop": "2025-06-18"
+    },
+    {
+        "impressions": "116",
+        "account_id": "1758023371040322",
+        "reach": "106",
+        "spend": "1.06",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-18",
+        "date_stop": "2025-06-18"
+    },
+    {
+        "impressions": "2262",
+        "account_id": "1758023371040322",
+        "reach": "2052",
+        "spend": "21.92",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "180"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "180"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "168"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-18",
+        "date_stop": "2025-06-18"
+    },
+    {
+        "impressions": "9165",
+        "account_id": "1758023371040322",
+        "reach": "6886",
+        "spend": "71.39",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-06-19",
+        "date_stop": "2025-06-19"
+    },
+    {
+        "impressions": "128",
+        "account_id": "1758023371040322",
+        "reach": "116",
+        "spend": "2.32",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-19",
+        "date_stop": "2025-06-19"
+    },
+    {
+        "impressions": "1906",
+        "account_id": "1758023371040322",
+        "reach": "1730",
+        "spend": "20.03",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "178"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "178"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "156"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-06-19",
+        "date_stop": "2025-06-19"
+    },
+    {
+        "impressions": "8951",
+        "account_id": "1758023371040322",
+        "reach": "7023",
+        "spend": "70.97",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "227",
+        "account_id": "1758023371040322",
+        "reach": "187",
+        "spend": "2.87",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "1321",
+        "account_id": "1758023371040322",
+        "reach": "1178",
+        "spend": "14.77",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "140"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "139"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "130"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "9901",
+        "account_id": "1758023371040322",
+        "reach": "7793",
+        "spend": "86.96",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-06-21",
+        "date_stop": "2025-06-21"
+    },
+    {
+        "impressions": "242",
+        "account_id": "1758023371040322",
+        "reach": "218",
+        "spend": "4.07",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-21",
+        "date_stop": "2025-06-21"
+    },
+    {
+        "impressions": "901",
+        "account_id": "1758023371040322",
+        "reach": "872",
+        "spend": "8.93",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "78"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-06-21",
+        "date_stop": "2025-06-21"
+    },
+    {
+        "impressions": "11059",
+        "account_id": "1758023371040322",
+        "reach": "8725",
+        "spend": "87",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-06-22",
+        "date_stop": "2025-06-22"
+    },
+    {
+        "impressions": "222",
+        "account_id": "1758023371040322",
+        "reach": "198",
+        "spend": "3.14",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-22",
+        "date_stop": "2025-06-22"
+    },
+    {
+        "impressions": "873",
+        "account_id": "1758023371040322",
+        "reach": "764",
+        "spend": "11.98",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "126"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "126"
+            },
+            {
+                "action_type": "video_view",
+                "value": "121"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-22",
+        "date_stop": "2025-06-22"
+    },
+    {
+        "impressions": "10461",
+        "account_id": "1758023371040322",
+        "reach": "8273",
+        "spend": "82.4",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "39"
+            }
+        ],
+        "date_start": "2025-06-23",
+        "date_stop": "2025-06-23"
+    },
+    {
+        "impressions": "275",
+        "account_id": "1758023371040322",
+        "reach": "248",
+        "spend": "3.34",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-23",
+        "date_stop": "2025-06-23"
+    },
+    {
+        "impressions": "1146",
+        "account_id": "1758023371040322",
+        "reach": "1041",
+        "spend": "15.95",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "142"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "142"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "133"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-06-23",
+        "date_stop": "2025-06-23"
+    },
+    {
+        "impressions": "10193",
+        "account_id": "1758023371040322",
+        "reach": "7756",
+        "spend": "75.62",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "354",
+        "account_id": "1758023371040322",
+        "reach": "306",
+        "spend": "3.55",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "1157",
+        "account_id": "1758023371040322",
+        "reach": "1043",
+        "spend": "14.43",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "107"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "8055",
+        "account_id": "1758023371040322",
+        "reach": "6301",
+        "spend": "68.39",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "lead",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-06-25",
+        "date_stop": "2025-06-25"
+    },
+    {
+        "impressions": "278",
+        "account_id": "1758023371040322",
+        "reach": "259",
+        "spend": "2.84",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-25",
+        "date_stop": "2025-06-25"
+    },
+    {
+        "impressions": "1943",
+        "account_id": "1758023371040322",
+        "reach": "1764",
+        "spend": "23.59",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "159"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "159"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "151"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-25",
+        "date_stop": "2025-06-25"
+    },
+    {
+        "impressions": "7068",
+        "account_id": "1758023371040322",
+        "reach": "5422",
+        "spend": "69.71",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-06-26",
+        "date_stop": "2025-06-26"
+    },
+    {
+        "impressions": "389",
+        "account_id": "1758023371040322",
+        "reach": "321",
+        "spend": "3.52",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-26",
+        "date_stop": "2025-06-26"
+    },
+    {
+        "impressions": "2437",
+        "account_id": "1758023371040322",
+        "reach": "2163",
+        "spend": "26.29",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "206"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "206"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "194"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-26",
+        "date_stop": "2025-06-26"
+    },
+    {
+        "impressions": "6766",
+        "account_id": "1758023371040322",
+        "reach": "5429",
+        "spend": "67.1",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-06-27",
+        "date_stop": "2025-06-27"
+    },
+    {
+        "impressions": "501",
+        "account_id": "1758023371040322",
+        "reach": "425",
+        "spend": "4.28",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-27",
+        "date_stop": "2025-06-27"
+    },
+    {
+        "impressions": "2592",
+        "account_id": "1758023371040322",
+        "reach": "2385",
+        "spend": "25.93",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "188"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "188"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "173"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-06-27",
+        "date_stop": "2025-06-27"
+    },
+    {
+        "impressions": "5424",
+        "account_id": "1758023371040322",
+        "reach": "4425",
+        "spend": "62.27",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-06-28",
+        "date_stop": "2025-06-28"
+    },
+    {
+        "impressions": "421",
+        "account_id": "1758023371040322",
+        "reach": "392",
+        "spend": "3.78",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-28",
+        "date_stop": "2025-06-28"
+    },
+    {
+        "impressions": "2575",
+        "account_id": "1758023371040322",
+        "reach": "2380",
+        "spend": "23.83",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "198"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "187"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-06-28",
+        "date_stop": "2025-06-28"
+    },
+    {
+        "impressions": "6130",
+        "account_id": "1758023371040322",
+        "reach": "5076",
+        "spend": "76.76",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-06-29",
+        "date_stop": "2025-06-29"
+    },
+    {
+        "impressions": "332",
+        "account_id": "1758023371040322",
+        "reach": "298",
+        "spend": "3.68",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228324923090134",
+        "ad_name": "[AD10] Biomedicina",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-29",
+        "date_stop": "2025-06-29"
+    },
+    {
+        "impressions": "1636",
+        "account_id": "1758023371040322",
+        "reach": "1491",
+        "spend": "18.03",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "127"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "127"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "119"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-06-29",
+        "date_stop": "2025-06-29"
+    },
+    {
+        "impressions": "171",
+        "account_id": "1758023371040322",
+        "reach": "163",
+        "spend": "1.8",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120229663655870134",
+        "ad_name": "[AD11] IA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-29",
+        "date_stop": "2025-06-29"
+    },
+    {
+        "impressions": "5875",
+        "account_id": "1758023371040322",
+        "reach": "4720",
+        "spend": "67.24",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227483171350134",
+        "ad_name": "[AD08] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-06-30",
+        "date_stop": "2025-06-30"
+    },
+    {
+        "impressions": "2054",
+        "account_id": "1758023371040322",
+        "reach": "1853",
+        "spend": "19.65",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120228727964530134",
+        "ad_name": "[AD12] Vídeo Odonto",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "219"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "219"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "204"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-06-30",
+        "date_stop": "2025-06-30"
+    },
+    {
+        "impressions": "854",
+        "account_id": "1758023371040322",
+        "reach": "720",
+        "spend": "10.64",
+        "adset_id": "120227483099720134",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120229663655870134",
+        "ad_name": "[AD11] IA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-30",
+        "date_stop": "2025-06-30"
+    }
+]

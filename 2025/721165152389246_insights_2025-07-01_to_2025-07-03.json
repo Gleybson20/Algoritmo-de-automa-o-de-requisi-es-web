@@ -1,0 +1,914 @@
+[
+    {
+        "impressions": "4",
+        "account_id": "721165152389246",
+        "reach": "4",
+        "spend": "0.03",
+        "adset_id": "120222468464450690",
+        "adset_name": "[WPP][MEDICINA][CACOAL + MATO GROSSO] - 2025.2",
+        "ad_id": "120222468464420690",
+        "ad_name": "[AD] - MULHER",
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "965",
+        "account_id": "721165152389246",
+        "reach": "864",
+        "spend": "15.51",
+        "adset_id": "120222468464450690",
+        "adset_name": "[WPP][MEDICINA][CACOAL + MATO GROSSO] - 2025.2",
+        "ad_id": "120222468464430690",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "1956",
+        "account_id": "721165152389246",
+        "reach": "1644",
+        "spend": "16.68",
+        "adset_id": "120226745194730690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - 2025.2",
+        "ad_id": "120226745194740690",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "11715",
+        "account_id": "721165152389246",
+        "reach": "9600",
+        "spend": "116.53",
+        "adset_id": "120226745194730690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - 2025.2",
+        "ad_id": "120226745302070690",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "34"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "1057",
+        "account_id": "721165152389246",
+        "reach": "802",
+        "spend": "17.69",
+        "adset_id": "120226956168740690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - INSCRITOS NÃO PAGOS",
+        "ad_id": "120226956168730690",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "599",
+        "account_id": "721165152389246",
+        "reach": "529",
+        "spend": "9.58",
+        "adset_id": "120226956168740690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - INSCRITOS NÃO PAGOS",
+        "ad_id": "120226956168750690",
+        "ad_name": "[AD] - MULHER",
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "4",
+        "account_id": "721165152389246",
+        "reach": "4",
+        "spend": "0.07",
+        "adset_id": "120226956168740690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - INSCRITOS NÃO PAGOS",
+        "ad_id": "120227079018150690",
+        "ad_name": "[AD] [VÍDEO] PROF. EDER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "2",
+        "account_id": "721165152389246",
+        "reach": "2",
+        "spend": "0.06",
+        "adset_id": "120222468464450690",
+        "adset_name": "[WPP][MEDICINA][CACOAL + MATO GROSSO] - 2025.2",
+        "ad_id": "120222468464420690",
+        "ad_name": "[AD] - MULHER",
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "203",
+        "account_id": "721165152389246",
+        "reach": "162",
+        "spend": "3.24",
+        "adset_id": "120222468464450690",
+        "adset_name": "[WPP][MEDICINA][CACOAL + MATO GROSSO] - 2025.2",
+        "ad_id": "120222468464430690",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "3116",
+        "account_id": "721165152389246",
+        "reach": "2843",
+        "spend": "25.57",
+        "adset_id": "120225780493530690",
+        "adset_name": "[WPP] [RO/SANTA CRUZ/MG] - TRANSFERÊNCIA",
+        "ad_id": "120225780493600690",
+        "ad_name": "[AD] - AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "20039",
+        "account_id": "721165152389246",
+        "reach": "15700",
+        "spend": "177.74",
+        "adset_id": "120225780493530690",
+        "adset_name": "[WPP] [RO/SANTA CRUZ/MG] - TRANSFERÊNCIA",
+        "ad_id": "120225788577320690",
+        "ad_name": "[AD] - ESCURO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "193",
+        "account_id": "721165152389246",
+        "reach": "176",
+        "spend": "2.28",
+        "adset_id": "120225780493530690",
+        "adset_name": "[WPP] [RO/SANTA CRUZ/MG] - TRANSFERÊNCIA",
+        "ad_id": "120225788577340690",
+        "ad_name": "[AD] - TRIO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "11953",
+        "account_id": "721165152389246",
+        "reach": "9520",
+        "spend": "124.06",
+        "adset_id": "120226356296760690",
+        "adset_name": "[WPP] [RO/SANTA CRUZ/MG][TRANSFERÊNCIA] - VÍDEO",
+        "ad_id": "120226356296750690",
+        "ad_name": "[AD] - JORNADA MED",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1336"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1336"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1298"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "2401",
+        "account_id": "721165152389246",
+        "reach": "1775",
+        "spend": "27.99",
+        "adset_id": "120226745194730690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - 2025.2",
+        "ad_id": "120226745194740690",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "4597",
+        "account_id": "721165152389246",
+        "reach": "3489",
+        "spend": "64.01",
+        "adset_id": "120226745194730690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - 2025.2",
+        "ad_id": "120226745302070690",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "752",
+        "account_id": "721165152389246",
+        "reach": "512",
+        "spend": "11.53",
+        "adset_id": "120226956168740690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - INSCRITOS NÃO PAGOS",
+        "ad_id": "120226956168730690",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "1",
+        "account_id": "721165152389246",
+        "reach": "1",
+        "spend": "0.08",
+        "adset_id": "120222468464450690",
+        "adset_name": "[WPP][MEDICINA][CACOAL + MATO GROSSO] - 2025.2",
+        "ad_id": "120222468464420690",
+        "ad_name": "[AD] - MULHER",
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "159",
+        "account_id": "721165152389246",
+        "reach": "136",
+        "spend": "2.38",
+        "adset_id": "120222468464450690",
+        "adset_name": "[WPP][MEDICINA][CACOAL + MATO GROSSO] - 2025.2",
+        "ad_id": "120222468464430690",
+        "ad_name": "[AD] - HOMEM",
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "8381",
+        "account_id": "721165152389246",
+        "reach": "6069",
+        "spend": "90",
+        "adset_id": "120225780493530690",
+        "adset_name": "[WPP] [RO/SANTA CRUZ/MG] - TRANSFERÊNCIA",
+        "ad_id": "120225780493600690",
+        "ad_name": "[AD] - AZUL",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "15559",
+        "account_id": "721165152389246",
+        "reach": "11716",
+        "spend": "162.02",
+        "adset_id": "120225780493530690",
+        "adset_name": "[WPP] [RO/SANTA CRUZ/MG] - TRANSFERÊNCIA",
+        "ad_id": "120225788577320690",
+        "ad_name": "[AD] - ESCURO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "50"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "2543",
+        "account_id": "721165152389246",
+        "reach": "1925",
+        "spend": "30.5",
+        "adset_id": "120225780493530690",
+        "adset_name": "[WPP] [RO/SANTA CRUZ/MG] - TRANSFERÊNCIA",
+        "ad_id": "120225788577340690",
+        "ad_name": "[AD] - TRIO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "5659",
+        "account_id": "721165152389246",
+        "reach": "4185",
+        "spend": "60.46",
+        "adset_id": "120226356296760690",
+        "adset_name": "[WPP] [RO/SANTA CRUZ/MG][TRANSFERÊNCIA] - VÍDEO",
+        "ad_id": "120226356296750690",
+        "ad_name": "[AD] - JORNADA MED",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "567"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "566"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "545"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "2091",
+        "account_id": "721165152389246",
+        "reach": "1654",
+        "spend": "22.86",
+        "adset_id": "120226745194730690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - 2025.2",
+        "ad_id": "120226745194740690",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "5146",
+        "account_id": "721165152389246",
+        "reach": "3773",
+        "spend": "62.36",
+        "adset_id": "120226745194730690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - 2025.2",
+        "ad_id": "120226745302070690",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "536",
+        "account_id": "721165152389246",
+        "reach": "406",
+        "spend": "8.31",
+        "adset_id": "120226956168740690",
+        "adset_name": "[WPP][MEDICINA][RMKT] - INSCRITOS NÃO PAGOS",
+        "ad_id": "120226956168730690",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    }
+]

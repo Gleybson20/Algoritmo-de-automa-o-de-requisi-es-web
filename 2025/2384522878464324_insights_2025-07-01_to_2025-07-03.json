@@ -1,0 +1,886 @@
+[
+    {
+        "impressions": "385",
+        "account_id": "2384522878464324",
+        "reach": "330",
+        "spend": "5.06",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "4707",
+        "account_id": "2384522878464324",
+        "reach": "3962",
+        "spend": "49.7",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288301380653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "7477",
+        "account_id": "2384522878464324",
+        "reach": "6446",
+        "spend": "86.8",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "202",
+        "account_id": "2384522878464324",
+        "reach": "197",
+        "spend": "2.54",
+        "adset_id": "120229292731350653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - TERAPIA OCUPACIONAL",
+        "ad_id": "120229292731340653",
+        "ad_name": "[AD] [VÍDEO] - TO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_welcome_message_view",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "37"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "1844",
+        "account_id": "2384522878464324",
+        "reach": "1809",
+        "spend": "23.48",
+        "adset_id": "120229294515150653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - FARMÁCIA",
+        "ad_id": "120229294515080653",
+        "ad_name": "[AD] [VÍDEO] - FARMÁCIA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "261"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "261"
+            },
+            {
+                "action_type": "video_view",
+                "value": "254"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "1104",
+        "account_id": "2384522878464324",
+        "reach": "1040",
+        "spend": "16.86",
+        "adset_id": "120229294515140653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - PSICOLOGIA",
+        "ad_id": "120229294515110653",
+        "ad_name": "[AD] [VÍDEO] - PSICOLOGIA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "157"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "157"
+            },
+            {
+                "action_type": "video_view",
+                "value": "151"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "1308",
+        "account_id": "2384522878464324",
+        "reach": "1243",
+        "spend": "20.47",
+        "adset_id": "120229295973820653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - TERAPIA OCUPACIONAL - CORRIGIDO",
+        "ad_id": "120229295973810653",
+        "ad_name": "[AD] [VÍDEO] - TO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "244"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "244"
+            },
+            {
+                "action_type": "video_view",
+                "value": "238"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "1956",
+        "account_id": "2384522878464324",
+        "reach": "1460",
+        "spend": "36.04",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "4014",
+        "account_id": "2384522878464324",
+        "reach": "3255",
+        "spend": "49.2",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288301380653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "12788",
+        "account_id": "2384522878464324",
+        "reach": "9563",
+        "spend": "108.69",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "53"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "1056",
+        "account_id": "2384522878464324",
+        "reach": "955",
+        "spend": "20.35",
+        "adset_id": "120229292731350653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - TERAPIA OCUPACIONAL",
+        "ad_id": "120229292731340653",
+        "ad_name": "[AD] [VÍDEO] - TO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "166"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "166"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "158"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "5420",
+        "account_id": "2384522878464324",
+        "reach": "4816",
+        "spend": "67.69",
+        "adset_id": "120229294515150653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - FARMÁCIA",
+        "ad_id": "120229294515080653",
+        "ad_name": "[AD] [VÍDEO] - FARMÁCIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "673"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "673"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "643"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "2919",
+        "account_id": "2384522878464324",
+        "reach": "2776",
+        "spend": "49.47",
+        "adset_id": "120229294515140653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - PSICOLOGIA",
+        "ad_id": "120229294515110653",
+        "ad_name": "[AD] [VÍDEO] - PSICOLOGIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "408"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "408"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "393"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "1739",
+        "account_id": "2384522878464324",
+        "reach": "1593",
+        "spend": "31.15",
+        "adset_id": "120229295973820653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - TERAPIA OCUPACIONAL - CORRIGIDO",
+        "ad_id": "120229295973810653",
+        "ad_name": "[AD] [VÍDEO] - TO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "322"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "322"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "312"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "5423",
+        "account_id": "2384522878464324",
+        "reach": "3946",
+        "spend": "86.45",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "9948",
+        "account_id": "2384522878464324",
+        "reach": "7651",
+        "spend": "91.59",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "1374",
+        "account_id": "2384522878464324",
+        "reach": "1164",
+        "spend": "22.81",
+        "adset_id": "120229292731350653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - TERAPIA OCUPACIONAL",
+        "ad_id": "120229292731340653",
+        "ad_name": "[AD] [VÍDEO] - TO",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "252"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "252"
+            },
+            {
+                "action_type": "video_view",
+                "value": "244"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "4908",
+        "account_id": "2384522878464324",
+        "reach": "4607",
+        "spend": "53.54",
+        "adset_id": "120229294515150653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - FARMÁCIA",
+        "ad_id": "120229294515080653",
+        "ad_name": "[AD] [VÍDEO] - FARMÁCIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "480"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "480"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "464"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "3687",
+        "account_id": "2384522878464324",
+        "reach": "3527",
+        "spend": "58.04",
+        "adset_id": "120229294515140653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - PSICOLOGIA",
+        "ad_id": "120229294515110653",
+        "ad_name": "[AD] [VÍDEO] - PSICOLOGIA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "502"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "502"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "483"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "1830",
+        "account_id": "2384522878464324",
+        "reach": "1794",
+        "spend": "27.13",
+        "adset_id": "120229295973820653",
+        "adset_name": "[WPP + IG] [UNINASSAU R10KM - 22A-62A] - TERAPIA OCUPACIONAL - CORRIGIDO",
+        "ad_id": "120229295973810653",
+        "ad_name": "[AD] [VÍDEO] - TO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "289"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "289"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "277"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    }
+]

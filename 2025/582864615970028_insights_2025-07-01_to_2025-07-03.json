@@ -1,0 +1,838 @@
+[
+    {
+        "impressions": "3427",
+        "account_id": "582864615970028",
+        "reach": "2864",
+        "spend": "32.65",
+        "adset_id": "120218011705050172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120224808336470172",
+        "ad_name": "Promo 1 — Junho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "353",
+        "account_id": "582864615970028",
+        "reach": "294",
+        "spend": "3.11",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226599180330172",
+        "ad_name": "Transferência — Junho ADM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "7400",
+        "account_id": "582864615970028",
+        "reach": "6013",
+        "spend": "71.29",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226599479320172",
+        "ad_name": "Transferência — Junho Gestão Comercial",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "1396",
+        "account_id": "582864615970028",
+        "reach": "1162",
+        "spend": "11.16",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226599893400172",
+        "ad_name": "Transferência — Junho Contábeis",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "4262",
+        "account_id": "582864615970028",
+        "reach": "2960",
+        "spend": "38.29",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226600167090172",
+        "ad_name": "Transferência — Junho Logistica",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "6580",
+        "account_id": "582864615970028",
+        "reach": "5227",
+        "spend": "83.99",
+        "adset_id": "120218011705050172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226613476810172",
+        "ad_name": "Promo 1 — Junho — nova",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "3926",
+        "account_id": "582864615970028",
+        "reach": "3103",
+        "spend": "55.76",
+        "adset_id": "120218011705050172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120224808336470172",
+        "ad_name": "Promo 1 — Junho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "3951",
+        "account_id": "582864615970028",
+        "reach": "2149",
+        "spend": "32.73",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226599180330172",
+        "ad_name": "Transferência — Junho ADM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "537",
+        "account_id": "582864615970028",
+        "reach": "419",
+        "spend": "7.4",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226599479320172",
+        "ad_name": "Transferência — Junho Gestão Comercial",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "1297",
+        "account_id": "582864615970028",
+        "reach": "977",
+        "spend": "15.7",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226599893400172",
+        "ad_name": "Transferência — Junho Contábeis",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "5526",
+        "account_id": "582864615970028",
+        "reach": "3982",
+        "spend": "54.83",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226600167090172",
+        "ad_name": "Transferência — Junho Logistica",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "12"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "42"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "10"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "2729",
+        "account_id": "582864615970028",
+        "reach": "2267",
+        "spend": "42.06",
+        "adset_id": "120218011705050172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226613476810172",
+        "ad_name": "Promo 1 — Junho — nova",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "598",
+        "account_id": "582864615970028",
+        "reach": "499",
+        "spend": "7.17",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226940134190172",
+        "ad_name": "Transferência — Julho",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "1478",
+        "account_id": "582864615970028",
+        "reach": "1203",
+        "spend": "14.42",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226940455210172",
+        "ad_name": "Transferência — Julho — IA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "434",
+        "account_id": "582864615970028",
+        "reach": "381",
+        "spend": "3.88",
+        "adset_id": "120218011705050172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226940570110172",
+        "ad_name": "Promo 1 — Julho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "0",
+        "account_id": "582864615970028",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226600167090172",
+        "ad_name": "Transferência — Junho Logistica",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "3289",
+        "account_id": "582864615970028",
+        "reach": "2177",
+        "spend": "44.35",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226940134190172",
+        "ad_name": "Transferência — Julho",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "3006",
+        "account_id": "582864615970028",
+        "reach": "2358",
+        "spend": "38.69",
+        "adset_id": "120220943669800172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226940455210172",
+        "ad_name": "Transferência — Julho — IA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "8710",
+        "account_id": "582864615970028",
+        "reach": "6444",
+        "spend": "91.83",
+        "adset_id": "120218011705050172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226940570110172",
+        "ad_name": "Promo 1 — Julho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "903",
+        "account_id": "582864615970028",
+        "reach": "833",
+        "spend": "8.95",
+        "adset_id": "120218920632420172",
+        "adset_name": "Maracanau +5KM",
+        "ad_id": "120226998694140172",
+        "ad_name": "Ead Julho",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    }
+]

@@ -1,0 +1,648 @@
+[
+    {
+        "impressions": "2689",
+        "account_id": "425250055347651",
+        "reach": "2342",
+        "spend": "30.42",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224885322090003",
+        "ad_name": "[AD03] Vídeo Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "333"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "333"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "317"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "5788",
+        "account_id": "425250055347651",
+        "reach": "5336",
+        "spend": "58.16",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224885322110003",
+        "ad_name": "[AD05] Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "862"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "862"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "830"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "973",
+        "account_id": "425250055347651",
+        "reach": "898",
+        "spend": "13.73",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224885322120003",
+        "ad_name": "[AD04] Vídeo Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "165"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "165"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "158"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "6364",
+        "account_id": "425250055347651",
+        "reach": "5267",
+        "spend": "55.52",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120225036804410003",
+        "ad_name": "[AD08] Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "432",
+        "account_id": "425250055347651",
+        "reach": "379",
+        "spend": "4.56",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227003772450003",
+        "ad_name": "[AD09] IA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "2419",
+        "account_id": "425250055347651",
+        "reach": "2107",
+        "spend": "31.35",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224885322090003",
+        "ad_name": "[AD03] Vídeo Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "314"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "313"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "301"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "3835",
+        "account_id": "425250055347651",
+        "reach": "3444",
+        "spend": "42.8",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224885322110003",
+        "ad_name": "[AD05] Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "584"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "584"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "561"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "442",
+        "account_id": "425250055347651",
+        "reach": "392",
+        "spend": "7.28",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224885322120003",
+        "ad_name": "[AD04] Vídeo Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "video_view",
+                "value": "73"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "5370",
+        "account_id": "425250055347651",
+        "reach": "4332",
+        "spend": "51.64",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120225036804410003",
+        "ad_name": "[AD08] Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "159",
+        "account_id": "425250055347651",
+        "reach": "140",
+        "spend": "3.19",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227003772450003",
+        "ad_name": "[AD09] IA",
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "1978",
+        "account_id": "425250055347651",
+        "reach": "1765",
+        "spend": "26.19",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224885322090003",
+        "ad_name": "[AD03] Vídeo Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "231"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "231"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "226"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "3321",
+        "account_id": "425250055347651",
+        "reach": "2858",
+        "spend": "39.93",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224885322110003",
+        "ad_name": "[AD05] Vídeo",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "555"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "555"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "523"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "142",
+        "account_id": "425250055347651",
+        "reach": "128",
+        "spend": "2.71",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120224885322120003",
+        "ad_name": "[AD04] Vídeo Direito",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "video_view",
+                "value": "23"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "4094",
+        "account_id": "425250055347651",
+        "reach": "3329",
+        "spend": "42.42",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120225036804410003",
+        "ad_name": "[AD08] Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "97",
+        "account_id": "425250055347651",
+        "reach": "77",
+        "spend": "1.27",
+        "adset_id": "120224885322080003",
+        "adset_name": "[CJ01][Advantage] Geral",
+        "ad_id": "120227003772450003",
+        "ad_name": "[AD09] IA",
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    }
+]

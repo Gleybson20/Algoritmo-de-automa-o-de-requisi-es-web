@@ -1,0 +1,4240 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "506161170713365",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216704326290078",
+        "adset_name": "Promo1_16_28_02",
+        "ad_id": "120216704326340078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "8942",
+        "account_id": "506161170713365",
+        "reach": "6906",
+        "spend": "99.39",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "37"
+            }
+        ],
+        "date_start": "2025-03-06",
+        "date_stop": "2025-03-06"
+    },
+    {
+        "impressions": "10973",
+        "account_id": "506161170713365",
+        "reach": "7797",
+        "spend": "120.81",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "49"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "9150",
+        "account_id": "506161170713365",
+        "reach": "7204",
+        "spend": "103.31",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-03-08",
+        "date_stop": "2025-03-08"
+    },
+    {
+        "impressions": "12478",
+        "account_id": "506161170713365",
+        "reach": "9505",
+        "spend": "139.68",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "49"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "10547",
+        "account_id": "506161170713365",
+        "reach": "7983",
+        "spend": "128.92",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "39"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "38"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "10535",
+        "account_id": "506161170713365",
+        "reach": "7721",
+        "spend": "140.38",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "39"
+            }
+        ],
+        "date_start": "2025-03-11",
+        "date_stop": "2025-03-11"
+    },
+    {
+        "impressions": "10320",
+        "account_id": "506161170713365",
+        "reach": "7308",
+        "spend": "128.2",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    },
+    {
+        "impressions": "9488",
+        "account_id": "506161170713365",
+        "reach": "7462",
+        "spend": "115.89",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-03-13",
+        "date_stop": "2025-03-13"
+    },
+    {
+        "impressions": "4710",
+        "account_id": "506161170713365",
+        "reach": "4196",
+        "spend": "54.62",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "531",
+        "account_id": "506161170713365",
+        "reach": "453",
+        "spend": "8.96",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "3986",
+        "account_id": "506161170713365",
+        "reach": "2925",
+        "spend": "68.24",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "529"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "528"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "503"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "2538",
+        "account_id": "506161170713365",
+        "reach": "2285",
+        "spend": "23",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "1037",
+        "account_id": "506161170713365",
+        "reach": "816",
+        "spend": "17.08",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "6555",
+        "account_id": "506161170713365",
+        "reach": "5146",
+        "spend": "78.54",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "782"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "782"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "751"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "4716",
+        "account_id": "506161170713365",
+        "reach": "4235",
+        "spend": "46.64",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "1201",
+        "account_id": "506161170713365",
+        "reach": "923",
+        "spend": "20.3",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "5687",
+        "account_id": "506161170713365",
+        "reach": "4674",
+        "spend": "66.9",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "644"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "643"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "612"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "6815",
+        "account_id": "506161170713365",
+        "reach": "6253",
+        "spend": "66.82",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "1460",
+        "account_id": "506161170713365",
+        "reach": "1216",
+        "spend": "20.97",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "4456",
+        "account_id": "506161170713365",
+        "reach": "3720",
+        "spend": "49.94",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "443"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "443"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "419"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "5869",
+        "account_id": "506161170713365",
+        "reach": "5242",
+        "spend": "57.57",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "918",
+        "account_id": "506161170713365",
+        "reach": "789",
+        "spend": "10.58",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "4770",
+        "account_id": "506161170713365",
+        "reach": "4004",
+        "spend": "52.81",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "460"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "460"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "440"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "20285",
+        "account_id": "506161170713365",
+        "reach": "14616",
+        "spend": "240",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "86"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "85"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "4"
+            },
+            {
+                "action_type": "lead",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "72"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "7495",
+        "account_id": "506161170713365",
+        "reach": "6640",
+        "spend": "71.64",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "366",
+        "account_id": "506161170713365",
+        "reach": "328",
+        "spend": "4.08",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "4208",
+        "account_id": "506161170713365",
+        "reach": "3601",
+        "spend": "49.42",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "381"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "381"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "363"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "16030",
+        "account_id": "506161170713365",
+        "reach": "11625",
+        "spend": "206.95",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "59"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "59"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "53"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "7913",
+        "account_id": "506161170713365",
+        "reach": "6662",
+        "spend": "81.49",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "352",
+        "account_id": "506161170713365",
+        "reach": "310",
+        "spend": "4.01",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "4321",
+        "account_id": "506161170713365",
+        "reach": "3745",
+        "spend": "46.25",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "413"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "413"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "392"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "18204",
+        "account_id": "506161170713365",
+        "reach": "12730",
+        "spend": "226.68",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "56"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "51"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "7181",
+        "account_id": "506161170713365",
+        "reach": "6199",
+        "spend": "72.25",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "479",
+        "account_id": "506161170713365",
+        "reach": "425",
+        "spend": "8.81",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "3993",
+        "account_id": "506161170713365",
+        "reach": "3350",
+        "spend": "41.43",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "387"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "387"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "366"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "18727",
+        "account_id": "506161170713365",
+        "reach": "13197",
+        "spend": "233.29",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "85"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "79"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "8946",
+        "account_id": "506161170713365",
+        "reach": "7657",
+        "spend": "89.38",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "406",
+        "account_id": "506161170713365",
+        "reach": "363",
+        "spend": "5.59",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "4866",
+        "account_id": "506161170713365",
+        "reach": "4211",
+        "spend": "47.74",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "441"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "440"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "416"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "19183",
+        "account_id": "506161170713365",
+        "reach": "14065",
+        "spend": "224.65",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "58"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "948",
+        "account_id": "506161170713365",
+        "reach": "904",
+        "spend": "10.76",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "12505",
+        "account_id": "506161170713365",
+        "reach": "10787",
+        "spend": "122.81",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "366",
+        "account_id": "506161170713365",
+        "reach": "314",
+        "spend": "6.21",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "7303",
+        "account_id": "506161170713365",
+        "reach": "6151",
+        "spend": "74.13",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "707"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "707"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "677"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "7242",
+        "account_id": "506161170713365",
+        "reach": "6280",
+        "spend": "76.71",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "9851",
+        "account_id": "506161170713365",
+        "reach": "7168",
+        "spend": "125.49",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "39"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "13150",
+        "account_id": "506161170713365",
+        "reach": "11834",
+        "spend": "124.03",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "5"
+            },
+            {
+                "action_type": "lead",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "53"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "350",
+        "account_id": "506161170713365",
+        "reach": "302",
+        "spend": "6.19",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "4321",
+        "account_id": "506161170713365",
+        "reach": "3751",
+        "spend": "48.14",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "402"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "401"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "385"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "3669",
+        "account_id": "506161170713365",
+        "reach": "3264",
+        "spend": "31.6",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "12983",
+        "account_id": "506161170713365",
+        "reach": "9345",
+        "spend": "147.84",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "37"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "16174",
+        "account_id": "506161170713365",
+        "reach": "13181",
+        "spend": "141.54",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "59"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "1109",
+        "account_id": "506161170713365",
+        "reach": "896",
+        "spend": "22.97",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "5950",
+        "account_id": "506161170713365",
+        "reach": "4764",
+        "spend": "80.46",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "577"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "577"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "546"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "6267",
+        "account_id": "506161170713365",
+        "reach": "5389",
+        "spend": "68.53",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "9992",
+        "account_id": "506161170713365",
+        "reach": "7606",
+        "spend": "139.82",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "44"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "8727",
+        "account_id": "506161170713365",
+        "reach": "8040",
+        "spend": "92.53",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "660",
+        "account_id": "506161170713365",
+        "reach": "571",
+        "spend": "11.44",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "5246",
+        "account_id": "506161170713365",
+        "reach": "4173",
+        "spend": "78.02",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "478"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "478"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "450"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "9678",
+        "account_id": "506161170713365",
+        "reach": "8036",
+        "spend": "99.76",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "7709",
+        "account_id": "506161170713365",
+        "reach": "6370",
+        "spend": "103.76",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "36"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "9951",
+        "account_id": "506161170713365",
+        "reach": "8809",
+        "spend": "103.88",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "36"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "511",
+        "account_id": "506161170713365",
+        "reach": "453",
+        "spend": "12.87",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "5090",
+        "account_id": "506161170713365",
+        "reach": "4120",
+        "spend": "77.04",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "467"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "466"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "440"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "6654",
+        "account_id": "506161170713365",
+        "reach": "5501",
+        "spend": "71.97",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "9293",
+        "account_id": "506161170713365",
+        "reach": "7496",
+        "spend": "132.46",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "13594",
+        "account_id": "506161170713365",
+        "reach": "11724",
+        "spend": "136.26",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "1091",
+        "account_id": "506161170713365",
+        "reach": "948",
+        "spend": "18.09",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "4488",
+        "account_id": "506161170713365",
+        "reach": "3708",
+        "spend": "52.49",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "426"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "426"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "402"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "5233",
+        "account_id": "506161170713365",
+        "reach": "4596",
+        "spend": "57.8",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "11226",
+        "account_id": "506161170713365",
+        "reach": "8580",
+        "spend": "131.77",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "45"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "11146",
+        "account_id": "506161170713365",
+        "reach": "9925",
+        "spend": "101.94",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "43"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "636",
+        "account_id": "506161170713365",
+        "reach": "537",
+        "spend": "13.93",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "4926",
+        "account_id": "506161170713365",
+        "reach": "3913",
+        "spend": "74.22",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "467"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "467"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "443"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "4212",
+        "account_id": "506161170713365",
+        "reach": "3770",
+        "spend": "50.6",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "11227",
+        "account_id": "506161170713365",
+        "reach": "8585",
+        "spend": "158.42",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "49"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "10500",
+        "account_id": "506161170713365",
+        "reach": "9097",
+        "spend": "110.17",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "38"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "492",
+        "account_id": "506161170713365",
+        "reach": "409",
+        "spend": "8.99",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "5652",
+        "account_id": "506161170713365",
+        "reach": "4332",
+        "spend": "86.5",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "424"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "424"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "399"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "3904",
+        "account_id": "506161170713365",
+        "reach": "3386",
+        "spend": "40.26",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "11304",
+        "account_id": "506161170713365",
+        "reach": "8644",
+        "spend": "163.67",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "9"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "45"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "221",
+        "account_id": "506161170713365",
+        "reach": "218",
+        "spend": "1.96",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218062881140078",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "10",
+        "account_id": "506161170713365",
+        "reach": "10",
+        "spend": "0.09",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599002970078",
+        "ad_name": "Criativo_03",
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "156",
+        "account_id": "506161170713365",
+        "reach": "148",
+        "spend": "3.18",
+        "adset_id": "120218062881150078",
+        "adset_name": "MêsDoConsumidor_01_31_03",
+        "ad_id": "120218599152480078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "83",
+        "account_id": "506161170713365",
+        "reach": "82",
+        "spend": "0.77",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120218798584640078",
+        "ad_name": "Criativo_01",
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "327",
+        "account_id": "506161170713365",
+        "reach": "307",
+        "spend": "4.72",
+        "adset_id": "120218798584600078",
+        "adset_name": "Transferência_14_31_03",
+        "ad_id": "120219100941980078",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    }
+]

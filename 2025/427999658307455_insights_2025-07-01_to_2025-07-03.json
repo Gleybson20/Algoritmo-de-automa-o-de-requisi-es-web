@@ -1,0 +1,376 @@
+[
+    {
+        "impressions": "232",
+        "account_id": "427999658307455",
+        "reach": "197",
+        "spend": "0.8",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120226692767120565",
+        "ad_name": "[AD02] Biomedicina",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "6843",
+        "account_id": "427999658307455",
+        "reach": "5882",
+        "spend": "61.14",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120227073452550565",
+        "ad_name": "[AD06] Vídeo TO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "817"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "817"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "779"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "423",
+        "account_id": "427999658307455",
+        "reach": "388",
+        "spend": "4.7",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120227073486160565",
+        "ad_name": "[AD07] Vídeo Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "92"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "92"
+            },
+            {
+                "action_type": "video_view",
+                "value": "89"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "347",
+        "account_id": "427999658307455",
+        "reach": "275",
+        "spend": "2.63",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120228659837520565",
+        "ad_name": "[AD08] IA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "108",
+        "account_id": "427999658307455",
+        "reach": "79",
+        "spend": "1.13",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120226692767120565",
+        "ad_name": "[AD02] Biomedicina",
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "4895",
+        "account_id": "427999658307455",
+        "reach": "4010",
+        "spend": "56.46",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120227073452550565",
+        "ad_name": "[AD06] Vídeo TO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "660"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "660"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "627"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "161",
+        "account_id": "427999658307455",
+        "reach": "143",
+        "spend": "3.06",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120227073486160565",
+        "ad_name": "[AD07] Vídeo Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "video_view",
+                "value": "38"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "183",
+        "account_id": "427999658307455",
+        "reach": "156",
+        "spend": "1.52",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120228659837520565",
+        "ad_name": "[AD08] IA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "25",
+        "account_id": "427999658307455",
+        "reach": "23",
+        "spend": "0.1",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120226692767120565",
+        "ad_name": "[AD02] Biomedicina",
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "2901",
+        "account_id": "427999658307455",
+        "reach": "2516",
+        "spend": "41.73",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120227073452550565",
+        "ad_name": "[AD06] Vídeo TO",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "427"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "427"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "415"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "24",
+        "account_id": "427999658307455",
+        "reach": "23",
+        "spend": "0.42",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120227073486160565",
+        "ad_name": "[AD07] Vídeo Fono",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "27",
+        "account_id": "427999658307455",
+        "reach": "27",
+        "spend": "0.46",
+        "adset_id": "120226621061810565",
+        "adset_name": "[CJ01][Advantage][Geral]",
+        "ad_id": "120228659837520565",
+        "ad_name": "[AD08] IA",
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    }
+]

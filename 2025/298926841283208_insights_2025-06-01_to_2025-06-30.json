@@ -1,0 +1,3466 @@
+[
+    {
+        "impressions": "578",
+        "account_id": "298926841283208",
+        "reach": "449",
+        "spend": "6.09",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "date_start": "2025-06-01",
+        "date_stop": "2025-06-01"
+    },
+    {
+        "impressions": "163",
+        "account_id": "298926841283208",
+        "reach": "151",
+        "spend": "1.57",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "video_view",
+                "value": "52"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-01",
+        "date_stop": "2025-06-01"
+    },
+    {
+        "impressions": "10",
+        "account_id": "298926841283208",
+        "reach": "8",
+        "spend": "0.08",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678200695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-06-01",
+        "date_stop": "2025-06-01"
+    },
+    {
+        "impressions": "152",
+        "account_id": "298926841283208",
+        "reach": "135",
+        "spend": "1.22",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "date_start": "2025-06-01",
+        "date_stop": "2025-06-01"
+    },
+    {
+        "impressions": "2781",
+        "account_id": "298926841283208",
+        "reach": "1799",
+        "spend": "32.86",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "400",
+        "account_id": "298926841283208",
+        "reach": "286",
+        "spend": "5.69",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "72"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "72"
+            },
+            {
+                "action_type": "video_view",
+                "value": "69"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "18",
+        "account_id": "298926841283208",
+        "reach": "14",
+        "spend": "0.12",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "2198",
+        "account_id": "298926841283208",
+        "reach": "1507",
+        "spend": "35.93",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "6",
+        "account_id": "298926841283208",
+        "reach": "5",
+        "spend": "0.07",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "1",
+        "account_id": "298926841283208",
+        "reach": "1",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678200695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "99",
+        "account_id": "298926841283208",
+        "reach": "89",
+        "spend": "1.29",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "1521",
+        "account_id": "298926841283208",
+        "reach": "987",
+        "spend": "21.21",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "3",
+        "account_id": "298926841283208",
+        "reach": "3",
+        "spend": "0.04",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "7",
+        "account_id": "298926841283208",
+        "reach": "7",
+        "spend": "0.03",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "22",
+        "account_id": "298926841283208",
+        "reach": "18",
+        "spend": "0.23",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "1542",
+        "account_id": "298926841283208",
+        "reach": "1211",
+        "spend": "20.3",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "388"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "388"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "372"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "214",
+        "account_id": "298926841283208",
+        "reach": "172",
+        "spend": "3.08",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678200695",
+        "ad_name": "[AD01] Geral",
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "11",
+        "account_id": "298926841283208",
+        "reach": "11",
+        "spend": "0.12",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "185",
+        "account_id": "298926841283208",
+        "reach": "135",
+        "spend": "3.73",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224443143080695",
+        "ad_name": "[AD02] Vïdeo Med Vet",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "video_view",
+                "value": "38"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "5",
+        "account_id": "298926841283208",
+        "reach": "5",
+        "spend": "0.02",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "1081",
+        "account_id": "298926841283208",
+        "reach": "905",
+        "spend": "15.97",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "245"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "245"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "238"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "931",
+        "account_id": "298926841283208",
+        "reach": "740",
+        "spend": "12.66",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "80",
+        "account_id": "298926841283208",
+        "reach": "67",
+        "spend": "2.07",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224443143080695",
+        "ad_name": "[AD02] Vïdeo Med Vet",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "video_view",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "8",
+        "account_id": "298926841283208",
+        "reach": "8",
+        "spend": "0.07",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "238",
+        "account_id": "298926841283208",
+        "reach": "210",
+        "spend": "3.23",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "69"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "69"
+            },
+            {
+                "action_type": "video_view",
+                "value": "67"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "2078",
+        "account_id": "298926841283208",
+        "reach": "1617",
+        "spend": "25.96",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "3433",
+        "account_id": "298926841283208",
+        "reach": "2739",
+        "spend": "25.01",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "150",
+        "account_id": "298926841283208",
+        "reach": "133",
+        "spend": "1.45",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "8",
+        "account_id": "298926841283208",
+        "reach": "7",
+        "spend": "0.07",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224443143080695",
+        "ad_name": "[AD02] Vïdeo Med Vet",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "709",
+        "account_id": "298926841283208",
+        "reach": "613",
+        "spend": "7.48",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "140"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "140"
+            },
+            {
+                "action_type": "video_view",
+                "value": "134"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "2201",
+        "account_id": "298926841283208",
+        "reach": "1716",
+        "spend": "24.67",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "17"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-09",
+        "date_stop": "2025-06-09"
+    },
+    {
+        "impressions": "64",
+        "account_id": "298926841283208",
+        "reach": "51",
+        "spend": "0.65",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-06-09",
+        "date_stop": "2025-06-09"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-09",
+        "date_stop": "2025-06-09"
+    },
+    {
+        "impressions": "744",
+        "account_id": "298926841283208",
+        "reach": "653",
+        "spend": "9.88",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "183"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "183"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "178"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-09",
+        "date_stop": "2025-06-09"
+    },
+    {
+        "impressions": "1486",
+        "account_id": "298926841283208",
+        "reach": "1198",
+        "spend": "20.18",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-10",
+        "date_stop": "2025-06-10"
+    },
+    {
+        "impressions": "215",
+        "account_id": "298926841283208",
+        "reach": "170",
+        "spend": "4.3",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "video_view",
+                "value": "43"
+            }
+        ],
+        "date_start": "2025-06-10",
+        "date_stop": "2025-06-10"
+    },
+    {
+        "impressions": "418",
+        "account_id": "298926841283208",
+        "reach": "353",
+        "spend": "8.67",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "95"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "95"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "89"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-10",
+        "date_stop": "2025-06-10"
+    },
+    {
+        "impressions": "164",
+        "account_id": "298926841283208",
+        "reach": "139",
+        "spend": "2.81",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-11",
+        "date_stop": "2025-06-11"
+    },
+    {
+        "impressions": "9",
+        "account_id": "298926841283208",
+        "reach": "8",
+        "spend": "0.23",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-11",
+        "date_stop": "2025-06-11"
+    },
+    {
+        "impressions": "1519",
+        "account_id": "298926841283208",
+        "reach": "1294",
+        "spend": "21.31",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "269"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "269"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "253"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-06-11",
+        "date_stop": "2025-06-11"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-12",
+        "date_stop": "2025-06-12"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-12",
+        "date_stop": "2025-06-12"
+    },
+    {
+        "impressions": "2661",
+        "account_id": "298926841283208",
+        "reach": "2104",
+        "spend": "26.06",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "414"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "414"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "382"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-06-12",
+        "date_stop": "2025-06-12"
+    },
+    {
+        "impressions": "464",
+        "account_id": "298926841283208",
+        "reach": "393",
+        "spend": "4.81",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-13",
+        "date_stop": "2025-06-13"
+    },
+    {
+        "impressions": "2225",
+        "account_id": "298926841283208",
+        "reach": "1870",
+        "spend": "25.54",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "364"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "364"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "337"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-06-13",
+        "date_stop": "2025-06-13"
+    },
+    {
+        "impressions": "1811",
+        "account_id": "298926841283208",
+        "reach": "1345",
+        "spend": "33.48",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-14",
+        "date_stop": "2025-06-14"
+    },
+    {
+        "impressions": "2365",
+        "account_id": "298926841283208",
+        "reach": "1688",
+        "spend": "21.74",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "18"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-14",
+        "date_stop": "2025-06-14"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "1134",
+        "account_id": "298926841283208",
+        "reach": "762",
+        "spend": "14.93",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "985",
+        "account_id": "298926841283208",
+        "reach": "773",
+        "spend": "11.99",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "171"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "171"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "164"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "2925",
+        "account_id": "298926841283208",
+        "reach": "1794",
+        "spend": "28.92",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "41"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "2373",
+        "account_id": "298926841283208",
+        "reach": "1659",
+        "spend": "41.57",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-16",
+        "date_stop": "2025-06-16"
+    },
+    {
+        "impressions": "91",
+        "account_id": "298926841283208",
+        "reach": "81",
+        "spend": "1.91",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-16",
+        "date_stop": "2025-06-16"
+    },
+    {
+        "impressions": "4357",
+        "account_id": "298926841283208",
+        "reach": "2634",
+        "spend": "41.04",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "118"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "118"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "71"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "23"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-06-16",
+        "date_stop": "2025-06-16"
+    },
+    {
+        "impressions": "788",
+        "account_id": "298926841283208",
+        "reach": "585",
+        "spend": "18.93",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-17",
+        "date_stop": "2025-06-17"
+    },
+    {
+        "impressions": "759",
+        "account_id": "298926841283208",
+        "reach": "643",
+        "spend": "13.11",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "179"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "178"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "166"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-17",
+        "date_stop": "2025-06-17"
+    },
+    {
+        "impressions": "2720",
+        "account_id": "298926841283208",
+        "reach": "1586",
+        "spend": "31.63",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "33"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-06-17",
+        "date_stop": "2025-06-17"
+    },
+    {
+        "impressions": "1000",
+        "account_id": "298926841283208",
+        "reach": "737",
+        "spend": "17.6",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-06-18",
+        "date_stop": "2025-06-18"
+    },
+    {
+        "impressions": "378",
+        "account_id": "298926841283208",
+        "reach": "323",
+        "spend": "5.7",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "64"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "64"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "58"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-18",
+        "date_stop": "2025-06-18"
+    },
+    {
+        "impressions": "2178",
+        "account_id": "298926841283208",
+        "reach": "1388",
+        "spend": "23.53",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "83"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "59"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-06-18",
+        "date_stop": "2025-06-18"
+    },
+    {
+        "impressions": "47",
+        "account_id": "298926841283208",
+        "reach": "44",
+        "spend": "0.42",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "date_start": "2025-06-19",
+        "date_stop": "2025-06-19"
+    },
+    {
+        "impressions": "2094",
+        "account_id": "298926841283208",
+        "reach": "1526",
+        "spend": "24.3",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-06-19",
+        "date_stop": "2025-06-19"
+    },
+    {
+        "impressions": "2784",
+        "account_id": "298926841283208",
+        "reach": "2046",
+        "spend": "29.41",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "113"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "113"
+            },
+            {
+                "action_type": "video_view",
+                "value": "96"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-06-19",
+        "date_stop": "2025-06-19"
+    },
+    {
+        "impressions": "1505",
+        "account_id": "298926841283208",
+        "reach": "1038",
+        "spend": "16.65",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "1651",
+        "account_id": "298926841283208",
+        "reach": "1328",
+        "spend": "20.01",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "450"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "450"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "438"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "2431",
+        "account_id": "298926841283208",
+        "reach": "1695",
+        "spend": "32.78",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "18"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "20"
+            },
+            {
+                "action_type": "video_view",
+                "value": "36"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "1499",
+        "account_id": "298926841283208",
+        "reach": "1200",
+        "spend": "20.13",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "320"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "320"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "307"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-06-21",
+        "date_stop": "2025-06-21"
+    },
+    {
+        "impressions": "612",
+        "account_id": "298926841283208",
+        "reach": "534",
+        "spend": "8.57",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "123"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "123"
+            },
+            {
+                "action_type": "video_view",
+                "value": "114"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-06-21",
+        "date_stop": "2025-06-21"
+    },
+    {
+        "impressions": "2593",
+        "account_id": "298926841283208",
+        "reach": "1811",
+        "spend": "29.24",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "140"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "140"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "124"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-21",
+        "date_stop": "2025-06-21"
+    },
+    {
+        "impressions": "1152",
+        "account_id": "298926841283208",
+        "reach": "969",
+        "spend": "11.11",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "221"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "221"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "219"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-22",
+        "date_stop": "2025-06-22"
+    },
+    {
+        "impressions": "1249",
+        "account_id": "298926841283208",
+        "reach": "1078",
+        "spend": "15.46",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "294"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "294"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "283"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-06-22",
+        "date_stop": "2025-06-22"
+    },
+    {
+        "impressions": "2586",
+        "account_id": "298926841283208",
+        "reach": "1925",
+        "spend": "30.38",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "126"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "126"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "109"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-06-22",
+        "date_stop": "2025-06-22"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-23",
+        "date_stop": "2025-06-23"
+    },
+    {
+        "impressions": "638",
+        "account_id": "298926841283208",
+        "reach": "516",
+        "spend": "13.35",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-23",
+        "date_stop": "2025-06-23"
+    },
+    {
+        "impressions": "1293",
+        "account_id": "298926841283208",
+        "reach": "1060",
+        "spend": "23.72",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "287"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "287"
+            },
+            {
+                "action_type": "video_view",
+                "value": "275"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-23",
+        "date_stop": "2025-06-23"
+    },
+    {
+        "impressions": "2268",
+        "account_id": "298926841283208",
+        "reach": "1545",
+        "spend": "35.86",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "98"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "98"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "80"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-23",
+        "date_stop": "2025-06-23"
+    },
+    {
+        "impressions": "641",
+        "account_id": "298926841283208",
+        "reach": "500",
+        "spend": "7.12",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "1269",
+        "account_id": "298926841283208",
+        "reach": "942",
+        "spend": "26.4",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "3350",
+        "account_id": "298926841283208",
+        "reach": "2294",
+        "spend": "35.2",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "13"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "123"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "123"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "102"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "383",
+        "account_id": "298926841283208",
+        "reach": "294",
+        "spend": "5.44",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678170695",
+        "ad_name": "[AD05] MedVet",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-06-25",
+        "date_stop": "2025-06-25"
+    },
+    {
+        "impressions": "16",
+        "account_id": "298926841283208",
+        "reach": "15",
+        "spend": "0.27",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-25",
+        "date_stop": "2025-06-25"
+    },
+    {
+        "impressions": "1956",
+        "account_id": "298926841283208",
+        "reach": "1461",
+        "spend": "28.78",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-25",
+        "date_stop": "2025-06-25"
+    },
+    {
+        "impressions": "215",
+        "account_id": "298926841283208",
+        "reach": "205",
+        "spend": "2.17",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-25",
+        "date_stop": "2025-06-25"
+    },
+    {
+        "impressions": "783",
+        "account_id": "298926841283208",
+        "reach": "654",
+        "spend": "12.24",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "221"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "221"
+            },
+            {
+                "action_type": "video_view",
+                "value": "214"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-26",
+        "date_stop": "2025-06-26"
+    },
+    {
+        "impressions": "449",
+        "account_id": "298926841283208",
+        "reach": "365",
+        "spend": "8.35",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-26",
+        "date_stop": "2025-06-26"
+    },
+    {
+        "impressions": "351",
+        "account_id": "298926841283208",
+        "reach": "307",
+        "spend": "5.66",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "92"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "92"
+            },
+            {
+                "action_type": "video_view",
+                "value": "87"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-26",
+        "date_stop": "2025-06-26"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112678190695",
+        "ad_name": "[AD03] Vïdeo Fisio",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-27",
+        "date_stop": "2025-06-27"
+    },
+    {
+        "impressions": "134",
+        "account_id": "298926841283208",
+        "reach": "124",
+        "spend": "2.27",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-27",
+        "date_stop": "2025-06-27"
+    },
+    {
+        "impressions": "1622",
+        "account_id": "298926841283208",
+        "reach": "1312",
+        "spend": "27.26",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "390"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "390"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "373"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-27",
+        "date_stop": "2025-06-27"
+    },
+    {
+        "impressions": "0",
+        "account_id": "298926841283208",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120225302022420695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120225302022470695",
+        "ad_name": "[AD01] Vestibular Junino",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-27",
+        "date_stop": "2025-06-27"
+    },
+    {
+        "impressions": "1854",
+        "account_id": "298926841283208",
+        "reach": "1498",
+        "spend": "28.61",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "411"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "411"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "394"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-06-28",
+        "date_stop": "2025-06-28"
+    },
+    {
+        "impressions": "2707",
+        "account_id": "298926841283208",
+        "reach": "2305",
+        "spend": "27.35",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "565"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "565"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "544"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-06-29",
+        "date_stop": "2025-06-29"
+    },
+    {
+        "impressions": "332",
+        "account_id": "298926841283208",
+        "reach": "284",
+        "spend": "2.9",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120226568279270695",
+        "ad_name": "[AD08] IA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-29",
+        "date_stop": "2025-06-29"
+    },
+    {
+        "impressions": "101",
+        "account_id": "298926841283208",
+        "reach": "96",
+        "spend": "1.46",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224112757660695",
+        "ad_name": "[AD06] Multicursos",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-30",
+        "date_stop": "2025-06-30"
+    },
+    {
+        "impressions": "239",
+        "account_id": "298926841283208",
+        "reach": "223",
+        "spend": "2.68",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120224673096630695",
+        "ad_name": "[AD07] Vïdeo Estrutura",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "60"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-30",
+        "date_stop": "2025-06-30"
+    },
+    {
+        "impressions": "2520",
+        "account_id": "298926841283208",
+        "reach": "1578",
+        "spend": "33.06",
+        "adset_id": "120224112678150695",
+        "adset_name": "[CJ01][Advantage][Presencial][Geral]",
+        "ad_id": "120226568279270695",
+        "ad_name": "[AD08] IA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-30",
+        "date_stop": "2025-06-30"
+    }
+]

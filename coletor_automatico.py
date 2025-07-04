@@ -5,7 +5,7 @@ import urllib.parse
 from datetime import datetime, timedelta
 import os
  
-def fetch_insights_range(account_id, access_token, start_date_str, end_date_str, pasta_saida="Repositorio"):
+def fetch_insights_range(account_id, access_token, start_date_str, end_date_str, pasta_saida="2025"):
     start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
     end_date = datetime.strptime(end_date_str, "%Y-%m-%d")
 
@@ -71,7 +71,7 @@ def fetch_insights_range(account_id, access_token, start_date_str, end_date_str,
         start_date = end_of_month + timedelta(days=1)
 
 if __name__ == "__main__":
-    ACCESS_TOKEN = "EAANWRqx9Ex8BOZCOOKZAWCZA7v61ar7kjek9iR6Mc4EGo1h2aKnARpaygdJq2AvL0SZCRVYPHizovsOF1JWYwK0ZCxKe2h23dEZBpXuUoPzeVniQWaFnop7Y9QYkCNRjEyJoV9GGDdYxWnwMkBiVwmOiYV9Emlk1belGhfYB8W8s4eOe4lklNlqxPQa5iax71hicEk3weX"
+    ACCESS_TOKEN = "EAAWU1dRzrNUBPKR3gVZAMuyqHV9FGBydfN9T5HtqQfT0eyZA6copIdRQVJ4tOaULT12hVByLN0bSmoWyqUiqnFvryMnmnTsz8gRZAX3YN6M5ZCuPEolRHPj00saBWSoH8Sw10hbIw4MU2GzdzZB1gSy6zKYz83ZBy0wDdCPMbmhTX0qc3ZBZBvgFvkyzGK4A5UufXZAQhye1n"
 
     # Lista completa de contas de anúncios
     lista_de_contas = [
@@ -94,8 +94,8 @@ if __name__ == "__main__":
     ]
 
     # Define o intervalo desejado
-    DATA_INICIO = "2025-05-12"
-    DATA_FIM = "2025-05-16"
+    DATA_INICIO = "2025-01-01"
+    DATA_FIM = "2025-07-03"
 
     for account_id in lista_de_contas:
         print(f"\n🟦 Iniciando coleta para conta: {account_id}")

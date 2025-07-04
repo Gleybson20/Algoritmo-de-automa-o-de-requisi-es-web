@@ -1,0 +1,2882 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "300036158051894",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216015036780443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120216015569730443",
+        "ad_name": "Graduação",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_app_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_app_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "omni_purchase",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "300036158051894",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217250256650443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120217250256670443",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "14533",
+        "account_id": "300036158051894",
+        "reach": "9029",
+        "spend": "76.77",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-03-01",
+        "date_stop": "2025-03-01"
+    },
+    {
+        "impressions": "22280",
+        "account_id": "300036158051894",
+        "reach": "10046",
+        "spend": "121.76",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "78"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "78"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "21"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "41"
+            }
+        ],
+        "date_start": "2025-03-02",
+        "date_stop": "2025-03-02"
+    },
+    {
+        "impressions": "16346",
+        "account_id": "300036158051894",
+        "reach": "7571",
+        "spend": "101.76",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "video_view",
+                "value": "13"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-03-03",
+        "date_stop": "2025-03-03"
+    },
+    {
+        "impressions": "12556",
+        "account_id": "300036158051894",
+        "reach": "6082",
+        "spend": "88.24",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "49"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "49"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "34"
+            }
+        ],
+        "date_start": "2025-03-04",
+        "date_stop": "2025-03-04"
+    },
+    {
+        "impressions": "0",
+        "account_id": "300036158051894",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216015036780443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120216015316990443",
+        "ad_name": "Cursos Geral",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "0",
+        "account_id": "300036158051894",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120217250256650443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120217250256670443",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "17203",
+        "account_id": "300036158051894",
+        "reach": "7944",
+        "spend": "156.79",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "13"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "20"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "47"
+            }
+        ],
+        "date_start": "2025-03-05",
+        "date_stop": "2025-03-05"
+    },
+    {
+        "impressions": "14764",
+        "account_id": "300036158051894",
+        "reach": "8227",
+        "spend": "143.03",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "74"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "74"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "24"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "20"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-03-06",
+        "date_stop": "2025-03-06"
+    },
+    {
+        "impressions": "11665",
+        "account_id": "300036158051894",
+        "reach": "5428",
+        "spend": "119.08",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "20"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-03-07",
+        "date_stop": "2025-03-07"
+    },
+    {
+        "impressions": "17634",
+        "account_id": "300036158051894",
+        "reach": "12459",
+        "spend": "123.56",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "16"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "40"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-03-08",
+        "date_stop": "2025-03-08"
+    },
+    {
+        "impressions": "14775",
+        "account_id": "300036158051894",
+        "reach": "10162",
+        "spend": "84.48",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "19"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-03-09",
+        "date_stop": "2025-03-09"
+    },
+    {
+        "impressions": "21447",
+        "account_id": "300036158051894",
+        "reach": "13876",
+        "spend": "161.81",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "15"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "45"
+            }
+        ],
+        "date_start": "2025-03-10",
+        "date_stop": "2025-03-10"
+    },
+    {
+        "impressions": "16924",
+        "account_id": "300036158051894",
+        "reach": "11796",
+        "spend": "173.11",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_app_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_app_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "31"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "45"
+            },
+            {
+                "action_type": "omni_purchase",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-11",
+        "date_stop": "2025-03-11"
+    },
+    {
+        "impressions": "11933",
+        "account_id": "300036158051894",
+        "reach": "8704",
+        "spend": "104.19",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "21"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-03-12",
+        "date_stop": "2025-03-12"
+    },
+    {
+        "impressions": "11963",
+        "account_id": "300036158051894",
+        "reach": "8426",
+        "spend": "90.07",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_app_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "55"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "54"
+            },
+            {
+                "action_type": "onsite_web_app_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "21"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            },
+            {
+                "action_type": "omni_purchase",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-13",
+        "date_stop": "2025-03-13"
+    },
+    {
+        "impressions": "8540",
+        "account_id": "300036158051894",
+        "reach": "6285",
+        "spend": "72.85",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "1750",
+        "account_id": "300036158051894",
+        "reach": "1330",
+        "spend": "13.46",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "6411",
+        "account_id": "300036158051894",
+        "reach": "4744",
+        "spend": "46.82",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-03-14",
+        "date_stop": "2025-03-14"
+    },
+    {
+        "impressions": "0",
+        "account_id": "300036158051894",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "22432",
+        "account_id": "300036158051894",
+        "reach": "14115",
+        "spend": "160.18",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "12"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "45"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "14912",
+        "account_id": "300036158051894",
+        "reach": "10496",
+        "spend": "132.77",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "73"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "73"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "24"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-03-15",
+        "date_stop": "2025-03-15"
+    },
+    {
+        "impressions": "6514",
+        "account_id": "300036158051894",
+        "reach": "4946",
+        "spend": "65.43",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "6796",
+        "account_id": "300036158051894",
+        "reach": "5433",
+        "spend": "67.55",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "20"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-03-16",
+        "date_stop": "2025-03-16"
+    },
+    {
+        "impressions": "0",
+        "account_id": "300036158051894",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218216965740443",
+        "ad_name": "mês do consumidor",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "23865",
+        "account_id": "300036158051894",
+        "reach": "14717",
+        "spend": "194.2",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "43"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "24989",
+        "account_id": "300036158051894",
+        "reach": "15945",
+        "spend": "224.97",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "79"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "42"
+            }
+        ],
+        "date_start": "2025-03-17",
+        "date_stop": "2025-03-17"
+    },
+    {
+        "impressions": "15141",
+        "account_id": "300036158051894",
+        "reach": "10432",
+        "spend": "144.91",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "20423",
+        "account_id": "300036158051894",
+        "reach": "13514",
+        "spend": "171.31",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "30"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "44"
+            }
+        ],
+        "date_start": "2025-03-18",
+        "date_stop": "2025-03-18"
+    },
+    {
+        "impressions": "6591",
+        "account_id": "300036158051894",
+        "reach": "5370",
+        "spend": "67.32",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "8389",
+        "account_id": "300036158051894",
+        "reach": "6737",
+        "spend": "92.09",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "54"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "54"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-03-19",
+        "date_stop": "2025-03-19"
+    },
+    {
+        "impressions": "11998",
+        "account_id": "300036158051894",
+        "reach": "8430",
+        "spend": "111.12",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "31"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "8666",
+        "account_id": "300036158051894",
+        "reach": "6443",
+        "spend": "114.02",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-03-20",
+        "date_stop": "2025-03-20"
+    },
+    {
+        "impressions": "14535",
+        "account_id": "300036158051894",
+        "reach": "9475",
+        "spend": "137.03",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "11503",
+        "account_id": "300036158051894",
+        "reach": "9300",
+        "spend": "152.85",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "29"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "34"
+            }
+        ],
+        "date_start": "2025-03-21",
+        "date_stop": "2025-03-21"
+    },
+    {
+        "impressions": "15557",
+        "account_id": "300036158051894",
+        "reach": "11331",
+        "spend": "114.33",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "39"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "10436",
+        "account_id": "300036158051894",
+        "reach": "8781",
+        "spend": "136.64",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "78"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "78"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "35"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-03-22",
+        "date_stop": "2025-03-22"
+    },
+    {
+        "impressions": "5372",
+        "account_id": "300036158051894",
+        "reach": "4157",
+        "spend": "41.77",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "3230",
+        "account_id": "300036158051894",
+        "reach": "2648",
+        "spend": "45.51",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-03-23",
+        "date_stop": "2025-03-23"
+    },
+    {
+        "impressions": "18296",
+        "account_id": "300036158051894",
+        "reach": "12627",
+        "spend": "162.19",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "50"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "34"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "16266",
+        "account_id": "300036158051894",
+        "reach": "11596",
+        "spend": "201.06",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "74"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "74"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "23"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "39"
+            }
+        ],
+        "date_start": "2025-03-24",
+        "date_stop": "2025-03-24"
+    },
+    {
+        "impressions": "26368",
+        "account_id": "300036158051894",
+        "reach": "17113",
+        "spend": "212.14",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "81"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "69"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "20012",
+        "account_id": "300036158051894",
+        "reach": "15610",
+        "spend": "243.83",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "34"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "29"
+            },
+            {
+                "action_type": "link_click",
+                "value": "51"
+            }
+        ],
+        "date_start": "2025-03-25",
+        "date_stop": "2025-03-25"
+    },
+    {
+        "impressions": "13504",
+        "account_id": "300036158051894",
+        "reach": "8796",
+        "spend": "118.17",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "37"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "10324",
+        "account_id": "300036158051894",
+        "reach": "8053",
+        "spend": "132.02",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "53"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-03-26",
+        "date_stop": "2025-03-26"
+    },
+    {
+        "impressions": "10236",
+        "account_id": "300036158051894",
+        "reach": "7159",
+        "spend": "86.23",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "7931",
+        "account_id": "300036158051894",
+        "reach": "6356",
+        "spend": "91.78",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "20"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-03-27",
+        "date_stop": "2025-03-27"
+    },
+    {
+        "impressions": "16390",
+        "account_id": "300036158051894",
+        "reach": "10627",
+        "spend": "115.14",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "69"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "69"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "62"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "12738",
+        "account_id": "300036158051894",
+        "reach": "9593",
+        "spend": "130.77",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "68"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "68"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "38"
+            }
+        ],
+        "date_start": "2025-03-28",
+        "date_stop": "2025-03-28"
+    },
+    {
+        "impressions": "17563",
+        "account_id": "300036158051894",
+        "reach": "12554",
+        "spend": "116.01",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "51"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "16346",
+        "account_id": "300036158051894",
+        "reach": "11830",
+        "spend": "133.39",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-03-29",
+        "date_stop": "2025-03-29"
+    },
+    {
+        "impressions": "12271",
+        "account_id": "300036158051894",
+        "reach": "9870",
+        "spend": "84.98",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "11848",
+        "account_id": "300036158051894",
+        "reach": "9584",
+        "spend": "94.46",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "37"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-03-30",
+        "date_stop": "2025-03-30"
+    },
+    {
+        "impressions": "14994",
+        "account_id": "300036158051894",
+        "reach": "9801",
+        "spend": "130.27",
+        "adset_id": "120218216965720443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992259620443",
+        "ad_name": "mês do consumidor — 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    },
+    {
+        "impressions": "13850",
+        "account_id": "300036158051894",
+        "reach": "9282",
+        "spend": "153.25",
+        "adset_id": "120218992319170443",
+        "adset_name": "Parnaiba+40km adv+",
+        "ad_id": "120218992319200443",
+        "ad_name": "Transferencia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_app_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "onsite_web_app_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_purchase",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            },
+            {
+                "action_type": "omni_purchase",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-03-31",
+        "date_stop": "2025-03-31"
+    }
+]

@@ -1,0 +1,4236 @@
+[
+    {
+        "impressions": "102",
+        "account_id": "652220095673691",
+        "reach": "80",
+        "spend": "1.04",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213724668840417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "145",
+        "account_id": "652220095673691",
+        "reach": "94",
+        "spend": "2.93",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213724971510417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612 — Cópia",
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "41",
+        "account_id": "652220095673691",
+        "reach": "25",
+        "spend": "0.55",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213783831120417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "66",
+        "account_id": "652220095673691",
+        "reach": "42",
+        "spend": "1.55",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213792062330417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "332",
+        "account_id": "652220095673691",
+        "reach": "270",
+        "spend": "4.61",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "58"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "53"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "89",
+        "account_id": "652220095673691",
+        "reach": "73",
+        "spend": "3.23",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891598350417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "video_view",
+                "value": "15"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "534",
+        "account_id": "652220095673691",
+        "reach": "478",
+        "spend": "8.36",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "99"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "99"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "94"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "390",
+        "account_id": "652220095673691",
+        "reach": "300",
+        "spend": "6.83",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "66"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "64",
+        "account_id": "652220095673691",
+        "reach": "55",
+        "spend": "0.71",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "4546",
+        "account_id": "652220095673691",
+        "reach": "3542",
+        "spend": "40.34",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "4619",
+        "account_id": "652220095673691",
+        "reach": "3918",
+        "spend": "35.52",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "12",
+        "account_id": "652220095673691",
+        "reach": "11",
+        "spend": "0.19",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213724971510417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612 — Cópia",
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "1",
+        "account_id": "652220095673691",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213792062330417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912 — Cópia",
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "666",
+        "account_id": "652220095673691",
+        "reach": "493",
+        "spend": "10.09",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "88"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "88"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "85"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "3",
+        "account_id": "652220095673691",
+        "reach": "3",
+        "spend": "0.02",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891598350417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "579",
+        "account_id": "652220095673691",
+        "reach": "504",
+        "spend": "10.25",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "108"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "344",
+        "account_id": "652220095673691",
+        "reach": "228",
+        "spend": "11.85",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "video_view",
+                "value": "51"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "2",
+        "account_id": "652220095673691",
+        "reach": "2",
+        "spend": "0.02",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "3635",
+        "account_id": "652220095673691",
+        "reach": "2579",
+        "spend": "35.09",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "4927",
+        "account_id": "652220095673691",
+        "reach": "4125",
+        "spend": "37.66",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "406",
+        "account_id": "652220095673691",
+        "reach": "262",
+        "spend": "8.95",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "39"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-05",
+        "date_stop": "2025-02-05"
+    },
+    {
+        "impressions": "399",
+        "account_id": "652220095673691",
+        "reach": "331",
+        "spend": "6.34",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "66"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "66"
+            },
+            {
+                "action_type": "video_view",
+                "value": "61"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-05",
+        "date_stop": "2025-02-05"
+    },
+    {
+        "impressions": "201",
+        "account_id": "652220095673691",
+        "reach": "136",
+        "spend": "5.46",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-05",
+        "date_stop": "2025-02-05"
+    },
+    {
+        "impressions": "2690",
+        "account_id": "652220095673691",
+        "reach": "1992",
+        "spend": "24.84",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-02-05",
+        "date_stop": "2025-02-05"
+    },
+    {
+        "impressions": "3502",
+        "account_id": "652220095673691",
+        "reach": "2892",
+        "spend": "26.1",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-05",
+        "date_stop": "2025-02-05"
+    },
+    {
+        "impressions": "1",
+        "account_id": "652220095673691",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213724668840417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612",
+        "date_start": "2025-02-06",
+        "date_stop": "2025-02-06"
+    },
+    {
+        "impressions": "753",
+        "account_id": "652220095673691",
+        "reach": "556",
+        "spend": "8.84",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "87"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-06",
+        "date_stop": "2025-02-06"
+    },
+    {
+        "impressions": "316",
+        "account_id": "652220095673691",
+        "reach": "290",
+        "spend": "5.45",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "66"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-06",
+        "date_stop": "2025-02-06"
+    },
+    {
+        "impressions": "132",
+        "account_id": "652220095673691",
+        "reach": "112",
+        "spend": "2.37",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-06",
+        "date_stop": "2025-02-06"
+    },
+    {
+        "impressions": "3017",
+        "account_id": "652220095673691",
+        "reach": "2261",
+        "spend": "25.38",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-06",
+        "date_stop": "2025-02-06"
+    },
+    {
+        "impressions": "2877",
+        "account_id": "652220095673691",
+        "reach": "2237",
+        "spend": "23.87",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-06",
+        "date_stop": "2025-02-06"
+    },
+    {
+        "impressions": "65",
+        "account_id": "652220095673691",
+        "reach": "46",
+        "spend": "2.88",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213724668840417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612",
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "178",
+        "account_id": "652220095673691",
+        "reach": "137",
+        "spend": "3.55",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213724971510417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "31",
+        "account_id": "652220095673691",
+        "reach": "27",
+        "spend": "0.52",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213783831120417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "28",
+        "account_id": "652220095673691",
+        "reach": "22",
+        "spend": "0.61",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213792062330417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "506",
+        "account_id": "652220095673691",
+        "reach": "400",
+        "spend": "7.21",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "70"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "96",
+        "account_id": "652220095673691",
+        "reach": "82",
+        "spend": "2.73",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891598350417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "263",
+        "account_id": "652220095673691",
+        "reach": "239",
+        "spend": "5.78",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "72"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "72"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "63"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "1",
+        "account_id": "652220095673691",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "77",
+        "account_id": "652220095673691",
+        "reach": "63",
+        "spend": "0.77",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "2491",
+        "account_id": "652220095673691",
+        "reach": "1946",
+        "spend": "28.27",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "2798",
+        "account_id": "652220095673691",
+        "reach": "2255",
+        "spend": "29.41",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "52",
+        "account_id": "652220095673691",
+        "reach": "35",
+        "spend": "2.17",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213724971510417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612 — Cópia",
+        "date_start": "2025-02-08",
+        "date_stop": "2025-02-08"
+    },
+    {
+        "impressions": "198",
+        "account_id": "652220095673691",
+        "reach": "134",
+        "spend": "4.56",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-08",
+        "date_stop": "2025-02-08"
+    },
+    {
+        "impressions": "2",
+        "account_id": "652220095673691",
+        "reach": "2",
+        "spend": "0.23",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891598350417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-08",
+        "date_stop": "2025-02-08"
+    },
+    {
+        "impressions": "238",
+        "account_id": "652220095673691",
+        "reach": "207",
+        "spend": "5.15",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "video_view",
+                "value": "42"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-08",
+        "date_stop": "2025-02-08"
+    },
+    {
+        "impressions": "1",
+        "account_id": "652220095673691",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "date_start": "2025-02-08",
+        "date_stop": "2025-02-08"
+    },
+    {
+        "impressions": "736",
+        "account_id": "652220095673691",
+        "reach": "515",
+        "spend": "15.06",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-08",
+        "date_stop": "2025-02-08"
+    },
+    {
+        "impressions": "798",
+        "account_id": "652220095673691",
+        "reach": "547",
+        "spend": "15.89",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-08",
+        "date_stop": "2025-02-08"
+    },
+    {
+        "impressions": "23",
+        "account_id": "652220095673691",
+        "reach": "20",
+        "spend": "0.12",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213724668840417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612",
+        "date_start": "2025-02-09",
+        "date_stop": "2025-02-09"
+    },
+    {
+        "impressions": "249",
+        "account_id": "652220095673691",
+        "reach": "197",
+        "spend": "3.94",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "video_view",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-02-09",
+        "date_stop": "2025-02-09"
+    },
+    {
+        "impressions": "375",
+        "account_id": "652220095673691",
+        "reach": "310",
+        "spend": "7.33",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "video_view",
+                "value": "82"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-09",
+        "date_stop": "2025-02-09"
+    },
+    {
+        "impressions": "116",
+        "account_id": "652220095673691",
+        "reach": "98",
+        "spend": "1.72",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "video_view",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-09",
+        "date_stop": "2025-02-09"
+    },
+    {
+        "impressions": "1",
+        "account_id": "652220095673691",
+        "reach": "1",
+        "spend": "0",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "date_start": "2025-02-09",
+        "date_stop": "2025-02-09"
+    },
+    {
+        "impressions": "1622",
+        "account_id": "652220095673691",
+        "reach": "1068",
+        "spend": "16.27",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-02-09",
+        "date_stop": "2025-02-09"
+    },
+    {
+        "impressions": "1390",
+        "account_id": "652220095673691",
+        "reach": "1053",
+        "spend": "15.02",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-09",
+        "date_stop": "2025-02-09"
+    },
+    {
+        "impressions": "103",
+        "account_id": "652220095673691",
+        "reach": "85",
+        "spend": "1.01",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213724668840417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "212",
+        "account_id": "652220095673691",
+        "reach": "169",
+        "spend": "2.06",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213724971510417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612 — Cópia",
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "1010",
+        "account_id": "652220095673691",
+        "reach": "714",
+        "spend": "15.11",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213783831120417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "video_view",
+                "value": "92"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "924",
+        "account_id": "652220095673691",
+        "reach": "716",
+        "spend": "8.96",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213792062330417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "60"
+            },
+            {
+                "action_type": "video_view",
+                "value": "58"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "54",
+        "account_id": "652220095673691",
+        "reach": "51",
+        "spend": "0.42",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "1817",
+        "account_id": "652220095673691",
+        "reach": "1526",
+        "spend": "28.98",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891598350417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "293"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "293"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "276"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "5692",
+        "account_id": "652220095673691",
+        "reach": "4653",
+        "spend": "91.2",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1006"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1006"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "935"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "43"
+            },
+            {
+                "action_type": "link_click",
+                "value": "22"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "209",
+        "account_id": "652220095673691",
+        "reach": "183",
+        "spend": "2.63",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "video_view",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "561",
+        "account_id": "652220095673691",
+        "reach": "479",
+        "spend": "7.2",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "video_view",
+                "value": "72"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "8243",
+        "account_id": "652220095673691",
+        "reach": "6945",
+        "spend": "21.6",
+        "adset_id": "120214541426550417",
+        "adset_name": "01 | ADV+ | 1001",
+        "ad_id": "120214541426560417",
+        "ad_name": "AD01 | \"LOCALIZAÇÃO\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "104"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "104"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "93"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "4462",
+        "account_id": "652220095673691",
+        "reach": "3014",
+        "spend": "47.91",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "3799",
+        "account_id": "652220095673691",
+        "reach": "3115",
+        "spend": "47.84",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "4459",
+        "account_id": "652220095673691",
+        "reach": "3907",
+        "spend": "56.47",
+        "adset_id": "120215591141040417",
+        "adset_name": "06 | ADV+ | DIREITO | 0102",
+        "ad_id": "120215591141030417",
+        "ad_name": "AD01 | DIREITO | 0102",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "902"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "902"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "3"
+            },
+            {
+                "action_type": "comment",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "824"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "38"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "4653",
+        "account_id": "652220095673691",
+        "reach": "3659",
+        "spend": "52.18",
+        "adset_id": "120215591183280417",
+        "adset_name": "07 | ADV+ | CIENCIA DA COMPUTACAO | 0102",
+        "ad_id": "120215591183270417",
+        "ad_name": "AD01 | CIENCIA DA COMPUTAÇÃO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "661"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "661"
+            },
+            {
+                "action_type": "post",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "628"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "5650",
+        "account_id": "652220095673691",
+        "reach": "4912",
+        "spend": "55.78",
+        "adset_id": "120215591239710417",
+        "adset_name": "08 | ADV+ | ODONTO | 0102",
+        "ad_id": "120215591239700417",
+        "ad_name": "AD01 | ODONTO | 0102",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "861"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "861"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "817"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "24"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "394",
+        "account_id": "652220095673691",
+        "reach": "280",
+        "spend": "4.12",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213724668840417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "2133",
+        "account_id": "652220095673691",
+        "reach": "1461",
+        "spend": "22.01",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213724971510417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "445",
+        "account_id": "652220095673691",
+        "reach": "320",
+        "spend": "5.46",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213783831120417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "video_view",
+                "value": "47"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "702",
+        "account_id": "652220095673691",
+        "reach": "518",
+        "spend": "8.34",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213792062330417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "95"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "4",
+        "account_id": "652220095673691",
+        "reach": "4",
+        "spend": "0.02",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "1067",
+        "account_id": "652220095673691",
+        "reach": "920",
+        "spend": "22.76",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891598350417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "184"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "184"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "172"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "2693",
+        "account_id": "652220095673691",
+        "reach": "2363",
+        "spend": "53.87",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "597"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "597"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "561"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "23"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "636",
+        "account_id": "652220095673691",
+        "reach": "529",
+        "spend": "10.93",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "114"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "114"
+            },
+            {
+                "action_type": "video_view",
+                "value": "108"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "1668",
+        "account_id": "652220095673691",
+        "reach": "1244",
+        "spend": "26.2",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "170"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "170"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "155"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "9858",
+        "account_id": "652220095673691",
+        "reach": "8690",
+        "spend": "26.72",
+        "adset_id": "120214541426550417",
+        "adset_name": "01 | ADV+ | 1001",
+        "ad_id": "120214541426560417",
+        "ad_name": "AD01 | \"LOCALIZAÇÃO\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "99"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "99"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "85"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "4001",
+        "account_id": "652220095673691",
+        "reach": "3070",
+        "spend": "56.78",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "3983",
+        "account_id": "652220095673691",
+        "reach": "3426",
+        "spend": "55.68",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "3985",
+        "account_id": "652220095673691",
+        "reach": "3646",
+        "spend": "48.24",
+        "adset_id": "120215591141040417",
+        "adset_name": "06 | ADV+ | DIREITO | 0102",
+        "ad_id": "120215591141030417",
+        "ad_name": "AD01 | DIREITO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "834"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "834"
+            },
+            {
+                "action_type": "post",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "777"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "36"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "3770",
+        "account_id": "652220095673691",
+        "reach": "3221",
+        "spend": "47.18",
+        "adset_id": "120215591183280417",
+        "adset_name": "07 | ADV+ | CIENCIA DA COMPUTACAO | 0102",
+        "ad_id": "120215591183270417",
+        "ad_name": "AD01 | CIENCIA DA COMPUTAÇÃO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "590"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "590"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "550"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "21"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "4202",
+        "account_id": "652220095673691",
+        "reach": "3645",
+        "spend": "48.04",
+        "adset_id": "120215591239710417",
+        "adset_name": "08 | ADV+ | ODONTO | 0102",
+        "ad_id": "120215591239700417",
+        "ad_name": "AD01 | ODONTO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "638"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "638"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "607"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "17"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "4",
+        "account_id": "652220095673691",
+        "reach": "4",
+        "spend": "0.02",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213724668840417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612",
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "1586",
+        "account_id": "652220095673691",
+        "reach": "1154",
+        "spend": "15.01",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213724971510417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "230",
+        "account_id": "652220095673691",
+        "reach": "147",
+        "spend": "3.66",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213783831120417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "video_view",
+                "value": "25"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "371",
+        "account_id": "652220095673691",
+        "reach": "263",
+        "spend": "5.13",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213792062330417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "video_view",
+                "value": "46"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "814",
+        "account_id": "652220095673691",
+        "reach": "614",
+        "spend": "11.72",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "video_view",
+                "value": "75"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "734",
+        "account_id": "652220095673691",
+        "reach": "647",
+        "spend": "11.1",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891598350417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "114"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "114"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "108"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "2585",
+        "account_id": "652220095673691",
+        "reach": "2209",
+        "spend": "51.5",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "545"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "545"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "492"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "28"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "583",
+        "account_id": "652220095673691",
+        "reach": "493",
+        "spend": "8.35",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "video_view",
+                "value": "91"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "1371",
+        "account_id": "652220095673691",
+        "reach": "1015",
+        "spend": "16.12",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "120"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "120"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "110"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "10569",
+        "account_id": "652220095673691",
+        "reach": "9574",
+        "spend": "26.61",
+        "adset_id": "120214541426550417",
+        "adset_name": "01 | ADV+ | 1001",
+        "ad_id": "120214541426560417",
+        "ad_name": "AD01 | \"LOCALIZAÇÃO\" | 1001",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "85"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "85"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "79"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "3963",
+        "account_id": "652220095673691",
+        "reach": "2937",
+        "spend": "44.76",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "4229",
+        "account_id": "652220095673691",
+        "reach": "3509",
+        "spend": "45.11",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "comment",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "2708",
+        "account_id": "652220095673691",
+        "reach": "2436",
+        "spend": "30.99",
+        "adset_id": "120215591141040417",
+        "adset_name": "06 | ADV+ | DIREITO | 0102",
+        "ad_id": "120215591141030417",
+        "ad_name": "AD01 | DIREITO | 0102",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "544"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "544"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "512"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "3550",
+        "account_id": "652220095673691",
+        "reach": "2780",
+        "spend": "41.22",
+        "adset_id": "120215591183280417",
+        "adset_name": "07 | ADV+ | CIENCIA DA COMPUTACAO | 0102",
+        "ad_id": "120215591183270417",
+        "ad_name": "AD01 | CIENCIA DA COMPUTAÇÃO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "430"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "430"
+            },
+            {
+                "action_type": "comment",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "400"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "3049",
+        "account_id": "652220095673691",
+        "reach": "2535",
+        "spend": "38.05",
+        "adset_id": "120215591239710417",
+        "adset_name": "08 | ADV+ | ODONTO | 0102",
+        "ad_id": "120215591239700417",
+        "ad_name": "AD01 | ODONTO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "506"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "506"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "481"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "6",
+        "account_id": "652220095673691",
+        "reach": "6",
+        "spend": "0.05",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213724668840417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612",
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "1804",
+        "account_id": "652220095673691",
+        "reach": "1286",
+        "spend": "16.55",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213724971510417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "185",
+        "account_id": "652220095673691",
+        "reach": "127",
+        "spend": "2.22",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213783831120417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "video_view",
+                "value": "25"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "424",
+        "account_id": "652220095673691",
+        "reach": "309",
+        "spend": "5.67",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213792062330417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "55"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "55"
+            },
+            {
+                "action_type": "video_view",
+                "value": "53"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "1279",
+        "account_id": "652220095673691",
+        "reach": "988",
+        "spend": "17.92",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "132"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "132"
+            },
+            {
+                "action_type": "video_view",
+                "value": "122"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "719",
+        "account_id": "652220095673691",
+        "reach": "619",
+        "spend": "9.68",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891598350417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "109"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "2109",
+        "account_id": "652220095673691",
+        "reach": "1798",
+        "spend": "36.23",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "457"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "457"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "434"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "578",
+        "account_id": "652220095673691",
+        "reach": "500",
+        "spend": "7.4",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "video_view",
+                "value": "75"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "1477",
+        "account_id": "652220095673691",
+        "reach": "1101",
+        "spend": "15.05",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "121"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "121"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "117"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "10132",
+        "account_id": "652220095673691",
+        "reach": "9047",
+        "spend": "26.35",
+        "adset_id": "120214541426550417",
+        "adset_name": "01 | ADV+ | 1001",
+        "ad_id": "120214541426560417",
+        "ad_name": "AD01 | \"LOCALIZAÇÃO\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "104"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "104"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "94"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "4823",
+        "account_id": "652220095673691",
+        "reach": "3504",
+        "spend": "41.69",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "3487",
+        "account_id": "652220095673691",
+        "reach": "2732",
+        "spend": "40.33",
+        "adset_id": "120214658875870417",
+        "adset_name": "04 | ADV+ | FONO | 1401",
+        "ad_id": "120214658875830417",
+        "ad_name": "AD01 | (Imagem Interna) Fonoaudiologia | 1401",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "4206",
+        "account_id": "652220095673691",
+        "reach": "3526",
+        "spend": "48.16",
+        "adset_id": "120215591141040417",
+        "adset_name": "06 | ADV+ | DIREITO | 0102",
+        "ad_id": "120215591141030417",
+        "ad_name": "AD01 | DIREITO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "820"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "820"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "773"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "26"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "3704",
+        "account_id": "652220095673691",
+        "reach": "2843",
+        "spend": "45.69",
+        "adset_id": "120215591183280417",
+        "adset_name": "07 | ADV+ | CIENCIA DA COMPUTACAO | 0102",
+        "ad_id": "120215591183270417",
+        "ad_name": "AD01 | CIENCIA DA COMPUTAÇÃO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "372"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "372"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "348"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "3936",
+        "account_id": "652220095673691",
+        "reach": "3311",
+        "spend": "46.58",
+        "adset_id": "120215591239710417",
+        "adset_name": "08 | ADV+ | ODONTO | 0102",
+        "ad_id": "120215591239700417",
+        "ad_name": "AD01 | ODONTO | 0102",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "593"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "593"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "564"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "18"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "36",
+        "account_id": "652220095673691",
+        "reach": "33",
+        "spend": "1.07",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213724971510417",
+        "ad_name": "06 | (Imagem) Vestibular Dezembro (Menina) | 0612 — Cópia",
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "117",
+        "account_id": "652220095673691",
+        "reach": "71",
+        "spend": "1.69",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213792062330417",
+        "ad_name": "08 | (Vídeo Interno) Vestibular Dezembro | 0912 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "65",
+        "account_id": "652220095673691",
+        "reach": "60",
+        "spend": "1.72",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891430410417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "77",
+        "account_id": "652220095673691",
+        "reach": "66",
+        "spend": "1.62",
+        "adset_id": "120213341867650417",
+        "adset_name": "02 | ADV+ | 1911",
+        "ad_id": "120213891598350417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "video_view",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "151",
+        "account_id": "652220095673691",
+        "reach": "141",
+        "spend": "3.11",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620890417",
+        "ad_name": "10 | (Vídeo Interno) Psicologia | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "video_view",
+                "value": "33"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "118",
+        "account_id": "652220095673691",
+        "reach": "108",
+        "spend": "1.87",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620900417",
+        "ad_name": "11 | (Vídeo Interno) Psicologia 2 | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "video_view",
+                "value": "19"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "100",
+        "account_id": "652220095673691",
+        "reach": "92",
+        "spend": "1.45",
+        "adset_id": "120213342332290417",
+        "adset_name": "03 | Geral (Teste Localização) ADV+ | 1911",
+        "ad_id": "120213891620920417",
+        "ad_name": "09 | (Vídeo Interno) Odonto | 1412 — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "1698",
+        "account_id": "652220095673691",
+        "reach": "1667",
+        "spend": "4.82",
+        "adset_id": "120214541426550417",
+        "adset_name": "01 | ADV+ | 1001",
+        "ad_id": "120214541426560417",
+        "ad_name": "AD01 | \"LOCALIZAÇÃO\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "560",
+        "account_id": "652220095673691",
+        "reach": "490",
+        "spend": "4.7",
+        "adset_id": "120214658871160417",
+        "adset_name": "02 | ADV+ | T.O",
+        "ad_id": "120214658871210417",
+        "ad_name": "AD01 | (Imagem Interna) Terapia Ocupacional | 1401",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    }
+]

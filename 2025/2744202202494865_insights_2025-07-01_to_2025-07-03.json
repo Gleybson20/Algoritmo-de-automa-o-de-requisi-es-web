@@ -1,0 +1,348 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120225668369090780",
+        "adset_name": "Transferência",
+        "ad_id": "120225668369080780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120225668086210780",
+        "adset_name": "Promo1",
+        "ad_id": "120226114592890780",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120225668086210780",
+        "adset_name": "Promo1",
+        "ad_id": "120226776485270780",
+        "ad_name": "Criativo_02",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120227246231080780",
+        "adset_name": "Cursos_Junho",
+        "ad_id": "120227246615950780",
+        "ad_name": "Medicina Veterinária",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2744202202494865",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120225668369090780",
+        "adset_name": "Transferência",
+        "ad_id": "120225668369080780",
+        "ad_name": "Criativo_01",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "6785",
+        "account_id": "2744202202494865",
+        "reach": "4219",
+        "spend": "62.35",
+        "adset_id": "120225668369090780",
+        "adset_name": "Transferência",
+        "ad_id": "120227871602170780",
+        "ad_name": "Criativo_01_Julho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "51"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "15"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "7875",
+        "account_id": "2744202202494865",
+        "reach": "5698",
+        "spend": "61.37",
+        "adset_id": "120225668086210780",
+        "adset_name": "Promo1",
+        "ad_id": "120227871840810780",
+        "ad_name": "Vídeo01_Julho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1203"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1203"
+            },
+            {
+                "action_type": "comment",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1147"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "22"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "6172",
+        "account_id": "2744202202494865",
+        "reach": "3866",
+        "spend": "64",
+        "adset_id": "120225668369090780",
+        "adset_name": "Transferência",
+        "ad_id": "120227871602170780",
+        "ad_name": "Criativo_01_Julho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "6185",
+        "account_id": "2744202202494865",
+        "reach": "4749",
+        "spend": "59.99",
+        "adset_id": "120225668086210780",
+        "adset_name": "Promo1",
+        "ad_id": "120227871840810780",
+        "ad_name": "Vídeo01_Julho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "859"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "859"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "816"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "19"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    }
+]

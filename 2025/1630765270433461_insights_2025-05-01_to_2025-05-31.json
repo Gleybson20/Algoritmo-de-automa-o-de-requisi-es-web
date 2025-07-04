@@ -1,0 +1,3658 @@
+[
+    {
+        "impressions": "2288",
+        "account_id": "1630765270433461",
+        "reach": "2085",
+        "spend": "7.54",
+        "adset_id": "120214892151380058",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120214892151390058",
+        "ad_name": "AD01 | \"explorando_unidade\" | 1001",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "27"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "1",
+        "account_id": "1630765270433461",
+        "reach": "1",
+        "spend": "0",
+        "adset_id": "120214892151380058",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120215799958250058",
+        "ad_name": "AD02 | \"fachada\" | 0402",
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "273",
+        "account_id": "1630765270433461",
+        "reach": "271",
+        "spend": "0.63",
+        "adset_id": "120214892151380058",
+        "adset_name": "00 | ADV+ | 1001",
+        "ad_id": "120217540069350058",
+        "ad_name": "AD03 | \"Sinais\" | 0402",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "3385",
+        "account_id": "1630765270433461",
+        "reach": "2474",
+        "spend": "21.64",
+        "adset_id": "120215129769020058",
+        "adset_name": "01 | ADV+ | EAD | 1001",
+        "ad_id": "120220090387340058",
+        "ad_name": "AD04 | \"GRADUAÇÃO EAD\" | 1604",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "424"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "424"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "404"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "2629",
+        "account_id": "1630765270433461",
+        "reach": "2113",
+        "spend": "22.3",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-01",
+        "date_stop": "2025-05-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1630765270433461",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-02",
+        "date_stop": "2025-05-02"
+    },
+    {
+        "impressions": "669",
+        "account_id": "1630765270433461",
+        "reach": "624",
+        "spend": "4.64",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-04",
+        "date_stop": "2025-05-04"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1630765270433461",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120215129769020058",
+        "adset_name": "01 | ADV+ | EAD | 1001",
+        "ad_id": "120220090387340058",
+        "ad_name": "AD04 | \"GRADUAÇÃO EAD\" | 1604",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1630765270433461",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "10427",
+        "account_id": "1630765270433461",
+        "reach": "7004",
+        "spend": "116.24",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "33"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-05-05",
+        "date_stop": "2025-05-05"
+    },
+    {
+        "impressions": "4960",
+        "account_id": "1630765270433461",
+        "reach": "3815",
+        "spend": "85.62",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-05-06",
+        "date_stop": "2025-05-06"
+    },
+    {
+        "impressions": "3343",
+        "account_id": "1630765270433461",
+        "reach": "2513",
+        "spend": "49.46",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-07",
+        "date_stop": "2025-05-07"
+    },
+    {
+        "impressions": "2801",
+        "account_id": "1630765270433461",
+        "reach": "2249",
+        "spend": "49.09",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-05-08",
+        "date_stop": "2025-05-08"
+    },
+    {
+        "impressions": "4097",
+        "account_id": "1630765270433461",
+        "reach": "3423",
+        "spend": "47.29",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-05-09",
+        "date_stop": "2025-05-09"
+    },
+    {
+        "impressions": "6745",
+        "account_id": "1630765270433461",
+        "reach": "5615",
+        "spend": "58.81",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-10",
+        "date_stop": "2025-05-10"
+    },
+    {
+        "impressions": "2216",
+        "account_id": "1630765270433461",
+        "reach": "1591",
+        "spend": "26.62",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-11",
+        "date_stop": "2025-05-11"
+    },
+    {
+        "impressions": "6308",
+        "account_id": "1630765270433461",
+        "reach": "4268",
+        "spend": "95.21",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-05-12",
+        "date_stop": "2025-05-12"
+    },
+    {
+        "impressions": "4946",
+        "account_id": "1630765270433461",
+        "reach": "3821",
+        "spend": "32.59",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120214887204300058",
+        "ad_name": "05 | (Vídeo Interno - Reels) Agropecuaria |",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "708"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "708"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "686"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "4533",
+        "account_id": "1630765270433461",
+        "reach": "3739",
+        "spend": "65.05",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-05-13",
+        "date_stop": "2025-05-13"
+    },
+    {
+        "impressions": "5819",
+        "account_id": "1630765270433461",
+        "reach": "4366",
+        "spend": "37.85",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120214887204300058",
+        "ad_name": "05 | (Vídeo Interno - Reels) Agropecuaria |",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "726"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "726"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "701"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "1389",
+        "account_id": "1630765270433461",
+        "reach": "1121",
+        "spend": "18.62",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-14",
+        "date_stop": "2025-05-14"
+    },
+    {
+        "impressions": "6657",
+        "account_id": "1630765270433461",
+        "reach": "5298",
+        "spend": "38.24",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120214887204300058",
+        "ad_name": "05 | (Vídeo Interno - Reels) Agropecuaria |",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "741"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "740"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "718"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "1238",
+        "account_id": "1630765270433461",
+        "reach": "969",
+        "spend": "16.67",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-05-15",
+        "date_stop": "2025-05-15"
+    },
+    {
+        "impressions": "1039",
+        "account_id": "1630765270433461",
+        "reach": "937",
+        "spend": "9.29",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120214887204300058",
+        "ad_name": "05 | (Vídeo Interno - Reels) Agropecuaria |",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "144"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "144"
+            },
+            {
+                "action_type": "video_view",
+                "value": "143"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "4751",
+        "account_id": "1630765270433461",
+        "reach": "3702",
+        "spend": "48.42",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "856",
+        "account_id": "1630765270433461",
+        "reach": "709",
+        "spend": "11.68",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "829",
+        "account_id": "1630765270433461",
+        "reach": "651",
+        "spend": "9.04",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "6",
+        "account_id": "1630765270433461",
+        "reach": "5",
+        "spend": "0.03",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078540058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "49",
+        "account_id": "1630765270433461",
+        "reach": "44",
+        "spend": "0.2",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "date_start": "2025-05-16",
+        "date_stop": "2025-05-16"
+    },
+    {
+        "impressions": "5896",
+        "account_id": "1630765270433461",
+        "reach": "4339",
+        "spend": "47.14",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "43"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "24"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "96",
+        "account_id": "1630765270433461",
+        "reach": "92",
+        "spend": "1.47",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "1393",
+        "account_id": "1630765270433461",
+        "reach": "1074",
+        "spend": "13.49",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "7",
+        "account_id": "1630765270433461",
+        "reach": "6",
+        "spend": "0.02",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078540058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "2",
+        "account_id": "1630765270433461",
+        "reach": "2",
+        "spend": "0.03",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "date_start": "2025-05-17",
+        "date_stop": "2025-05-17"
+    },
+    {
+        "impressions": "5672",
+        "account_id": "1630765270433461",
+        "reach": "4227",
+        "spend": "48.93",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "34"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "383",
+        "account_id": "1630765270433461",
+        "reach": "293",
+        "spend": "3.97",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "1598",
+        "account_id": "1630765270433461",
+        "reach": "1292",
+        "spend": "14.24",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "96",
+        "account_id": "1630765270433461",
+        "reach": "84",
+        "spend": "0.53",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "date_start": "2025-05-18",
+        "date_stop": "2025-05-18"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1630765270433461",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120214887204300058",
+        "ad_name": "05 | (Vídeo Interno - Reels) Agropecuaria |",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "8657",
+        "account_id": "1630765270433461",
+        "reach": "6837",
+        "spend": "82.06",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "32"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "85"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "84"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "20"
+            },
+            {
+                "action_type": "post",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "16"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "26"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "29"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "375",
+        "account_id": "1630765270433461",
+        "reach": "314",
+        "spend": "9.78",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "1531",
+        "account_id": "1630765270433461",
+        "reach": "1234",
+        "spend": "16.19",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "210",
+        "account_id": "1630765270433461",
+        "reach": "172",
+        "spend": "2.23",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-19",
+        "date_stop": "2025-05-19"
+    },
+    {
+        "impressions": "0",
+        "account_id": "1630765270433461",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120214887204300058",
+        "ad_name": "05 | (Vídeo Interno - Reels) Agropecuaria |",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "4218",
+        "account_id": "1630765270433461",
+        "reach": "3245",
+        "spend": "42.17",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "145",
+        "account_id": "1630765270433461",
+        "reach": "117",
+        "spend": "3.62",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "735",
+        "account_id": "1630765270433461",
+        "reach": "584",
+        "spend": "6.66",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "1",
+        "account_id": "1630765270433461",
+        "reach": "1",
+        "spend": "0.02",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078560058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "49",
+        "account_id": "1630765270433461",
+        "reach": "45",
+        "spend": "0.36",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "date_start": "2025-05-20",
+        "date_stop": "2025-05-20"
+    },
+    {
+        "impressions": "2610",
+        "account_id": "1630765270433461",
+        "reach": "2124",
+        "spend": "22.03",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "228",
+        "account_id": "1630765270433461",
+        "reach": "197",
+        "spend": "4.17",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "2035",
+        "account_id": "1630765270433461",
+        "reach": "1652",
+        "spend": "17.7",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "27",
+        "account_id": "1630765270433461",
+        "reach": "23",
+        "spend": "0.12",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078540058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "20",
+        "account_id": "1630765270433461",
+        "reach": "20",
+        "spend": "0.07",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "date_start": "2025-05-21",
+        "date_stop": "2025-05-21"
+    },
+    {
+        "impressions": "4301",
+        "account_id": "1630765270433461",
+        "reach": "3370",
+        "spend": "34.96",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "26"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "2107",
+        "account_id": "1630765270433461",
+        "reach": "1723",
+        "spend": "18.9",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "10"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "54",
+        "account_id": "1630765270433461",
+        "reach": "51",
+        "spend": "0.46",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "date_start": "2025-05-22",
+        "date_stop": "2025-05-22"
+    },
+    {
+        "impressions": "4406",
+        "account_id": "1630765270433461",
+        "reach": "3434",
+        "spend": "42.34",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "33",
+        "account_id": "1630765270433461",
+        "reach": "30",
+        "spend": "0.53",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "3690",
+        "account_id": "1630765270433461",
+        "reach": "2855",
+        "spend": "38.13",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "69",
+        "account_id": "1630765270433461",
+        "reach": "59",
+        "spend": "0.58",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-23",
+        "date_stop": "2025-05-23"
+    },
+    {
+        "impressions": "4616",
+        "account_id": "1630765270433461",
+        "reach": "3595",
+        "spend": "36.69",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "13"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "44"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "12"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "13"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "28"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "221",
+        "account_id": "1630765270433461",
+        "reach": "172",
+        "spend": "3.72",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "2014",
+        "account_id": "1630765270433461",
+        "reach": "1730",
+        "spend": "18.94",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "1",
+        "account_id": "1630765270433461",
+        "reach": "1",
+        "spend": "0.01",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078540058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "11",
+        "account_id": "1630765270433461",
+        "reach": "9",
+        "spend": "0.03",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078560058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "20",
+        "account_id": "1630765270433461",
+        "reach": "17",
+        "spend": "0.23",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-24",
+        "date_stop": "2025-05-24"
+    },
+    {
+        "impressions": "2426",
+        "account_id": "1630765270433461",
+        "reach": "1850",
+        "spend": "28",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "33",
+        "account_id": "1630765270433461",
+        "reach": "30",
+        "spend": "0.57",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "1608",
+        "account_id": "1630765270433461",
+        "reach": "1267",
+        "spend": "18.11",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "3",
+        "account_id": "1630765270433461",
+        "reach": "2",
+        "spend": "0.02",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078540058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "9",
+        "account_id": "1630765270433461",
+        "reach": "9",
+        "spend": "0.21",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120223562078570058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "6",
+        "account_id": "1630765270433461",
+        "reach": "6",
+        "spend": "0.03",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775167210058",
+        "ad_name": "AD11 | \"EAD\" | 2505",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-25",
+        "date_stop": "2025-05-25"
+    },
+    {
+        "impressions": "5552",
+        "account_id": "1630765270433461",
+        "reach": "4425",
+        "spend": "51.99",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "13"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "4",
+        "account_id": "1630765270433461",
+        "reach": "4",
+        "spend": "0.01",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "2080",
+        "account_id": "1630765270433461",
+        "reach": "1684",
+        "spend": "22.23",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "88",
+        "account_id": "1630765270433461",
+        "reach": "72",
+        "spend": "1.07",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775167210058",
+        "ad_name": "AD11 | \"EAD\" | 2505",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "video_view",
+                "value": "29"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "11",
+        "account_id": "1630765270433461",
+        "reach": "8",
+        "spend": "0.13",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775557980058",
+        "ad_name": "AD12 | \"PÓS\" | 2505",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-26",
+        "date_stop": "2025-05-26"
+    },
+    {
+        "impressions": "5204",
+        "account_id": "1630765270433461",
+        "reach": "4188",
+        "spend": "45.27",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "32"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "209",
+        "account_id": "1630765270433461",
+        "reach": "178",
+        "spend": "5.25",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "1085",
+        "account_id": "1630765270433461",
+        "reach": "912",
+        "spend": "10.83",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "177",
+        "account_id": "1630765270433461",
+        "reach": "141",
+        "spend": "2.09",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775167210058",
+        "ad_name": "AD11 | \"EAD\" | 2505",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "video_view",
+                "value": "43"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-05-27",
+        "date_stop": "2025-05-27"
+    },
+    {
+        "impressions": "2824",
+        "account_id": "1630765270433461",
+        "reach": "2255",
+        "spend": "25.66",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "238",
+        "account_id": "1630765270433461",
+        "reach": "195",
+        "spend": "4.74",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221736035900058",
+        "ad_name": "AD09 | \"promo_01\" | 0104",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "346",
+        "account_id": "1630765270433461",
+        "reach": "293",
+        "spend": "4.43",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "53",
+        "account_id": "1630765270433461",
+        "reach": "48",
+        "spend": "1.04",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775167210058",
+        "ad_name": "AD11 | \"EAD\" | 2505",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "1",
+        "account_id": "1630765270433461",
+        "reach": "1",
+        "spend": "0.02",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775557980058",
+        "ad_name": "AD12 | \"PÓS\" | 2505",
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "163",
+        "account_id": "1630765270433461",
+        "reach": "133",
+        "spend": "2.11",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120224958749260058",
+        "ad_name": "AD10 | \"promo_01_vídeo\" | 2705",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-28",
+        "date_stop": "2025-05-28"
+    },
+    {
+        "impressions": "3108",
+        "account_id": "1630765270433461",
+        "reach": "2584",
+        "spend": "23.5",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "3",
+        "account_id": "1630765270433461",
+        "reach": "3",
+        "spend": "0.04",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "93",
+        "account_id": "1630765270433461",
+        "reach": "83",
+        "spend": "1.42",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775167210058",
+        "ad_name": "AD11 | \"EAD\" | 2505",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "video_view",
+                "value": "21"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "1162",
+        "account_id": "1630765270433461",
+        "reach": "893",
+        "spend": "14.96",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120224958749260058",
+        "ad_name": "AD10 | \"promo_01_vídeo\" | 2705",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "176"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "176"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "160"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-05-29",
+        "date_stop": "2025-05-29"
+    },
+    {
+        "impressions": "4081",
+        "account_id": "1630765270433461",
+        "reach": "3289",
+        "spend": "32.18",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "9"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "528",
+        "account_id": "1630765270433461",
+        "reach": "390",
+        "spend": "5.97",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775167210058",
+        "ad_name": "AD11 | \"EAD\" | 2505",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "103"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "103"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "95"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "15",
+        "account_id": "1630765270433461",
+        "reach": "11",
+        "spend": "0.3",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120224958749260058",
+        "ad_name": "AD10 | \"promo_01_vídeo\" | 2705",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-05-30",
+        "date_stop": "2025-05-30"
+    },
+    {
+        "impressions": "5656",
+        "account_id": "1630765270433461",
+        "reach": "4597",
+        "spend": "44.4",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120221251817030058",
+        "ad_name": "08 | \"Terapia Ocupacional\" | 2904",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "2",
+        "account_id": "1630765270433461",
+        "reach": "2",
+        "spend": "0.01",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120223561198790058",
+        "ad_name": "AD10 | \"Terapia Ocupacional/fono\" | 1605",
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "317",
+        "account_id": "1630765270433461",
+        "reach": "268",
+        "spend": "4.11",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775167210058",
+        "ad_name": "AD11 | \"EAD\" | 2505",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "61"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "55"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "9",
+        "account_id": "1630765270433461",
+        "reach": "8",
+        "spend": "0.16",
+        "adset_id": "120223562078550058",
+        "adset_name": "11 | PROMO | ADV+",
+        "ad_id": "120224775557980058",
+        "ad_name": "AD12 | \"PÓS\" | 2505",
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    },
+    {
+        "impressions": "19",
+        "account_id": "1630765270433461",
+        "reach": "18",
+        "spend": "0.27",
+        "adset_id": "120214887204290058",
+        "adset_name": "06 | Público RMK (Interagiu (Publi/Anúncio) - 30D) ADV+ | 1001",
+        "ad_id": "120224958749260058",
+        "ad_name": "AD10 | \"promo_01_vídeo\" | 2705",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-05-31",
+        "date_stop": "2025-05-31"
+    }
+]

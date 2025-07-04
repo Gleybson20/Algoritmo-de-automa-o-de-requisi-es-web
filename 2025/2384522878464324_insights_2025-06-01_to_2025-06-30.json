@@ -1,0 +1,3130 @@
+[
+    {
+        "impressions": "7640",
+        "account_id": "2384522878464324",
+        "reach": "5579",
+        "spend": "106.61",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "20"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "58"
+            }
+        ],
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "2387",
+        "account_id": "2384522878464324",
+        "reach": "1837",
+        "spend": "26.82",
+        "adset_id": "120225610301920653",
+        "adset_name": "[WPP+IG][SALVADOR R17KM][MAIO] - Aberto",
+        "ad_id": "120225610301910653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "8350",
+        "account_id": "2384522878464324",
+        "reach": "5889",
+        "spend": "99.03",
+        "adset_id": "120225610301920653",
+        "adset_name": "[WPP+IG][SALVADOR R17KM][MAIO] - Aberto",
+        "ad_id": "120225610301930653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-06-02",
+        "date_stop": "2025-06-02"
+    },
+    {
+        "impressions": "8643",
+        "account_id": "2384522878464324",
+        "reach": "6378",
+        "spend": "103.02",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "66"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "66"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "21"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "57"
+            }
+        ],
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "3831",
+        "account_id": "2384522878464324",
+        "reach": "2888",
+        "spend": "60.33",
+        "adset_id": "120225610301920653",
+        "adset_name": "[WPP+IG][SALVADOR R17KM][MAIO] - Aberto",
+        "ad_id": "120225610301910653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "16"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "4467",
+        "account_id": "2384522878464324",
+        "reach": "3391",
+        "spend": "73.43",
+        "adset_id": "120225610301920653",
+        "adset_name": "[WPP+IG][SALVADOR R17KM][MAIO] - Aberto",
+        "ad_id": "120225610301930653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "18"
+            }
+        ],
+        "date_start": "2025-06-03",
+        "date_stop": "2025-06-03"
+    },
+    {
+        "impressions": "18024",
+        "account_id": "2384522878464324",
+        "reach": "12412",
+        "spend": "197.16",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "106"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "106"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "33"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "33"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "99"
+            }
+        ],
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "2016",
+        "account_id": "2384522878464324",
+        "reach": "1404",
+        "spend": "29.18",
+        "adset_id": "120227148298850653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM + LOOKALIKE] - TRANSFERÊNCIA",
+        "ad_id": "120227148298840653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "4453",
+        "account_id": "2384522878464324",
+        "reach": "2863",
+        "spend": "45.22",
+        "adset_id": "120227148298850653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM + LOOKALIKE] - TRANSFERÊNCIA",
+        "ad_id": "120227148425050653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "16"
+            }
+        ],
+        "date_start": "2025-06-04",
+        "date_stop": "2025-06-04"
+    },
+    {
+        "impressions": "15484",
+        "account_id": "2384522878464324",
+        "reach": "11015",
+        "spend": "200.7",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "3"
+            },
+            {
+                "action_type": "lead",
+                "value": "33"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "33"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "87"
+            }
+        ],
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "1825",
+        "account_id": "2384522878464324",
+        "reach": "1326",
+        "spend": "32.1",
+        "adset_id": "120227148298850653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM + LOOKALIKE] - TRANSFERÊNCIA",
+        "ad_id": "120227148298840653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "3807",
+        "account_id": "2384522878464324",
+        "reach": "2624",
+        "spend": "36.26",
+        "adset_id": "120227148298850653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM + LOOKALIKE] - TRANSFERÊNCIA",
+        "ad_id": "120227148425050653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-05",
+        "date_stop": "2025-06-05"
+    },
+    {
+        "impressions": "16081",
+        "account_id": "2384522878464324",
+        "reach": "11601",
+        "spend": "199.88",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "19"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "71"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "1244",
+        "account_id": "2384522878464324",
+        "reach": "1006",
+        "spend": "18.21",
+        "adset_id": "120227148298850653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM + LOOKALIKE] - TRANSFERÊNCIA",
+        "ad_id": "120227148298840653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "2693",
+        "account_id": "2384522878464324",
+        "reach": "1980",
+        "spend": "25.23",
+        "adset_id": "120227148298850653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM + LOOKALIKE] - TRANSFERÊNCIA",
+        "ad_id": "120227148425050653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-06",
+        "date_stop": "2025-06-06"
+    },
+    {
+        "impressions": "17947",
+        "account_id": "2384522878464324",
+        "reach": "13315",
+        "spend": "202.66",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "19"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "65"
+            }
+        ],
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2384522878464324",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120225610301920653",
+        "adset_name": "[WPP+IG][SALVADOR R17KM][MAIO] - Aberto",
+        "ad_id": "120225610301910653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-07",
+        "date_stop": "2025-06-07"
+    },
+    {
+        "impressions": "20473",
+        "account_id": "2384522878464324",
+        "reach": "14307",
+        "spend": "210.92",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "93"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "23"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "90"
+            }
+        ],
+        "date_start": "2025-06-08",
+        "date_stop": "2025-06-08"
+    },
+    {
+        "impressions": "18373",
+        "account_id": "2384522878464324",
+        "reach": "13951",
+        "spend": "204.93",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "94"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "94"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "29"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "86"
+            }
+        ],
+        "date_start": "2025-06-09",
+        "date_stop": "2025-06-09"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2384522878464324",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120225610301920653",
+        "adset_name": "[WPP+IG][SALVADOR R17KM][MAIO] - Aberto",
+        "ad_id": "120225610301910653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-09",
+        "date_stop": "2025-06-09"
+    },
+    {
+        "impressions": "15373",
+        "account_id": "2384522878464324",
+        "reach": "11846",
+        "spend": "196.41",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "103"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "103"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "25"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "89"
+            }
+        ],
+        "date_start": "2025-06-10",
+        "date_stop": "2025-06-10"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2384522878464324",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120225610301920653",
+        "adset_name": "[WPP+IG][SALVADOR R17KM][MAIO] - Aberto",
+        "ad_id": "120225610301910653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-06-10",
+        "date_stop": "2025-06-10"
+    },
+    {
+        "impressions": "15715",
+        "account_id": "2384522878464324",
+        "reach": "12462",
+        "spend": "191.05",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "55"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "43"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "55"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "34"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "55"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "18"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "74"
+            }
+        ],
+        "date_start": "2025-06-11",
+        "date_stop": "2025-06-11"
+    },
+    {
+        "impressions": "0",
+        "account_id": "2384522878464324",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120227148298850653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM + LOOKALIKE] - TRANSFERÊNCIA",
+        "ad_id": "120227148425050653",
+        "ad_name": "[AD] - HOMEM",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-11",
+        "date_stop": "2025-06-11"
+    },
+    {
+        "impressions": "18985",
+        "account_id": "2384522878464324",
+        "reach": "14410",
+        "spend": "190.16",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "59"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "59"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "19"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "57"
+            }
+        ],
+        "date_start": "2025-06-12",
+        "date_stop": "2025-06-12"
+    },
+    {
+        "impressions": "11658",
+        "account_id": "2384522878464324",
+        "reach": "8896",
+        "spend": "210.2",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "23"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "63"
+            }
+        ],
+        "date_start": "2025-06-14",
+        "date_stop": "2025-06-14"
+    },
+    {
+        "impressions": "12637",
+        "account_id": "2384522878464324",
+        "reach": "10096",
+        "spend": "197.11",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "79"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "79"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "22"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "72"
+            }
+        ],
+        "date_start": "2025-06-15",
+        "date_stop": "2025-06-15"
+    },
+    {
+        "impressions": "523",
+        "account_id": "2384522878464324",
+        "reach": "503",
+        "spend": "7.27",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-06-16",
+        "date_stop": "2025-06-16"
+    },
+    {
+        "impressions": "23191",
+        "account_id": "2384522878464324",
+        "reach": "16013",
+        "spend": "271.25",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "111"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "111"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "5"
+            },
+            {
+                "action_type": "lead",
+                "value": "30"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "30"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "95"
+            }
+        ],
+        "date_start": "2025-06-17",
+        "date_stop": "2025-06-17"
+    },
+    {
+        "impressions": "21494",
+        "account_id": "2384522878464324",
+        "reach": "16539",
+        "spend": "218.4",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "15"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "75"
+            }
+        ],
+        "date_start": "2025-06-18",
+        "date_stop": "2025-06-18"
+    },
+    {
+        "impressions": "3146",
+        "account_id": "2384522878464324",
+        "reach": "2738",
+        "spend": "48.92",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342313620653",
+        "ad_name": "[AD] - HOMEM C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-06-18",
+        "date_stop": "2025-06-18"
+    },
+    {
+        "impressions": "3252",
+        "account_id": "2384522878464324",
+        "reach": "2723",
+        "spend": "35.96",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-06-18",
+        "date_stop": "2025-06-18"
+    },
+    {
+        "impressions": "25230",
+        "account_id": "2384522878464324",
+        "reach": "19209",
+        "spend": "232.3",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "104"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "104"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "21"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "95"
+            }
+        ],
+        "date_start": "2025-06-19",
+        "date_stop": "2025-06-19"
+    },
+    {
+        "impressions": "1927",
+        "account_id": "2384522878464324",
+        "reach": "1575",
+        "spend": "38.72",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342313620653",
+        "ad_name": "[AD] - HOMEM C/ PLACA",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-06-19",
+        "date_stop": "2025-06-19"
+    },
+    {
+        "impressions": "2764",
+        "account_id": "2384522878464324",
+        "reach": "2216",
+        "spend": "50.04",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-06-19",
+        "date_stop": "2025-06-19"
+    },
+    {
+        "impressions": "19571",
+        "account_id": "2384522878464324",
+        "reach": "16056",
+        "spend": "228.63",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "78"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "78"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "18"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "73"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "1593",
+        "account_id": "2384522878464324",
+        "reach": "1295",
+        "spend": "30.91",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342313620653",
+        "ad_name": "[AD] - HOMEM C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "6320",
+        "account_id": "2384522878464324",
+        "reach": "4243",
+        "spend": "50.74",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "26"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "25"
+            }
+        ],
+        "date_start": "2025-06-20",
+        "date_stop": "2025-06-20"
+    },
+    {
+        "impressions": "21140",
+        "account_id": "2384522878464324",
+        "reach": "17065",
+        "spend": "244.76",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "14"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "14"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "66"
+            }
+        ],
+        "date_start": "2025-06-21",
+        "date_stop": "2025-06-21"
+    },
+    {
+        "impressions": "12917",
+        "account_id": "2384522878464324",
+        "reach": "9146",
+        "spend": "92.97",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "70"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "60"
+            }
+        ],
+        "date_start": "2025-06-21",
+        "date_stop": "2025-06-21"
+    },
+    {
+        "impressions": "18267",
+        "account_id": "2384522878464324",
+        "reach": "14848",
+        "spend": "212.87",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "78"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "78"
+            },
+            {
+                "action_type": "lead",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "15"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "71"
+            }
+        ],
+        "date_start": "2025-06-22",
+        "date_stop": "2025-06-22"
+    },
+    {
+        "impressions": "12834",
+        "account_id": "2384522878464324",
+        "reach": "8462",
+        "spend": "107.42",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "63"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "60"
+            }
+        ],
+        "date_start": "2025-06-22",
+        "date_stop": "2025-06-22"
+    },
+    {
+        "impressions": "16857",
+        "account_id": "2384522878464324",
+        "reach": "13790",
+        "spend": "205.46",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "67"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "67"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "13"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "65"
+            }
+        ],
+        "date_start": "2025-06-23",
+        "date_stop": "2025-06-23"
+    },
+    {
+        "impressions": "12996",
+        "account_id": "2384522878464324",
+        "reach": "8899",
+        "spend": "108.76",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "64"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "64"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "59"
+            }
+        ],
+        "date_start": "2025-06-23",
+        "date_stop": "2025-06-23"
+    },
+    {
+        "impressions": "17162",
+        "account_id": "2384522878464324",
+        "reach": "13760",
+        "spend": "196.82",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "68"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "68"
+            },
+            {
+                "action_type": "lead",
+                "value": "11"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "11"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "62"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "13818",
+        "account_id": "2384522878464324",
+        "reach": "9812",
+        "spend": "101.13",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "75"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "75"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "61"
+            }
+        ],
+        "date_start": "2025-06-24",
+        "date_stop": "2025-06-24"
+    },
+    {
+        "impressions": "13856",
+        "account_id": "2384522878464324",
+        "reach": "11162",
+        "spend": "197.89",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "77"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "23"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "66"
+            }
+        ],
+        "date_start": "2025-06-25",
+        "date_stop": "2025-06-25"
+    },
+    {
+        "impressions": "11123",
+        "account_id": "2384522878464324",
+        "reach": "7296",
+        "spend": "105.21",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "53"
+            }
+        ],
+        "date_start": "2025-06-25",
+        "date_stop": "2025-06-25"
+    },
+    {
+        "impressions": "18210",
+        "account_id": "2384522878464324",
+        "reach": "14517",
+        "spend": "264",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.lead",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "100"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "100"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_web_lead",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "10"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "21"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "27"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "93"
+            }
+        ],
+        "date_start": "2025-06-26",
+        "date_stop": "2025-06-26"
+    },
+    {
+        "impressions": "18413",
+        "account_id": "2384522878464324",
+        "reach": "11783",
+        "spend": "148.19",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "7"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_block",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "104"
+            }
+        ],
+        "date_start": "2025-06-26",
+        "date_stop": "2025-06-26"
+    },
+    {
+        "impressions": "21155",
+        "account_id": "2384522878464324",
+        "reach": "16273",
+        "spend": "286.56",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "lead",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "15"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "76"
+            }
+        ],
+        "date_start": "2025-06-27",
+        "date_stop": "2025-06-27"
+    },
+    {
+        "impressions": "23459",
+        "account_id": "2384522878464324",
+        "reach": "14885",
+        "spend": "205.84",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "8"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "144"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "144"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "135"
+            }
+        ],
+        "date_start": "2025-06-27",
+        "date_stop": "2025-06-27"
+    },
+    {
+        "impressions": "22607",
+        "account_id": "2384522878464324",
+        "reach": "17387",
+        "spend": "284.54",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "105"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "105"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "23"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "97"
+            }
+        ],
+        "date_start": "2025-06-28",
+        "date_stop": "2025-06-28"
+    },
+    {
+        "impressions": "21823",
+        "account_id": "2384522878464324",
+        "reach": "13866",
+        "spend": "181.02",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "115"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "106"
+            }
+        ],
+        "date_start": "2025-06-28",
+        "date_stop": "2025-06-28"
+    },
+    {
+        "impressions": "20894",
+        "account_id": "2384522878464324",
+        "reach": "15681",
+        "spend": "304.56",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "101"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "101"
+            },
+            {
+                "action_type": "lead",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "22"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "90"
+            }
+        ],
+        "date_start": "2025-06-29",
+        "date_stop": "2025-06-29"
+    },
+    {
+        "impressions": "33061",
+        "account_id": "2384522878464324",
+        "reach": "17128",
+        "spend": "230.69",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "12"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "180"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "180"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "169"
+            }
+        ],
+        "date_start": "2025-06-29",
+        "date_stop": "2025-06-29"
+    },
+    {
+        "impressions": "14233",
+        "account_id": "2384522878464324",
+        "reach": "11583",
+        "spend": "224.83",
+        "adset_id": "120225288156360653",
+        "adset_name": "[FORMS] [UNINASSAU R10KM] [JULHO] - ABERTO",
+        "ad_id": "120225288156340653",
+        "ad_name": "[AD] - MULHER",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "65"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "13"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "58"
+            }
+        ],
+        "date_start": "2025-06-30",
+        "date_stop": "2025-06-30"
+    },
+    {
+        "impressions": "19850",
+        "account_id": "2384522878464324",
+        "reach": "12750",
+        "spend": "163.87",
+        "adset_id": "120228342313640653",
+        "adset_name": "[WPP + IG] [SALVADOR R20KM] [ABERTO] - TRANSFERÊNCIA",
+        "ad_id": "120228342765760653",
+        "ad_name": "[AD] - MULHER C/ PLACA",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_order_created_v2",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "104"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "104"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "98"
+            }
+        ],
+        "date_start": "2025-06-30",
+        "date_stop": "2025-06-30"
+    }
+]

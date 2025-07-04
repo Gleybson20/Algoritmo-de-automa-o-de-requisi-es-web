@@ -1,0 +1,3490 @@
+[
+    {
+        "impressions": "0",
+        "account_id": "185534306223063",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-01",
+        "date_stop": "2025-02-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "185534306223063",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-01",
+        "date_stop": "2025-02-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "185534306223063",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-02",
+        "date_stop": "2025-02-02"
+    },
+    {
+        "impressions": "8287",
+        "account_id": "185534306223063",
+        "reach": "4348",
+        "spend": "73.39",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "6"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "45"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "8"
+            },
+            {
+                "action_type": "video_view",
+                "value": "18"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "15753",
+        "account_id": "185534306223063",
+        "reach": "10278",
+        "spend": "115.46",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "11"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "106"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "106"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "41"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "21"
+            },
+            {
+                "action_type": "link_click",
+                "value": "41"
+            }
+        ],
+        "date_start": "2025-02-03",
+        "date_stop": "2025-02-03"
+    },
+    {
+        "impressions": "7394",
+        "account_id": "185534306223063",
+        "reach": "3867",
+        "spend": "96.32",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "38"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "12"
+            },
+            {
+                "action_type": "video_view",
+                "value": "19"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "15"
+            }
+        ],
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "18356",
+        "account_id": "185534306223063",
+        "reach": "11673",
+        "spend": "152.38",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "17"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "148"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "148"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "16"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "21"
+            },
+            {
+                "action_type": "video_view",
+                "value": "73"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "32"
+            },
+            {
+                "action_type": "link_click",
+                "value": "41"
+            }
+        ],
+        "date_start": "2025-02-04",
+        "date_stop": "2025-02-04"
+    },
+    {
+        "impressions": "5668",
+        "account_id": "185534306223063",
+        "reach": "2783",
+        "spend": "86.17",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "30"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "7"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-02-05",
+        "date_stop": "2025-02-05"
+    },
+    {
+        "impressions": "10571",
+        "account_id": "185534306223063",
+        "reach": "6636",
+        "spend": "101.76",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "91"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "9"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "12"
+            },
+            {
+                "action_type": "link_click",
+                "value": "49"
+            }
+        ],
+        "date_start": "2025-02-05",
+        "date_stop": "2025-02-05"
+    },
+    {
+        "impressions": "7231",
+        "account_id": "185534306223063",
+        "reach": "3793",
+        "spend": "88.16",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "21"
+            }
+        ],
+        "date_start": "2025-02-06",
+        "date_stop": "2025-02-06"
+    },
+    {
+        "impressions": "8237",
+        "account_id": "185534306223063",
+        "reach": "5301",
+        "spend": "75.54",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "40"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "34"
+            }
+        ],
+        "date_start": "2025-02-06",
+        "date_stop": "2025-02-06"
+    },
+    {
+        "impressions": "7139",
+        "account_id": "185534306223063",
+        "reach": "3724",
+        "spend": "83.65",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "18"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "13"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "8388",
+        "account_id": "185534306223063",
+        "reach": "5212",
+        "spend": "72.18",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-02-07",
+        "date_stop": "2025-02-07"
+    },
+    {
+        "impressions": "7705",
+        "account_id": "185534306223063",
+        "reach": "4080",
+        "spend": "84",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-02-08",
+        "date_stop": "2025-02-08"
+    },
+    {
+        "impressions": "10954",
+        "account_id": "185534306223063",
+        "reach": "7055",
+        "spend": "98.32",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "46"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "13"
+            },
+            {
+                "action_type": "link_click",
+                "value": "30"
+            }
+        ],
+        "date_start": "2025-02-08",
+        "date_stop": "2025-02-08"
+    },
+    {
+        "impressions": "12626",
+        "account_id": "185534306223063",
+        "reach": "6337",
+        "spend": "102.56",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "19"
+            }
+        ],
+        "date_start": "2025-02-09",
+        "date_stop": "2025-02-09"
+    },
+    {
+        "impressions": "12668",
+        "account_id": "185534306223063",
+        "reach": "7918",
+        "spend": "97.24",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "47"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-02-09",
+        "date_stop": "2025-02-09"
+    },
+    {
+        "impressions": "10457",
+        "account_id": "185534306223063",
+        "reach": "5788",
+        "spend": "100.8",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "35"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "12874",
+        "account_id": "185534306223063",
+        "reach": "7362",
+        "spend": "125.69",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "55"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "55"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "41"
+            }
+        ],
+        "date_start": "2025-02-10",
+        "date_stop": "2025-02-10"
+    },
+    {
+        "impressions": "6362",
+        "account_id": "185534306223063",
+        "reach": "2469",
+        "spend": "98.68",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "11701",
+        "account_id": "185534306223063",
+        "reach": "6547",
+        "spend": "134.55",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "52"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "8"
+            },
+            {
+                "action_type": "link_click",
+                "value": "41"
+            }
+        ],
+        "date_start": "2025-02-11",
+        "date_stop": "2025-02-11"
+    },
+    {
+        "impressions": "6139",
+        "account_id": "185534306223063",
+        "reach": "2842",
+        "spend": "88.85",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "6188",
+        "account_id": "185534306223063",
+        "reach": "3397",
+        "spend": "77.75",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "14"
+            }
+        ],
+        "date_start": "2025-02-12",
+        "date_stop": "2025-02-12"
+    },
+    {
+        "impressions": "1290",
+        "account_id": "185534306223063",
+        "reach": "806",
+        "spend": "17.11",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120216084756350116",
+        "ad_name": "Graduação Presencial",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "1271",
+        "account_id": "185534306223063",
+        "reach": "958",
+        "spend": "13.6",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "705",
+        "account_id": "185534306223063",
+        "reach": "502",
+        "spend": "9.5",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "931",
+        "account_id": "185534306223063",
+        "reach": "682",
+        "spend": "12.5",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "2023",
+        "account_id": "185534306223063",
+        "reach": "1396",
+        "spend": "17.83",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "2643",
+        "account_id": "185534306223063",
+        "reach": "1462",
+        "spend": "26.63",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217044278170116",
+        "ad_name": "ADS",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "5771",
+        "account_id": "185534306223063",
+        "reach": "2748",
+        "spend": "67.64",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120217149331210116",
+        "ad_name": "enem 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-13",
+        "date_stop": "2025-02-13"
+    },
+    {
+        "impressions": "339",
+        "account_id": "185534306223063",
+        "reach": "259",
+        "spend": "4.24",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "229",
+        "account_id": "185534306223063",
+        "reach": "161",
+        "spend": "3.2",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "553",
+        "account_id": "185534306223063",
+        "reach": "385",
+        "spend": "5.99",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "69",
+        "account_id": "185534306223063",
+        "reach": "57",
+        "spend": "0.93",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217044278170116",
+        "ad_name": "ADS",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "1102",
+        "account_id": "185534306223063",
+        "reach": "639",
+        "spend": "16.64",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120217149331210116",
+        "ad_name": "enem 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-14",
+        "date_stop": "2025-02-14"
+    },
+    {
+        "impressions": "0",
+        "account_id": "185534306223063",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217036344850116",
+        "ad_name": "Enfermagem",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-16",
+        "date_stop": "2025-02-16"
+    },
+    {
+        "impressions": "0",
+        "account_id": "185534306223063",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120217149331210116",
+        "ad_name": "enem 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-16",
+        "date_stop": "2025-02-16"
+    },
+    {
+        "impressions": "3364",
+        "account_id": "185534306223063",
+        "reach": "2700",
+        "spend": "35.73",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "12"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-17",
+        "date_stop": "2025-02-17"
+    },
+    {
+        "impressions": "9707",
+        "account_id": "185534306223063",
+        "reach": "7298",
+        "spend": "64.56",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "48"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "17"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "23"
+            }
+        ],
+        "date_start": "2025-02-17",
+        "date_stop": "2025-02-17"
+    },
+    {
+        "impressions": "3247",
+        "account_id": "185534306223063",
+        "reach": "2424",
+        "spend": "27.36",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-17",
+        "date_stop": "2025-02-17"
+    },
+    {
+        "impressions": "0",
+        "account_id": "185534306223063",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120216084756360116",
+        "adset_name": "Aracaju+30m adv+ 18 a 45",
+        "ad_id": "120217149331210116",
+        "ad_name": "enem 2",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-17",
+        "date_stop": "2025-02-17"
+    },
+    {
+        "impressions": "13794",
+        "account_id": "185534306223063",
+        "reach": "10783",
+        "spend": "142.4",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "21"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "96"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "19"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "21"
+            },
+            {
+                "action_type": "video_view",
+                "value": "25"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "21"
+            },
+            {
+                "action_type": "link_click",
+                "value": "48"
+            }
+        ],
+        "date_start": "2025-02-17",
+        "date_stop": "2025-02-17"
+    },
+    {
+        "impressions": "3620",
+        "account_id": "185534306223063",
+        "reach": "2327",
+        "spend": "57.47",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-18",
+        "date_stop": "2025-02-18"
+    },
+    {
+        "impressions": "2165",
+        "account_id": "185534306223063",
+        "reach": "993",
+        "spend": "40.61",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "3"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "3"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-18",
+        "date_stop": "2025-02-18"
+    },
+    {
+        "impressions": "3159",
+        "account_id": "185534306223063",
+        "reach": "1980",
+        "spend": "37.75",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-18",
+        "date_stop": "2025-02-18"
+    },
+    {
+        "impressions": "14433",
+        "account_id": "185534306223063",
+        "reach": "8801",
+        "spend": "220.54",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "19"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "108"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "108"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "12"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "22"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "8"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "27"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "62"
+            }
+        ],
+        "date_start": "2025-02-18",
+        "date_stop": "2025-02-18"
+    },
+    {
+        "impressions": "3764",
+        "account_id": "185534306223063",
+        "reach": "2236",
+        "spend": "45.58",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "8"
+            }
+        ],
+        "date_start": "2025-02-19",
+        "date_stop": "2025-02-19"
+    },
+    {
+        "impressions": "945",
+        "account_id": "185534306223063",
+        "reach": "499",
+        "spend": "17.16",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-19",
+        "date_stop": "2025-02-19"
+    },
+    {
+        "impressions": "3203",
+        "account_id": "185534306223063",
+        "reach": "1861",
+        "spend": "34.18",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "25"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-19",
+        "date_stop": "2025-02-19"
+    },
+    {
+        "impressions": "13820",
+        "account_id": "185534306223063",
+        "reach": "8647",
+        "spend": "170.91",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "79"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "79"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "post",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "19"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "48"
+            }
+        ],
+        "date_start": "2025-02-19",
+        "date_stop": "2025-02-19"
+    },
+    {
+        "impressions": "3546",
+        "account_id": "185534306223063",
+        "reach": "2010",
+        "spend": "41.86",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-20",
+        "date_stop": "2025-02-20"
+    },
+    {
+        "impressions": "918",
+        "account_id": "185534306223063",
+        "reach": "565",
+        "spend": "13.3",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-02-20",
+        "date_stop": "2025-02-20"
+    },
+    {
+        "impressions": "3283",
+        "account_id": "185534306223063",
+        "reach": "1784",
+        "spend": "31.38",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "27"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-20",
+        "date_stop": "2025-02-20"
+    },
+    {
+        "impressions": "13320",
+        "account_id": "185534306223063",
+        "reach": "9275",
+        "spend": "146.04",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "82"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "35"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "14"
+            },
+            {
+                "action_type": "link_click",
+                "value": "32"
+            }
+        ],
+        "date_start": "2025-02-20",
+        "date_stop": "2025-02-20"
+    },
+    {
+        "impressions": "2547",
+        "account_id": "185534306223063",
+        "reach": "1426",
+        "spend": "36.61",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-21",
+        "date_stop": "2025-02-21"
+    },
+    {
+        "impressions": "733",
+        "account_id": "185534306223063",
+        "reach": "417",
+        "spend": "8.17",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-21",
+        "date_stop": "2025-02-21"
+    },
+    {
+        "impressions": "3335",
+        "account_id": "185534306223063",
+        "reach": "1834",
+        "spend": "36.26",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "14"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-02-21",
+        "date_stop": "2025-02-21"
+    },
+    {
+        "impressions": "17049",
+        "account_id": "185534306223063",
+        "reach": "11221",
+        "spend": "148.77",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "80"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "29"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "40"
+            }
+        ],
+        "date_start": "2025-02-21",
+        "date_stop": "2025-02-21"
+    },
+    {
+        "impressions": "3009",
+        "account_id": "185534306223063",
+        "reach": "1963",
+        "spend": "35.09",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "29"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "16"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-22",
+        "date_stop": "2025-02-22"
+    },
+    {
+        "impressions": "1414",
+        "account_id": "185534306223063",
+        "reach": "683",
+        "spend": "13.97",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-22",
+        "date_stop": "2025-02-22"
+    },
+    {
+        "impressions": "4436",
+        "account_id": "185534306223063",
+        "reach": "2569",
+        "spend": "40.27",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "31"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "22"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-22",
+        "date_stop": "2025-02-22"
+    },
+    {
+        "impressions": "20921",
+        "account_id": "185534306223063",
+        "reach": "13337",
+        "spend": "167.35",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "87"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "87"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "48"
+            }
+        ],
+        "date_start": "2025-02-22",
+        "date_stop": "2025-02-22"
+    },
+    {
+        "impressions": "1741",
+        "account_id": "185534306223063",
+        "reach": "1006",
+        "spend": "18.59",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "13"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "6"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-23",
+        "date_stop": "2025-02-23"
+    },
+    {
+        "impressions": "1031",
+        "account_id": "185534306223063",
+        "reach": "412",
+        "spend": "8.36",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-23",
+        "date_stop": "2025-02-23"
+    },
+    {
+        "impressions": "2966",
+        "account_id": "185534306223063",
+        "reach": "1271",
+        "spend": "26.68",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "15"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-02-23",
+        "date_stop": "2025-02-23"
+    },
+    {
+        "impressions": "12818",
+        "account_id": "185534306223063",
+        "reach": "8178",
+        "spend": "76.96",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "62"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "25"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "29"
+            }
+        ],
+        "date_start": "2025-02-23",
+        "date_stop": "2025-02-23"
+    },
+    {
+        "impressions": "3976",
+        "account_id": "185534306223063",
+        "reach": "2052",
+        "spend": "46.77",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "23"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-02-24",
+        "date_stop": "2025-02-24"
+    },
+    {
+        "impressions": "2936",
+        "account_id": "185534306223063",
+        "reach": "1145",
+        "spend": "28.83",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-24",
+        "date_stop": "2025-02-24"
+    },
+    {
+        "impressions": "5998",
+        "account_id": "185534306223063",
+        "reach": "2207",
+        "spend": "70.73",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "22"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "11"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-24",
+        "date_stop": "2025-02-24"
+    },
+    {
+        "impressions": "23795",
+        "account_id": "185534306223063",
+        "reach": "14385",
+        "spend": "217.9",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "124"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "123"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "like",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "45"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "16"
+            },
+            {
+                "action_type": "link_click",
+                "value": "57"
+            }
+        ],
+        "date_start": "2025-02-24",
+        "date_stop": "2025-02-24"
+    },
+    {
+        "impressions": "4034",
+        "account_id": "185534306223063",
+        "reach": "2148",
+        "spend": "57.22",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-25",
+        "date_stop": "2025-02-25"
+    },
+    {
+        "impressions": "1963",
+        "account_id": "185534306223063",
+        "reach": "1007",
+        "spend": "34.29",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-25",
+        "date_stop": "2025-02-25"
+    },
+    {
+        "impressions": "3642",
+        "account_id": "185534306223063",
+        "reach": "1941",
+        "spend": "41.18",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "19"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-02-25",
+        "date_stop": "2025-02-25"
+    },
+    {
+        "impressions": "25741",
+        "account_id": "185534306223063",
+        "reach": "16182",
+        "spend": "219.96",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "2"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "98"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "98"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "28"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "11"
+            },
+            {
+                "action_type": "link_click",
+                "value": "59"
+            }
+        ],
+        "date_start": "2025-02-25",
+        "date_stop": "2025-02-25"
+    },
+    {
+        "impressions": "2609",
+        "account_id": "185534306223063",
+        "reach": "1379",
+        "spend": "36.02",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "10"
+            }
+        ],
+        "date_start": "2025-02-26",
+        "date_stop": "2025-02-26"
+    },
+    {
+        "impressions": "1108",
+        "account_id": "185534306223063",
+        "reach": "568",
+        "spend": "19.67",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-26",
+        "date_stop": "2025-02-26"
+    },
+    {
+        "impressions": "2438",
+        "account_id": "185534306223063",
+        "reach": "1141",
+        "spend": "29.93",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "11"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-26",
+        "date_stop": "2025-02-26"
+    },
+    {
+        "impressions": "19722",
+        "account_id": "185534306223063",
+        "reach": "12800",
+        "spend": "185.55",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "90"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "90"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "3"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "7"
+            },
+            {
+                "action_type": "video_view",
+                "value": "27"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "7"
+            },
+            {
+                "action_type": "link_click",
+                "value": "53"
+            }
+        ],
+        "date_start": "2025-02-26",
+        "date_stop": "2025-02-26"
+    },
+    {
+        "impressions": "4580",
+        "account_id": "185534306223063",
+        "reach": "2239",
+        "spend": "50.85",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "20"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            },
+            {
+                "action_type": "video_view",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "7"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "2345",
+        "account_id": "185534306223063",
+        "reach": "923",
+        "spend": "26.02",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "6"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "link_click",
+                "value": "4"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "1208",
+        "account_id": "185534306223063",
+        "reach": "638",
+        "spend": "17.93",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217041682520116",
+        "ad_name": "Veterinaria",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "24693",
+        "account_id": "185534306223063",
+        "reach": "15193",
+        "spend": "207.09",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "109"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "109"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "6"
+            },
+            {
+                "action_type": "video_view",
+                "value": "31"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "9"
+            },
+            {
+                "action_type": "link_click",
+                "value": "67"
+            }
+        ],
+        "date_start": "2025-02-27",
+        "date_stop": "2025-02-27"
+    },
+    {
+        "impressions": "3755",
+        "account_id": "185534306223063",
+        "reach": "2359",
+        "spend": "38.42",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120216958268880116",
+        "ad_name": "Farmácia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "17"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "8"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "2627",
+        "account_id": "185534306223063",
+        "reach": "1412",
+        "spend": "24.76",
+        "adset_id": "120216958268990116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120217007019690116",
+        "ad_name": "Ed Fisica",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    },
+    {
+        "impressions": "5470",
+        "account_id": "185534306223063",
+        "reach": "4538",
+        "spend": "54.66",
+        "adset_id": "120218200475760116",
+        "adset_name": "Aracaju+20km + interiores+20km",
+        "ad_id": "120218200475670116",
+        "ad_name": "Promo 1",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "28"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "4"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "20"
+            }
+        ],
+        "date_start": "2025-02-28",
+        "date_stop": "2025-02-28"
+    }
+]

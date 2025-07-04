@@ -1,0 +1,186 @@
+[
+    {
+        "impressions": "12001",
+        "account_id": "559561224946744",
+        "reach": "7583",
+        "spend": "142.76",
+        "adset_id": "120226410676550433",
+        "adset_name": "Transferência",
+        "ad_id": "120228462410220433",
+        "ad_name": "Criativo_01_Julho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "85"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "85"
+            },
+            {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "4"
+            },
+            {
+                "action_type": "video_view",
+                "value": "12"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "20"
+            },
+            {
+                "action_type": "link_click",
+                "value": "52"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "6550",
+        "account_id": "559561224946744",
+        "reach": "4116",
+        "spend": "77.68",
+        "adset_id": "120226410676550433",
+        "adset_name": "Transferência",
+        "ad_id": "120228462410220433",
+        "ad_name": "Criativo_01_Julho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "57"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "lead",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "6"
+            },
+            {
+                "action_type": "link_click",
+                "value": "46"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "1696",
+        "account_id": "559561224946744",
+        "reach": "1468",
+        "spend": "16.35",
+        "adset_id": "120226410676550433",
+        "adset_name": "Transferência",
+        "ad_id": "120228563254790433",
+        "ad_name": "Criativo_02_Julho",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "12"
+            },
+            {
+                "action_type": "lead",
+                "value": "2"
+            },
+            {
+                "action_type": "onsite_conversion.lead_grouped",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "11"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "6649",
+        "account_id": "559561224946744",
+        "reach": "5807",
+        "spend": "54.2",
+        "adset_id": "120226375654470433",
+        "adset_name": "Promo1",
+        "ad_id": "120228563496020433",
+        "ad_name": "Criativo01_Julho",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "24"
+            },
+            {
+                "action_type": "video_view",
+                "value": "2"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "17"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    }
+]

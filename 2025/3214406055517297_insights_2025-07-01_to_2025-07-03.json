@@ -1,0 +1,432 @@
+[
+    {
+        "impressions": "607",
+        "account_id": "3214406055517297",
+        "reach": "512",
+        "spend": "9.14",
+        "adset_id": "120226773336070334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120228028879210334",
+        "ad_name": "Promo 1 — Junho",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "4"
+            },
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "4"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "4"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "3214406055517297",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120226772990150334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120228691077340334",
+        "ad_name": "Transferência Junho — SI",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "0",
+        "account_id": "3214406055517297",
+        "reach": "0",
+        "spend": "0",
+        "adset_id": "120229564406590334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120229565048750334",
+        "ad_name": "Junho | Farmácia",
+        "actions": [
+            {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_first_reply",
+                "value": "5"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "3"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "5"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "913",
+        "account_id": "3214406055517297",
+        "reach": "794",
+        "spend": "10.34",
+        "adset_id": "120230313962660334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120230313962680334",
+        "ad_name": "Promo 1 — Junho",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "5"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "102",
+        "account_id": "3214406055517297",
+        "reach": "98",
+        "spend": "1.86",
+        "adset_id": "120230313962660334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120230315273490334",
+        "ad_name": "VIDEO UNI7 - UNIDADE",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "36"
+            },
+            {
+                "action_type": "video_view",
+                "value": "36"
+            }
+        ],
+        "date_start": "2025-07-01",
+        "date_stop": "2025-07-01"
+    },
+    {
+        "impressions": "1345",
+        "account_id": "3214406055517297",
+        "reach": "1231",
+        "spend": "24.1",
+        "adset_id": "120226773336070334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120228028879210334",
+        "ad_name": "Promo 1 — Junho",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "6"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "322",
+        "account_id": "3214406055517297",
+        "reach": "281",
+        "spend": "6.85",
+        "adset_id": "120230313962660334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120230313962680334",
+        "ad_name": "Promo 1 — Junho",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "3"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "1594",
+        "account_id": "3214406055517297",
+        "reach": "1297",
+        "spend": "20.23",
+        "adset_id": "120230313962660334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120230315273490334",
+        "ad_name": "VIDEO UNI7 - UNIDADE",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "346"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "346"
+            },
+            {
+                "action_type": "comment",
+                "value": "1"
+            },
+            {
+                "action_type": "post",
+                "value": "3"
+            },
+            {
+                "action_type": "video_view",
+                "value": "320"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "10"
+            },
+            {
+                "action_type": "link_click",
+                "value": "12"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "253",
+        "account_id": "3214406055517297",
+        "reach": "246",
+        "spend": "3.47",
+        "adset_id": "120230380742490334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120230380944650334",
+        "ad_name": "VIDEO UNI7 - UNIDADE — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "41"
+            },
+            {
+                "action_type": "video_view",
+                "value": "39"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "280",
+        "account_id": "3214406055517297",
+        "reach": "277",
+        "spend": "3.27",
+        "adset_id": "120230380742490334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120230380944660334",
+        "ad_name": "Promo 1 — Junho — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            }
+        ],
+        "date_start": "2025-07-02",
+        "date_stop": "2025-07-02"
+    },
+    {
+        "impressions": "1205",
+        "account_id": "3214406055517297",
+        "reach": "969",
+        "spend": "26.48",
+        "adset_id": "120226773336070334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120228028879210334",
+        "ad_name": "Promo 1 — Junho",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "10"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "1"
+            },
+            {
+                "action_type": "link_click",
+                "value": "9"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "374",
+        "account_id": "3214406055517297",
+        "reach": "342",
+        "spend": "4.87",
+        "adset_id": "120230313962660334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120230315273490334",
+        "ad_name": "VIDEO UNI7 - UNIDADE",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "76"
+            },
+            {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+            },
+            {
+                "action_type": "video_view",
+                "value": "74"
+            },
+            {
+                "action_type": "link_click",
+                "value": "2"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    },
+    {
+        "impressions": "1469",
+        "account_id": "3214406055517297",
+        "reach": "1244",
+        "spend": "22.07",
+        "adset_id": "120230380742490334",
+        "adset_name": "Fortaleza Int em Faculdade",
+        "ad_id": "120230380944660334",
+        "ad_name": "Promo 1 — Junho — Cópia",
+        "actions": [
+            {
+                "action_type": "page_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post_engagement",
+                "value": "9"
+            },
+            {
+                "action_type": "post",
+                "value": "1"
+            },
+            {
+                "action_type": "post_reaction",
+                "value": "5"
+            },
+            {
+                "action_type": "link_click",
+                "value": "3"
+            }
+        ],
+        "date_start": "2025-07-03",
+        "date_stop": "2025-07-03"
+    }
+]
