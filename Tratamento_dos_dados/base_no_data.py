@@ -1,6 +1,6 @@
 import json
 import pandas as pd
- 
+
 def load_json(file_path):
     """Carrega o arquivo JSON."""
     with open(file_path, 'r', encoding='utf-8') as file:
